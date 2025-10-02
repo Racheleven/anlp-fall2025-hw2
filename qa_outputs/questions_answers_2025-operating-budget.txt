@@ -1,0 +1,1331 @@
+Here are the Q&A pairs generated from the text:
+
+Questions: Who is the President of District 6 in Pittsburgh City Council?
+Answers: R. Daniel Lavelle.
+
+Questions: What is the title of the person overseeing Land Use & Economic Development in District 1?
+Answers: Bobby Wilson.
+
+Questions: Which department is Deborah L. Gross responsible for in District 5?
+Answers: Innovation, Performance, Asset Management, & Technology.
+
+Questions: Who is the City Controller mentioned in the text?
+Answers: Rachael Heisler.
+
+Questions: What is the name of the fund that $12 million will be transferred from the general fund to in Section 2 of the budget authorizing legislation?
+Answers: A paygo fund.
+
+Questions: How much money is appropriated in the general fund for the fiscal year beginning January 1, 2025 and ending December 31, 2025?
+Answers: $665,596,772.
+
+Questions: What is the purpose of Section 3 of the budget authorizing legislation?
+Answers: To charge encumbrances and obligations incurred prior to January 1, 2025 for which services have been rendered or supplies, materials or equipment actually delivered on or prior to December 31, 2024.
+
+Questions: Who is authorized to provide necessary supplies, materials, equipment, and machinery for departments in Section 5 of the budget authorizing legislation?
+Answers: The Director of the Office of Management and Budget.
+
+Here are the Q&A pairs:
+
+Questions: What is the total amount of American Rescue Plan funds allocated to the City of Pittsburgh?
+Answers: $335,070,222
+
+Questions: When were the first and second tranches of American Rescue Plan funds received by the City of Pittsburgh?
+Answers: June 2021 and June 2022
+
+Questions: How must American Rescue Plan funds be obligated and spent by the City of Pittsburgh?
+Answers: Obligated by December 31, 2024 and spent by December 31, 2026
+
+Questions: What is the purpose of the Pittsburgh Recovery Task Force in relation to the American Rescue Plan?
+Answers: To provide recommendations to city council for usage of funds
+
+Questions: What is the maximum number of police officers allowed under Section 3 of the resolution?
+Answers: 800
+
+Questions: How many firefighters are allowed under Section 4 of the resolution?
+Answers: 678
+
+Questions: How many EMS employees are allowed under Section 5 of the resolution?
+Answers: 217
+
+Questions: What is the timeframe for council to amend the operating budget under Section 507 of the Home Rule Charter?
+Answers: Within five weeks of the start of the 2025 fiscal year
+
+Questions: Who is authorized to make minor technical and formatting changes to the budget?
+Answers: The city council budget director
+
+Here are the Q&A pairs generated from the provided text:
+
+Questions: What is the operating budget?
+Answers: The financial plan for the current fiscal year, including planned expenditures and projected revenues.
+
+Questions: How does the general fund support the city's activities?
+Answers: It includes most tax revenues and is used to sustain most of the city's day-to-day activities, including public safety, public works, parks, planning, and general administration.
+
+Questions: What is the basis of accounting for the general fund budget?
+Answers: A cash basis of accounting, where revenues are recognized when received and expenditures when paid.
+
+Questions: When does the city of Pittsburgh's fiscal year begin and end?
+Answers: January 1st and December 31st of each year.
+
+Questions: Is the annual operating budget required to be balanced?
+Answers: Yes, according to the city's home rule charter, with estimated revenues equal to or greater than estimated expenditures.
+
+Questions: What happens if revenues exceed expenditures at the end of a fiscal year?
+Answers: The budget surplus is transferred into the city's reserve fund balance.
+
+Questions: How are the city's financial reporting system and funds organized?
+Answers: On a fund basis consisting of two major types of funds: governmental and fiduciary, with subcategories such as general fund, capital projects fund, community development funds, special revenue funds, and fiduciary funds.
+
+Questions: What is the purpose of the capital projects fund?
+Answers: To fund construction and/or maintenance of any public property, facility, or program that is expected to provide a long-term benefit to the city.
+
+Here are the Q&A pairs generated from the provided text:
+
+Questions: What types of funds does the city's pension plans and agency funds fall under?
+Answers: This type of fund.
+
+Questions: How many pensions does the city administer for full-time employees?
+Answers: Three.
+
+Questions: What examples of fiduciary funds are mentioned in the text?
+Answers: The workers compensation VEBa (Voluntary Employee Beneficiary Account), the OPEB (Other Post-Employment Benefits) Trust Fund, and Real Estate Tax Refunds Trust Funds.
+
+Questions: What is the purpose of the hierarchical chart of accounts used by the city to distribute funds to each department, bureau, agency, and elected office?
+Answers: To organize accounts by levels of detail.
+
+Questions: How are costs delineated in the operating budget?
+Answers: By distributing funds across the city's divisions, referred to as cost centers.
+
+Questions: What is the general fund coded as in the chart of accounts?
+Answers: 11101.
+
+Questions: What are the two largest subclasses of non-tax revenue for the city of Pittsburgh?
+Answers: Intergovernmental sources and license and permit fees.
+
+Questions: What type of tax is the earned income tax?
+Answers: A conventional 3 percent wage tax applied to city and school district residents who earn wages, salaries, tips, bonuses, or other net profits in a given year.
+
+Questions: How does the city spend money?
+Answers: To provide services to residents ranging from refuse pick-up to the regular maintenance of capital assets.
+
+Questions: What are major expenditures for the operating budget?
+Answers: Health insurance costs, pension payments, and workers' compensation claims for city employees.
+
+Questions: Who is responsible for implementing and overseeing the city's operating and capital budgets?
+Answers: The Office of Management and Budget (OMB).
+
+Questions: When must the city council adopt a budget before December 31st to avoid financial consequences?
+Answers: Before January 1st of the new year.
+
+The provided text is a detailed financial forecast for the City of Pittsburgh's operating budget for fiscal years 2024 to 2029. It includes various departments and their projected expenditures, as well as overall city expenses and revenues.
+
+Here are some key points from the forecast:
+
+1. **Total Expenditures**: The total expenditure for the City of Pittsburgh is expected to increase from $620 million in 2023 to $712 million in 2029.
+2. **Departmental Expenditures**: Each department's projected expenditures are listed, including:
+	* Police Bureau: $136 million (2029)
+	* Fire Bureau: $113 million (2029)
+	* Public Works Administration: $14.5 million (2029)
+	* Parks and Recreation: $9.4 million (2029)
+3. **Operating Result**: The operating result, which is the difference between total expenditures and revenues, is expected to be a deficit of $3 million in 2029.
+4. **Reserve Fund Balance**: The reserve fund balance as a percentage of expenditures is projected to decrease from 26.1% in 2023 to 10.2% in 2029.
+5. **Debt Service**: Debt service as a percentage of expenditures is expected to increase from 9.1% in 2023 to 8.1% in 2029.
+
+This financial forecast provides a comprehensive overview of the City of Pittsburgh's projected expenses and revenues for the next five years. It can be used by city officials, policymakers, and stakeholders to make informed decisions about budget allocations and resource management.
+
+This document appears to be a comprehensive budget report for the City of Pittsburgh's operating budget for fiscal year 2025. The report provides detailed information on projected revenues, including tax revenues and non-tax revenues.
+
+Here are some key points highlighted in the report:
+
+**Tax Revenues**
+
+* Total tax revenues are budgeted at approximately $530.3 million
+* Tax revenue is forecast to decrease by 2.1% in 2025 over the 2024 budget
+* Real estate tax revenues are budgeted at $143.9 million, a 5.3% decrease from the prior year
+* Earned income tax revenues are budgeted at $145.0 million, a 6.5% increase over the prior year
+* Payroll preparation tax revenues are budgeted at $77.3 million, a 1.2% increase over the prior year
+
+**Non-Tax Revenues**
+
+* Total non-tax revenues are budgeted at approximately $138.5 million
+* Non-tax revenue is comprised of six subclasses: licenses and permits, charges for services, fines and forfeitures, intergovernmental earnings, interest earnings, and miscellaneous revenue
+* The largest subclass is intergovernmental revenue, which accounts for 38.8% of non-tax revenues
+
+**Revenue Forecasts**
+
+* Tax revenues are forecast to increase by 1.9% each year through 2029
+* Non-tax revenues are forecast to decrease by 6.2% in 2025 over the 2024 budget
+
+**Assumptions and Limitations**
+
+* The revenue forecasts are based on economic assumptions, recent collection trends, and current laws and policies
+* Actual revenues could vary from forecasts due to unforeseeable economic and technical factors.
+
+Overall, this report provides a detailed breakdown of projected revenues for the City of Pittsburgh's operating budget in 2025.
+
+This is a detailed financial report for the City of Pittsburgh's operating budget for Fiscal Year 2025. Here are some key findings:
+
+**Revenue Streams:**
+
+1. **Tax Revenues:** The largest revenue stream, accounting for approximately 63% of the total budget.
+	* Parking Tax (8%)
+	* Payroll Preparation Tax (11.6%)
+	* Earned Income Tax (21.7%)
+	* Real Estate Tax (21.5%)
+2. **Non-Tax Revenue Streams:**
+	* Fines and Forfeitures (1.4%)
+	* Licenses and Permits (2.6%)
+	* Charges for Services (6.4%)
+	* Intergovernmental Revenues (8%)
+
+**Revenue Account Summary:**
+
+The report provides a detailed breakdown of the city's revenue streams, including:
+
+1. **Tax Revenue:** $530 million (2025), increasing to $571 million (2029)
+2. **Real Estate Taxes:** $139 million (2025), decreasing slightly over the next four years
+3. **Local Services Tax:** $13 million (2025), remaining relatively stable
+4. **Amusement Tax:** $18.7 million (2025), increasing to $20.7 million (2029)
+5. **Earned Income Tax:** $145 million (2025), increasing to $168 million (2029)
+6. **Payroll Preparation Tax:** $76 million (2025), increasing to $83 million (2029)
+7. **Deed Transfer Tax:** $42 million (2025), remaining relatively stable
+8. **Parking Tax:** $53 million (2025), increasing to $61 million (2029)
+
+**Licenses and Permits:**
+
+The report also provides a detailed breakdown of the city's licenses and permit revenue streams, including:
+
+1. **Commercial Building Permits:** $4.3 million (2025), increasing to $4.7 million (2029)
+2. **Residential Building Permits:** $764,000 (2025), increasing to $830,000 (2029)
+
+**Telecommunications Licensing Tax:**
+
+The city's telecommunications licensing tax revenue is projected to increase from $1.3 million in 2025 to $1.3 million in 2029.
+
+Overall, the report provides a comprehensive overview of the City of Pittsburgh's revenue streams and budget projections for Fiscal Year 2025 and beyond.
+
+The provided text appears to be an excerpt from a budget report for the City of Pittsburgh's operating budget for fiscal year 2025. The report provides an overview of the city's expenditures, categorized by department and functional area.
+
+Here are some key points summarized from the text:
+
+1. Total Expenditures: The total expenditure for fiscal year 2025 is $665,619,090.
+2. Largest Departments: The five largest departments in terms of budgeted expenditures are:
+	* Department of Finance
+	* Bureau of Police
+	* Bureau of Fire
+	* Department of Human Resources and Civil Service
+	* Bureau of Emergency Medical Services
+3. Functional Areas: The report categorizes expenditures by functional area, which includes:
+	* General Government (14 departments)
+	* Public Safety (5 bureaus and 1 office)
+	* Public Works (4 bureaus)
+	* City Council and Office of the City Controller
+4. Personnel-Related Expenditures: Personnel-related expenditures account for $493,637,980 or 74.2% of total expenditures.
+5. Non-Personnel Related Expenditures: Non-personnel related expenditures account for $171,981,111 or 25.8% of total expenditures.
+
+The report also provides a breakdown of the budget by subclass, which includes:
+
+1. Personnel-Salaries and Wages
+2. Personnel-Employee Benefits
+3. Professional and Technical Services
+4. Property Services
+5. Other Services
+6. Supplies
+7. Property
+8. Miscellaneous Expenses
+9. Debt Service
+
+The report highlights that the Department of Finance's budget is particularly large due to the inclusion of all debt service and pension-related costs within its budget.
+
+Overall, the report provides a comprehensive overview of the City of Pittsburgh's operating budget for fiscal year 2025, highlighting the major departments, functional areas, and expenditure categories.
+
+The provided text appears to be a budget document for the City of Pittsburgh. It outlines various expenditures and revenues for different departments within the city government.
+
+Here is a brief summary of the main sections:
+
+1. **Personnel**: This section lists the number of full-time permanent positions in each department, along with their corresponding salaries and benefits.
+2. **Departments**:
+	* **General Government**: Includes expenditures for council operations, administrative support, and research services.
+	* **Public Safety**: Covers expenses related to police, fire, and emergency medical services.
+	* **Health and Human Services**: Encompasses costs associated with public health initiatives, social services, and human resources.
+	* **Community Development**: Lists expenditures for economic development, housing, and community programs.
+	* **Infrastructure and Transportation**: Includes costs for road maintenance, transportation systems, and infrastructure projects.
+3. **Budget Summary**: This section provides an overview of the city's total budget, including revenues, expenditures, and fund balances.
+
+The text also includes a detailed breakdown of each department's budget, listing specific line items such as salaries, benefits, equipment, supplies, and other expenses.
+
+Some notable figures mentioned in the document include:
+
+* The city council has 9 members, with an annual salary of $89,585 per member.
+* The total personnel costs for the general government department are approximately $2.7 million.
+* The public safety department has a budget of around $123.4 million.
+* The health and human services department has a budget of approximately $144.8 million.
+
+Please note that this summary is based on my understanding of the provided text, and I may have missed some details or nuances in the original document.
+
+This appears to be a budget document for the City of Pittsburgh's Office of the Mayor. I'll provide an analysis of the data presented.
+
+**Total Budget**
+
+The total budget for the Office of the Mayor in 2024 is $3,222,922, and it is projected to decrease by 9.6% to $2,914,282 in 2025.
+
+**Personnel and Salaries**
+
+* The regular personnel costs are expected to decrease from $2,449,708 in 2024 to $2,796,742 in 2025.
+* Part-time personnel costs will increase from $0 to $117,540 in 2025.
+* Leave buyback costs will remain at $16,918 in 2024 and 2025.
+* Premium pay costs are expected to decrease from $899 in 2024 to $0 in 2025.
+
+**Employee Benefits**
+
+* Health insurance costs are expected to increase from $368,770 in 2024 to $378,931 in 2025.
+* Other insurance and benefits costs will decrease from $59,530 in 2024 to $54,709 in 2025.
+* Social security costs are expected to decrease from $246,595 in 2024 to $227,853 in 2025.
+
+**Professional and Technical Services**
+
+* Administrative fees costs are expected to increase from $3,259 in 2024 to $7,458 in 2025.
+* Workforce training costs will decrease from $77,500 in 2024 to $29,750 in 2025.
+* Computer maintenance costs will decrease from $198,428 in 2024 to $26,722 in 2025.
+
+**Property Services**
+
+* Landscaping costs are expected to remain at $300,000 in both 2024 and 2025.
+* Land and building costs will increase from $3,500 in 2024 to $500 in 2025.
+
+**Other Services**
+
+* Printing and binding costs are expected to decrease from $22,300 in 2024 to $9,850 in 2025.
+* Transportation costs will remain at $0 in both 2024 and 2025.
+
+**Supplies**
+
+* Office supplies costs are expected to increase from $3,946 in 2024 to $16,529 in 2025.
+* Operational supplies costs will decrease from $33,550 in 2024 to $29,600 in 2025.
+
+Overall, the budget for the Office of the Mayor is expected to decrease by 9.6% in 2025 compared to 2024. However, some categories such as administrative fees and office supplies are expected to increase.
+
+The provided text is a budget document for the City of Pittsburgh, detailing the fiscal year 2025 operating budget for several departments. The following information can be extracted from the text:
+
+**Departmental Budgets**
+
+1. **Office of Management and Budget (OMB)**:
+	* Total budget: $21,188,171
+	* Breakdown by subclass:
+		+ Personnel salaries and wages: $2,660,724
+		+ Personnel employee benefits: $645,601
+		+ Professional and technical services: $888,621
+		+ Property services: $8,708,376
+		+ Other services: $734,475
+		+ Supplies: $7,525,374
+2. **Department of Innovation and Performance (DIP)**:
+	* Total budget: $11,343,419
+	* Breakdown by subclass:
+		+ Personnel salaries and wages: $3,111,191
+		+ Personnel employee benefits: $621,191
+		+ Professional and technical services: $1,311,191
+		+ Property services: $2,011,191
+		+ Other services: $1,511,191
+		+ Supplies: $3,011,191
+
+**Five-Year Forecast**
+
+The budget document also includes a five-year forecast for both departments:
+
+1. **OMB Five-Year Forecast**
+	* 2025: $21,188,171
+	* 2026: $21,463,804 (1.3% increase)
+	* 2027: $22,173,213 (3.3% increase)
+	* 2028: $22,695,044 (2.4% increase)
+	* 2029: $23,809,738 (4.9% increase)
+2. **DIP Five-Year Forecast**
+	* 2025: $11,343,419
+	* 2026: $12,011,191 (1.3% increase)
+	* 2027: $13,311,191 (3.3% increase)
+	* 2028: $14,611,191 (2.4% increase)
+	* 2029: $16,511,191 (4.9% increase)
+
+**Position Summary**
+
+The budget document also includes a position summary for both departments:
+
+1. **OMB Position Summary**
+	* Director of Management and Budget: $125,358
+	* Deputy Director of Management and Budget: $88,375
+	* Senior Fiscal Administrator: $66,179
+	* Chief Clerk: $55,888
+2. **DIP Position Summary**
+	* Director of Innovation and Performance/Chief Information Officer: $125,358
+	* Assistant Director - IT Operations: $107,490
+	* Coordinator, Administrative: $43,307
+
+Please note that the above information is a summary of the provided text and may not be comprehensive or up-to-date.
+
+The provided text appears to be a budget document for the City of Pittsburgh, outlining proposed expenditures for various departments and bureaus within the city government. The document includes detailed information on each department's mission, overview, position summaries, subclass details, and five-year forecasts.
+
+Here is a summary of the key points from the provided text:
+
+1. **Department of Innovation and Performance**: This department is responsible for modernizing the city's technology infrastructure, improving data analytics, and implementing performance management tools.
+2. **Commission on Human Relations**: The commission is the official civil rights enforcement agency for the City of Pittsburgh, tasked with investigating instances of discrimination, conducting outreach and education services, and promoting justice and understanding among communities.
+3. **Office of the City Controller**: The city controller serves as the fiscal watchdog for the citizens of Pittsburgh, protecting tax dollars from waste, fraud, and abuse through audits and recommendations.
+
+Some key points from the budget document include:
+
+* Proposed expenditures for each department are outlined in detail, including personnel costs, benefits, professional services, and supplies.
+* The five-year forecast for each department shows projected increases or decreases in expenditures over time.
+* Some departments have significant changes in proposed expenditures, such as the Department of Innovation and Performance, which is expected to increase its expenditures by 25% in 2025.
+
+To answer your question about the specific budget amounts, I would need more information on which department or category you are interested in. However, based on the provided text, here are some key numbers:
+
+* The total proposed expenditure for the Department of Innovation and Performance is $1.4 million.
+* The Commission on Human Relations has a proposed expenditure of $560,280 in 2025.
+* The Office of the City Controller has a proposed expenditure of $776,018 in 2025.
+
+Please let me know if you have any specific questions or if there's anything else I can help with.
+
+Based on the provided text, it appears to be a budget document for the City of Pittsburgh's Finance Department. I'll summarize the key points and provide some insights.
+
+**Department Overview**
+
+The Finance Department is responsible for collecting, depositing, and investing all funds received by the city from various sources. The department also manages tax abatements, tracks tax increments, performs tax audits, and collects money owed to the city through business tax audits and investigations.
+
+**Divisions and Functions**
+
+1. **Administration and Treasury Division**: Oversees all departmental functions, policies, debt management, collections, billing of taxes, and communication with City Council.
+2. **Business Intelligence Division**: Responsible for operation improvement projects, organizational processes, performance, requests for proposals, technology updates, datasets, open data initiatives, credit card programs, and legislation processes.
+3. **Real Estate Division**: Manages all real estate activity, including property tax, city property sales, treasurer's sales, abatement, delinquencies, and collection of property taxes for the Pittsburgh School District and Carnegie Library.
+4. **Tax Compliance Division**: Houses compliance and enforcement activities, manages tax compliance letters, new business registrations, discovers new businesses, collects business taxes and fees, performs audits and investigations, and issues citations to ensure taxpayers comply with city ordinances.
+5. **Cash Management Division**: Ensures collections are processed timely and accurately, includes cashiering, imaging, data entry, investment, insurance and bonds, ACH grants, and activities related to the City Controller's daily revenue posting.
+
+**Position Summary**
+
+The position summary provides details on the number of full-time permanent positions, temporary, part-time, and seasonal allowances, as well as vacancy allowances for each division. The total budget for the Finance Department is $2,435,016 in 2025.
+
+**Key Takeaways**
+
+1. The Finance Department has five major divisions with distinct functions.
+2. The department manages various revenue streams, including tax collections, business taxes, and fees.
+3. The Business Intelligence Division plays a crucial role in operation improvement projects, organizational processes, and performance.
+4. The Real Estate Division is responsible for managing all real estate activity, including property tax collection.
+5. The Tax Compliance Division ensures compliance with city ordinances through audits, investigations, and citations.
+
+Overall, the Finance Department's budget and position summary provide insights into the department's structure, functions, and personnel costs.
+
+Based on the provided budget documents, here are some key observations and calculations:
+
+1. **Department of Law Expenditures**: The total expenditures for the Department of Law in 2024 is $12,990,528.
+2. **Personnel-Salaries & Wages**: In 2025, the projected expenditure for Personnel-Salaries & Wages for the Department of Law is $3,378,385, which represents a decrease of -$98,086 compared to 2024.
+3. **Miscellaneous Expenditures**: The total miscellaneous expenditures for the Department of Law in 2025 is $1,280,000, representing an 81.3% decrease from 2024.
+4. **Personnel- Employee Benefits**: In 2025, the projected expenditure for Personnel-Employee Benefits for the Department of Law is $811,994, which represents a decrease of -$59,832 compared to 2024.
+
+To calculate the percentage change in expenditures between 2024 and 2025 for each department or subclass:
+
+1. For the Department of Law: ($6,989,174 - $12,990,528) / $12,990,528 ≈ -46.2%
+2. For Personnel-Salaries & Wages (Department of Law): ($3,378,385 - $3,330,771) / $3,330,771 ≈ 1.4%
+3. For Miscellaneous Expenditures (Department of Law): ($1,280,000 - $6,830,000) / $6,830,000 ≈ -81.3%
+
+To calculate the percentage change in expenditures for each department or subclass between 2025 and subsequent years:
+
+1. For the Department of Law: 
+   * Between 2025 and 2026: ($6,509,234 - $6,989,173) / $6,989,173 ≈ -6.9%
+   * Between 2026 and 2027: ($6,691,834 - $6,509,234) / $6,509,234 ≈ 2.8%
+   * Between 2027 and 2028: ($6,831,004 - $6,691,834) / $6,691,834 ≈ 2.1%
+   * Between 2028 and 2029: ($6,974,960 - $6,831,004) / $6,831,004 ≈ 2.1%
+
+Please note that these calculations are based on the data provided in the budget documents and might not reflect the actual financial situation of the City of Pittsburgh or its departments.
+
+Here are the answers to the questions based on the provided text:
+
+1. What is the mission of the Department of Human Resources and Civil Service?
+The mission of the Department of Human Resources and Civil Service is to recruit and develop a diverse and inclusive workforce, empowered and ready to create a safe, thriving and welcoming city for our residents.
+
+2. What are the general service areas of the Department of Human Resources and Civil Service?
+The department is divided into the following general service areas: employment and staffing, policies and procedures, training and development, diversity and inclusion, benefits administration and absence management, wellness, employee safety and injury prevention, workers’ compensation, payroll, and Pittsburgh Partnership.
+
+3. What are some of the accomplishments of the Department of Human Resources and Civil Service in 2024?
+Some of the accomplishments include collaborating with the Bureau of Emergency Medical Services to establish the Freedom House EMT Training Academy, successfully implementing the pre-start role in their HCM/HRIS system, aggressive management of impactful workers’ compensation claims, and a 25% decrease in outstanding indemnity reserves since 2021.
+
+4. What is the position summary for the Department of Human Resources and Civil Service for 2025?
+The position summary includes information on the title, full-time equivalent (FTE), grade, months budgeted, and rate/hours for each position in the department.
+
+5. What are some of the titles and positions in the Department of Human Resources and Civil Service?
+Some of the titles and positions include Director, Human Resources (EEO Officer), Social Worker, Executive Assistant, Fiscal & Contracting Coordinator, Assistant Director, Employee Compensation & Benefits, Benefits & Wellness Administrator, Senior Payroll Coordinator, Risk Management Manager, Human Resources Manager, and Senior Human Resources Business Partner.
+
+6. What is the five-year forecast for the Department of Human Resources and Civil Service?
+The five-year forecast includes projected expenditures for personnel salaries and benefits, training and development, diversity and inclusion, benefits administration and absence management, wellness, employee safety and injury prevention, workers’ compensation, payroll, and Pittsburgh Partnership.
+
+7. How many employees are in the Department of Human Resources and Civil Service?
+There are 38 full-time permanent positions in the department.
+
+8. What is the total budget for the Department of Human Resources and Civil Service in 2025?
+The total budget for the department in 2025 is $2,793,668.
+
+9. What is the percentage change from prior year for the Department of Human Resources and Civil Service in 2025?
+The percentage change from prior year for the department in 2025 is 4.8%.
+
+10. How much will be spent on personnel salaries and benefits in 2025?
+$2,793,668 will be spent on personnel salaries and benefits in 2025.
+
+11. What is the projected expenditure for the Department of Human Resources and Civil Service in 2029?
+The projected expenditure for the department in 2029 is $856,903.
+
+12. How much will be spent on benefits administration and absence management in 2025?
+$132,722 will be spent on benefits administration and absence management in 2025.
+
+13. What is the five-year forecast for the Office of Municipal Investigations?
+The five-year forecast includes projected expenditures for personnel salaries and benefits, training and development, diversity and inclusion, benefits administration and absence management, wellness, employee safety and injury prevention, workers’ compensation, payroll, and Pittsburgh Partnership.
+
+14. How many employees are in the Office of Municipal Investigations?
+There are 38 full-time permanent positions in the department.
+
+15. What is the total budget for the Office of Municipal Investigations in 2025?
+The total budget for the department in 2025 is $765,377.
+
+16. What is the percentage change from prior year for the Office of Municipal Investigations in 2025?
+The percentage change from prior year for the department in 2025 is 1.7%.
+
+17. How much will be spent on personnel salaries and benefits in 2025?
+$550,005 will be spent on personnel salaries and benefits in 2025.
+
+18. What is the projected expenditure for the Office of Municipal Investigations in 2029?
+The projected expenditure for the department in 2029 is $856,903.
+
+19. How much will be spent on benefits administration and absence management in 2025?
+$132,722 will be spent on benefits administration and absence management in 2025.
+
+20. What is the five-year forecast for the Department of Human Resources and Civil Service?
+The five-year forecast includes projected expenditures for personnel salaries and benefits, training and development, diversity and inclusion, benefits administration and absence management, wellness, employee safety and injury prevention, workers’ compensation, payroll, and Pittsburgh Partnership.
+
+This is a budget document for the City of Pittsburgh, detailing the operating budgets for various departments within the city government. I'll summarize the key points from each department:
+
+**Department of Finance**
+
+* The Department of Finance has an operating budget of $43.5 million.
+* Personnel costs account for 64% of the total budget ($27.8 million).
+* The largest expense categories are:
+	+ Personnel salaries and wages: $18.3 million
+	+ Employee benefits: $6.4 million
+	+ Property insurance: $2.1 million
+
+**Department of Public Works**
+
+* The Department of Public Works has an operating budget of $64.8 million.
+* Personnel costs account for 53% of the total budget ($34.5 million).
+* The largest expense categories are:
+	+ Personnel salaries and wages: $22.4 million
+	+ Vehicle maintenance and repair: $6.3 million
+	+ Utilities (electricity, water, etc.): $2.1 million
+
+**Department of Public Safety**
+
+* The Department of Public Safety has an operating budget of $54.9 million.
+* Personnel costs account for 71% of the total budget ($39.2 million).
+* The largest expense categories are:
+	+ Personnel salaries and wages: $29.5 million
+	+ Law enforcement equipment and supplies: $4.3 million
+	+ Fire department equipment and supplies: $1.8 million
+
+**Department of Public Works - Sanitation**
+
+* This sub-department has an operating budget of $24.9 million.
+* Personnel costs account for 55% of the total budget ($13.7 million).
+* The largest expense categories are:
+	+ Personnel salaries and wages: $12.3 million
+	+ Vehicle maintenance and repair: $2.5 million
+	+ Fuel and energy: $1.4 million
+
+**Department of Public Works - Parks**
+
+* This sub-department has an operating budget of $10.8 million.
+* Personnel costs account for 53% of the total budget ($5.7 million).
+* The largest expense categories are:
+	+ Personnel salaries and wages: $4.3 million
+	+ Park maintenance supplies and equipment: $1.2 million
+	+ Utilities (electricity, water, etc.): $0.6 million
+
+**Department of City Planning**
+
+* The Department of City Planning has an operating budget of $9.7 million.
+* Personnel costs account for 54% of the total budget ($5.3 million).
+* The largest expense categories are:
+	+ Personnel salaries and wages: $4.1 million
+	+ Professional services (consultants, etc.): $1.2 million
+	+ Travel and training: $0.3 million
+
+**Department of Permits, Licenses, and Inspections**
+
+* This department has an operating budget of $10.8 million.
+* Personnel costs account for 55% of the total budget ($5.9 million).
+* The largest expense categories are:
+	+ Personnel salaries and wages: $4.3 million
+	+ Professional services (consultants, etc.): $1.2 million
+	+ Travel and training: $0.3 million
+
+Please note that these summaries only provide a high-level overview of the budget for each department. If you need more detailed information or specific data, I recommend reviewing the original budget document in its entirety.
+
+Here are the factual Q&A pairs:
+
+Questions: What is the mission of the Department of Public Safety?
+Answers: To provide for the security and safety of all residents and patrons of the City of Pittsburgh.
+
+Questions: What bureaus make up the Department of Public Safety?
+Answers: The bureaus of Police (PBPD), Fire (PBF), Emergency Medical Services (EMS), and Animal Care and Control (ACC).
+
+Questions: What is the role of the Office of Community Outreach?
+Answers: To serve as a liaison between residents, community groups, and the Department of Public Safety.
+
+Questions: What are the four categories of community outreach efforts by the Department of Public Safety?
+Answers: Safer Together Pittsburgh, Youth Policy, Victim Assistance, and the Ranger Program.
+
+Questions: What is the goal of the Safer Together Pittsburgh initiative?
+Answers: To build and maintain strong communicative relationships between public safety bureaus and city residents.
+
+Questions: What does the Youth Policy program aim to achieve?
+Answers: To identify the safety needs of children and youth and nurture healthy relationships between them and public safety personnel.
+
+Questions: What services are provided by the Victim Assistance coordinator?
+Answers: Information and support to victims of crime and natural or man-made disasters.
+
+Questions: What is the role of Park Rangers in the Department of Public Safety?
+Answers: To educate park visitors/users on park offerings, programs, activities, local ordinances, rules, and regulations.
+
+Questions: What does the Nighttime Economy coordinator do?
+Answers: Facilitates planning, monitoring, managing, and policing of nighttime economy events to ensure public safety and quality of life.
+
+Questions: What is the goal of the Group Violence Intervention initiative?
+Answers: To reduce neighborhood violence through a partnership between law enforcement, street outreach workers, social services, and the community.
+
+Questions: What does the Office of Emergency Management do?
+Answers: Works to reduce vulnerability to natural or man-made disasters and provides prompt rescue, care, and treatment.
+
+Here are some potential questions based on the text:
+
+1. What is the main goal of the Bureau of Emergency Medical Services (EMS)?
+2. How many advanced life support ambulances does the Bureau of EMS deploy?
+3. What certifications do the paramedics and emergency medical technicians have?
+4. How many basic life support ambulances are staffed by the Bureau of EMS?
+5. What is the expected change in expenditures for the Department of Public Safety - Bureau of Administration from 2024 to 2029?
+
+And here are some potential answers based on the text:
+
+1. The main goal of the Bureau of Emergency Medical Services (EMS) is to reduce morbidity and mortality of residents and visitors through the provision of advanced and basic life support pre-hospital care, medically directed rescue, and transportation of the ill and injured.
+2. The Bureau of EMS deploys 13 advanced life support ambulances.
+3. The paramedics and emergency medical technicians have certifications from the Pennsylvania Department of Health.
+4. The Bureau of EMS staffs 4 basic life support ambulances.
+5. The expected change in expenditures for the Department of Public Safety - Bureau of Administration from 2024 to 2029 is a 1.9% increase each year.
+
+And here are some potential calculations based on the text:
+
+1. Calculate the total number of full-time permanent positions in the Department of Public Safety - Bureau of Administration.
+	* Answer: 135 (in 2024) and 134 (in 2025)
+2. Calculate the total net salaries for the Department of Public Safety - Bureau of Administration in 2024 and 2025.
+	* Answer: $5,119,093 (in 2024) and $5,099,561 (in 2025)
+
+Note that these are just some potential questions and calculations based on the text. There may be other questions and calculations that can be derived from the information provided.
+
+Here are the Q&A pairs generated from the text:
+
+Questions: What is the primary mission of the Bureau of Emergency Medical Services?
+Answers: To provide effective recognition and treatment of heart attacks, strokes, cardiac arrest, and other life-threatening conditions.
+
+Questions: How does EMS help patients experiencing st elevation myocardial infarction (STEMI)?
+Answers: It screens and directly transmits an EKG to the receiving hospital and activates the cardiac catheterization laboratory prior to arrival.
+
+Questions: What services does the Bureau of Police provide to Pittsburgh's residents and visitors?
+Answers: Law enforcement and public safety services, including investigation and clearance of crimes against persons and property.
+
+Questions: How is the Bureau of Police organized?
+Answers: It has a Chief's Office, Professional Standards Branch, Investigations Branch, and Operations Branch.
+
+Questions: What are the two main divisions in the Investigations Branch?
+Answers: Major Crimes Division and Violent Crimes Division.
+
+Questions: What services does the Operations Branch provide?
+Answers: Law enforcement services to citizens and visitors of the city, including direct patrol and enforcement throughout neighborhoods.
+
+Questions: What is the purpose of the "Pittsburgh Police Cares" initiative?
+Answers: To create a grassroots approach to community/police partnerships in partnership with the Hear Foundation.
+
+Questions: How much grant money was awarded to the Bureau of Police for recruiting capabilities in 2024?
+Answers: $315,000.
+
+Questions: What is the goal of the Bureau's "Pittsburgh Police Cares" initiative?
+Answers: To create a grassroots approach to community/police partnerships.
+
+Based on the provided text, it appears that there are two main sections: the Bureau of Fire and the Bureau of Police. Here is a summary of each section:
+
+**Bureau of Fire**
+
+* The mission of the Pittsburgh Bureau of Fire (PBF) is to protect life, property, and the environment by providing effective customer and human services related to fire suppression, emergency medical services, hazard mitigation, emergency management services, and domestic preparedness.
+* The PBF provides services through four divisions: Administration, Operations, Planning and Training, and Risk Management.
+* In 2024, the PBF graduated a class of 39 firefighter recruits, maintained up-to-date certifications for its swiftwater rescue team, and continued to further gender equity by hosting the Girl's Fire Camp for the third consecutive year.
+
+**Bureau of Police**
+
+* The mission of the Pittsburgh Bureau of Police (PBP) is to prevent crime, protect citizens, and promote a safe and just community.
+* The PBP provides services through several divisions, including Patrol, Investigative Services, Special Operations, and Support Services.
+* In 2024, the PBP implemented new policies and procedures related to body-worn cameras, expanded its use of technology to enhance public safety, and continued to focus on building relationships between law enforcement and the community.
+
+**Personnel and Budget**
+
+* The Bureau of Fire has a total of 679 full-time permanent positions, with an estimated annual salary budget of $54.9 million.
+* The Bureau of Police has a total of 1,044 full-time permanent positions, with an estimated annual salary budget of $73.4 million.
+
+**Budget Breakdown**
+
+The budget breakdown for each bureau is as follows:
+
+Bureau of Fire:
+
+* Personnel and salaries: $78.6 million (71.2% of total budget)
+* Employee benefits: $17.5 million (16.1% of total budget)
+* Professional and technical services: $0.7 million (0.6% of total budget)
+* Other expenses: $10.8 million (9.9% of total budget)
+
+Bureau of Police:
+
+* Personnel and salaries: $73.4 million (72.2% of total budget)
+* Employee benefits: $18.5 million (18.3% of total budget)
+* Professional and technical services: $1.5 million (1.5% of total budget)
+* Other expenses: $11.9 million (11.8% of total budget)
+
+Note that these figures are estimates based on the provided text and may not reflect the actual budget for each bureau.
+
+Here are the Q&A pairs generated from the text:
+
+Questions: What is the mission of the Department of Public Safety, Bureau of Animal Care and Control?
+Answers: To serve the residents of the City of Pittsburgh by providing care, control, education, and resolutions to situations dealing with domestic animals and wildlife.
+
+Questions: What services does the Bureau of Animal Care and Control provide?
+Answers: Assistance in situations involving animals, both domestic and wild; tracking of the rabies virus; enforcement of city and state codes dealing with animals; issuance of citations and appearance in court; keeping city parks animal-nuisance free; work with non-profit animal shelters; and consultation to other municipalities concerning animal issues.
+
+Questions: What are some of the core services and programs provided by the Bureau of Animal Care and Control?
+Answers: Title Six of the Pittsburgh Municipal Code enforcement, collecting stray domestic animals, assisting in the resolution of neighbor disputes regarding animals, advising residents of their rights and responsibilities in relation to pet ownership, safely releasing non-rabies vector wildlife species to approved wildlife rehabilitation centers, implementing quarantine procedures for bite cases, and providing animal services.
+
+Questions: What is the purpose of the Office of Community Health and Safety?
+Answers: To connect vulnerable neighbors with the right services to make the City of Pittsburgh safer and more just by addressing unmet community social service needs that often fall to public safety personnel.
+
+Questions: What are some of the programs developed by the Office of Community Health and Safety?
+Answers: Co-response, which provides the "right responders" to individuals experiencing a mental health or behavioral crisis; People in Need of Support (PINS), which connects high utilizers of 9-1-1 services with long-term services and supports; and Trauma Survivors Assistance Program (TSAP), which provides emotional support and links victims of crime and survivors of trauma to appropriate trauma and crisis response services.
+
+Questions: What is Law Enforcement Assisted Diversion (LEAD)?
+Answers: A diversion method that provides individuals with intense case management, person-centered social services, and harm reduction in lieu of criminalization for those experiencing poverty, homelessness, substance use disorder, and mental and behavioral health challenges.
+
+Here are the Q&A pairs generated from the text:
+
+Questions: What is the primary goal of the Reaching Out on the Streets (ROTS) program?
+Answers: Reduce the prevalence of homelessness by addressing social determinants of health.
+
+Questions: What are the two components that will be incorporated at full implementation of the ROTS program?
+Answers: Street outreach and drop-in sites.
+
+Questions: What is the purpose of Interdisciplinary Zone Teams in the ROTS program?
+Answers: To meet the needs of individuals within the hyper-local scope of available services.
+
+Questions: How many street trees are managed by the Forestry Division of the Department of Public Works?
+Answers: 33,000
+
+Questions: What is the role of the Refuse section in the Bureau of Environmental Services?
+Answers: Collect regular mixed and bulk solid waste from residential properties.
+
+Questions: How often do recycling collections take place for city residents with five or less dwelling units?
+Answers: Bi-weekly.
+
+Questions: What is the purpose of the Facilities Maintenance division in the Department of Public Works?
+Answers: Perform minor renovation and repair projects related to building systems.
+
+Questions: What was the reduction in injuries year-over-year thanks to the implementation of the Real-Time Safety System (RTSS)?
+Answers: 30% 
+
+Questions: How many vacant property clean-ups were performed by employees in 2024?
+Answers: Over 260.
+
+Questions: What is the budget for Professional and Technical Services in the Office of Community Health and Safety?
+Answers: $36,000.
+
+The text appears to be a budget document for the City of Pittsburgh, specifically detailing the operating budgets for two departments: Bureau of Operations and Bureau of Environmental Services.
+
+Here are some key points that can be extracted from the text:
+
+**Bureau of Operations**
+
+* The total budget for the Bureau of Operations is $25,312,348.
+* The largest category of expenditure is Personnel-Salaries & Wages ($10,778,079).
+* Other significant categories include:
+	+ Personnel-Employee Benefits ($3,991,464)
+	+ Property Services ($4,565,308)
+	+ Supplies ($185,850)
+
+**Bureau of Environmental Services**
+
+* The total budget for the Bureau of Environmental Services is $19,541,701.
+* The largest category of expenditure is also Personnel-Salaries & Wages ($10,778,079).
+* Other significant categories include:
+	+ Personnel-Employee Benefits ($3,991,464)
+	+ Property Services ($4,565,308)
+	+ Supplies ($185,850)
+
+**Overall Trends**
+
+* Both bureaus have seen an increase in expenditures over the past few years.
+* The Bureau of Operations has seen a 5.1% increase from 2024 to 2025.
+* The Bureau of Environmental Services has seen a 0.4% decrease from 2024 to 2025.
+
+**Notes**
+
+* The labor agreement for AFSCME members expires on December 31, 2024, and the budget reflects a 0% salary increase for these employees.
+* The city anticipates that these numbers will change as conversations continue through Q4.
+
+This document appears to be a budget proposal for the City of Pittsburgh's Department of Parks and Recreation for fiscal year 2025. It includes detailed information on various positions within the department, their salaries, and the total costs associated with each position.
+
+Here are some key findings from the document:
+
+1. **Position Summary**: The document lists all the positions within the department, including the Director, Assistant Directors, Operations Administrators, Managers, Coordinators, and Aides.
+2. **Salary Increases**: There is a 0% salary increase for SEIU 668 members, which expires on December 31, 2024.
+3. **Budget Breakdown**: The document breaks down the department's budget into various categories, including personnel salaries and wages, benefits, and other expenses.
+4. **Personnel Costs**: The total personnel costs for the department are estimated to be $2,883,917 in 2024 and $2,895,805 in 2025.
+5. **Temporary, Part-time, and Seasonal Allowances**: The document also includes temporary, part-time, and seasonal allowances for various positions within the department.
+6. **Vacancy Allowance**: A vacancy allowance of $506,510 is included in the 2024 budget and $202,706 in the 2025 budget.
+
+Some potential insights from this document include:
+
+1. The department's personnel costs are a significant portion of its overall budget.
+2. There may be concerns about retaining employees due to the lack of salary increases.
+3. The department is preparing for potential changes in personnel costs, including vacancies and turnover.
+4. The department's budget breakdown provides valuable information on how resources are allocated within the organization.
+
+To provide more specific insights or recommendations, I would need to analyze the data further and consider additional context about the department's goals, priorities, and challenges.
+
+Here are the Q&A pairs generated from the provided text:
+
+Questions: What is the total expenditure for personnel-employee benefits in fiscal year 2025?
+Answers: $979,024
+
+Questions: How many bridges does the department of mobility and infrastructure manage?
+Answers: 144
+
+Questions: What is the mission of the department of mobility and infrastructure?
+Answers: To provide the physical mobility necessary to enable the social and economic mobility of the people of Pittsburgh.
+
+Questions: What are the three bureaus of the department of mobility and infrastructure responsible for?
+Answers: Planning, Policy and Permitting; Traffic Operations; Project Design and Delivery
+
+Questions: How many linear miles of streets does the department of mobility and infrastructure manage?
+Answers: 1,060
+
+Questions: What is the total amount awarded in grant funding to the department of mobility and infrastructure in 2024?
+Answers: Over $16 million
+
+Questions: Who leads the planning, policy, and permitting bureau of the department of mobility and infrastructure?
+Answers: The department's assistant director
+
+Questions: How many miles of new sidewalk were installed by the project design and delivery bureau in 2024?
+Answers: Over a mile
+
+Questions: What is the title of the highest injury network (HIN) analysis developed by the planning, policy, and permitting bureau?
+Answers: High Injury Network (HIN) Analysis 
+
+Questions: How many bridges are being advanced or under construction by the project design and delivery bureau in 2024?
+Answers: Nine
+
+Questions: What is the title of the position that oversees the operation of the overall transportation and mobility network?
+Answers: Municipal Traffic Engineer
+
+Based on the provided information, it appears that the City of Pittsburgh's Operating Budget for Fiscal Year 2025 includes several departments and funds. Here are some key points summarized:
+
+**Department of Mobility & Infrastructure**
+
+* Expenditures: $13,664,365 (up from $11,767,763 in FY 2024)
+* Breakdown:
+	+ Personnel-Salaries & Wages: $8,415,850
+	+ Personnel-Employee Benefits: $2,137,890
+	+ Prof. & Technical Services: $209,000
+	+ Property Services: $2,353,000
+	+ Other Services: $15,500
+	+ Supplies: $533,125
+
+**Five-Year Forecast**
+
+* Expenditures are expected to increase by 11.1% in FY 2026, 1.3% in FY 2027, 3.7% in FY 2028, and 2.6% in FY 2029.
+
+**Citizen Police Review Board (CPRB)**
+
+* Mission: Promote responsible citizenship and respectable law enforcement through mutual accountability.
+* Activities:
+	+ Investigation and complaint disposition
+	+ Community education and outreach
+	+ Board and staff development
+	+ Administrative tasks
+* Position summary:
+	+ Executive Director: 1 FTE, Grade 32G, $107,490 (FY 2024) to $110,718 (FY 2025)
+	+ Assistant Executive Director: 1 FTE, Grade 28E, $84,783 (FY 2024) to $87,318 (FY 2025)
+	+ Community Liaison: 1 FTE, Grade 18E, $55,888 (FY 2024) to $57,575 (FY 2025)
+	+ Administrative Assistant: 1 FTE, Grade 15E, $49,740 (FY 2024) to $51,231 (FY 2025)
+	+ Lead Investigator and Investigators: multiple FTEs, Grades U08-D and U06-K
+
+**Other Departments**
+
+* The budget also includes funds for other departments, such as the Citizen Police Review Board, which has a total of $599,919 in net salaries for FY 2025.
+
+Please note that this summary is based on the provided information and may not be comprehensive or up-to-date.
+
+The provided text appears to be a financial budget document for the City of Pittsburgh's various funds and departments. I'll attempt to summarize the main points.
+
+**City Funds**
+
+1. **General Fund**: The General Fund is the primary operating fund for the city, covering general government expenses.
+2. **Community Development Trust Fund (CDTF)**: This fund supports community development projects and activities, including housing and economic development initiatives.
+3. **Public Safety Trust Fund**: Not mentioned in detail, but likely covers expenses related to public safety services.
+
+**Departments**
+
+1. **Office of Management and Budget**: Oversees the city's budgeting process and manages various funds.
+2. **Human Resources and Civil Service**: Responsible for employee personnel management, benefits administration, and training programs.
+3. **Finance Department**: Manages the city's financial operations, including accounting, treasury, and budgeting.
+
+**Trust Funds**
+
+1. **Pittsburgh Partnership Trust Fund (PPTF)**: Supports employment and training services for city residents.
+2. **Three Taxing Bodies Trust Fund (TTBT)**: Covers expenses related to tax collection and administration.
+3. **Community Development Trust Fund (CDTF)**: Supports community development projects and activities.
+
+**Budget Highlights**
+
+1. The General Fund has a projected beginning balance of $0, with estimated revenues of $2,419,000 and expenditures of $2,418,999.
+2. The Community Development Trust Fund has a projected beginning balance of $-2,690, with estimated revenues of $13,398,170 and expenditures of $13,400,860.
+3. The Pittsburgh Partnership Trust Fund has a projected beginning balance of $4,935,929, with estimated revenues of $2,759,840 and expenditures of $3,204,206.
+
+**Personnel**
+
+1. Each department has listed personnel positions with corresponding salaries and benefits.
+
+Please note that this summary is based on the provided text and might not cover all aspects of the city's budget or departments.
+
+I can help you summarize the budget documents provided, but I need to clarify that there are multiple sections with different information. Here's a summary of each section:
+
+**Section 1: Liquid Fuels Trust Fund**
+
+* The fund holds revenue received from the Commonwealth of Pennsylvania on the taxation of liquid fuels.
+* Revenues decreased by $81,506 (1.0%) in 2025 compared to 2024.
+* Expenditures remained the same at $6,692,500.
+
+**Section 2: Regional Asset District - Public Works Trust Fund**
+
+* The fund holds revenue received from the Allegheny County Regional Asset District.
+* Revenues increased by $304,106 (5.0%) in 2025 compared to 2024.
+* Expenditures increased by $1,139,366 (20.1%) in 2025 compared to 2024.
+
+**Section 3: Public Works Trust Fund**
+
+* The fund facilitates the creation and use of intergovernmental cooperative agreements.
+* No specific revenue or expenditure information is provided.
+
+**Section 4: Liquid Fuels Trust Fund Position Summary**
+
+* The labor agreement for AFSCME 2037 members expires on December 31, 2024, with a proposed 0% salary increase.
+* There are 73 full-time positions and net salaries totaling $3,933,817 in 2025.
+
+**Section 5: Regional Asset District - Public Works Trust Fund Position Summary**
+
+* The labor agreement for AFSCME 2037 members expires on December 31, 2024, with a proposed 0% salary increase.
+* There are 86 full-time positions and net salaries totaling $4,616,747 in 2025.
+
+**Section 6: Public Works Trust Fund Position Summary**
+
+* No specific information is provided for this section.
+
+Please note that these summaries only capture the main points from each section. If you'd like more detailed information or clarification on any of these points, feel free to ask!
+
+I'm happy to help you analyze the City of Pittsburgh's Operating Budget for Fiscal Year 2025. However, I need to point out that the provided text is a large block of data and not a question or problem to be solved.
+
+If you'd like, we can break down the budget into sections and discuss each one in detail. Alternatively, if you have specific questions about certain departments or line items, feel free to ask and I'll do my best to provide answers.
+
+Here are some possible topics we could explore:
+
+1. Overview of the City's Budget
+2. Departmental Breakdown (e.g., Parks & Recreation, Public Safety Administration)
+3. Revenue Streams (e.g., Tax Revenue, Regional Asset District Funding)
+4. Expenditure Categories (e.g., Personnel Salaries & Wages, Professional Services)
+5. Comparison to Previous Years' Budgets
+
+Please let me know how you'd like to proceed!
+
+The provided text appears to be a budget document for the City of Pittsburgh's Parks and Recreation department, as well as other departments such as the City Clerk. The document outlines various trust funds, their revenues, expenditures, and net totals for the fiscal year 2025.
+
+Here is a breakdown of the main sections:
+
+1. Frick Park Trust Fund (5000771200):
+	* Revenues: $858,500 from endowment interest
+	* Expenditures: $729,725 for operational and maintenance expenses
+	* Net Total: $128,775
+2. Archives and Records Management Trust Fund (1012877000):
+	* Created in 2018 with a donation of $40,000 from the Bicentennial Committee
+	* Revenues: expected to come from copying, scanning, digitization, and right-to-know request reimbursements, as well as grants or donations for archives purposes
+3. Special Food Service Trust Fund (5000285500):
+	* Revenues: $525,000 in grant funding from the United States Department of Agriculture
+	* Expenditures: $648,782 for personnel, supplies, and services
+	* Net Total: ($123,782)
+4. Senior Citizens Program Trust Fund (5000285000):
+	* Revenues: $2,380,319 in intergovernmental revenue and other sources
+	* Expenditures: $2,300,565 for personnel, supplies, and services
+	* Net Total: ($79,754)
+5. City Clerk's Archives and Records Management Trust Fund (1012877000):
+	* Created in 2018 with a donation of $40,000 from the Bicentennial Committee
+	* Revenues: expected to come from copying, scanning, digitization, and right-to-know request reimbursements, as well as grants or donations for archives purposes
+
+The document also includes position summaries for each trust fund, listing the titles, FTE (full-time equivalent) counts, grades, and monthly salaries for personnel.
+
+Please note that this is a budget document and does not provide any information on actual expenditures or revenues. It is likely used to plan and allocate funds for the respective departments and trust funds.
+
+Here are the Q&A pairs generated from the provided text:
+
+Questions: What is the initial donation made to the management trust fund?
+Answers: $40,000 from the bicentennial committee in 2018.
+
+Questions: How much was spent from the bridge asset management program trust fund as of November 13, 2024?
+Answers: $92,247.08
+
+Questions: What is the purpose of the confiscated narcotics proceeds trust fund?
+Answers: Any and all expenses associated with investigations of narcotics violations.
+
+Questions: What is the revenue source for the crossing guards special events trust fund?
+Answers: Any and all monies collected from crossing guards special events cost recovery.
+
+Questions: How much was deposited into the facilities trust fund as of November 13, 2024?
+Answers: $475,246.79
+
+Questions: What is the purpose of the federal task force trust fund?
+Answers: Any and all eligible expenses for the development and operation of the federal task force program.
+
+Questions: What is the revenue source for the graffiti trust fund?
+Answers: Receipt and deposit of private sector contributions and fines resulting from violations of the graffiti chapter.
+
+Questions: How much was spent on hazardous materials responses as of November 13, 2024?
+Answers: $42,369.78
+
+Questions: What is the purpose of the lead safety trust fund?
+Answers: Implementation and enforcement of the lead safe ordinance.
+
+Questions: What is the revenue source for the pittsburgh code trust fund?
+Answers: The deposit of money charged for the purchase of all Pittsburgh codes and supplements to the Pittsburgh code.
+
+Questions: How much was spent on public safety training as of November 13, 2024?
+Answers: $1,014,233.06
+
+Questions: What is the purpose of the verizon franchise trust fund?
+Answers: Capital grants to the cable bureau.
+
+Questions: What is the revenue source for the green initiatives trust fund?
+Answers: Any funds appropriated for such purpose in the annual operating budget and any grant funds obtained by the city.
+
+Questions: How much was deposited into the ems reimbursable events trust fund as of November 13, 2024?
+Answers: $2,743,295.78
+
+Questions: What is the revenue source for the bridge asset management program trust fund?
+Answers: ARPA funds through December 31, 2024 and city funds in future years.
+
+Questions: How much was spent on the green initiatives trust fund as of November 13, 2024?
+Answers: $8,084.03
+
+Questions: What is the purpose of the hazardous materials trust fund?
+Answers: Purchase of equipment, supplies, training and unrecoverable hazardous material cleanup cost.
+
+Questions: How much was deposited into the lead safety trust fund as of November 13, 2024?
+Answers: $24,719.15
+
+Here are the Q&A pairs generated from the text:
+
+Questions: What is the purpose of the Mayor's Youth Initiative trust funds?
+Answers: To support costs associated with the Mayor’s Youth Initiative.
+
+Questions: How much revenue was deposited in the operating budget as cable bureau revenue?
+Answers: $203,338.35
+
+Questions: In what year were the Mayor’s Youth Initiative trust funds created?
+Answers: The description indicates that they date back to at least the 1960's.
+
+Questions: What is the purpose of the Open Space Trust Fund?
+Answers: To acquire and develop open space, park sites, and recreational facilities within a development project area.
+
+Questions: How much revenue was deposited in the operating budget from metered street parking in the Southside Parking Enhancement District?
+Answers: $337,918.17
+
+Questions: What is the purpose of the Onestoppgh Permitting Technology Trust Fund?
+Answers: To cover expenses associated with the onestoppgh permitting platform for ongoing maintenance and enhancements.
+
+Questions: How much revenue was collected from technology fees in the Onestoppgh Permitting Technology Trust Fund?
+Answers: $83,117.00
+
+Questions: What is the purpose of the Veba - Health Insurance trust fund?
+Answers: To insure timeliness of payments to healthcare providers.
+
+Questions: In what year was the American Rescue Plan Trust Fund established?
+Answers: Not specified in the provided text.
+
+Questions: How many new grants were awarded to the City of Pittsburgh in 2024?
+Answers: 30
+
+Questions: What is the total amount of funding received by the City of Pittsburgh from these grants?
+Answers: $20,229,310
+
+Questions: Which department received a grant for electric vehicle charging infrastructure?
+Answers: DOMI (Department of Mobility and Infrastructure)
+
+Questions: How much was awarded to renovate Lewis Playground in Hazelwood?
+Answers: Not specified in the provided text.
+
+Questions: What is the purpose of the City of Pittsburgh’s Grants Office?
+Answers: To increase the city's capacity to compete for grants, effectively assist in grant management, and improve the efficiency and impact of programs and services funded through grant dollars.
+
+Here are the answers to the questions based on the provided text:
+
+**Question 1**
+What is the amount remaining in the "Digital Harbor Foundation Rec2Tech U" grant?
+
+Answer: $220,329
+
+**Question 2**
+Who is the funder of the "South Side Neighborhood Streets" grant?
+
+Answer: Pennsylvania Department of Transportation
+
+**Question 3**
+How much was awarded for the "I-597 Cap Project" in 2025?
+
+Answer: $16,812,852
+
+**Question 4**
+What is the title of the position at the Office of Financial Empowerment?
+
+Answer: Financial Empowerment Manager
+
+**Question 5**
+What is the amount remaining in the "Homewood Ave" grant?
+
+Answer: $750,000
+
+The provided text appears to be a table of debt service obligations for the City of Pittsburgh's operating budget for fiscal year 2025. The table lists various bond issues and their respective principal, coupon interest, and debt service amounts for each annual period from 2025 to 2039.
+
+To provide a concise summary of the information:
+
+1. **Total Debt Service**: The total debt service for the City of Pittsburgh's operating budget for fiscal year 2025 is approximately $43 million.
+2. **Bond Issues**: There are several bond issues listed, including:
+	* Series A of 2020 (refund): This issue has a principal amount of $542,775 in 2025 and increases to $3,060,000 by 2030.
+	* Series B of 2020 (federally taxable): This issue has a principal amount of $603,020.15 in 2025 and increases to $4,285,000 by 2029.
+3. **Interest Rates**: The interest rates for the bond issues vary between 3.500% and 1.619%.
+4. **Total Debt Obligations**: The total debt obligations for the City of Pittsburgh's operating budget for fiscal year 2025 are approximately $43 million, with a majority of this amount coming from the Series B of 2020 (federally taxable) bond issue.
+
+Please note that this summary is based on the provided table and may not include all relevant information or context.
+
+This appears to be a financial document detailing the debt service for the City of Pittsburgh over several years (2025-2047). There are three separate tables showing the principal, coupon interest, and total debt service amounts for each year. 
+
+To provide a concise summary of this data, I'll extract some key information:
+
+1. **Total Debt Service**: The total amount paid towards the debt in any given year is the sum of the principal and coupon interest payments.
+
+2. **Principal Payments**: These are the actual repayments made on the loan principal each year.
+
+3. **Coupon Interest Payments**: This represents the annual interest payment based on the outstanding balance of the loan, as per the terms of the bond issue.
+
+4. **Issuance Amounts**: The document mentions three issuance amounts: $69.6 million in 2027, which is used to refinance or pay off other debt obligations with lower interest rates or longer repayment periods.
+
+Given the complexity and volume of data provided, here are some key figures that can be derived from this financial plan:
+
+- **Total Debt Service for the City**: The total amount paid towards debt service over the 23-year period is substantial. For example, in the years leading up to 2045, the annual debt service ranges between $3.4 billion and $5.4 billion.
+
+- **Principal Repayment Strategy**: The strategy seems to involve making significant principal payments in the early years of the bond issue to reduce the outstanding balance quickly, thereby reducing future interest payments.
+
+- **Impact on Future Budgets**: While this plan provides a clear picture of how debt obligations are managed over time, it does not directly impact future budgets unless there are changes in the underlying assumptions or economic conditions that affect the city's ability to service its debt.
+
+This document is primarily used for financial planning and budgeting purposes within the City of Pittsburgh. It outlines the terms and repayment schedule for various bond issues, providing a roadmap for managing and paying off these obligations over time.
+
+Based on the provided text, it appears to be a list of fee schedules for various departments within the City of Pittsburgh, including:
+
+1. Department of Fire
+2. Department of City Planning
+3. Department of Mobility & Infrastructure
+
+The fees listed cover a wide range of services and permits, including:
+
+* Fire department fees (e.g., fire or arson report, environment assessment report)
+* Zoning review fees (e.g., basic residential zoning review, site plan review fee)
+* Permits for various activities (e.g., banner application, curb cut permit)
+* Inspections and re-inspections
+* Plan reviews and approvals
+
+Some notable fees include:
+
+* The maximum fee for a place of assembly is $257.50.
+* The annual bridge fee is $50 per 1/1000th of weight.
+* The telecommunications pole application fee is $542.82.
+* The traffic sign fabrication and installation fee (new sign post) is $108.00.
+
+It's worth noting that some fees have specific conditions or requirements, such as the major obstruction issuance fees, which apply if an activity exceeds 18 days. Additionally, some fees may be subject to change or adjustment based on various factors.
+
+If you would like me to extract any specific information from this list, please let me know what you are looking for (e.g., a particular type of fee, a range of fees, etc.).
+
+Here are the Q&A pairs generated from the text:
+
+Questions: What is the final inspection overdue fee?
+Answers: $80.00
+
+Questions: How much does it cost to review a signal within 100 feet of a signal?
+Answers: $30.00
+
+Questions: What is the cost for adding a signal modification?
+Answers: $155.00
+
+Questions: How much is charged per month for primary road full closure?
+Answers: $60
+
+Questions: What is the fee for primary roadway/business district?
+Answers: $30 per 2-weeks
+
+Questions: What is the deficiency fee?
+Answers: $90.00
+
+Questions: What is the cost of a utility project meeting?
+Answers: $90.00
+
+Questions: How much does it cost to get a commercial permit base fee (initial and amended)?
+Answers: $7/$1,000 based on the value of construction
+
+Questions: What is the minimum commercial permit base fee (bda, mp, ep, fas, ssp, dp, swm, lop)?
+Answers: $605.00
+
+Questions: How much does it cost to get a residential permit base fee (initial and amended)?
+Answers: $6/$1,000 based on the value of construction
+
+Questions: What is the minimum residential permit base fee (all)?
+Answers: $130.00
+
+Questions: What is the maximum commercial certificate of occupancy fee?
+Answers: $575.00
+
+Questions: How much does it cost to get a residential certificate of occupancy fee?
+Answers: $130.00
+
+Questions: What is the floodplain permit (substantial improvement or new construction) - flat fee?
+Answers: $675.00
+
+Questions: How much does it cost to get a document retention fee - flat fee for each permit?
+Answers: $5.00
+
+Questions: What is the state education & training fund fee (setf) - flat fee per permit?
+Answers: $4.50
+
+Questions: How much does it cost to get a commercial plan review meeting minimum fee?
+Answers: $125.00
+
+Questions: What is the residential off-hour inspection above minimum - flat fee for each hour?
+Answers: $58.00
+
+Questions: How much does it cost to get a permit penalty fees commercial permit work penalty minimum fee?
+Answers: $1,210.00
+
+Questions: What is the residential plan review meeting maximum fee?
+Answers: $7,000.00
+
+Questions: How much does it cost to get a trade licenses electrical trade license (initial and renewal)?
+Answers: $90.00
+
+Questions: What is the business licenses bed & breakfast (initial and renewal) fee?
+Answers: $135.00
+
+Questions: How much does it cost to get a rental permit program registration fee - flat fee per property?
+Answers: $16.00
+
+Questions: What is the vendor license fee (mobile vehicle, initial and renewal)?
+Answers: $135.00
+
+Questions: How much does it cost to get a memorial bench - bench?
+Answers: $1,950.00
+
+Questions: What is the excessive bulky waste collection 1 hour fee?
+Answers: $173.00
+
+Questions: How much does it cost to get a plan review-forestry fee?
+Answers: $32.00
+
+Questions: What is the tree services /per tree -pruning, planting and removal. fee?
+Answers: $55.00
+
+Questions: How much does it cost to get a private sidewalk replacement (per square foot) fee?
+Answers: $75.00
+
+This appears to be a comprehensive list of fees charged by the City of Pittsburgh, categorized into various departments and services. Here is a breakdown of the categories:
+
+**Animal Care and Control**
+
+* Animal transport charge: $50
+* Licensing fees for dogs:
+	+ Neutered/spayed dogs: $10 (1 year), $25 (3 years), $75 (12 years)
+	+ Non-neutered/non-spayed dogs: $20 (1 year), $50 (3 years), $175 (12 years)
+
+**Miscellaneous Fees**
+
+* Onestoppgh technology fee:
+	+ $25 for applications under $150
+	+ $75 for applications between $200.01 and $1,000
+	+ $150 for applications between $1,000.01 and $10,000
+	+ $250 for applications over $10,000
+
+**Department of Finance**
+
+* NSF fee: $30
+* Property sale application fee: $25
+
+**Human Resources & Civil Service**
+
+* Payroll live check fee: $25
+* Pittsburgh Regional Transit pass (monthly): actual cost
+* Employee parking (monthly): $97.50
+* Employee parking - second avenue card replacement: $25
+
+**Office of Management & Budget**
+
+* Environmental review fee: $180
+* Environmental review fee with advertisement: $200
+* Environmental review printed advertisement: actual cost
+
+**Bureau of Emergency Medical Services**
+
+* BLS: $1,287.74
+* ALS-1: $1,502.36
+* ALS-2: $1,716.98
+* Mileage charge: $18.59
+* Oxygen: $83.34
+* EKG monitor: $138.91
+* Cervical collar: $55.58
+* Rescue extraction: $1,042.12
+
+**Bureau of Police**
+
+* Police reports: $15
+* Towing storage fees:
+	+ Vehicle < 10,000 lbs (per day): $35 (April 1st onwards), $25 (pre-April 1st)
+	+ Vehicle 10,001-31,000 lbs (per day): $65 (April 1st onwards), $60 (pre-April 1st)
+	+ Vehicle > 31,000 lbs (per day): $75 (April 1st onwards), $75 (pre-April 1st)
+* Storage fees for semi-trailers: $100 (April 1st onwards), $100 (pre-April 1st)
+
+Please note that the rates mentioned above are subject to change and may not be up-to-date. It's always best to verify the current rates with the City of Pittsburgh or relevant department.
+
+Here are the Q&A pairs generated from the text:
+
+Questions: What is the cost of a recovery vehicle per hour before April 1st, 2025?
+Answers: $175.00
+
+Questions: What is the cost of a skid steer and forklift per hour after April 1st, 2025?
+Answers: $150.00
+
+Questions: What is the cost of a heavy duty forklift per hour before April 1st, 2025?
+Answers: $200.00
+
+Questions: What is the cost of a payloader per hour before April 1st, 2025?
+Answers: $150.00
+
+Questions: What is the cost of a rotating crane per hour after April 1st, 2025?
+Answers: $1,250.00
+
+Questions: What is the cost of debris cleanup per hour before April 1st, 2025?
+Answers: $150.00
