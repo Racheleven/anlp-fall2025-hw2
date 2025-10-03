@@ -1,0 +1,325 @@
+  * Home
+  * Neighborhoods
+
+
+
+# Neighborhoods
+
+​Pittsburgh is not only defined by its skyline and its sports teams, but also by its 90 vibrant and welcoming neighborhoods.
+
+City of Multitudes
+
+With 90 charming, unique neighborhoods, Pittsburgh is a city of multitudes that guarantees the perfect place for you to shop, dine, hang out and explore no matter your interests or lifestyle. From the hip and trendy to quiet and secluded, the perfect neighborhood(s) are waiting for you to discover.
+
+You'll also love the culture and the friendly feel Pittsburgh's neighborhoods have to offer. The rich history of the city has shaped these neighborhoods into their own distinct personalities. 
+
+Mt. Washington has the view to beat all views. _USA Weekend_ magazine named it one of the top 10 most beautiful views in the country. In the heart of it all, Downtown gives you your fill of city hustle and bustle, a 14-block Cultural District, public art, extraordinary dining and outdoor parks and plazas. Pittsburgh's neighborhoods are as wonderful and distinctive as its people and they're waiting to welcome you!  
+
+
+Please enable JavaScript to show the Partner Listings listings.
+
+## Neighborhood Guides
+
+Looking to deep dive into a particular Pittsburgh neighborhood? Read up on our latest in the Neighborhood Guide blog series which consists of detailed looks of what to do, where to eat and the history of some of Pittsburgh's trendiest, important and up-and-coming spots.  
+
+
+**Check back as new guides are posted each month and this section continues to grow!**
+
+The Hill District: A Neighborhood Guide
+
+The Hill District, which contains the Upper Hill, Middle Hill and Crawford-Roberts neighborhoods, is at an inflection point at the time. Cut off from Downtown since the 1950s, this predominantly Black neighborhood…
+
+Discover the Crossroads of the World
+
+Mt. Washington: Skylines & Surprises
+
+Ascend to spectacular views of our city, discover incredible dining spaces and explore landmarks and parks.
+
+More Than a Great View
+
+Credit |
+
+David DiCello
+
+Downtown: Dining Destinations
+
+Find 20+ of our favorite places to eat Downtown and how to pair your meal with a show at our star-studded Cultural District.
+
+Reservations Recommended
+
+Downtown: Market Square
+
+Join us on a walk around this shop and restaurant filled block then explore Point State Park, PPG Place and more just a short walk away.
+
+The Heart of Downtown
+
+Oakland: Colleges & Culture
+
+This handy guide for college students doubles as your insider's guide to Oakland's incredible museums, parks and nearby neighborhoods.
+
+Student Life Done Right
+
+Credit |
+
+David DiCello
+
+The Strip District: A Local Pittsburgh Favorite
+
+Discover a foodie heaven bursting with local flavor from street food to internationally acclaimed restaurants.
+
+The Strip is a Must-Visit
+
+Millvale: Reinvented
+
+The story of an industrial mill town reimagined with fantastic breweries, local shopping and community festivals.
+
+Why We Love Millvale
+
+Homewood: Black History & Change
+
+We take you on the Homewood Experience arts and culture walk through this predominantly Black neighborhood and discover rich history and the path forward.
+
+A Black Culture Hub
+
+Bloomfield: Pittsburgh’s Little Italy
+
+As every neighborhood around it modernizes, Bloomfield stays true to its roots with authentic cuisine, community festivals and chain-free shopping you'll be charmed by.
+
+Molto Bene
+
+Lawrenceville: Art, Music & More
+
+Find hidden gems, classic entertainment, trendy music venues and more in the hippest part of town.
+
+Lawrenceville Love Letter
+
+North Shore: Games & Concerts
+
+If you're in the North Shore, you're likely visiting for a big game or concert in our stadium district. So this guide helps you find pre-game fun at bars, restaurants, shopping and…
+
+Renegades Wanted
+
+Insider’s Guide: The Terminal
+
+This former five-block-long produce facility has transformed into a destination you'll need an entire day to enjoy!
+
+Always Something New
+
+Northside & North Shore Family Fun
+
+Must-see museums. The National Aviary. World-class concert venues. Dining for all ages. The North Shore is a one-stop shop for trips with little ones.
+
+Live Like a Local
+
+Northside Music Festival
+
+A look at the signature festival that helps define what makes our Deutschtown neighborhood so special
+
+Let's Rock
+
+## Pittsburgh: 90 Unique Neighborhoods, One Welcoming City
+
+**See below for a list of all 90 unique neighborhoods that make up Pittsburgh.**
+
+Click any of the links to explore things to do, places to eat and more in that neighborhood. More neighborhood guides are being developed each month.  
+
+
+Allegheny Center
+
+Allegheny West
+
+Allentown
+
+Arlington
+
+Arlington Heights
+
+Banksville
+
+Bedford Dwellings
+
+Beechview
+
+Beltzhoover
+
+Bloomfield
+
+Bluff
+
+Bon Air
+
+Brighton Heights
+
+Brookline
+
+California Kirkbride
+
+Carrick
+
+Central Lawrenceville
+
+Central North Side
+
+Central Oakland
+
+Chartiers City
+
+Chateau
+
+Crafton Heights
+
+Crawford-Roberts
+
+Downtown
+
+Duquesne Heights
+
+East Allegheny
+
+East Carnegie
+
+East Hills
+
+East Liberty
+
+Elliott
+
+Esplen
+
+Fairywood
+
+Fineview
+
+Friendship
+
+Garfield
+
+Glen Hazel
+
+Greenfield
+
+Hays
+
+Hazelwood
+
+Highland Park
+
+Homewood North
+
+Homewood South
+
+Homewood West
+
+Knoxville
+
+Larimer
+
+Lincoln-Lemington-Belmar
+
+Lincoln Place
+
+Lower Lawrenceville
+
+Manchester
+
+Marshall-Shadeland
+
+Middle Hill
+
+Morningside
+
+Mount Oliver
+
+Mount Washington
+
+New Homestead
+
+North Oakland
+
+North Shore
+
+Northview Heights
+
+Oakwood
+
+Overbrook
+
+Perry North
+
+Perry South
+
+Point Breeze
+
+Point Breeze North
+
+Polish Hill
+
+Regent Square
+
+Ridgemont
+
+Shadyside
+
+Sheraden
+
+South Oakland
+
+South Shore
+
+South Side Flats
+
+South Side Slopes
+
+Spring Garden
+
+Spring Hill-City View
+
+Squirrel Hill North
+
+Squirrel Hill South
+
+St. Clair
+
+Stanton Heights
+
+Strip District
+
+Summer Hill
+
+Swisshelm Park
+
+Terrace Village
+
+Troy Hill
+
+Upper Hill
+
+Upper Lawrenceville
+
+West End
+
+West Oakland
+
+West Wood
+
+Windgap
+
+## Authentic Experiences
+
+Things to Do
+
+A City of Multitudes
+
+Learn More
+
+Events & Festivals
+
+​There's always something happening in Pittsburgh.
+
+Learn More
+
+Restaurants & Culinary
+
+Global cuisine spanning 90 unique neighborhoods
+
+Learn More

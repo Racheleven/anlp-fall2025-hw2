@@ -1,0 +1,401 @@
+# https://www.steelers.com/news/steelers-select-chris-oladokun-in-the-seventh-round
+
+Skip to main content
+
+Primary nav
+
+  * TEAM 
+  * SCHEDULE 
+  * NEWS 
+  * VIDEO 
+  * PHOTOS 
+  * FANS 
+  * EN ESPAÑOL 
+  *     * HALL OF HONOR MUSEUM 
+    * STEELERS AUDIO NETWORK 
+    * DRAFT 
+    * HISTORY 
+    * ALUMNI 
+    * WOMEN OF STEEL 
+    * YOUTH 
+    * EN ESPAÑOL 
+    * STEELERS IRELAND 
+    * AUF DEUTSCH 
+    * COMMUNITY 
+    * STADIUM 
+
+
+
+  * Shop 
+  * Tickets 
+
+
+
+Search
+
+Open menu button  Action related nav
+
+  * TICKETS 
+  * PRO SHOP 
+  * WATCH 
+  * LIVE NFL GAMES 
+
+
+
+  * Labriola On 
+  * Asked and Answered 
+  * Press Releases 
+  * Game Notes 
+  * Xtra Points Game Recap 
+  * Opponents On 
+  * Press Conference Reaction 
+  * Steelers Digest 
+  * Steelers En Español 
+
+
+
+Advertising
+
+## 
+
+#  Steelers select Chris Oladokun in the seventh round 
+
+Apr 30, 2022 at 06:01 PM
+
+Teresa Varley
+
+Steelers.com
+
+  *   *   *   * Copied!
+
+
+
+ð: Seventh Round: Chris OladokunÂ | ð¸: Chris Oladokun in pictures |Â ðº: Pick Announcement
+
+The Steelers added another quarterback in the 2022 NFL Draft, selecting South Dakota State quarterback Chris Oladokun in the seventh round of the 2022 NFL Draft, the 241st overall pick.
+
+The team also selected Pitt quarterback Kenny Pickett in the first round, with the 20th overall pick.
+
+"It's pretty surreal to me," said Oladokun. "I am really thankful for the opportunity to be a part of the Pittsburgh organization. I am super grateful.
+
+"With them taking Pickett in the first roundâ¦I took a visit to Pittsburgh and enjoyed it. When they took him, I didn't know if I was out of play or not. I am just glad to be a Steeler now."
+
+Oladokun has thrown for 3,164 yards, 25 touchdowns, and seven interceptions in 2021 at South Dakota State. He rushed for 166 yards and also had two touchdown receptions.
+
+"Every single day I am in there I am going to be the best teammate I can be," said Oladokun. "Hold myself accountable. Hold others accountable. Just do what I have been doing my whole life, working hard, being a leader and perfecting my craft every day. I am excited to be a Steeler."
+
+#  PHOTOS: Oladokun in pictures 
+
+Take a look at photos of the Pittsburgh Steelers seventh-round pick QB Chris Oladokun
+
+1 / 8 
+
+National Team quarterback Chris Oladokun runs during the first half of the NFLPA Collegiate Bowl college football game against the American Team Saturday, Jan. 29, 2022, in Pasadena, Calif. (AP Photo/Marcio Jose Sanchez)
+
+Marcio Jose Sanchez/Copyright 2022 The Associated Press. All rights reserved. 
+
+2 / 8 
+
+National Team quarterback Chris Oladokun throws against the American Team during the first half of the NFLPA Collegiate Bowl college football game Saturday, Jan. 29, 2022, in Pasadena, Calif. (AP Photo/Marcio Jose Sanchez)
+
+Marcio Jose Sanchez/Copyright 2022 The Associated Press. All rights reserved. 
+
+3 / 8 
+
+South Dakota State Jackrabbits quarterback Chris Oladokun (6) runs for yardage in the first half of an NCAA college football game against the Montana State Bobcats in the semifinals of the FCS playoffs, Saturday, Dec. 18, 2021, in Bozeman, Mont. (AP Photo/Tommy Martino)
+
+Tommy Martino/Copyright 2021 The Associated Press. All rights reserved. 
+
+4 / 8 
+
+Montana State defensive end Amandre Williams (3) towards South Dakota State quarterback Chris Oladokun (6) during an NCAA college football game in the semifinals of the FCS playoffs, Saturday, Dec. 18, 2021, in Bozeman, Mont. (AP Photo/Tommy Martino)
+
+Tommy Martino/Copyright 2021 The Associated Press. All rights reserved. 
+
+5 / 8 
+
+South Dakota State quarterback Chris Oladokun (6) hands off to South Dakota State running back Isaiah Davis (22) during warmups of an NCAA college football game against the Montana State Bobcats in the semifinals of the FCS playoffs, Saturday, Dec. 18, 2021, in Bozeman, Mont. (AP Photo/Tommy Martino)
+
+Tommy Martino/Copyright 2021 The Associated Press. All rights reserved. 
+
+6 / 8 
+
+South Dakota State offensive lineman Wes Genant, left, hugs South Dakota State quarterback Chris Oladokun after Montana State beat South Dakota State 31-17 in the semifinals of an NCAA college football game in the FCS playoffs, Saturday, Dec. 18, 2021, in Bozeman, Mont. Montana State won 31-17. (AP Photo/Tommy Martino)
+
+Tommy Martino/Copyright 2021 The Associated Press. All rights reserved. 
+
+7 / 8 
+
+South Dakota State quarterback Chris Oladokun (6) cocks back to throw as Montana State defensive end Daniel Hardy (44) looks to make a tackle during the second half of an NCAA college football game in the semifinals of the FCS playoffs, Saturday, Dec. 18, 2021, in Bozeman, Mont. Montana State won 31-17. (AP Photo/Tommy Martino)
+
+Tommy Martino/Copyright 2021 The Associated Press. All rights reserved. 
+
+8 / 8 
+
+South Dakota State quarterback Chris Oladokun warms up before an NCAA college football game against the Montana State Bobcats in the semifinals of the FCS playoffs, Saturday, Dec. 18, 2021, in Bozeman, Mont. (AP Photo/Tommy Martino)
+
+Tommy Martino/Copyright 2021 The Associated Press. All rights reserved. 
+
+Advertising
+
+This Ad will close in 3
+
+He plays with that same excitement, someone who brings passion to the game with every play.
+
+"I would describe myself as someone who likes to play with a lot of enthusiasm, passion, extend plays outside of the pocket. I learned how to control the game from that standpoint. I can't wait to show Steelers fans what I can do."
+
+Chris brings starting quarterback experience from two different college programs after transferring to South Dakota State over the summer ... began collegiate career at South Florida, where he started two games in 2018 ... completed 22-of-44 passes for 285 yards and three touchdowns ... played in 19 games, including nine starts, in two seasons at SamfordÂ ... saw action in all 12 games in 2019, completing 169-of-272 passes for 2,064 yards and 18 touchdowns ... also rushed 127 times for 493 yards and eight touchdowns ... tied school record with six touchdown passes and seven total touchdowns (1 rushing) in 2018 game at Tennessee Tech ... started 2020-21 season opener and played in seven games ... was selected to play in the Blue-Grey Football All-American Bowl as a prep senior at Sickles High School in Tampa, Florida ... finished senior season with 1,390 passes and 15 touchdowns against only three interceptions in nine games ... career high school totals included 57 touchdown passes, which included a two-year stint at Alonso High School
+
+##  Related Content 
+
+news 
+
+###  Community Corner: Taking time to listen 
+
+Follow along for all of the latest Steelers in the Community happenings
+
+news 
+
+###  Perfect situation for Howard 
+
+Rookie quarterback Will Howard is happy he landed in Pittsburgh
+
+news 
+
+###  Black offers eye-catching size, athleticism 
+
+Massive defensive end might just be scratching the surface
+
+news 
+
+###  A call that changed it all 
+
+Donte Kent was on the phone with one team when the Steelers called to draft him
+
+news 
+
+###  Born to wear black and gold 
+
+It's only fitting that rookie linebacker Carson Bruener was drafted by the Steelers
+
+news 
+
+###  Finding his calm before the storm 
+
+Rookie defensive end Yahya Black has a calm pregame approach before turning up the heat in game
+
+news 
+
+###  A pure love of football 
+
+Rookie linebacker Jack Sawyer has a special relationship with the game of football
+
+news 
+
+###  Rookie minicamp blog: Getting settled in 
+
+Follow along for the news from the Steelers rookie minicamp 
+
+news 
+
+###  Steelers rookies are ready to get to work 
+
+The Steelers rookie class arrived at the UPMC Rooney Sports Complex on Thursday, ready for the team's three-day minicamp
+
+news 
+
+###  2025 rookie draft class numbers revealed 
+
+The Steelers have revealed what numbers the 2025 draft class will wear
+
+news 
+
+###  A look at the Steelers 2025 Draft Class 
+
+A look at the seven players the Steelers drafted and the seven undrafted free agents the team signed
+
+news 
+
+###  Steelers Nation turns out from near and far 
+
+The Steelers hosted NFL Draft parties in Pittsburgh, Mexico City and Dublin, Ireland
+
+Advertising
+
+### Club Links
+
+Club Links
+
+  * TEAM 
+  * Team Home 
+  * Roster 
+  * Depth Chart 
+  * Coaches 
+  * Standings 
+  * Stats 
+  * Injury Report 
+  * Transactions 
+  * Front Office Staff 
+  * Draft Central 
+
+
+  * NEWS 
+  * News Home 
+  * Press Releases 
+  * Asked and Answered 
+  * Labriola On 
+  * Steelers En Español 
+  * Media Only Site 
+
+
+  * VIDEO 
+  * Video Home 
+  * Steelers Live 
+  * Interviews 
+  * Sights & Sounds 
+  * Press Conferences 
+  * Around the Locker Room 
+  * Scouting Report 
+  * Steelers En Español 
+
+
+  * PHOTOS 
+  * Photos Home 
+  * Practice 
+  * Pregame 
+  * Game Action 
+  * Karl's Top Pics 
+  * Community 
+
+
+  * SCHEDULE 
+  * Schedule Home 
+  * Current Season Schedule 
+  * Event Calendar 
+
+
+  * TICKETS 
+  * Tickets Home 
+  * Account Manager 
+  * Buy Tickets 
+  * NFL Ticket Exchange 
+  * Gameday Experience 
+  * Steelers Fan Travel 
+  * Season Tickets Wait List 
+  * SBL Marketplace 
+  * Seat Transfers 
+  * View From Your Seat 
+  * Clear Bag Policy 
+
+
+  * FAN ZONE 
+  * Fan Zone Home 
+  * Steelers Official Mobile App 
+  * Contests and Promotions 
+  * Event Calendar 
+  * Steelers Podcasts 
+  * Steelers En Español 
+
+
+  * ACRISURE STADIUM 
+  * Stadium Home 
+  * Clear Bag Policy 
+  * Book an Event 
+  * Directions 
+  * Parking 
+  * Seating Chart 
+  * Security Guidelines 
+  * Disability Services 
+  * Stadium Tours 
+
+
+  * HISTORY 
+  * History Home 
+  * Hall of Honor Museum 
+  * Hall of Honor 
+  * Hall of Fame 
+  * Super Bowls 
+
+
+  * COMMUNITY 
+  * Community Home 
+  * Community Programs 
+  * Youth 
+  * High School Football Showcase 
+  * Youth Football Camps 
+
+
+
+### NFL Clubs
+
+NFL Clubs
+
+  * AFC North 
+  *   *   *   * 
+
+  * AFC East 
+  *   *   *   * 
+
+  * AFC South 
+  *   *   *   * 
+
+  * AFC West 
+  *   *   *   * 
+
+  * NFC North 
+  *   *   *   * 
+
+  * NFC East 
+  *   *   *   * 
+
+  * NFC South 
+  *   *   *   * 
+
+  * NFC West 
+  *   *   *   * 
+
+
+### More NFL Sites
+
+More NFL Sites
+
+  * NFL Football Operations 
+  * NFL Shop 
+  * NFL On Location 
+  * Pro Football Hall of Fame 
+  * Licensing 
+
+
+  * USA Football 
+  * NFL Extra Points 
+  * NFL Ticket Exchange 
+  * NFL Experience Times Square 
+
+
+
+Download the Official App  Download Apps
+
+  *   * 
+
+
+(C) 2025 Pittsburgh Steelers. All Rights Reserved 
+
+Legal
+
+  * Privacy Policy 
+  * Terms of Use 
+  * Accessibility 
+  * Contact Us 
+  * Site Map 
+  * Ad Choices 
+  * Your Privacy Choices 
+  * Cookie Settings
+  * Preference Center 
+
+
+
+Big left arrow icon  Big right arrow icon  Close icon Copy Url Three dots icon  Down arrow icon  Email icon  Email icon  Exit Fullscreen icon  External link icon  Facebook logo Football icon Facebook logo  Instagram logo  Snapchat logo  YouTube logo  TikTok logo  Spotify logo  LinkedIn logo  Grid icon  Key icon  Left arrow icon  Link icon  Location icon  Mail icon  Menu icon  Open icon  Phone icon  Play icon  Radio icon  Rewind icon  Right arrow icon  Search icon  Select icon  Selected icon  TV icon  Up arrow icon  User icon  Audio icon Add to calendar iconNFC icon AFC icon NFL icon Carousel IconList ViewWebsite InstagramTwitterFacebookSnapchatShop IconProfile Overlay AvatarAddAirplayArrow LeftArrow RightArrow UpArrow DownAudioBack 5sBack 10sBack 30sCalendarChartCheckDownLeftRightUpChromecast OffChromecast OnCloseClosed CaptionsBench OffBench OnBroad OffBroad OnVertical OffVertical OnCommentDockDoneDownloadDraftFantasyFilterForward 5sForward 10sForward 30sFull Screen OffFull Screen OnGamepassGamesInsightsKeyLeaveLiveCombineDraftFantasyMenu GamesMenu NetworkMenu NewsMenu PlayoffsMenu Pro BowlMenu ShopMenu StandingsMenu StatsMenu Super BowlMenu TeamsMenu TicketsMenuMore HorizontalMore VerticalMy LocationNetworkNewsPauseplayMultiple PlayersSingle PlayerPlaylistPlayoffsPro BowlPurgeRefreshRemoveSearchSettingsShare AndroidShare Copy URLShare EmailShare FacebookShare InstagramShare iOSShare SnapchatShare TwitterSkip NextSkip PreviousStandingsStarStatsSwapTeamsTicketsVideoVisibility OffVisibility OnVolume HiVolume LowVolume MediumVolume MuteWarningWebsite Caret downCaret upAtNewsPlayAudioGalleryPromo Chevron right 
+
+The browser you are using is no longer supported on this site. It is highly recommended that you use the latest versions of a supported browser in order to receive an optimal viewing experience. The following browsers are supported: Chrome, Edge (v80 and later), Firefox and Safari.
+
+Got it!

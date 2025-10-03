@@ -1,0 +1,533 @@
+# https://www.nhl.com/penguins/tickets/single-game-tickets#game1027
+
+Skip to Main Content 
+
+  * Tickets
+    * Ticket Central
+    * Season Memberships
+    * 12-Packs
+    * Premium Seating
+    * Group Tickets
+    * Single Game Tickets
+    * Promotional Schedule
+    * Special Offers
+    * 3D Seat Map
+  * Team
+    * Roster
+    * In the System
+    * Penguins Hall of Fame
+    * Front Office Staff
+  * News
+  * Schedule
+
+Navigation Menu
+
+  * Video
+  * Scores
+  * Stats
+  * Community Community 
+    * Community Initiatives
+    * Pittsburgh Penguins Foundation
+    * Mario Lemieux Foundation
+    * UPMC Healthcare Heroes
+    * Iceburgh Appearances
+    * Future Goals Hockey Scholar
+    * Locker Room Leadership
+    * Public Skate at UPMC66
+    * 50/50 Raffle
+    * PPS All-Stars
+    * Youth Hockey
+  * Fans Fans 
+    * Fan Central
+    * Sign Up for Penguins Texts
+    * Sign up for Penguins Emails
+    * Download the Penguins App
+    * Contact Us
+    * Contest and Promotions
+    * Colorful Fans
+    * Book an Event
+    * Mobile Wallpapers
+    * FNB Power Play Package
+    * Players on Social
+  * Game Day Game Day 
+    * Game Day Information
+    * Know Before You Go
+    * Parking and Directions
+    * Birthday and Anniversary Greetings
+    * Fan Guides
+    * PPG Paints Arena Information
+    * Penguins Radio Network
+    * How to Watch Games
+    * Commemorative Tickets
+    * Ice Crew
+    * NHL Fan Code of Conduct
+  * Hall of Fame
+  * Shop Shop 
+    * PensGear
+    * Penguins Authentics
+    * NHL Shop
+    * NHL Auctions
+  * League
+  * Help
+
+
+  * NHL.com
+  * 
+
+
+Ticket Central
+
+  * Season Memberships
+  * 12-Packs
+  * Premium Seating
+  * Group Tickets
+  * Single Game Tickets
+  * Special Offers
+  * 3D Seat Map
+
+
+
+412.642.PENS Email Us Live Chat
+
+### Single game tickets for the 2025.26 season are on sale now!
+
+Interested in season memberships? Click here to be contacted by a Pittsburgh Penguins representative!
+
+Day Monday Tuesday Wednesday Thursday Friday Saturday Sunday Month October November December January February March April Time 1:00 PM 2:00 PM 3:00 PM 3:30 PM 4:30 PM 5:00 PM 5:30 PM 7:00 PM 7:30 PM Opponent Anaheim Ducks Boston Bruins Buffalo Sabres Calgary Flames Carolina Hurricanes Chicago Blackhawks Colorado Avalanche Columbus Blue Jackets Dallas Stars Detroit Red Wings Edmonton Oilers Florida Panthers Los Angeles Kings Minnesota Wild Montreal Canadiens New Jersey Devils New York Islanders New York Rangers Ottawa Senators Philadelphia Flyers San Jose Sharks Seattle Kraken St. Louis Blues Tampa Bay Lightning Toronto Maple Leafs Utah Mammoth Vancouver Canucks Vegas Golden Knights Washington Capitals Winnipeg Jets Reset
+
+Friday, October 3, 2025 7:00 PM ET Friday Oct. 3, 2025 7:00 PM ET at PPG Paints Arena Buffalo Sabres
+
+### PRESEASON
+
+Buy Now Thursday, October 9, 2025 7:00 PM ET Thursday Oct. 9, 2025 7:00 PM ET at PPG Paints Arena New York Islanders
+
+### 2025 HOME OPENER
+
+Buy Now Promotion
+
+_**Magnetic Schedule**_ | All Fans | Presented by UPMC
+
+* * *
+
+_**Oktoberfest**_ | Ticket Package Includes Stein
+
+Buy Ticket Package Saturday, October 11, 2025 7:00 PM ET Saturday Oct. 11, 2025 7:00 PM ET at PPG Paints Arena New York Rangers
+
+Buy Now Promotion
+
+_**Team Calendar**_ | All Fans | Presented by Highmark
+
+* * *
+
+_**Oktoberfest**_ | Ticket Package Includes Stein
+
+Buy Ticket Package Tuesday, October 21, 2025 7:00 PM ET Tuesday Oct. 21, 2025 7:00 PM ET at PPG Paints Arena Vancouver Canucks
+
+Buy Now Promotion
+
+**$1 Hot Dogs**
+
+* * *
+
+_**Oktoberfest**_ | Ticket Package Includes Stein
+
+Buy Ticket Package
+
+* * *
+
+_**Polish Heritage Night**_ | Ticket Package Includes Hockey Shirt
+
+Buy Ticket Package Saturday, October 25, 2025 7:00 PM ET Saturday Oct. 25, 2025 7:00 PM ET at PPG Paints Arena Columbus Blue Jackets
+
+### PENGUINS HALL OF FAME GAME
+
+Buy Now Promotion
+
+**Penguins Hall of Fame Game**
+
+* * *
+
+_**Oktoberfest**_ | Ticket Package Includes Stein
+
+Buy Ticket Package Monday, October 27, 2025 7:00 PM ET Monday Oct. 27, 2025 7:00 PM ET at PPG Paints Arena St. Louis Blues
+
+Buy Now Promotion
+
+_**Oktoberfest**_ | Ticket Package Includes Stein
+
+Buy Ticket Package
+
+* * *
+
+_**Pucks and Paws**_ | Ticket Package Includes Collapsible Dog Bowl
+
+Buy Ticket Package
+
+* * *
+
+_**First Responders Night**_ | Ticket Package Includes Hat
+
+Buy Ticket Package Thursday, November 6, 2025 7:30 PM ET Thursday Nov. 6, 2025 7:30 PM ET at PPG Paints Arena Washington Capitals
+
+Buy Now Promotion
+
+**Pittsburgh Night presented by U. S. Steel**
+
+* * *
+
+_**Nurses Night Out**_ | Ticket Package Includes Backpack
+
+Buy Ticket Package Sunday, November 9, 2025 2:00 PM ET Sunday Nov. 9, 2025 2:00 PM ET at PPG Paints Arena Los Angeles Kings
+
+Buy Now Promotion
+
+_**Camo Hat**_ | All Fans | Presented by 84 Lumber
+
+* * *
+
+**Military Appreciation Game presented by 84 Lumber**
+
+Friday, November 21, 2025 7:00 PM ET Friday Nov. 21, 2025 7:00 PM ET at PPG Paints Arena Minnesota Wild
+
+Buy Now Promotion
+
+_**Hockey Fights Cancer Beanie**_ | First 7,500 Fans | Presented by UPMC Hillman Cancer Center
+
+* * *
+
+_**Hockey Fights Cancer Night**_ | Ticket Package Includes Hockey Shirt
+
+Buy Ticket Package
+
+* * *
+
+_**Chatham University Night**_ | Ticket Package Includes Quarter Zip
+
+Buy Ticket Package Saturday, November 22, 2025 7:00 PM ET Saturday Nov. 22, 2025 7:00 PM ET at PPG Paints Arena Seattle Kraken
+
+Buy Now Promotion
+
+_**Scarf**_ | First 7,500 Fans | Presented by PPG
+
+* * *
+
+_**PennWest University Night**_ | Ticket Package Includes Quarter Zip
+
+Buy Ticket Package Wednesday, November 26, 2025 7:00 PM ET Wednesday Nov. 26, 2025 7:00 PM ET at PPG Paints Arena Buffalo Sabres
+
+Buy Now Promotion
+
+_**Zamboni ® Gravy Boat**_ | First 7,500 Fans | Presented by Giant Eagle and Market District
+
+Saturday, November 29, 2025 7:00 PM ET Saturday Nov. 29, 2025 7:00 PM ET at PPG Paints Arena Toronto Maple Leafs
+
+Buy Now Tuesday, December 9, 2025 7:00 PM ET Tuesday Dec. 9, 2025 7:00 PM ET at PPG Paints Arena Anaheim Ducks
+
+Buy Now Promotion
+
+**$1 Hot Dogs**
+
+* * *
+
+_**Pride Game**_ | Ticket Package Includes Hockey Shirt
+
+Buy Ticket Package Thursday, December 11, 2025 7:00 PM ET Thursday Dec. 11, 2025 7:00 PM ET at PPG Paints Arena Montreal Canadiens
+
+Buy Now Promotion
+
+_**Star Wars™ Night**_ | Ticket Package Includes Hockey Shirt
+
+Buy Ticket Package
+
+* * *
+
+_**Swim Night**_ | Ticket Package Includes Swim Cap
+
+Buy Ticket Package
+
+* * *
+
+_**Slippery Rock University Night**_ | Ticket Package Includes Quarter Zip
+
+Buy Ticket Package Saturday, December 13, 2025 3:00 PM ET Saturday Dec. 13, 2025 3:00 PM ET at PPG Paints Arena San Jose Sharks
+
+Buy Now Promotion
+
+_**Sidney Crosby Bobblehead**_ | First 7,500 Fans | Presented by F.N.B.
+
+Sunday, December 14, 2025 3:00 PM ET Sunday Dec. 14, 2025 3:00 PM ET at PPG Paints Arena Utah Mammoth
+
+Buy Now Promotion
+
+_**Ugly Holiday Sweater Game**_ | Ticket Package Includes Sweater
+
+Buy Ticket Package
+
+* * *
+
+_**Educator Appreciation Game**_ | Ticket Package Includes Backpack
+
+Buy Ticket Package Tuesday, December 16, 2025 7:30 PM ET Tuesday Dec. 16, 2025 7:30 PM ET at PPG Paints Arena Edmonton Oilers
+
+Buy Now Promotion
+
+_**Youth Hockey Night**_ | Ticket Package Includes Mini Stick
+
+Buy Ticket Package
+
+* * *
+
+_**Jewish Heritage Night**_ | Ticket Package Includes Hockey Shirt
+
+Buy Ticket Package Sunday, December 21, 2025 7:00 PM ET Sunday Dec. 21, 2025 7:00 PM ET at PPG Paints Arena Montreal Canadiens
+
+Buy Now Tuesday, December 30, 2025 7:00 PM ET Tuesday Dec. 30, 2025 7:00 PM ET at PPG Paints Arena Carolina Hurricanes
+
+Buy Now Thursday, January 1, 2026 7:00 PM ET Thursday Jan. 1, 2026 7:00 PM ET at PPG Paints Arena Detroit Red Wings
+
+Buy Now Thursday, January 8, 2026 7:00 PM ET Thursday Jan. 8, 2026 7:00 PM ET at PPG Paints Arena New Jersey Devils
+
+Buy Now Promotion
+
+_**Italian Heritage Night**_ | Ticket Package Includes Hockey Shirt
+
+Buy Ticket Package Saturday, January 10, 2026 3:30 PM ET Saturday Jan. 10, 2026 3:30 PM ET at PPG Paints Arena Calgary Flames
+
+Buy Now Promotion
+
+_**Evgeni Malkin Bobblehead**_ | First 7,500 Fans | Presented by F.N.B.
+
+* * *
+
+_**Sports Matter presented by The DICK'S Sporting Goods Foundation**_ | Ticket Package Includes Long-Sleeve T-Shirt + Donation
+
+Buy Ticket Package Tuesday, January 13, 2026 7:00 PM ET Tuesday Jan. 13, 2026 7:00 PM ET at PPG Paints Arena Tampa Bay Lightning
+
+Buy Now Promotion
+
+**$1 Hot Dogs**
+
+Thursday, January 15, 2026 7:00 PM ET Thursday Jan. 15, 2026 7:00 PM ET at PPG Paints Arena Philadelphia Flyers
+
+Buy Now Promotion
+
+_**Playing Cards**_ | First 7,500 Fans (21+) | Presented by BetRivers
+
+* * *
+
+**Casino Night** | Presented by BetRivers
+
+* * *
+
+_**Golf Night**_ | Ticket Package Includes Hat + Ball Marker
+
+Buy Ticket Package
+
+* * *
+
+_**Indiana University of Pennsylvania Night**_ | Ticket Package Includes Quarter Zip
+
+Buy Ticket Package Saturday, January 17, 2026 7:00 PM ET Saturday Jan. 17, 2026 7:00 PM ET at PPG Paints Arena Columbus Blue Jackets
+
+Buy Now Promotion
+
+_**Grateful Dead Night**_ | Ticket Package Includes Hockey Shirt
+
+Buy Ticket Package Thursday, January 29, 2026 7:00 PM ET Thursday Jan. 29, 2026 7:00 PM ET at PPG Paints Arena Chicago Blackhawks
+
+Buy Now Promotion
+
+_**Pickleball Night**_ | Ticket Package Includes Paddle Cover
+
+Buy Ticket Package
+
+* * *
+
+_**Point Park University Night**_ | Ticket Package Includes Quarter Zip
+
+Buy Ticket Package
+
+* * *
+
+_**Waynesburg University Night**_ | Ticket Package Includes Quarter Zip
+
+Buy Ticket Package
+
+* * *
+
+_**Duquesne University Night**_ | Ticket Package Includes Quarter Zip
+
+Buy Ticket Package Saturday, January 31, 2026 3:30 PM ET Saturday Jan. 31, 2026 3:30 PM ET at PPG Paints Arena New York Rangers
+
+Buy Now Promotion
+
+_**2016 Replica Championship Ring**_ | All Fans
+
+* * *
+
+**2016 Stanley Cup Reunion**
+
+Monday, February 2, 2026 7:00 PM ET Monday Feb. 2, 2026 7:00 PM ET at PPG Paints Arena Ottawa Senators
+
+Buy Now Promotion
+
+_**Black History Rally Towel**_ | All Fans | Presented by CNX
+
+* * *
+
+_**Black History Game**_ | Ticket Package Includes Hockey Shirt
+
+Buy Ticket Package Thursday, February 26, 2026 7:00 PM ET Thursday Feb. 26, 2026 7:00 PM ET at PPG Paints Arena New Jersey Devils
+
+Buy Now Promotion
+
+_**Check Your Heart Oven Mitt**_ | First 7,500 Fans | Presented by UPMC Heart and Vascular Institute
+
+* * *
+
+_**Penn State University Night**_ | Ticket Package Includes Quarter Zip
+
+Buy Ticket Package Sunday, March 1, 2026 1:00 PM ET Sunday Mar. 1, 2026 1:00 PM ET at PPG Paints Arena Vegas Golden Knights
+
+Buy Now Promotion
+
+_**Mister Rogers' Neighborhood Day**_ | Ticket Package Includes Cardigan
+
+Buy Ticket Package Thursday, March 5, 2026 7:00 PM ET Thursday Mar. 5, 2026 7:00 PM ET at PPG Paints Arena Buffalo Sabres
+
+Buy Now Promotion
+
+_**Hawaiian Shirt**_ | First 7,500 Fans | Presented by Levin Furniture & Mattress
+
+* * *
+
+_**Margaritaville Night**_ | Ticket Package Includes Cooler Backpack
+
+Buy Ticket Package Saturday, March 7, 2026 5:30 PM ET Saturday Mar. 7, 2026 5:30 PM ET at PPG Paints Arena Philadelphia Flyers
+
+Buy Now Promotion
+
+_**Team Yearbook**_ | All Fans | Presented by Highmark
+
+Sunday, March 8, 2026 4:30 PM ET Sunday Mar. 8, 2026 4:30 PM ET at PPG Paints Arena Boston Bruins
+
+Buy Now Promotion
+
+_**Irish Heritage Night**_ | Ticket Package Includes Hockey Shirt
+
+Buy Ticket Package
+
+* * *
+
+_**Sticks and S.T.E.M. presented by PPG**_ | Ticket Package Includes Lab Coat + âS.T.E.M. Passportâ
+
+Buy Ticket Package Saturday, March 21, 2026 1:00 PM ET Saturday Mar. 21, 2026 1:00 PM ET at PPG Paints Arena Winnipeg Jets
+
+Buy Now Promotion
+
+_**Kris Letang Bobblehead**_ | First 7,500 Fans | Presented by F.N.B.
+
+Sunday, March 22, 2026 3:00 PM ET Sunday Mar. 22, 2026 3:00 PM ET at PPG Paints Arena Carolina Hurricanes
+
+Buy Now Promotion
+
+_**Her Hockey Day presented by 84 Lumber**_ | Ticket Package Includes Hockey Shirt
+
+Buy Ticket Package
+
+* * *
+
+_**Run Club Day**_ | Ticket Package Includes Running Hat
+
+Buy Ticket Package Tuesday, March 24, 2026 7:00 PM ET Tuesday Mar. 24, 2026 7:00 PM ET at PPG Paints Arena Colorado Avalanche
+
+Buy Now Promotion
+
+_**University of Pittsburgh Night**_ | Ticket Package Includes Quarter Zip
+
+Buy Ticket Package Saturday, March 28, 2026 5:00 PM ET Saturday Mar. 28, 2026 5:00 PM ET at PPG Paints Arena Dallas Stars
+
+Buy Now Promotion
+
+_**Country Night**_ | Ticket Package Includes Cowboy Hat
+
+Buy Ticket Package
+
+* * *
+
+_**Union Strong Night**_ | Ticket Package Includes Hat
+
+Buy Ticket Package
+
+* * *
+
+_**Kent State University Night**_ | Ticket Package Includes Quarter Zip
+
+Buy Ticket Package Tuesday, March 31, 2026 7:00 PM ET Tuesday Mar. 31, 2026 7:00 PM ET at PPG Paints Arena Detroit Red Wings
+
+Buy Now Promotion
+
+**$1 Hot Dogs**
+
+* * *
+
+_**Cheer and Dance Night**_ | Ticket Package Includes Scrunchie Set
+
+Buy Ticket Package
+
+* * *
+
+_**Carnegie Mellon University Night**_ | Ticket Package Includes Quarter Zip
+
+Buy Ticket Package Saturday, April 4, 2026 5:00 PM ET Saturday Apr. 4, 2026 5:00 PM ET at PPG Paints Arena Florida Panthers
+
+Buy Now Sunday, April 5, 2026 3:00 PM ET Sunday Apr. 5, 2026 3:00 PM ET at PPG Paints Arena Florida Panthers
+
+Buy Now Promotion
+
+_**Peanuts Day**_ | Ticket Package Includes Hockey Shirt
+
+Buy Ticket Package
+
+* * *
+
+_**API Day**_ | Ticket Package Includes Hockey Shirt
+
+Buy Ticket Package Saturday, April 11, 2026 3:00 PM ET Saturday Apr. 11, 2026 3:00 PM ET at PPG Paints Arena Washington Capitals
+
+Buy Now Promotion
+
+**Fan Appreciation Game presented by PPG**
+
+## NHL Ticket Exchange
+
+Buy and sell Ticketmaster verified tickets for Penguins games.
+
+Founding Partners 
+
+  * X
+  * Instagram
+  * Facebook
+  * YouTube
+  * TikTok
+  * LinkedIn
+
+
+
+  * Privacy Policy
+  * Contact Us
+
+
+
+pittsburghpenguins.com is the official website of the Pittsburgh Penguins. The Pittsburgh Penguins and pittsburghpenguins.com are trademarks of Pittsburgh Penguins LP. NHL, the NHL Shield, the word mark and image of the Stanley Cup and the word mark NHL Winter Classic are registered trademarks and NHL Stadium Series name and logo and the NHL Winter Classic logo are trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. (C) NHL 2025. All Rights Reserved. 
+
+  * NHL.com Terms of Service
+  * NHL.com Privacy Policy
+  * Cookie Policy
+  * Cookie Settings
+  * Copyright Policy
+  * Employment
+
+
+
+Close

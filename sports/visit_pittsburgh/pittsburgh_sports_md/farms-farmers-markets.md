@@ -1,0 +1,44 @@
+  * 2025 Guide to Pittsburgh Farmers Markets 
+  * U-Pick Farms 
+  * Pittsburgh’s CSAs 
+  * Pittsburgh Farm Fresh Meats 
+
+
+
+  * Home
+  * Restaurants & Culinary
+  * Farms & Farmers Markets
+
+
+
+# Farms & Farmers Markets
+
+Pittsburgh Area Farmers' Markets and U-Pick Farms
+
+Pittsburgh food has always been rooted in tradition and fresh off the farm. As a result, farmers' markets are a well established part of Pittsburgh culture. There are more farmers' markets and community gardens per capita in Pittsburgh than in most U.S. metropolitan areas. In season, you can find one just about every day of the week in different neighborhoods. Whether it's a church parking lot, a sidewalk stand, or a tent off the side of the road, these markets sell local farm fresh produce, eggs, cheese, homemade baked goods, jams and honey. Some farmers' markets even sell Amish-made wood furniture and rugs. For a complete list of Pittsburgh area farmers' markets, click here.
+
+## U-Pick Farms in Pittsburgh
+
+If you want to get a little closer to your food, try harvesting your own produce at Pittsburgh area U-Pick Farms. You'll get some exercise as well as a great big bunch of fresh produce you picked yourself. Visiting a u-pick farm is a great family experience that is both fun and educational. There's something about harvesting your own food that makes you appreciate it more. Many U-Pick farms also have on-site stores selling other ready-to-go products from their farm.
+
+## Community Supported Agriculture in Pittsburgh
+
+Many Pittsburgh area residents enter in to a more formal agreement with local farmers to ensure their seasonal supply of farm fresh products; including farm fresh beef and other meats. This is a relatively new and growing trend called, Community Supported Agriculture (CSA). These agreements, and the products offered, vary by farm and help local families enjoy a variety of farm fresh products while providing local farmers a profitable outlet for their harvest.
+
+## In This Section
+
+2025 Guide to Pittsburgh Farmers Markets Shop fresh, locally-grown foods at these Pittsburgh farmers markets
+
+Learn More
+
+10 U‑Pick Farms & Orchards Even city folk can try their hand at farming at a u-pick farm, where you'll get…
+
+Learn More
+
+Pittsburgh’s CSAs Community Supported Agriculture (CSA) is a relatively modern, yet exotic strategy created to keep small, family-run…
+
+Learn More
+
+Pittsburgh Farm Fresh Meats Unless you're a vegetarian, you may be wondering, "Where's the meat?"
+
+Learn More

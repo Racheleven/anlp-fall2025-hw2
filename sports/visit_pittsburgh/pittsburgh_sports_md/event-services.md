@@ -1,0 +1,100 @@
+  * Home
+  * Meetings and Events
+  * Event Services
+
+
+
+# Event Services
+
+Let our event services team help make your next meeting unforgettable.
+
+From the moment you select Pittsburgh until your last delegate departs, Pittsburgh's Business Events team stands ready to assist you with a variety of services including promotions, community awareness and public relations, Housing Reservation Services, volunteer recruitment, venue recommendations, supplier recommendations and various collateral requests.  
+
+
+## In This Section
+
+Housing Reservation Services 
+
+Learn More 
+
+Connecting Companies with Community 
+
+Learn More 
+
+Suppliers 
+
+Learn More 
+
+Marketing Toolkit 
+
+Learn More 
+
+## Event Planning Services
+
+### Local Venues and Suppliers  
+
+
+Whether you're planning an event for 20 or 20,000, we'll help you find the perfect venue, suppliers and transportation providers to meet your every needs.
+
+### Housing Reservation Services
+
+Pittsburgh's Business Events Team offers group housing reservation services for your multi-hotel event. We partner with Orchid.Events to provide you with a seamless booking experience for your attendees. 
+
+### Corporate Social Responsibility (CSR)
+
+If one of your objectives is to positively impact the society and/or environment surrounding your event, VisitPITTSBURGH can connect you with local organizations to help you reach your Corporate Social Responsibility goals.
+
+### WELCOME PITTSBURGH Information Center and Gift Shop _  
+David L. Lawrence Convention Center_
+
+Attendees can explore their dining and sightseeing options at the WELCOME PITTSBURGH Information Center and Gift Shop at the David L. Lawrence Convention Center. From maps to restaurant menus and VisitPITTSBURGH’s latest See & Do Guide, the information center and gift shop has everything visitors need in a convenient location.
+
+The storefront also offers a variety of Pittsburgh merchandise, including souvenirs like postcards, magnets and pens, as well as products from local attractions such as Daniel G. and Carole L. Kamin Science Center, The Frick Pittsburgh, Pittsburgh Glass Center and Pittsburgh Symphony Orchestra. WELCOME PITTSBURGH is your one-stop shop for information and that special something for family and friends back home!
+
+For events not using the David L. Lawrence Convention Center, there is still an opportunity to utilize a staffed Pittsburgh Welcome Booth for attendees. This on-site service is available on a complimentary basis to events with 1,000 or more delegates. The Welcome Booth also can be available to groups with fewer than 1,000 attendees for a nominal fee.
+
+## Marketing Assistance
+
+It's easy to show your delegates why they should attend your Pittsburgh event. We can provide you with a wide array of promotional materials to help market your event in Pittsburgh. From one pagers, web copy, promotional videos and a social media toolkit to teaser brochures and hard copy visitor guides, our marketing materials are a huge resource as you announce Pittsburgh as your next destination. Explore the Marketing Toolkit for all your needs! 
+
+Additional promotional tools including customized maps, a photo library and other brochures are available upon request.
+
+### Community Awareness & PR
+
+Prior to your event, we prepare key members of our community such as public safety officials, transportation providers and restauranteurs for your group's arrival. Preparations may include a planning bulletin and/or pre-convention meeting.
+
+Welcome signs will greet your attendees at the Pittsburgh International Airport and throughout the city. Upon request, we would be happy to obtain personalized welcome letters from Public Officials for your event program.
+
+Should you require public relations assistance, we would be happy to call upon our Communications Department, who may be able to assist with press releases, news conference coordination and media kits. They can also provide editorial content about Pittsburgh for your website.
+
+Submit RFP
+
+Let us know when you are ready to book.
+
+Learn More
+
+Meet the Team
+
+Contact our team to make planning your meeting or convention as easy as possible.
+
+Learn More
+
+Meet in Pittsburgh Discover the many reasons to host your event in Pittsburgh.
+
+Learn More
+
+Hotels Pittsburgh offers many options when it comes to hotels, resorts and accommodations.
+
+Learn More
+
+Meeting Spaces Pittsburgh has plenty of opportunities to amaze your guests.​
+
+Learn More
+
+Business Events Blog An insider’s look at how Pittsburgh fits into your future plans.
+
+Learn More
+
+Customer Success Your successful event makes Pittsburgh shine even brighter.
+
+Learn More
