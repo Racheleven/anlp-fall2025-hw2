@@ -1,0 +1,57 @@
+Questions: What is the population of Pittsburgh?
+Answers: 302971 
+
+Questions: How many employees work for Pittsburgh Regional Transit?
+Answers: 2,600 
+
+Questions: In what year did Mayor Peduto announce OnestopGH?
+Answers: 2019 
+
+Questions: What services does Duquesne Light Company provide in Pittsburgh?
+Answers: Maintains poles and wires, responds in an emergency, and issues bills.
+
+Here are the Q&A pairs generated from the text:
+
+Questions: What is the name of Pittsburgh's electricity company?
+Answers: Duquesne Light Company.
+
+Questions: How many employees work for the Pittsburgh Regional Transit?
+Answers: 2,600 employees.
+
+Questions: What services does the Pittsburgh Regional Transit provide?
+Answers: Bus, light rail, incline and paratransit services.
+
+Questions: What is OneStopGH?
+Answers: A website where residents can apply, pay for, and receive business licenses and permits, upload development plans, and track violation notices.
+
+Questions: How many rides does the Pittsburgh Regional Transit provide in a year?
+Answers: More than 60 million rides a year.
+
+Questions: Who maintains the poles and wires of the city's electricity company?
+Answers: Duquesne Light Company.
+
+Questions: What is the purpose of the OneStopGH website?
+Answers: To navigate the development process from home, work, or on the go.
+
+Here are the Q&A pairs generated from the text:
+
+Questions: What number to call for non-emergency City of Pittsburgh concerns or questions?
+Answers: 311
+
+Questions: Where can you submit a service request?
+Answers: On the 311 website
+
+Questions: Who maintains poles and wires in the City of Pittsburgh?
+Answers: Duquesne Light Company
+
+Questions: How many employees work for Pittsburgh Regional Transit?
+Answers: 2,600
+
+Questions: What is the population of the City of Pittsburgh according to the census bureau?
+Answers: 302,971
+
+Questions: In what year was Onestoppgh announced by Mayor Peduto?
+Answers: 2019
+
+Questions: What can you do on the Onestoppgh website?
+Answers: Apply, pay for, and receive business licenses and permits, upload development plans, and track violation notices.

@@ -1,0 +1,89 @@
+Here are the Q&A pairs generated from the provided text:
+
+Questions: What is the effective date of the local services tax regulations?
+Answers: January 1, 2008, revised January 1, 2020.
+
+Questions: Who is responsible for collecting the pro-rata share of the local services tax?
+Answers: The employer is required to withhold the pro-rata share of the tax by dividing $52 by the number of payroll periods established by the employer for the calendar year.
+
+Questions: What is the rate of tax for individuals subject to the local services tax?
+Answers: $52 per calendar year.
+
+Questions: Who is exempt from paying the local services tax?
+Answers: Any person whose total earned income and net profits from all sources within the city is less than twelve thousand dollars ($12,000) for the calendar year; any person who served in any war or armed conflict in which the United States was engaged and is honorably discharged or released under honorable circumstances from active service if, as a result of military service, the person is blind, paraplegic or a double or quadruple amputee or has a service-connected disability declared by the United States Veteran's Administration or its successor to be a total one hundred percent permanent disability; or any person who serves as a member of a reserve component of the armed forces and is called to active duty at any time during the taxable year.
+
+Questions: How should employers remit the local services tax?
+Answers: Employers are required to remit the local services tax thirty days after the end of each quarter of a calendar year.
+
+Questions: What is the situs of the local services tax?
+Answers: The situs of the local services tax shall be the place of employment, but in the event a person is engaged in more than one occupation or municipality at the same time, the priority of claim to collect such tax shall be the municipality in which a person is principally employed for the pay periods in question.
+
+Questions: Can an employee file an exemption certificate with their employer?
+Answers: Yes, beginning in 2008, a person seeking to claim an exemption from the local services tax may annually file an exemption certificate with his employer.
+
+Questions: What information should be attached to an exemption certificate?
+Answers: A copy of all the employee's last pay stubs or W-2 forms from employment within the political subdivision for the year prior to the calendar year.
+
+Questions: How can employees obtain an exemption certificate form?
+Answers: The exemption certificate can be downloaded at www.city.pittsburgh.pa.us/finance.
+
+Questions: What is the responsibility of employers regarding withholding the local services tax when an employee files an exemption certificate?
+Answers: Employers are not required to withhold the local services tax if an employee files an exemption certificate stating that they will earn less than $12,000 for the entire year.
+
+Questions: Can employers withhold a lump sum equal to the prior periods that were missed in addition to the current payroll deduction?
+Answers: Yes, at their option.
+
+Here are the Q&A pairs generated from the provided text:
+
+Questions: What is the amount of local services tax (LST) that employees must pay?
+Answers: $52.
+
+Questions: How often should employers remit the LST to the city?
+Answers: Within thirty days after the end of each quarter of a calendar year.
+
+Questions: What information must an employer include on an employee's pay stub regarding LST withholding?
+Answers: The amount withheld and the municipality it was paid to ("pgh").
+
+Questions: What is the maximum penalty for failing or refusing to pay over the tax required to be withheld under this section by the due date?
+Answers: 50%.
+
+Questions: How often should self-employed individuals, partners, or taxpayers who did not have the tax withheld file a LS-3 form and pay the LST directly to the treasurer?
+Answers: Every taxpayer shall file a LS-3 form and shall pay the tax directly to the treasurer 30 days after the end of each quarter.
+
+Questions: What is the duty of the treasurer in relation to collecting and receiving taxes, fines, and penalties imposed under the city code?
+Answers: The treasurer shall collect and receive the taxes, fines, and penalties imposed in accordance with the city code, title ii, article vii, chapter 252.
+
+Questions: How long must employers preserve records, including exemption certificates, for LST returns?
+Answers: Not less than three (3) years from the filing date or due date, whichever is later.
+
+Questions: What is a deficiency assessment in relation to LST collection?
+Answers: A deficiency assessment is where the taxpayer has filed a return in good faith but is found to owe additional tax.
+
+Questions: How long does a taxpayer have to respond to written requests for information from the city or its agents?
+Answers: 30 days from the mailing date, unless an extension of time is granted.
+
+Here are the Q&A pairs generated from the text:
+
+Questions: What is the period for filing a suit to recover tax due when no return was filed?
+Answers: There is no limitation.
+
+Questions: How long does a taxpayer have to request a treasurer's hearing after an assessment notice is received?
+Answers: Within 90 days.
+
+Questions: What is the maximum interest rate that can be assessed on unpaid taxes?
+Answers: Twelve percent (12%) per annum.
+
+Questions: Can a taxpayer request an installment payment plan for paying tax deficiencies?
+Answers: Yes, with the treasurer's approval and in writing.
+
+Questions: How long does the treasurer have to issue its decision after receiving a complete petition form from a taxpayer?
+Answers: Within 60 days.
+
+Questions: What is the deadline for filing an appeal to the court of common pleas after a treasurer's decision?
+Answers: Within thirty (30) days.
+
+Questions: Can payments made under protest be accepted by the treasurer pending appeals?
+Answers: Yes, but a request for refund must be filed in accordance with section 604.
+
+Questions: How long does a taxpayer have to file a written request for a refund or credit of overpaid tax amounts?
+Answers: Within three (3) years of the due date for filing the return or one (1) year after actual payment, whichever is later.
