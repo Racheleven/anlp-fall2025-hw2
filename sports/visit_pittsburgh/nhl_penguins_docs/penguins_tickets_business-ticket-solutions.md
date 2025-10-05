@@ -1,0 +1,165 @@
+# https://www.nhl.com/penguins/tickets/business-ticket-solutions
+
+Skip to Main Content 
+
+  * Tickets
+    * Ticket Central
+    * Season Memberships
+    * 12-Packs
+    * Premium Seating
+    * Group Tickets
+    * Single Game Tickets
+    * Promotional Schedule
+    * Special Offers
+    * 3D Seat Map
+  * Team
+    * Roster
+    * In the System
+    * Penguins Hall of Fame
+    * Front Office Staff
+  * News
+  * Schedule
+
+Navigation Menu
+
+  * Video
+  * Scores
+  * Stats
+  * Community Community 
+    * Community Initiatives
+    * Pittsburgh Penguins Foundation
+    * Mario Lemieux Foundation
+    * UPMC Healthcare Heroes
+    * Iceburgh Appearances
+    * Future Goals Hockey Scholar
+    * Locker Room Leadership
+    * Public Skate at UPMC66
+    * 50/50 Raffle
+    * PPS All-Stars
+    * Youth Hockey
+  * Fans Fans 
+    * Fan Central
+    * Sign Up for Penguins Texts
+    * Sign up for Penguins Emails
+    * Download the Penguins App
+    * Contact Us
+    * Contest and Promotions
+    * Colorful Fans
+    * Book an Event
+    * Mobile Wallpapers
+    * FNB Power Play Package
+    * Players on Social
+  * Game Day Game Day 
+    * Game Day Information
+    * Know Before You Go
+    * Parking and Directions
+    * Birthday and Anniversary Greetings
+    * Fan Guides
+    * PPG Paints Arena Information
+    * Penguins Radio Network
+    * How to Watch Games
+    * Commemorative Tickets
+    * Ice Crew
+    * NHL Fan Code of Conduct
+  * Hall of Fame
+  * Shop Shop 
+    * PensGear
+    * Penguins Authentics
+    * NHL Shop
+    * NHL Auctions
+  * League
+  * Help
+
+
+  * NHL.com
+  * 
+
+
+Ticket Central
+
+  * Season Memberships
+  * 12-Packs
+  * Premium Seating
+  * Group Tickets
+  * Single Game Tickets
+  * Special Offers
+  * 3D Seat Map
+
+
+
+Request Info Premium Seating Live Chat
+
+As a proud member of the western Pennsylvania business community, the Pittsburgh Penguins are excited to assist local organizations in achieving their goals by creating memorable, shared moments for employees, clients and prospects.
+
+With Penguins season tickets, check off your to-do list!
+
+## Entertain Clients
+
+Nothing brings fans together quite like celebrating a Penguins goal at PPG Paints Arena!
+
+_Pro tip: Treat your guests to the very best with tickets in our all-inclusive Casamigos Club. Enjoy beer, wine, action stations, grab-and-go-snacks and delectable desserts in our ice-level club and seating in Section 109._
+
+## Reward Employees
+
+Show your appreciation to your top sellers, hardest workers and most-dedicated team members with a much-needed night out!
+
+_Pro tip: Season ticket holders receive invitations to exclusive events as part of their Black and Gold Premier membership. Use these opportunities to surprise and delight your staff!_
+
+## Recruit Top Talent
+
+Building a winning roster is challenging. Get ahead of the competition by showcasing the best our city has to offer!
+
+_Pro tip: Use your Black and Gold Premier discount at PensGear to ensure your guest feels a part of the team!_
+
+## Connect with Prospects
+
+You know a partnership with your organization is a winning proposition. Let the excitement of our game reinforce that message!
+
+_Pro tip: Take advantage of the season ticket holder Friends and Family discount to score additional tickets for the biggest games of the year._
+
+## Close Deals
+
+Set the tone for scoring that next big partnership in a casual yet lively setting!
+
+_Pro tip: Secure seats in the F.N.B. or Captain Morgan Clubs for access to the Lexus Club, PPG Paints Arena's only sit-down, fine-dining restaurant â the perfect spot to detail the game plan._
+
+## Make the Most of Your Membership
+
+Discover 40 creative ways to get the most value from your tickets and maximize their impact.
+
+_Pro Tip: Use your tickets to surprise and delight those who go above and beyond at work, at home, and in your community._
+
+Both full and half season ticket plans are available now. Let our knowledgeable sales team find the package and location that is right for you.
+
+In addition, be sure to ask about unique ticket opportunities including executive dinners, VIP experiences, semi-private loges, PPG Party Suites, holiday rentals, pregame hospitality, non-Penguins premium options and more!
+
+We look forward to supporting your goals at PPG Paints Arena!
+
+Founding Partners 
+
+  * X
+  * Instagram
+  * Facebook
+  * YouTube
+  * TikTok
+  * LinkedIn
+
+
+
+  * Privacy Policy
+  * Contact Us
+
+
+
+pittsburghpenguins.com is the official website of the Pittsburgh Penguins. The Pittsburgh Penguins and pittsburghpenguins.com are trademarks of Pittsburgh Penguins LP. NHL, the NHL Shield, the word mark and image of the Stanley Cup and the word mark NHL Winter Classic are registered trademarks and NHL Stadium Series name and logo and the NHL Winter Classic logo are trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. (C) NHL 2025. All Rights Reserved. 
+
+  * NHL.com Terms of Service
+  * NHL.com Privacy Policy
+  * Cookie Policy
+  * Cookie Settings
+  * Copyright Policy
+  * Employment
+
+
+
+Close

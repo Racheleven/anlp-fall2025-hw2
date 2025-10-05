@@ -1,0 +1,1003 @@
+# https://www.steelers.com/news/steelers-drop-home-opener-to-seahawks-31-17
+
+Skip to main content
+
+Primary nav
+
+  * TEAM 
+  * SCHEDULE 
+  * NEWS 
+  * VIDEO 
+  * PHOTOS 
+  * FANS 
+  * EN ESPAÑOL 
+  *     * HALL OF HONOR MUSEUM 
+    * STEELERS AUDIO NETWORK 
+    * DRAFT 
+    * HISTORY 
+    * ALUMNI 
+    * WOMEN OF STEEL 
+    * YOUTH 
+    * EN ESPAÑOL 
+    * STEELERS IRELAND 
+    * AUF DEUTSCH 
+    * COMMUNITY 
+    * STADIUM 
+
+
+
+  * Shop 
+  * Tickets 
+
+
+
+Search
+
+Open menu button  Action related nav
+
+  * TICKETS 
+  * PRO SHOP 
+  * WATCH 
+  * LIVE NFL GAMES 
+
+
+
+  * Labriola On 
+  * Asked and Answered 
+  * Press Releases 
+  * Game Notes 
+  * Xtra Points Game Recap 
+  * Opponents On 
+  * Press Conference Reaction 
+  * Steelers Digest 
+  * Steelers En Español 
+
+
+
+Advertising
+
+##  Xtra Points 
+
+#  Steelers drop home opener to Seahawks, 31-17 
+
+Sep 14, 2025 at 05:45 PM
+
+Jim Wexell
+
+Correspondent
+
+  *   *   *   * Copied!
+
+
+
+  * Gamebook
+
+
+
+The Seattle Seahawks outscored the Steelers 17-3 in the fourth quarter en route to a 31-17 win at Acrisure Stadium.
+
+"Certainly a disappointing home opener," said Coach Mike Tomlin. "There's a lot of things that we can do better in all phases and in coaching and we will."
+
+The Steelers led 14-7 at the half, but the visitors were able to even the score early in the third quarter through a 10-play, 80-yard touchdown scoring drive and seized the lead for good with a 55-yard field goal by kicker Jason Myers with 12:46 left in the quarter.
+
+On the ensuing kickoff, the ball got past rookie Kaleb Johnson and landed in the endzone. Seattle's George Holani pounced on the ball for a touchdown, giving the Seahawks a 24-14 lead with 12:46 remaining. 
+
+"Poor judgement by a young player," said Tomlin after the game.
+
+For three-plus quarters, the game was a tight struggle. The Seahawks opened the scoring with a 21-yard touchdown pass from Sam Darnold to Tory Horton to cap the game's opening drive.
+
+The Steelers answered with a 48-yard Chris Boswell field goal to cut the deficit to 7-3. A pair of third-down conversions aided the drive, the first on a defensive hold and the other a 9-yard draw by Jaylen Warren. An incompletion on third-and-2 brought out Boswell for his first of three field goals on the day.
+
+#  GAME PHOTOS: Week 2 vs Seahawks 
+
+Game action photos from the Steelers' Week 2 game against the Seattle Seahawks at Acrisure Stadium
+
+1 / 106 
+
+Pittsburgh Steelers quarterback Aaron Rodgers (8) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Jared Wickerham / Pittsburgh Steelers)
+
+Jared Wickerham/Pittsburgh Steelers 
+
+2 / 106 
+
+Pittsburgh Steelers running back Jaylen Warren (30) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Jared Wickerham / Pittsburgh Steelers)
+
+Jared Wickerham/Pittsburgh Steelers 
+
+3 / 106 
+
+Pittsburgh Steelers running back Jaylen Warren (30) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Jared Wickerham / Pittsburgh Steelers)
+
+Jared Wickerham/Pittsburgh Steelers 
+
+4 / 106 
+
+Pittsburgh Steelers tight end Pat Freiermuth (88) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Jared Wickerham / Pittsburgh Steelers)
+
+Jared Wickerham/Pittsburgh Steelers 
+
+5 / 106 
+
+Pittsburgh Steelers cornerback Darius Slay (23) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Jared Wickerham / Pittsburgh Steelers)
+
+Jared Wickerham/Pittsburgh Steelers 
+
+6 / 106 
+
+Pittsburgh Steelers linebacker Jack Sawyer (33) Pittsburgh Steelers cornerback Darius Slay (23) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Taylor Ollason / Pittsburgh Steelers)
+
+Taylor Ollason/Pittsburgh Steelers 
+
+7 / 106 
+
+Pittsburgh Steelers defensive back Chuck Clark (21) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Jared Wickerham / Pittsburgh Steelers)
+
+Jared Wickerham/Pittsburgh Steelers 
+
+8 / 106 
+
+Pittsburgh Steelers head coach Mike Tomlin during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Taylor Ollason / Pittsburgh Steelers)
+
+Taylor Ollason/Pittsburgh Steelers 
+
+9 / 106 
+
+Pittsburgh Steelers linebacker Payton Wilson (41) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Taylor Ollason / Pittsburgh Steelers)
+
+Taylor Ollason/Pittsburgh Steelers 
+
+10 / 106 
+
+The Pittsburgh Steelers during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+11 / 106 
+
+Pittsburgh Steelers linebacker Patrick Queen (6), Pittsburgh Steelers cornerback Jalen Ramsey (5), Pittsburgh Steelers safety Juan Thornhill (22) and Pittsburgh Steelers linebacker Payton Wilson (41) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+12 / 106 
+
+Pittsburgh Steelers linebacker Patrick Queen (6) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+13 / 106 
+
+Pittsburgh Steelers linebacker Payton Wilson (41) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+14 / 106 
+
+Pittsburgh Steelers running back Jaylen Warren (30) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+15 / 106 
+
+Pittsburgh Steelers kicker Chris Boswell (9) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+16 / 106 
+
+Pittsburgh Steelers defensive back Chuck Clark (21) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+17 / 106 
+
+Pittsburgh Steelers quarterback Aaron Rodgers (8) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+18 / 106 
+
+Pittsburgh Steelers running back Jaylen Warren (30) and Pittsburgh Steelers wide receiver Roman Wilson (10) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+19 / 106 
+
+Pittsburgh Steelers quarterback Aaron Rodgers (8) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+20 / 106 
+
+Pittsburgh Steelers running back Jaylen Warren (30) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+21 / 106 
+
+Pittsburgh Steelers linebacker Patrick Queen (6), Pittsburgh Steelers linebacker Alex Highsmith (56) and Pittsburgh Steelers defensive back Chuck Clark (21) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+22 / 106 
+
+Pittsburgh Steelers linebacker Carson Bruener (44) and Pittsburgh Steelers wide receiver Ben Skowronek (15) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+23 / 106 
+
+Pittsburgh Steelers running back Jaylen Warren (30) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+24 / 106 
+
+Pittsburgh Steelers wide receiver DK Metcalf (4) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Jared Wickerham / Pittsburgh Steelers)
+
+Jared Wickerham/Pittsburgh Steelers 
+
+25 / 106 
+
+Pittsburgh Steelers defensive end Yahya Black (94) and Pittsburgh Steelers linebacker Nick Herbig (51) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+26 / 106 
+
+Pittsburgh Steelers linebacker Jack Sawyer (33) and Pittsburgh Steelers defensive tackle Cameron Heyward (97) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+27 / 106 
+
+Pittsburgh Steelers wide receiver Roman Wilson (10) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+28 / 106 
+
+Pittsburgh Steelers linebacker Payton Wilson (41) and Pittsburgh Steelers wide receiver Ben Skowronek (15) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+29 / 106 
+
+Pittsburgh Steelers linebacker Nick Herbig (51) and Pittsburgh Steelers cornerback Jalen Ramsey (5) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+30 / 106 
+
+Pittsburgh Steelers linebacker Nick Herbig (51) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+31 / 106 
+
+Pittsburgh Steelers linebacker Nick Herbig (51) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+32 / 106 
+
+Pittsburgh Steelers tight end Pat Freiermuth (88) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+33 / 106 
+
+Pittsburgh Steelers linebacker Nick Herbig (51) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+34 / 106 
+
+Pittsburgh Steelers linebacker Nick Herbig (51) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+35 / 106 
+
+Pittsburgh Steelers defensive tackle Cameron Heyward (97) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+36 / 106 
+
+Pittsburgh Steelers head coach Mike Tomlin during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+37 / 106 
+
+Pittsburgh Steelers quarterback Aaron Rodgers (8) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+38 / 106 
+
+Pittsburgh Steelers tight end Darnell Washington (80) and Pittsburgh Steelers running back Kenneth Gainwell (14) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+39 / 106 
+
+Pittsburgh Steelers linebacker Nick Herbig (51) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+40 / 106 
+
+Pittsburgh Steelers wide receiver DK Metcalf (4) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+41 / 106 
+
+Pittsburgh Steelers tight end Darnell Washington (80) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+42 / 106 
+
+Pittsburgh Steelers defensive tackle Keeanu Benton (95) and Pittsburgh Steelers linebacker Nick Herbig (51) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+43 / 106 
+
+Pittsburgh Steelers linebacker Nick Herbig (51) and Pittsburgh Steelers defensive end Yahya Black (94) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+44 / 106 
+
+Pittsburgh Steelers linebacker Nick Herbig (51) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+45 / 106 
+
+Pittsburgh Steelers linebacker T.J. Watt (90) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+46 / 106 
+
+Pittsburgh Steelers wide receiver Ben Skowronek (15) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+47 / 106 
+
+Pittsburgh Steelers quarterback Aaron Rodgers (8) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+48 / 106 
+
+Pittsburgh Steelers wide receiver DK Metcalf (4) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+49 / 106 
+
+Pittsburgh Steelers linebacker Nick Herbig (51) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+50 / 106 
+
+Pittsburgh Steelers wide receiver DK Metcalf (4) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+51 / 106 
+
+Pittsburgh Steelers cornerback Darius Slay (23) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+52 / 106 
+
+Pittsburgh Steelers linebacker Nick Herbig (51) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+53 / 106 
+
+Pittsburgh Steelers quarterback Aaron Rodgers (8) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+54 / 106 
+
+Pittsburgh Steelers wide receiver DK Metcalf (4) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+55 / 106 
+
+Pittsburgh Steelers linebacker Jack Sawyer (33) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+56 / 106 
+
+Pittsburgh Steelers quarterback Aaron Rodgers (8) and Pittsburgh Steelers offensive tackle Broderick Jones (77) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+57 / 106 
+
+Pittsburgh Steelers linebacker Nick Herbig (51) and Pittsburgh Steelers defensive end Yahya Black (94) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+58 / 106 
+
+Pittsburgh Steelers quarterback Aaron Rodgers (8) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+59 / 106 
+
+Pittsburgh Steelers center Zach Frazier (54) and Pittsburgh Steelers running back Jaylen Warren (30) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+60 / 106 
+
+Pittsburgh Steelers quarterback Aaron Rodgers (8) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+61 / 106 
+
+during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Jared Wickerham / Pittsburgh Steelers)
+
+Jared Wickerham/Pittsburgh Steelers 
+
+62 / 106 
+
+Pittsburgh Steelers running back Jaylen Warren (30) Pittsburgh Steelers tight end/fullback Connor Heyward (83) Pittsburgh Steelers guard Mason McCormick (66) Pittsburgh Steelers offensive tackle Broderick Jones (77) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Jared Wickerham / Pittsburgh Steelers)
+
+Jared Wickerham/Pittsburgh Steelers 
+
+63 / 106 
+
+Pittsburgh Steelers linebacker Payton Wilson (41) Pittsburgh Steelers defensive tackle Cameron Heyward (97) Pittsburgh Steelers linebacker T.J. Watt (90) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Jared Wickerham / Pittsburgh Steelers)
+
+Jared Wickerham/Pittsburgh Steelers 
+
+64 / 106 
+
+Pittsburgh Steelers running back Jaylen Warren (30), Pittsburgh Steelers offensive tackle Broderick Jones (77) and Pittsburgh Steelers quarterback Aaron Rodgers (8) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+65 / 106 
+
+Pittsburgh Steelers running back Jaylen Warren (30) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+66 / 106 
+
+Pittsburgh Steelers running back Jaylen Warren (30) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+67 / 106 
+
+Pittsburgh Steelers defensive tackle Cameron Heyward (97) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+68 / 106 
+
+Pittsburgh Steelers running back Jaylen Warren (30) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+69 / 106 
+
+Pittsburgh Steelers running back Jaylen Warren (30) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+70 / 106 
+
+Pittsburgh Steelers linebacker Patrick Queen (6) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+71 / 106 
+
+Pittsburgh Steelers offensive tackle Broderick Jones (77) and Pittsburgh Steelers quarterback Aaron Rodgers (8) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+72 / 106 
+
+Pittsburgh Steelers offensive tackle Broderick Jones (77) Pittsburgh Steelers center Zach Frazier (54) Pittsburgh Steelers tight end Jonnu Smith (81) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Jared Wickerham / Pittsburgh Steelers)
+
+Jared Wickerham/Pittsburgh Steelers 
+
+73 / 106 
+
+Pittsburgh Steelers defensive tackle Daniel Ekuale (96) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Taylor Ollason / Pittsburgh Steelers)
+
+Taylor Ollason/Pittsburgh Steelers 
+
+74 / 106 
+
+Pittsburgh Steelers linebacker T.J. Watt (90) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Taylor Ollason / Pittsburgh Steelers)
+
+Taylor Ollason/Pittsburgh Steelers 
+
+75 / 106 
+
+Pittsburgh Steelers linebacker Payton Wilson (41) Pittsburgh Steelers linebacker Patrick Queen (6) Pittsburgh Steelers linebacker Jack Sawyer (33) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Jared Wickerham / Pittsburgh Steelers)
+
+Jared Wickerham/Pittsburgh Steelers 
+
+76 / 106 
+
+Pittsburgh Steelers kicker Chris Boswell (9) Pittsburgh Steelers punter Corliss Waitman (3) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Jared Wickerham / Pittsburgh Steelers)
+
+Jared Wickerham/Pittsburgh Steelers 
+
+77 / 106 
+
+Pittsburgh Steelers linebacker Payton Wilson (41) and Pittsburgh Steelers linebacker Nick Herbig (51) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+78 / 106 
+
+Pittsburgh Steelers quarterback Aaron Rodgers (8) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+79 / 106 
+
+Pittsburgh Steelers wide receiver Calvin Austin III (19) and Pittsburgh Steelers tight end Pat Freiermuth (88) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+80 / 106 
+
+Pittsburgh Steelers defensive tackle Cameron Heyward (97) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+81 / 106 
+
+Pittsburgh Steelers linebacker Patrick Queen (6) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+82 / 106 
+
+Pittsburgh Steelers tight end Jonnu Smith (81) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+83 / 106 
+
+Fans during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+84 / 106 
+
+Pittsburgh Steelers linebacker Patrick Queen (6) Pittsburgh Steelers cornerback Darius Slay (23) Pittsburgh Steelers linebacker Nick Herbig (51) Pittsburgh Steelers linebacker Jack Sawyer (33) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Taylor Ollason / Pittsburgh Steelers)
+
+Taylor Ollason/Pittsburgh Steelers 
+
+85 / 106 
+
+Fans during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+86 / 106 
+
+Pittsburgh Steelers linebacker Nick Herbig (51) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+87 / 106 
+
+Pittsburgh Steelers linebacker T.J. Watt (90) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+88 / 106 
+
+Pittsburgh Steelers head coach Mike Tomlin during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+89 / 106 
+
+Pittsburgh Steelers quarterback Aaron Rodgers (8) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+90 / 106 
+
+Pittsburgh Steelers running back Kenneth Gainwell (14) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+91 / 106 
+
+during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+92 / 106 
+
+Pittsburgh Steelers linebacker T.J. Watt (90) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+93 / 106 
+
+Pittsburgh Steelers center Zach Frazier (54) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Jared Wickerham / Pittsburgh Steelers)
+
+Jared Wickerham/Pittsburgh Steelers 
+
+94 / 106 
+
+Fans during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+95 / 106 
+
+Pittsburgh Steelers linebacker Nick Herbig (51) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+96 / 106 
+
+Pittsburgh Steelers running back Kenneth Gainwell (14) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+97 / 106 
+
+Pittsburgh Steelers running back Kenneth Gainwell (14) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+98 / 106 
+
+Pittsburgh Steelers cornerback Darius Slay (23) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+99 / 106 
+
+Pittsburgh Steelers linebacker Jack Sawyer (33) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+100 / 106 
+
+Pittsburgh Steelers running back Kenneth Gainwell (14) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+101 / 106 
+
+The Pittsburgh Steelers during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+102 / 106 
+
+Pittsburgh Steelers linebacker Jack Sawyer (33) and Pittsburgh Steelers linebacker T.J. Watt (90) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+103 / 106 
+
+The Pittsburgh Steelers during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Alysa Rubin / Pittsburgh Steelers)
+
+Alysa Rubin/Pittsburgh Steelers 
+
+104 / 106 
+
+Pittsburgh Steelers tight end Jonnu Smith (81) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+105 / 106 
+
+Pittsburgh Steelers linebacker Patrick Queen (6), Pittsburgh Steelers cornerback Jalen Ramsey (5), and Pittsburgh Steelers linebacker Nick Herbig (51) during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+106 / 106 
+
+The Pittsburgh Steelers during a regular season game between the Pittsburgh Steelers and the Seattle Seahawks, Sunday, Sept. 14, 2025 in Pittsburgh, PA. (Karl Roser / Pittsburgh Steelers)
+
+Karl Roser/Pittsburgh Steelers 
+
+Advertising
+
+This Ad will close in 3
+
+On the next play, Jalen Ramsey stepped in front of Cooper Kupp to intercept Darnold at the Seattle 44. The Steelers gained another 14 yards and Boswell kicked his second 48-yarder to cut the deficit to 7-6 with 2:13 left in the first quarter.
+
+Myers had a chance to match Boswell's field goal, but his 36-yard attempt hit the left upright and fell away with 12:05 left in the second quarter, the Seahawks still leading by a point.
+
+The Steelers took the lead on a sequence that led to Aaron Rodgers tying Brett Favre for fourth place on the all-time career touchdown pass list with a 2-yard throw to D.K. Metcalf. It was Rodgers' 508th career touchdown pass.
+
+The scoring sequence began with Seattle facing a fourth-and-1 at the Pittsburgh 29. Linebacker Payton Wilson became ill on the field, and, with Patrick Queen already out, the Steelers called a timeout. Upon resumption of play, Darnold faked a handoff and turned to throw, but Cameron Heyward batted the pass that was plucked out of the air by Nick Herbig. He returned the interception to the Seattle 21 to set up the Metcalf touchdown against his former team.
+
+Metcalf boxed out Seahawks safety Coby Bryant for the score. The Steelers added a two-point conversion on a Rodgers pass to Darnell Washington with 1:09 left in the first half to put the Steelers ahead at the half, 14-7.
+
+The Seahawks opened the second half the same way they did the first, with a touchdown. After the Steelers had punted, the Seahawks drove 80 yards on 9 plays to tie the score. The drive was capped with Darnold's 7-yard touchdown pass to tight end A.J. Barner. The extra point tied the score 14-14 with 6:10 left in the third quarter.
+
+One play later, a 65-yard catch and run by Jaylen Warren gave the Steelers a first down at the Seattle 5. However, Rodgers was intercepted by Derion Kendrick in the end zone on a deflected third-and-goal pass from the 4.
+
+The Seahawks took a 17-14 lead early in the fourth quarter with a 54-yard field goal by Myers with 12:46 to play in regulation.
+
+The Seahawks added to the lead with the bizarre TD on the kickoff.
+
+The Steelers answered with a 45-yard field goal by Boswell to cut the deficit to 24-17 with 7:49 remaining. The successful kick was Boswell's fifth in five tries this season, all of which have been 45 yards or longer.
+
+The Seahawks closed the scoring with a 19-yard touchdown run by Kenneth Walker on a third-and-goal play.
+
+##  Related Content 
+
+news 
+
+###  Steelers defeat Vikings, 24-21, in Ireland 
+
+Effective run game, playmaking defense key 24-21 win
+
+news 
+
+###  Steelers defeat the Patriots, 21-14 
+
+Defense forces four fumbles; records five sacks in the winÂ 
+
+news 
+
+###  Steelers open the season with 34-32 win over Jets 
+
+Chris Boswell hits a career-long 60-yard field goal with 1:13 remaining
+
+news 
+
+###  Steelers defeat Panthers, 19-10, in preseason finale 
+
+The Steelers closed out the preseason with a 19-10 win over the Carolina Panthers
+
+news 
+
+###  Steelers fall to Buccaneers, 17-14 
+
+The Steelers lost to the Tampa Bay Buccaneers on a last second field goal
+
+news 
+
+###  Steelers defeat Jaguars, 31-25 
+
+The Steelers held on at the end to defeat the Jacksonville Jaguars, 31-25, in the preseason opener
+
+news 
+
+###  Steelers lose to Ravens, 28-14 
+
+Henry runs for 186 yards as Ravens knock Steelers from postseason
+
+news 
+
+###  Steelers fall to Bengals, 19-17 
+
+Bengals play keep-away from Steelers, hold ball for nearly 40 minutes
+
+news 
+
+###  Steelers lose to Chiefs, 29-10 
+
+Mahomes throws for 328 yards, three touchdowns as Steelers lose third-straight
+
+news 
+
+###  Steelers fall to Ravens, 34-17 
+
+Turnovers, Henry's 162 rushing yards lead to defeat in Baltimore
+
+news 
+
+###  Steelers fall to Eagles, 27-13 
+
+Steelers clinch playoff berth, but key mistakes lead to loss in Philadelphia
+
+Advertising
+
+### Club Links
+
+Club Links
+
+  * TEAM 
+  * Team Home 
+  * Roster 
+  * Depth Chart 
+  * Coaches 
+  * Standings 
+  * Stats 
+  * Injury Report 
+  * Transactions 
+  * Front Office Staff 
+  * Draft Central 
+
+
+  * NEWS 
+  * News Home 
+  * Press Releases 
+  * Asked and Answered 
+  * Labriola On 
+  * Steelers En Español 
+  * Media Only Site 
+
+
+  * VIDEO 
+  * Video Home 
+  * Steelers Live 
+  * Interviews 
+  * Sights & Sounds 
+  * Press Conferences 
+  * Around the Locker Room 
+  * Scouting Report 
+  * Steelers En Español 
+
+
+  * PHOTOS 
+  * Photos Home 
+  * Practice 
+  * Pregame 
+  * Game Action 
+  * Karl's Top Pics 
+  * Community 
+
+
+  * SCHEDULE 
+  * Schedule Home 
+  * Current Season Schedule 
+  * Event Calendar 
+
+
+  * TICKETS 
+  * Tickets Home 
+  * Account Manager 
+  * Buy Tickets 
+  * NFL Ticket Exchange 
+  * Gameday Experience 
+  * Steelers Fan Travel 
+  * Season Tickets Wait List 
+  * SBL Marketplace 
+  * Seat Transfers 
+  * View From Your Seat 
+  * Clear Bag Policy 
+
+
+  * FAN ZONE 
+  * Fan Zone Home 
+  * Steelers Official Mobile App 
+  * Contests and Promotions 
+  * Event Calendar 
+  * Steelers Podcasts 
+  * Steelers En Español 
+
+
+  * ACRISURE STADIUM 
+  * Stadium Home 
+  * Clear Bag Policy 
+  * Book an Event 
+  * Directions 
+  * Parking 
+  * Seating Chart 
+  * Security Guidelines 
+  * Disability Services 
+  * Stadium Tours 
+
+
+  * HISTORY 
+  * History Home 
+  * Hall of Honor Museum 
+  * Hall of Honor 
+  * Hall of Fame 
+  * Super Bowls 
+
+
+  * COMMUNITY 
+  * Community Home 
+  * Community Programs 
+  * Youth 
+  * High School Football Showcase 
+  * Youth Football Camps 
+
+
+
+### NFL Clubs
+
+NFL Clubs
+
+  * AFC North 
+  *   *   *   * 
+
+  * AFC East 
+  *   *   *   * 
+
+  * AFC South 
+  *   *   *   * 
+
+  * AFC West 
+  *   *   *   * 
+
+  * NFC North 
+  *   *   *   * 
+
+  * NFC East 
+  *   *   *   * 
+
+  * NFC South 
+  *   *   *   * 
+
+  * NFC West 
+  *   *   *   * 
+
+
+### More NFL Sites
+
+More NFL Sites
+
+  * NFL Football Operations 
+  * NFL Shop 
+  * NFL On Location 
+  * Pro Football Hall of Fame 
+  * Licensing 
+
+
+  * USA Football 
+  * NFL Extra Points 
+  * NFL Ticket Exchange 
+  * NFL Experience Times Square 
+
+
+
+Download the Official App  Download Apps
+
+  *   * 
+
+
+(C) 2025 Pittsburgh Steelers. All Rights Reserved 
+
+Legal
+
+  * Privacy Policy 
+  * Terms of Use 
+  * Accessibility 
+  * Contact Us 
+  * Site Map 
+  * Ad Choices 
+  * Your Privacy Choices 
+  * Cookie Settings
+  * Preference Center 
+
+
+
+Big left arrow icon  Big right arrow icon  Close icon Copy Url Three dots icon  Down arrow icon  Email icon  Email icon  Exit Fullscreen icon  External link icon  Facebook logo Football icon Facebook logo  Instagram logo  Snapchat logo  YouTube logo  TikTok logo  Spotify logo  LinkedIn logo  Grid icon  Key icon  Left arrow icon  Link icon  Location icon  Mail icon  Menu icon  Open icon  Phone icon  Play icon  Radio icon  Rewind icon  Right arrow icon  Search icon  Select icon  Selected icon  TV icon  Up arrow icon  User icon  Audio icon Add to calendar iconNFC icon AFC icon NFL icon Carousel IconList ViewWebsite InstagramTwitterFacebookSnapchatShop IconProfile Overlay AvatarAddAirplayArrow LeftArrow RightArrow UpArrow DownAudioBack 5sBack 10sBack 30sCalendarChartCheckDownLeftRightUpChromecast OffChromecast OnCloseClosed CaptionsBench OffBench OnBroad OffBroad OnVertical OffVertical OnCommentDockDoneDownloadDraftFantasyFilterForward 5sForward 10sForward 30sFull Screen OffFull Screen OnGamepassGamesInsightsKeyLeaveLiveCombineDraftFantasyMenu GamesMenu NetworkMenu NewsMenu PlayoffsMenu Pro BowlMenu ShopMenu StandingsMenu StatsMenu Super BowlMenu TeamsMenu TicketsMenuMore HorizontalMore VerticalMy LocationNetworkNewsPauseplayMultiple PlayersSingle PlayerPlaylistPlayoffsPro BowlPurgeRefreshRemoveSearchSettingsShare AndroidShare Copy URLShare EmailShare FacebookShare InstagramShare iOSShare SnapchatShare TwitterSkip NextSkip PreviousStandingsStarStatsSwapTeamsTicketsVideoVisibility OffVisibility OnVolume HiVolume LowVolume MediumVolume MuteWarningWebsite Caret downCaret upAtNewsPlayAudioGalleryPromo Chevron right 
+
+The browser you are using is no longer supported on this site. It is highly recommended that you use the latest versions of a supported browser in order to receive an optimal viewing experience. The following browsers are supported: Chrome, Edge (v80 and later), Firefox and Safari.
+
+Got it!

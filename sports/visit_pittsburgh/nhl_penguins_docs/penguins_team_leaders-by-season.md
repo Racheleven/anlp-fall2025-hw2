@@ -1,0 +1,360 @@
+# https://www.nhl.com/penguins/team/leaders-by-season
+
+Skip to Main Content 
+
+  * Tickets
+    * Ticket Central
+    * Season Memberships
+    * 12-Packs
+    * Premium Seating
+    * Group Tickets
+    * Single Game Tickets
+    * Promotional Schedule
+    * Special Offers
+    * 3D Seat Map
+  * Team
+    * Roster
+    * In the System
+    * Penguins Hall of Fame
+    * Front Office Staff
+  * News
+  * Schedule
+
+Navigation Menu
+
+  * Video
+  * Scores
+  * Stats
+  * Community Community 
+    * Community Initiatives
+    * Pittsburgh Penguins Foundation
+    * Mario Lemieux Foundation
+    * UPMC Healthcare Heroes
+    * Iceburgh Appearances
+    * Future Goals Hockey Scholar
+    * Locker Room Leadership
+    * Public Skate at UPMC66
+    * 50/50 Raffle
+    * PPS All-Stars
+    * Youth Hockey
+  * Fans Fans 
+    * Fan Central
+    * Sign Up for Penguins Texts
+    * Sign up for Penguins Emails
+    * Download the Penguins App
+    * Contact Us
+    * Contest and Promotions
+    * Colorful Fans
+    * Book an Event
+    * Mobile Wallpapers
+    * FNB Power Play Package
+    * Players on Social
+  * Game Day Game Day 
+    * Game Day Information
+    * Know Before You Go
+    * Parking and Directions
+    * Birthday and Anniversary Greetings
+    * Fan Guides
+    * PPG Paints Arena Information
+    * Penguins Radio Network
+    * How to Watch Games
+    * Commemorative Tickets
+    * Ice Crew
+    * NHL Fan Code of Conduct
+  * Hall of Fame
+  * Shop Shop 
+    * PensGear
+    * Penguins Authentics
+    * NHL Shop
+    * NHL Auctions
+  * League
+  * Help
+
+
+  * NHL.com
+  * 
+
+
+24-25 | Rickard Rakell (35) | Sidney Crosby (58) | Sidney Crosby (91)  
+---|---|---|---  
+23-24 | Sidney Crosby (42) | Sidney Crosby (52) | Sidney Crosby (94)  
+22-23 | Jake Guentzel (36) | Sidney Crosby (60) | Sidney Crosby (93)  
+21-22 | Jake Guentzel (40) | Kris Letang (58) | Sidney Crosby, Jake Guentzel (84)  
+20-21 | Sidney Crosby (24) | Sidney Crosby, Kris Letang (38) | Sidney Crosby (62)  
+19-20 | Bryan Rust (27) | Evgeni Malkin (49) | Evgeni Malkin (74)  
+18-19 | Jake Guentzel (40) | Sidney Crosby (65) | Sidney Crosby (100)  
+17-18 | Evgeni Malkin (42) | Sidney Crosby (60) | Evgeni Malkin (98)  
+16-17 | Sidney Crosby (44) | Phil Kessel (47) | Sidney Crosby (89)  
+15-16 | Sidney Crosby (36) | Kris Letang (51) | Sidney Crosby (85)  
+14-15 | Sidney Crosby, Evgeni Malkin (28) | Sidney Crosby (56) | Sidney Crosby (84)  
+13-14 | Sidney Crosby (36) | Sidney Crosby (68) | Sidney Crosby (104)  
+12-14 | Chris Kunitz (22) | Sidney Crosby (41) | Sidney Crosby (56)  
+11-12 | Evgeni Malkin (50) | Evgeni Malkin (59) | Evgeni Malkin (109)  
+10-11 | Sidney Crosby (32) | Kris Letang (42) | Sidney Crosby (66)  
+09-10 | Sidney Crosby (51) | Sidney Crosby (58) | Sidney Crosby (109)  
+08-09 | Evgeni Malkin (35) | Evgeni Malkin (78) | Evgeni Malkin (113)  
+07-08 | Evgeni Malkin (47) | Evgeni Malkin (59) | Evgeni Malkin (106)  
+06-07 | Sidney Crosby (36) | Sidney Crosby (84) | Sidney Crosby (120)  
+05-06 | Sidney Crosby (39) | Sidney Crosby (63) | Sidney Crosby (102)  
+04-05 | Lockout Season | Lockout Season | Lockout Season  
+03-04 | Ryan Malone (22) | Dick Tarnstrom (36) | Dick Tarnstrom (52)  
+02-03 | Mario Lemieux (28) | Mario Lemieux (63) | Mario Lemieux (91)  
+01-02 | Alexei Kovalev (32) | Alexei Kovalev (44) | Alexei Kovalev (76)  
+00-01 | Jaromir Jagr (52) | Jaromir Jagr (69) | Jaromir Jagr (121)  
+99-00 | Jaromir Jagr (42) | Jaromir Jagr (54) | Jaromir Jagr (96)  
+98-99 | Jaromir Jagr (44) | Jaromir Jagr (83) | Jaromir Jagr (127)  
+97-98 | Jaromir Jagr (35) | Jaromir Jagr (67) | Jaromir Jagr (102)  
+96-97 | Mario Lemieux (50) | Mario Lemieux (72) | Mario Lemieux (122)  
+95-96 | Mario Lemieux (69) | Mario Lemieux, Ron Francis (92) | Mario Lemieux (161)  
+94-95 | Jaromir Jagr (32) | Ron Francis (48) | Jaromir Jagr (70)  
+93-94 | Kevin Stevens (41) | Jaromir Jagr (67) | Jaromir Jagr (99)  
+92-93 | Mario Lemieux (69) | Mario Lemieux (91) | Mario Lemieux (160)  
+91-92 | Kevin Stevens (54) | Mario Lemieux (87) | Mario Lemieux (131)  
+90-91 | Mark Recchi, Kevin Stevens (40) | Mark Recchi (73) | Mark Recchi (113)  
+89-90 | Mario Lemieux (45) | Mario Lemieux (78) | Mario Lemieux (123)  
+88-89 | Mario Lemieux (85) | Mario Lemieux (114) | Mario Lemieux (199)  
+87-88 | Mario Lemieux (70) | Mario Lemieux (98) | Mario Lemieux (168)  
+86-87 | Mario Lemieux (54) | Mario Lemieux (53) | Mario Lemieux (107)  
+85-86 | Mario Lemieux (48) | Mario Lemieux (93) | Mario Lemieux (141)  
+84-85 | Mario Lemieux (43) | Mario Lemieux (57) | Mario Lemieux (100)  
+83-84 | Mike Bullard (51) | Mike Bullard (41) | Mike Bullard (92)  
+82-83 | Rick Kehoe (29) | Greg Malone (44) | Doug Shedden (67)  
+81-82 | Mike Bullard, Paul Gardner (36) | Randy Carlyle (65) | Rick Kehoe (85)  
+80-81 | Rick Kehoe (55) | Randy Carlyle (67) | Rick Kehoe (88)  
+79-80 | Rick Kehoe (30) | Greg Malone (32) | Rick Kehoe (60)  
+78-79 | Greg Malone (35) | Orest Kindrachuk (42) | Greg Malone (65)  
+77-78 | Jean Pronovost (40) | Greg Malone (43) | Jean Pronovost (65)  
+76-77 | Jean Pronovost (33) | Syl Apps (43) | Jean Pronovost (65)  
+75-76 | Pierre Larouche (53) | Syl Apps (67) | Pierre Larouche (111)  
+74-75 | Jean Pronovost (43) | Ron Schock (63) | Ron Schock (86)  
+73-74 | Lowell McDonald (43) | Syl Apps (61) | Syl Apps (85)  
+72-73 | Al McDonough (35) | Syl Apps (56) | Syl Apps (85)  
+71-72 | Greg Polis, Jean Pronovost (30) | Syl Apps (44) | Syl Apps (59)  
+70-71 | Keith McCreary, Dean Prentice, Jean Pronovost (21) | Bryan Hextall (32) | Bryan Hextall (48)  
+69-70 | Dean Prentice (20) | Michel Briere (32) | Dean Prentice (51)  
+68-69 | Keith McCreary (25) | Charlie Burns (38) | Ken Schinkel (52)  
+67-68 | Ab McDonald (22) | Andy Bathgate (39) | Andy Bathgate (58)  
+Year | Goals | Assists | Points  
+  
+  
+
+
+24-25 | Sidney Crosby (10) | Sidney Crosby (12) | Kris Letang, Danton Heinen, Blake Lizotte (1)  
+---|---|---|---  
+23-24 | Jeff Carter (4), Erik Karlsson (4) | Sidney Crosby (10) | Jeff Carter (2)  
+22-23 | Sidney Crosby (9) | Jake Guentzel, Evgeni Malkin, Rickard Rakell (11) | Brock McGinn, Ryan Poehling (2)  
+21-22 | Sidney Crosby (9) | Evgeni Malkin, Bryan Rust (9) | Brian Boyle, Teddy Blueger, Jeff Carter (1)  
+20-21 | Jake Guentzel (7) | Jared McCann (7) | Teddy Blueger (3)  
+19-20 | Evgeni Malkin (5) | Bryan Rust (8) | Brandon Tanev (2)  
+18-19 | Phil Kessel (10) | Sidney Crosby, Phil Kessel (12) | Jared McCann (3)  
+17-18 | Evgeni Malkin (7) | Patric Hornqvist (15) | Bryan Rust (2)  
+16-17 | Evgeni Malkin (6) | Sidney Crosby (14) | Matt Cullen (2)  
+15-16 | Sidney Crosby (9) | Evgeni Malkin (11) | Eric Fehr (4)  
+14-15 | Chris Kunitz, Blake Comeau (5) | Sidney Crosby (10) | Brandon Sutter (4)  
+13-14 | Chris Kunitz (8) | Chris Kunitz (13) | Brandon Sutter (3)  
+12-13 | James Neal (6) | James Neal, Chris Kunitz (9) | Pascal Dupuis, Craig Adams (1)  
+11-12 | Evgeni Malkin (9) | James Neal (18) | Pascal Dupuis, Jordan Staal (3)  
+10-11 | Jordan Staal (4) | Sidney Crosby (10) | Pascal Dupuis (4)  
+09-10 | Evgeni Malkin (7) | Sidney Crosby, Evgeni Malkin (13) | Sidney Crosby, Evgeni Malkin, Jordan Staal (2)  
+08-09 | Petr Sykora (10) | Evgeni Malkin (14) | Evgeni Malkin, Maxime Talbot (2)  
+07-08 | Ryan Malone (6) | Evgeni Malkin (17) | Ryan Malone (2)  
+06-07 | Evgeni Malkin (6) | Evgeni Malkin (16) | Jordan Staal (7)  
+05-06 | Sidney Crosby (5) | Sidney Crosby (16) | Ryan Malone (5)  
+04-05 | Lockout Season | Lockout Season | Lockout Season  
+03-04 | Aleksey Morozov (5) | Dick Tarnstrom (12) | Ryan Malone (3)  
+02-03 | Mario Lemiuex, Martin Straka (4) | Mario Lemieux (14) | Ville Nieminen (2)  
+01-02 | Jan Hrdina (6) | Alexei Kovalev (8) | 5 players tied at (1)  
+00-01 | Jaromir Jagr (10) | Mario Lemiuex (16) | Alexei Kovalev (2)  
+99-00 | Jaromir Jagr, Robert Lang (5) | Robert Lang (13) | Alexei Kovalev (2)  
+98-99 | Jaromir Jagr (7) | Jaromir Jagr (10) | Martin Straka (4)  
+97-98 | Jaromir Jagr (8) | Stu Barnes (15) | Martin Straka (3)  
+96-97 | Mario Lemieux (7) | Mario Lemieux (15) | Petr Nedved (3)  
+95-96 | Jaromir Jagr (12) | Mario Lemieux (31) | Mario Lemieux (8)  
+94-95 | Jaromir Jagr (7) | Jaromir Jagr (8) | Jaromir Jagr (3)  
+93-94 | Joe Mullen (9) | Kevin Stevens (21) | Shawn McEachern (2)  
+92-93 | Mario Lemieux (10) | Kevin Stevens (26) | Mario Lemieux (6)  
+91-92 | Mario Lemiuex (5) | Kevin Stevens (19) | Mario Lemieux (4)  
+90-91 | Mark Recchi (9) | Kevin Stevens (18) | Phil Bourque (4)  
+89-90 | John Cullen, Mario Lemieux, Mark Recchi (4) | Mario Lemieux (14) | Mario Lemieux (3)  
+88-89 | Mario Lemieux (8) | Mario Lemieux (31) | Mario Lemieux (13)  
+87-88 | Mario Lemieux (7) | Mario Lemieux (22) | Mario Lemieux (10)  
+86-87 | Randy Cunneyworth (5) | Mario Lemieux (19) | Dan Quinn (3)  
+85-86 | Terry Ruskowski (7) | Doug Shedden (17) | Dave Hannan (3)  
+84-85 | Wayne Bianchin, Mike Bullard, Doug Shedden, Warren Young (3) | Mike Bullard (14) | Mitch Lamoureux (2)  
+83-84 | Rick Kehoe (3) | Mike Bullard (15) | Kevin McClelland (2)  
+82-83 | Pat Boutette (4) | Paul Gardner (20) | Pat Boutette, Randy Carlyle, Doug Shedden (1)  
+81-82 | Mike Bullard (5) | Paul Gardner (21) | George Ferguson (3)  
+80-81 | Rick Kehoe, Rod Schutt (5) | Rick Kehoe (20) | George Ferguson (3)  
+79-80 | Paul Marshall (5) | Rick Kehoe (7) | George Ferguson (3)  
+78-79 | Peter Lee (7) | Peter Lee (10) | George Ferguson (3)  
+77-78 | Jean Pronovost (5) | Jean Pronovost (12) | Pete Mahovlich, Jean Pronovost (2)  
+76-77 | Pierre Larouche (6) | Pierre Larouche (8) | Syl Apps (2)  
+75-76 | Syl Apps, Bob Kelly (4) | Pierre Larouche (18) | Lew Morrison, Jean Pronovost (2)  
+74-75 | Jean Pronovost (9) | Jean Pronovost (11) | Vic Hadfield (4)  
+73-74 | Al McDonough (4) | Lowell McDonald (9) | Syl Apps (4)  
+72-73 | Jean Pronovost (5) | Greg Polis, Eddie Shack (8) | Ron Schock (3)  
+71-72 | Bryan Hextall (5) | Greg Polis (8) | Ron Schock (2)  
+70-71 | Andy Bathgate, Keith McCreary (3) | Andy Bathgate, Dean Prentice (7) | Ron Schock (2)  
+69-70 | Ken Schinkel (5) | Dean Prentice (12) | Val Fonteyne, Ron Schock (1)  
+68-69 | Keith McCreary (4) | Keith McCreary, Ken Schinkel (8) | Jean Pronovost, Bob Woytowich (2)  
+67-68 | Andy Bathgate (4) | Ab McDonald (6) | Ab McDonald, Earl Ingarfield (1)  
+Year | GW Goals | PP Goals | SH Goals  
+  
+  
+
+
+24-25 | Kris Letang (52) | Sidney Crosby (227) | Danton Heinen, Bokondji Imama (2)  
+---|---|---|---  
+23-24 | Evgeni Malkin (70) | Sidney Crosby (278) | Marcus Pettersson (28)  
+22-23 | Evgeni Malkin (82) | Sidney Crosby (255) | Sidney Crosby, P.O Joseph (8)  
+21-22 | Kris Letang (49) | Jake Guentzel (264) | Brian Dumoulin (24)  
+20-21 | Kris Letang (32) | Sidney Crosby (159) | Kris Letang (19)  
+19-20 | Evgeni Malkin (58) | Kris Letang (177) | Brian Dumoulin, John Marino (17)  
+18-19 | Evgeni Malkin (89) | Jake Guentzel (227) | Brian Dumoulin (31)  
+17-18 | Evgeni Malkin (87) | Phil Kessel (261) | Justin Schultz (22)  
+16-17 | Evgeni Malkin (77) | Sidney Crosby (255) | Justin Schultz (27)  
+15-16 | Kris Letang (66) | Phil Kessel (274) | Chris Kunitz (29)  
+14-15 | Steve Downie (238) | Sidney Crosby (237) | Paul Martin (17)  
+13-14 | Tanner Glass (90) | Sidney Crosby (259) | Matt Niskanen (33)  
+12-13 | Tanner Glass (62) | Pascal Dupuis (140) | Pascal Dupuis (31)  
+11-12 | James Neal (87) | Evgeni Malkin (339) | Kris Letang (21)  
+10-11 | Matt Cooke (128) | Kris Letang (236) | Sidney Crosby (20)  
+09-10 | Mike Rupp (120) | Sidney Crosby (298) | Jordan Staal (19)  
+08-09 | Eric Godard (171) | Evgeni Malkin (290) | Rob Scuderi (23)  
+07-08 | Georges Laraque (141) | Evgeni Malkin (272) | Sidney Crosby (18)  
+06-07 | Jarkko Ruutu (125) | Sidney Crosby (250) | Jordan Staal (16)  
+05-06 | Eric Cairns, Brooks Orpik (124) | Sidney Crosby (278) | Colby Armstrong (15)  
+04-05 | Lockout Season | Lockout Season | Lockout Season  
+03-04 | Brooks Orpik (127) | Rico Fata (163) | Robert Scuderi (2)  
+02-03 | Steve McKenna (128) | Mario Lemieux (235) | Guillaume Lefebvre (2)  
+01-02 | Krzysztof Oliwa (150) | Alexei Kovalev (266) | Robert Lang (9)  
+00-01 | Krzysztof Oliwa (165) | Jaromir Jagr (317) | Robert Lang (20)  
+99-00 | Matthew Barnaby (197) | Jaromir Jagr (290) | Jaromir Jagr (25)  
+98-99 | Brad Werenka (93) | Jaromir Jagr (343) | German Titov (18)  
+97-98 | Chris Tamer (181) | Jaromir Jagr (262) | Jaromir Jagr (17)  
+96-97 | Dave Roche (155) | Mario Lemieux (327) | Mario Lemieux (27)  
+95-96 | Francois Leroux (161) | Jaromir Jagr (403) | Petr Nedved (37)  
+94-95 | Francois Leroux (114) | Jaromir Jagr (192) | Ron Francis (30)  
+93-94 | Kevin Stevens (155) | Jaromir Jagr (298) | Martin Straka (24)  
+92-93 | Rick Tocchet (252) | Kevin Stevens (326) | Mario Lemieux (55)  
+91-92 | Kevin Stevens (252) | Kevin Stevens (325) | Larry Murphy (33)  
+90-91 | Ulf Samuelsson (211) | Kevin Stevens (253) | Gord Roberts (17)  
+89-90 | Kevin Stevens (171) | Paul Coffey (324) | Randy Hillier (11)  
+88-89 | Jay Caulfield (285) | Paul Coffey (342) | Mario Lemieux (41)  
+87-88 | Rod Buskas (206) | Mario Lemieux (382) | Mario Lemieux (23)  
+86-87 | Dan Frawley (218) | Mario Lemieux (267) | Randy Cunneyworth (14)  
+85-86 | Dan Frawley (174) | Mario Lemieux (276) | Mike Blaisdell (15)  
+84-85 | Gary Rissling (209) | Mario Lemieux (209) | Gary Rissling (-6)  
+83-84 | Gary Rissling (297) | Ron Flockhart (214) | Bryan Maxwell (3)  
+82-83 | Paul Baxter (238) | Rick Kehoe (203) | Peter Lee (-9)  
+81-82 | Paul Baxter (409) | Rick Kehoe (249) | Gregg Sheppard (9)  
+80-81 | Paul Baxter (204) | Rick Kehoe (299) | Mark Johnson (4)  
+79-80 | Kim Clackson (166) | Rick Kehoe (239) | Ron Stackhouse (16)  
+78-79 | Dave Schultz (157) | Jean Pronovost (219) | Ron Stackhouse (21)  
+77-78 | Dave Schultz (378) | Jean Pronovost (219) | Pete Mahovlich (4)  
+76-77 | Bob Kelly (115) | Rick Kehoe (250) | Bob Kelly (13)  
+75-76 | Steve Durbano (161) | Pierre Larouche (319) | Dave Burrows (27)  
+74-75 | Colin Campbell (172) | Jean Pronovost (275) | Barry Wilkins (29)  
+73-74 | Steve Durbano (138) | Lowell McDonald (260) | Syl Apps (21)  
+72-73 | Bryan Watson (179) | Al McDonough (284) | Lowell McDonald (37)  
+71-72 | Bryan Watson (212) | Jean Pronovost (214) | Syl Apps (18)  
+70-71 | Bryan Watson (133) | Jean Pronovost (225) | Wally Boyer (10)  
+69-70 | Bryan Watson (189) | Ken Schinkel (225) | Bryan Watson (-1)  
+68-69 | Dunc McCallum (81) | Ken Schinkel (225) | Gene Ubriaco (E)  
+67-68 | Leo Boivin (74) | Andy Bathgate (293) | Paul Andrea (-2)  
+Year | PIM | Shots | Plus/Minus  
+  
+  
+
+
+24-25 | Tristan Jarry(3.12) | Tristan Jarry (16) | Tristan Jarry (2)  
+---|---|---|---  
+23-24 | Tristan Jarry (2.91) | Tristan Jarry (19) | Tristan Jarry (6)  
+22-23 | Tristan Jarry (2.90) | Tristan Jarry (24) | Tristan Jarry (2)  
+21-22 | Tristan Jarry (2.42) | Tristan Jarry (34) | Tristan Jarry (4)  
+20-21 | Tristan Jarry (2.75) | Tristan Jarry (25) | Tristan Jarry, Casey DeSmith (2)  
+19-20 | Matt Murray (2.87) | Tristan Jarry, Matt Murray (20) | Tristan Jarry (3)  
+18-19 | Matt Murray (2.69) | Matt Murray (29) | Matt Murray (4)  
+17-18 | Tristan Jarry (2.77) | Matt Murray (27) | Tristan Jarry (2)  
+16-17 | Matt Murray (2.41) | Matt Murray (32) | Matt Murray (4)  
+15-16 | Matt Murray (2.00) | Marc-Andre Fleury (35) | Marc-Andre Fleury (5)  
+14-15 | Marc-Andre Fleury (2.32) | Marc-Andre Fleury (34) | Marc-Andre Fleury (10)  
+13-14 | Marc-Andre Fleury (2.37) | Marc-Andre Fleury (39) | Marc-Andre Fleury (5)  
+12-13 | Marc-Andre Fleury (2.39) | Marc-Andre Fleury (23) | Tomas Vokoun (3)  
+11-12 | Marc-Andre Fleury (2.36) | Marc-Andre Fleury (42) | Marc-Andre Fleury (3)  
+10-11 | Brent Johnson (2.17) | Marc-Andre Fleury (36) | Marc-Andre Fleury (1)  
+09-10 | Marc-Andre Fleury (2.65) | Marc-Andre Fleury (37) | Marc-Andre Fleury (1)  
+08-09 | Marc-Andre Fleury (2.67) | Marc-Andre Fleury (35) | Marc-Andre Fleury (4)  
+07-08 | Marc-Andre Fleury (2.33) | Marc-Andre Fleury (19) | Marc-Andre Fleury (4)  
+06-07 | Marc-Andre Fleury, Jocelyn Thibault (2.83) | Marc-Andre Fleury (40) | Marc-Andre Fleury (5)  
+05-06 | Marc-Andre Fleury (3.25) | Marc-Andre Fleury (13) | Marc-Andre Fleury, Sebastien Caron (1)  
+04-05 | Lockout Season | Lockout Season | Lockout Season  
+03-04 | Jean-Sebastien Aubin (2.98) | Sebastien Caron (9) | Jean-Sebastien Aubin, Sebastien Caron, Marc-Andre Fleury (1)  
+02-03 | Sebastian Caron (2.64) | Johan Hedberg (14) | Sebastien Caron (3)  
+01-02 | Johan Hedberg (2.75) | Johan Hedberg (25) | Johan Hedberg (6)  
+00-01 | Johan Hedberg (2.64) | Jean-Sebastien Aubin (20) | Garth Snow (3)  
+99-00 | Jean-Sebastien Aubin (2.58) | Jean-Sebastien Aubin (21) | Jean-Sebastien Aubin (2)  
+98-99 | Jean-Sebastien Aubin (2.22) | Tom Barrasso (19) | Tom Barrasso (4)  
+97-98 | Tom Barrasso (2.07) | Tom Barrasso (31) | Tom Barrasso (7)  
+96-97 | Patrick Lalime (2.94) | Patrick Lalime (21) | Ken Wregget (3)  
+95-96 | Ken Wregget (3.24) | Tom Barrasso (29) | Ken Wregget (3)  
+94-95 | Ken Wregget (3.21) | Ken Wregget (25) | none  
+93-94 | Tom Barrasso (3.36) | Tom Barrasso (22) | Tom Barrasso (2)  
+92-93 | Tom Barrasso (3.01) | Tom Barrasso (43) | Tom Barrasso (4)  
+91-92 | Tom Barrasso (3.53) | Tom Barrasso (25) | Tom Barrasso (1)  
+90-91 | Tom Barrasso (3.59) | Tom Barrasso (27) | Tom Barrasso (1)  
+89-90 | Wendell Young (4.17) | Wendell Young (16) | Wendell Young (1)  
+88-89 | Tom Barrasso (4.04) | Tom Barrasso (18) | none  
+87-88 | Steve Guenette (3.35) | Steve Guenette (12) | Steve Guenette, Frank Pietrangelo (1)  
+86-87 | Gilles Meloche (3.43) | Gilles Meloche (13) | none  
+85-86 | Roberto Romano (3.56) | Roberto Romano (21) | Roberto Romano (2)  
+84-85 | Roberto Romano (4.42) | Denis Herron (10) | Denis Herron, Roberto Romano (1)  
+83-84 | Denis Herron (4.08) | Denis Herron (8) | Denis Herron, Roberto Romano (1)  
+82-83 | Michel Dion (4.26) | Michel Dion (12) | Denis Herron (1)  
+81-82 | Michel Dion (3.79) | Michel Dion (15) | Gary Edwards (1)  
+80-81 | Greg Millen (4.16) | Greg Millen (25) | none  
+79-80 | Greg Millen (3.64) | Greg Millen (18) | Greg Millen (2)  
+78-79 | Denis Herron (3.37) | Denis Herron (22) | Greg Millen (2)  
+77-78 | Denis Herron (3.57) | Denis Herron (20) | none  
+76-77 | Denis Herron (2.94) | Dunc Wilson (18) | Dunc Wilson (5)  
+75-76 | Michel Plasse (3.45) | Michel Plasse (24) | Michel Plasse (2)  
+74-75 | Gary Inness (3.09) | Gary Inness (24) | Gary Inness (2)  
+73-74 | Jim Rutherford (3.44) | Andy Brown (13) | Andy Brown (1)  
+72-73 | Jim Rutherford (2.91) | Jim Rutherford (20) | Jim Rutherford (3)  
+71-72 | Jim Rutherford (3.22) | Jim Rutherford (17) | Jim Rutherford (1)  
+70-71 | Les Binkley (2.86) | Les Binkley (11) | Les Binkley, Al Smith (2)  
+69-70 | Al Smith (3.03) | Al Smith (15) | Les Binkley (3)  
+68-69 | Joe Daley (3.20) | Les Binkley, Joe Daley (10) | Joe Daley (2)  
+67-68 | Hank Bassen (2.86) | Les Binkley (20) | Les Binkley (6)  
+Year | *GAA | Wins | Shutouts  
+  
+*Min. 25 GP since 1982
+
+Founding Partners 
+
+  * X
+  * Instagram
+  * Facebook
+  * YouTube
+  * TikTok
+  * LinkedIn
+
+
+
+  * Privacy Policy
+  * Contact Us
+
+
+
+pittsburghpenguins.com is the official website of the Pittsburgh Penguins. The Pittsburgh Penguins and pittsburghpenguins.com are trademarks of Pittsburgh Penguins LP. NHL, the NHL Shield, the word mark and image of the Stanley Cup and the word mark NHL Winter Classic are registered trademarks and NHL Stadium Series name and logo and the NHL Winter Classic logo are trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. (C) NHL 2025. All Rights Reserved. 
+
+  * NHL.com Terms of Service
+  * NHL.com Privacy Policy
+  * Cookie Policy
+  * Cookie Settings
+  * Copyright Policy
+  * Employment
+
+
+
+Close
