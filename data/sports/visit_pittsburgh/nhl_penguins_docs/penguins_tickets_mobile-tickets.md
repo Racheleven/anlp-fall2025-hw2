@@ -1,0 +1,215 @@
+# https://www.nhl.com/penguins/tickets/mobile-tickets
+
+Skip to Main Content 
+
+  * Tickets
+    * Ticket Central
+    * Season Memberships
+    * 12-Packs
+    * Premium Seating
+    * Group Tickets
+    * Single Game Tickets
+    * Promotional Schedule
+    * Special Offers
+    * 3D Seat Map
+  * Team
+    * Roster
+    * In the System
+    * Penguins Hall of Fame
+    * Front Office Staff
+  * News
+  * Schedule
+
+Navigation Menu
+
+  * Video
+  * Scores
+  * Stats
+  * Community Community 
+    * Community Initiatives
+    * Pittsburgh Penguins Foundation
+    * Mario Lemieux Foundation
+    * UPMC Healthcare Heroes
+    * Iceburgh Appearances
+    * Future Goals Hockey Scholar
+    * Locker Room Leadership
+    * Public Skate at UPMC66
+    * 50/50 Raffle
+    * PPS All-Stars
+    * Youth Hockey
+  * Fans Fans 
+    * Fan Central
+    * Sign Up for Penguins Texts
+    * Sign up for Penguins Emails
+    * Download the Penguins App
+    * Contact Us
+    * Contest and Promotions
+    * Colorful Fans
+    * Book an Event
+    * Mobile Wallpapers
+    * FNB Power Play Package
+    * Players on Social
+  * Game Day Game Day 
+    * Game Day Information
+    * Know Before You Go
+    * Parking and Directions
+    * Birthday and Anniversary Greetings
+    * Fan Guides
+    * PPG Paints Arena Information
+    * Penguins Radio Network
+    * How to Watch Games
+    * Commemorative Tickets
+    * Ice Crew
+    * NHL Fan Code of Conduct
+  * Hall of Fame
+  * Shop Shop 
+    * PensGear
+    * Penguins Authentics
+    * NHL Shop
+    * NHL Auctions
+  * League
+  * Help
+
+
+  * NHL.com
+  * 
+
+
+Ticket Central
+
+  * Season Memberships
+  * 12-Packs
+  * Premium Seating
+  * Group Tickets
+  * Single Game Tickets
+  * Special Offers
+  * 3D Seat Map
+
+
+
+### We've Gone Mobile!
+
+With the increased focus on secure, contactless entry, PPG Paints Arena is now a mobile-only facility. Fans, including season ticket holders, will be required to show a mobile ticket via a smartphone to gain entry. Fans can access their tickets by visiting www.pittsburghpenguins.com/myaccount or by clicking 'Manage My Tickets' from the Tickets menu in the Penguins App. If tickets were purchased through ticketmster.com the Ticketmaster App is recommended.
+
+IMPORTANT: Screenshots of barcodes and 8 Â½ x 11 PDF tickets will not be accepted at any PPG Paints Arena event.
+
+#### Accessing Tickets on the Penguins App
+
+1\. After selecting 'Tickets' from the Penguins App home page, click 'Manage My Tickets'.
+
+2\. Sign in using your email address and password. If a Penguins or Ticketmaster account is not found, you will be required to create one.
+
+3\. Click the game you want to manage.
+
+4\. Select action: Transfer, Sell, Add to Wallet or View Barcode.
+
+5\. For gate entry, return to mobile wallet or 'View Barcode'.
+
+remove add Why did we move to mobile ticketing?
+
+It is our goal to provide a safe, secure and enjoyable experience for all fans. Mobile ticketing is just one of many initiatives implemented at PPG Paints Arena to make you feel confident when attending games and concerts.
+
+remove add How do I view tickets without the app?
+
+If you purchased primary ticket through www.ticketmaster.com:
+
+  1. Open your Ticketmaster App or visit www.ticketmaster.com using your mobile device.
+  2. Login to your Ticketmaster account and locate the order with your ticket(s).
+  3. Tap the event. A rotating barcode will appear.
+  4. To see the next ticket in your purchase, you must swipe to the left.
+  5. At the game, a ticket taker will scan each rotating barcode from your mobile device.
+  6. For offline use, we encourage you to store your ticket(s) in your mobile wallet.
+
+
+
+IMPORTANT: Tickets placed in a mobile wallet will not have a visible barcode. This is okay! Tap the ticket and hold your phone near the reader for the ticket to scan.
+
+If you are a Penguins season ticket holder, received tickets forwarded from a friend, or purchased resale tickets, you can view your tickets on your mobile device through Account Manager:
+
+  1. Visit www.pittsburghpenguins.com/myaccount
+  2. Sign in to an existing account with your email address. If an account does not exist, you will be redirected to www.ticketmaster.com to create a new one.
+  3. Once successfully logged in, click the menu in the top left corner and select 'Manage Tickets'.
+  4. Tap the event.
+  5. Select the seat to view the rotating barcode. Swipe to the left to view additional seats.
+
+
+
+IMPORTANT: Fans are encouraged to store tickets in their mobile wallet for offline use. Note, tickets saved in a mobile wallet will not display a barcode. This is okay! Tap the ticket and hold your phone near the reader for the ticket to scan.
+
+remove add How do I send family their tickets?
+
+All fans have the ability to transfer tickets to friends or family via My Penguins Account (Account Manager). Follow these steps:
+
+  1. Visit www.pittsburghpenguins.com/myaccount and log in with the email address associated to the purchase.
+  2. Find the game for which you'd like to send tickets. Click 'Transfer'.
+  3. Select a contact from your address book or enter the recipient's email address.
+  4. Confirm all information was entered correctly and click 'Confirm Transfer'.
+  5. To accept the tickets, your friend or family member MUST create an account.
+
+
+
+remove add What if I don't have a smartphone?
+
+On a Penguins game day, please visit the Guest Service windows at the DICK'S Sporting Goods Box Office located inside the Highmark Gate.Â As long as you have a photo ID and a valid Penguins or Ticketmaster account, our staff will assist with gate entry.
+
+remove add What if my phone loses connectivity?
+
+We encourage fans to place their tickets in their mobile wallet for offline use. If you are still unable to access your tickets, please visit the Guest Service windows at the DICK'S Sporting Goods Box Office located inside the Highmark Gate.Â As long as you have a photo ID and a valid Penguins or Ticketmaster account, our staff will assist with gate entry.
+
+remove add What does a mobile ticket look like?
+
+A mobile ticket contains a unique rotating barcode. It also includes the information found on a traditional paper ticket such as game date, time, section, row, seat, etc.
+
+Note, printouts or screenshots of a rotating barcode cannot be scanned.
+
+remove add What if my phone is not compatible?
+
+Any smartphone that can browse the internet can load a mobile ticket. If you don't have a smartphone, please go directly to the Guest Service windows at the DICK'S Sporting Goods Box Office located inside the Highmark Gate.Â As long as you have a photo ID and a valid Penguins or Ticketmaster account, our staff will assist with gate entry.
+
+remove add What does it cost to use a mobile ticket?
+
+There is no mobile delivery fee associated with a mobile ticket. However, your cellular carrier may charge a fee to browse the internet on your smartphone. Please consult your cellular plan for any additional charges.
+
+remove add How do I transfer tickets via the app?
+
+  1. After selecting the preferred game, click 'Transfer'.
+  2. Check the box below each seat you want to transfer. Click 'Transfer To'.
+  3. To send tickets via text or email, you must select an address book contact or manually enter a phone number or email address.
+
+
+
+Download the free Penguins app for iPhone and Android by searching "Pittsburgh Penguins" in theÂ App StoreÂ or onÂ Google Play, or update to the newest release today!
+
+For additional assistance, including log in troubleshooting, please call 412.642.PENS to speak to a Pittsburgh Penguins Ticketing Representative.
+
+|   
+---|---  
+  
+Founding Partners 
+
+  * X
+  * Instagram
+  * Facebook
+  * YouTube
+  * TikTok
+  * LinkedIn
+
+
+
+  * Privacy Policy
+  * Contact Us
+
+
+
+pittsburghpenguins.com is the official website of the Pittsburgh Penguins. The Pittsburgh Penguins and pittsburghpenguins.com are trademarks of Pittsburgh Penguins LP. NHL, the NHL Shield, the word mark and image of the Stanley Cup and the word mark NHL Winter Classic are registered trademarks and NHL Stadium Series name and logo and the NHL Winter Classic logo are trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. (C) NHL 2025. All Rights Reserved. 
+
+  * NHL.com Terms of Service
+  * NHL.com Privacy Policy
+  * Cookie Policy
+  * Cookie Settings
+  * Copyright Policy
+  * Employment
+
+
+
+Close

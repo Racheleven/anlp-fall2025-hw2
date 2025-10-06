@@ -1,0 +1,5437 @@
+# CMU Events
+
+These events are from the [CMU Events Website](https://events.cmu.edu/).
+
+---
+
+### [Event Name]: Libraries Workshop: Text Analysis in R: Exploring Banned Books
+**Date:** 2025-10-09
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/24843-libraries-workshop-text-analysis-in-r-exploring
+
+
+### [Event Name]: Libraries Workshop: Communicating Data: Tableau
+**Date:** 2025-10-09
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/24844-libraries-workshop-communicating-data-tableau
+
+
+### [Event Name]: Swartz Center CONNECTS Seminar Series
+**Date:** 2025-10-09
+
+**Location:** Swartz Center for Entrepreneurship, Tepper Building, or Zoom
+
+**Summary:** The Swartz Center for Entrepreneurship’s CONNECTS seminar series enhances the experiential education of any individual interested in innovation and entrepreneurship.
+
+**More details:** https://events.cmu.edu/event/23705-swartz-center-connects-seminar-series
+
+
+### [Event Name]: Libraries Workshop: Handling and Navigating Pandas Dataframes in Python
+**Date:** 2025-10-09
+
+**Location:** Sorrells Library Den, Wean Hall
+
+**More details:** https://events.cmu.edu/event/24845-libraries-workshop-handling-and-navigating-pandas
+
+
+### [Event Name]: Libraries Workshop: Introduction to Research Data Management
+**Date:** 2025-10-09
+
+**Location:** Sorrells Library Den, Wean Hall
+
+**More details:** https://events.cmu.edu/event/24846-libraries-workshop-introduction-to-research-data
+
+
+### [Event Name]: Lawfully Speaking - From Science to Strategy: Navigating a Career at the Nexus of Law, Technology, and Policy with Lala Qadir
+**Date:** 2025-10-09
+
+**Location:** Posner Hall, Grand Room (340)
+
+**Summary:** Join us for this Fall’s Lawfully Speaking with Lala Qadir, Senior Director of Technology Security and AI Policy at Microsoft, as she shares her perspectives from a multidisciplinary career across science, consulting, law, national security, and technology policy.
+
+**More details:** https://events.cmu.edu/event/25312-lawfully-speaking-from-science-to-strategy-navigating-
+
+
+### [Event Name]: Book Launch - Time Well Spent: An American Architect in Europe, 1893
+**Date:** 2025-10-09
+
+**Location:** Frank-Ratchye STUDIO for Creative Inquiry, College of Fine Arts Room 111
+
+**Summary:** Carnegie Mellon University Press invites you to the launch of Time Well Spent: An American Architect in Europe, 1893, a new book by School of Architecture Assistant Teaching Professor Francesca Torello that brings to life the extraordinary travels and experiences of young Henry Hornbostel.
+
+**More details:** https://events.cmu.edu/event/26257-book-launch-time-well-spent-an-american-architect-in-e
+
+
+### [Event Name]: Check In: Staying Accountable to Your Goals (In Person Peer Connect Gathering)
+**Date:** 2025-10-09
+
+**Location:** Room 5403, Wean Hall
+
+**Summary:** Take time to reflect on how much progress you’re making on your professional goals.
+
+**More details:** https://events.cmu.edu/event/25309-check-in-staying-accountable-to-your-goals-in
+
+
+### [Event Name]: Carnegie Mellon Opera: Putting it Together
+**Date:** 2025-10-09
+
+**Location:** WQED Studio A @ 4802 Fifth Ave, Pittsburgh, PA, 15213, United States
+
+**More details:** https://events.cmu.edu/https://events.time.ly/vdibqnd/43901204
+
+
+### [Event Name]: CMU Drama Presents: The House of Bernarda Alba
+**Date:** 2025-10-09
+
+**Location:** Purnell Center for the Arts, Philip Chosky Theater
+
+**Summary:** The School of Drama presents “The House of Bernarda Alba” by Federico García Lorca, adapted by Chay Yew and directed by Samantha Pazos.
+
+**More details:** https://events.cmu.edu/event/26235-cmu-drama-presents-the-house-of-bernarda-alba
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-09
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-09
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-09
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-09
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-09
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-09
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Libraries Workshop: Text Analysis in R: Exploring Banned Books
+**Date:** 2025-10-10
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/24847-libraries-workshop-text-analysis-in-r-exploring
+
+
+### [Event Name]: Astro Lunch Seminar: Adrian Price-Whelan (CCA)
+**Date:** 2025-10-10
+
+**Location:** Wean Hall (8330)
+
+**More details:** https://events.cmu.edu/event/26151-astro-lunch-seminar-adrian-price-whelan-cca
+
+
+### [Event Name]: Workshop - Practical Uses of GenAI for Academics
+**Date:** 2025-10-10
+
+**Location:** Wean Hall, Room 1327, or Online (Hybrid)
+
+**More details:** https://events.cmu.edu/event/25553-workshop-practical-uses-of-genai-for-academics
+
+
+### [Event Name]: (Women’s Volleyball) Capital vs. Carnegie Mellon
+**Date:** 2025-10-10
+
+**More details:** https://events.cmu.edu/event/23900-womens-volleyball-capital-vs-carnegie-mellon
+
+
+### [Event Name]: Carnegie Mellon Opera: Putting it Together
+**Date:** 2025-10-10
+
+**Location:** WQED Studio A @ 4802 Fifth Ave, Pittsburgh, PA, 15213, United States
+
+**More details:** https://events.cmu.edu/https://events.time.ly/vdibqnd/43901205
+
+
+### [Event Name]: CMU Drama Presents: The House of Bernarda Alba
+**Date:** 2025-10-10
+
+**Location:** Purnell Center for the Arts, Philip Chosky Theater
+
+**Summary:** The School of Drama presents “The House of Bernarda Alba” by Federico García Lorca, adapted by Chay Yew and directed by Samantha Pazos.
+
+**More details:** https://events.cmu.edu/event/26236-cmu-drama-presents-the-house-of-bernarda-alba
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-10
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-10
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-10
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-10
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Mini-1 Last Day of Classes
+**Date:** 2025-10-10
+
+**More details:** https://events.cmu.edu/event/22001-mini-1-last-day-of-classes
+
+
+### [Event Name]: Mini-1 Voucher Election Deadline
+**Date:** 2025-10-10
+
+**More details:** https://events.cmu.edu/event/22002-mini-1-voucher-election-deadline
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-10
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-10
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: (Men’s Soccer) Chicago vs. Carnegie Mellon
+**Date:** 2025-10-11
+
+**More details:** https://events.cmu.edu/event/23897-mens-soccer-chicago-vs-carnegie-mellon
+
+
+### [Event Name]: (Women’s Soccer) Chicago vs. Carnegie Mellon
+**Date:** 2025-10-11
+
+**More details:** https://events.cmu.edu/event/23895-womens-soccer-chicago-vs-carnegie-mellon
+
+
+### [Event Name]: CMU Drama Presents: The House of Bernarda Alba
+**Date:** 2025-10-11
+
+**Location:** Purnell Center for the Arts, Philip Chosky Theater
+
+**Summary:** The School of Drama presents “The House of Bernarda Alba” by Federico García Lorca, adapted by Chay Yew and directed by Samantha Pazos.
+
+**More details:** https://events.cmu.edu/event/26238-cmu-drama-presents-the-house-of-bernarda-alba
+
+
+### [Event Name]: CMU Drama Presents: The House of Bernarda Alba
+**Date:** 2025-10-11
+
+**Location:** Purnell Center for the Arts, Philip Chosky Theater
+
+**Summary:** The School of Drama presents “The House of Bernarda Alba” by Federico García Lorca, adapted by Chay Yew and directed by Samantha Pazos.
+
+**More details:** https://events.cmu.edu/event/26237-cmu-drama-presents-the-house-of-bernarda-alba
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-11
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-11
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-11
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-11
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Mini-1 Exams
+**Date:** 2025-10-11
+
+**More details:** https://events.cmu.edu/event/21999-mini-1-exams
+
+
+### [Event Name]: Mini-1 FCEs close
+**Date:** 2025-10-11
+
+**More details:** https://events.cmu.edu/event/22000-mini-1-fces-close
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-11
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-11
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: (Women’s Volleyball) Rochester (N.Y.) vs. Carnegie Mellon
+**Date:** 2025-10-12
+
+**Location:** Case Western Reserve University - Cleveland, Ohio
+
+**More details:** https://events.cmu.edu/event/23894-womens-volleyball-rochester-ny-vs-carnegie-mellon
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-12
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-12
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-12
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-12
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-12
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-12
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: (Men’s Golf) Tartan Invitational
+**Date:** 2025-10-13
+
+**More details:** https://events.cmu.edu/event/23892-mens-golf-tartan-invitational
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-13
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-13
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: CHI PLAY 2025
+**Date:** 2025-10-13
+
+**Location:** On Campus and Online
+
+**Summary:** The Annual Symposium on Computer-Human Interaction in Play (CHI PLAY) is coming to CMU in 2025!
+
+**More details:** https://events.cmu.edu/event/26128-chi-play-2025
+
+
+### [Event Name]: Fall Break; No Classes
+**Date:** 2025-10-13
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-13
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-13
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-13
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Shemini Atzeret Begins
+**Date:** 2025-10-13
+
+**Summary:** Immediately following the seven-day Jewish festival of Sukkot, Shemini Atzeret involves festive meals, which may happen in the sukkah.
+
+**More details:** https://events.cmu.edu/event/22276-shemini-atzeret-begins
+
+
+### [Event Name]: Sukkot Ends
+**Date:** 2025-10-13
+
+**Summary:** Sometimes called the Feast of Tabernacles, Sukkot is a seven-day Jewish holiday of thanks for the fall harvest which involves building and spending time in a sukkah.
+
+**More details:** https://events.cmu.edu/event/22275-sukkot-ends
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-13
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Tepper School Silicon Valley Trek Alumni Gathering
+**Date:** 2025-10-14
+
+**Location:** Fremont, CA (address to be shared with RSVPs)
+
+**More details:** https://events.cmu.edu/event/26142-tepper-school-silicon-valley-trek-alumni-gathering
+
+
+### [Event Name]: (Men’s Golf) Tartan Invitational
+**Date:** 2025-10-14
+
+**More details:** https://events.cmu.edu/event/23891-mens-golf-tartan-invitational
+
+
+### [Event Name]: 2025 SBP-BRiMS and IDeaS Conferences
+**Date:** 2025-10-14
+
+**Location:** Scaife Hall
+
+**Summary:** The SBP-BRiMS (Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation) and IDeaS (Center for Informed Democracy & Social - cybersecurity) conferences will be co-located at Carnegie Mellon University this fall.
+
+**More details:** https://events.cmu.edu/event/14610-2025-sbp-brims-and-ideas-conferences
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-14
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-14
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: CHI PLAY 2025
+**Date:** 2025-10-14
+
+**Location:** On Campus and Online
+
+**Summary:** The Annual Symposium on Computer-Human Interaction in Play (CHI PLAY) is coming to CMU in 2025!
+
+**More details:** https://events.cmu.edu/event/26128-chi-play-2025
+
+
+### [Event Name]: Fall Break; No Classes
+**Date:** 2025-10-14
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-14
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-14
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-14
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Simchat Torah Begins
+**Date:** 2025-10-14
+
+**Summary:** On Simchat Torah, Jews celebrate the completion of the annual reading of the Torah and affirm Torah as a pillar on which to build life.
+
+**More details:** https://events.cmu.edu/event/22277-simchat-torah-begins
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-14
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Staff Supervisory Awareness Program: Session 303, Managing an Effective and Engaged Workforce
+**Date:** 2025-10-15
+
+**Summary:** This session will cover the fair and equitable process for determining post-hire employment actions, how to manage time away from work, workplace accommodations and how to champion CMU’s wellness initiatives.
+
+**More details:** https://events.cmu.edu/event/22343-staff-supervisory-awareness-program-session-303
+
+
+### [Event Name]: Tepper School Aerospace Club and Seattle Alumni Dinner
+**Date:** 2025-10-15
+
+**Location:** Pittsburgh
+
+**More details:** https://events.cmu.edu/event/26116-tepper-school-aerospace-club-and-seattle-alumni-dinner
+
+
+### [Event Name]: Paws to Relax: Weekly Pet Therapy Program
+**Date:** 2025-10-15
+
+**Location:** Well-being Lab (Room 104), Wellness &amp; Meaning-Making Suite, First Floor, Highmark Center for Health, Wellness and Athletics
+
+**Summary:** Volunteers through Animal Friend’s Therapet program will join us on Wednesdays, from 6:30-7:30 p.m., to offer some friendly dog companions for the hour.
+
+**More details:** https://events.cmu.edu/event/24555-paws-to-relax-weekly-pet-therapy-program
+
+
+### [Event Name]: 2025 SBP-BRiMS and IDeaS Conferences
+**Date:** 2025-10-15
+
+**Location:** Scaife Hall
+
+**Summary:** The SBP-BRiMS (Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation) and IDeaS (Center for Informed Democracy & Social - cybersecurity) conferences will be co-located at Carnegie Mellon University this fall.
+
+**More details:** https://events.cmu.edu/event/14610-2025-sbp-brims-and-ideas-conferences
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-15
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-15
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: CHI PLAY 2025
+**Date:** 2025-10-15
+
+**Location:** On Campus and Online
+
+**Summary:** The Annual Symposium on Computer-Human Interaction in Play (CHI PLAY) is coming to CMU in 2025!
+
+**More details:** https://events.cmu.edu/event/26128-chi-play-2025
+
+
+### [Event Name]: Fall Break; No Classes
+**Date:** 2025-10-15
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-15
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-15
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-15
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Shemini Atzeret and Simchat Torah End
+**Date:** 2025-10-15
+
+**More details:** https://events.cmu.edu/event/22278-shemini-atzeret-and-simchat-torah-end
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-15
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: 2025 SBP-BRiMS and IDeaS Conferences
+**Date:** 2025-10-16
+
+**Location:** Scaife Hall
+
+**Summary:** The SBP-BRiMS (Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation) and IDeaS (Center for Informed Democracy & Social - cybersecurity) conferences will be co-located at Carnegie Mellon University this fall.
+
+**More details:** https://events.cmu.edu/event/14610-2025-sbp-brims-and-ideas-conferences
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-16
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-16
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: CHI PLAY 2025
+**Date:** 2025-10-16
+
+**Location:** On Campus and Online
+
+**Summary:** The Annual Symposium on Computer-Human Interaction in Play (CHI PLAY) is coming to CMU in 2025!
+
+**More details:** https://events.cmu.edu/event/26128-chi-play-2025
+
+
+### [Event Name]: Fall Break; No Classes
+**Date:** 2025-10-16
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-16
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-16
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-16
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-16
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: CMIST Graduate Program Open House
+**Date:** 2025-10-17
+
+**Summary:** Join us for a virtual information session to learn more about the graduate programs that CMIST offers.
+
+**More details:** https://events.cmu.edu/event/25253-cmist-graduate-program-open-house
+
+
+### [Event Name]: 2025 SBP-BRiMS and IDeaS Conferences
+**Date:** 2025-10-17
+
+**Location:** Scaife Hall
+
+**Summary:** The SBP-BRiMS (Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation) and IDeaS (Center for Informed Democracy & Social - cybersecurity) conferences will be co-located at Carnegie Mellon University this fall.
+
+**More details:** https://events.cmu.edu/event/14610-2025-sbp-brims-and-ideas-conferences
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-17
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-17
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Fall Break; No Classes
+**Date:** 2025-10-17
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-17
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-17
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-17
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-17
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: (Football) Gettysburg vs. Carnegie Mellon
+**Date:** 2025-10-18
+
+**More details:** https://events.cmu.edu/event/23881-football-gettysburg-vs-carnegie-mellon
+
+
+### [Event Name]: (Women’s Volleyball) Muskingum vs. Carnegie Mellon
+**Date:** 2025-10-18
+
+**Location:** Marietta College - Marietta, Ohio
+
+**More details:** https://events.cmu.edu/event/23882-womens-volleyball-muskingum-vs-carnegie-mellon
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-18
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-18
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-18
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-18
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-18
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-18
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Antisemitism, an American Tradition: Pamela Nadell in Conversation with Bret Stephens
+**Date:** 2025-10-19
+
+**Location:** Cohon University Center, McConomy Auditorium
+
+**Summary:** Presented by The Tree of Life in partnership with Carnegie Mellon University
+
+**More details:** https://events.cmu.edu/event/26242-antisemitism-an-american-tradition-pamela-nadell
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-19
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-19
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-19
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-19
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-19
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-19
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Dining Student Advisory Committee (DSAC) Meeting
+**Date:** 2025-10-20
+
+**Location:** Connan Room, Cohon University Center
+
+**Summary:** The Dining Student Advisory Committee (DSAC) is a student-led organization composed of undergraduate and graduate students dedicated to enhancing the Carnegie Mellon University Dining Services program.
+
+**More details:** https://events.cmu.edu/event/25719-dining-student-advisory-committee-dsac-meeting
+
+
+### [Event Name]: Webinar: How are AI-embedded products changing the way we think?
+**Date:** 2025-10-20
+
+**Location:** Online
+
+**Summary:** Join Integrated Innovation Institute professors Susanna Zlotnikov and Arthur Sugden in a conversation exploring how AI-embedded products and services are reshaping how people think and create.
+
+**More details:** https://events.cmu.edu/event/26212-webinar-how-are-ai-embedded-products-changing-the
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-20
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-20
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-20
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-20
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Mini-2 Classes Begin
+**Date:** 2025-10-20
+
+**More details:** https://events.cmu.edu/event/21997-mini-2-classes-begin
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-20
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-20
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Staff Supervisory Essentials Session
+**Date:** 2025-10-21
+
+**Location:** University Technology Development Center
+
+**Summary:** Transitioning to a supervisory role is a mindset shift requiring new skills and responsibilities. Understanding your role, communicating effectively, managing performance, and awareness of legal responsibilities are key to your success. This session will introduce you to the essential concepts in each of these areas.
+
+**More details:** https://events.cmu.edu/event/22331-staff-supervisory-essentials-session
+
+
+### [Event Name]: Study Abroad Information Session
+**Date:** 2025-10-21
+
+**Location:** Cohon University Center, Danforth Conference Room
+
+**Summary:** All students are welcome to learn more about study abroad opportunities at CMU, talk with the Study Abroad Team and speak with returned students.
+
+**More details:** https://events.cmu.edu/event/25474-study-abroad-information-session
+
+
+### [Event Name]: Research in Social and Decision Sciences
+**Date:** 2025-10-21
+
+**Location:** Join via Zoom
+
+**Summary:** Learn more about the different kinds of research that goes on within SDS. If you are interested in participating in undergraduate research, then we encourage you to attend this event!
+
+**More details:** https://events.cmu.edu/event/25537-research-in-social-and-decision-sciences
+
+
+### [Event Name]: (Women’s Volleyball) Point Park vs. Carnegie Mellon
+**Date:** 2025-10-21
+
+**More details:** https://events.cmu.edu/event/23873-womens-volleyball-point-park-vs-carnegie-mellon
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-21
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-21
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-21
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-21
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-21
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-21
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Staff Supervisory Awareness Program: Session 401, Establishing Rapport and Setting Expectations
+**Date:** 2025-10-22
+
+**Summary:** Learn the importance of building rapport and trust within your organization, practice skills to build rapport within diverse groups, practice tools and strategies for setting and sharing expectations, and create a plan to strengthen your own skills in rapport building and expectation setting.
+
+**More details:** https://events.cmu.edu/event/22344-staff-supervisory-awareness-program-session-401
+
+
+### [Event Name]: Study Abroad Coffee Hour
+**Date:** 2025-10-22
+
+**Summary:** All students are welcome to join and ask the Study Abroad team any questions they may have.
+
+**More details:** https://events.cmu.edu/event/25475-study-abroad-coffee-hour
+
+
+### [Event Name]: Carl &amp; Amy Jones Lecture in Interdisciplinary Science: Amy Robinson Sterling
+**Date:** 2025-10-22
+
+**Location:** McConomy Auditorium, Cohon University Center
+
+**Summary:** This event is part of the 2025-2026 University Lecture Series and is free and open to the public.
+
+**More details:** https://events.cmu.edu/event/26146-carl-amy-jones-lecture-in-interdisciplinary-science-am
+
+
+### [Event Name]: Paws to Relax: Weekly Pet Therapy Program
+**Date:** 2025-10-22
+
+**Location:** Well-being Lab (Room 104), Wellness &amp; Meaning-Making Suite, First Floor, Highmark Center for Health, Wellness and Athletics
+
+**Summary:** Volunteers through Animal Friend’s Therapet program will join us on Wednesdays, from 6:30-7:30 p.m., to offer some friendly dog companions for the hour.
+
+**More details:** https://events.cmu.edu/event/23772-paws-to-relax-weekly-pet-therapy-program
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-22
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-22
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-22
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-22
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Mid-Semester &amp; Mini-1 Grades Due by 4pm
+**Date:** 2025-10-22
+
+**More details:** https://events.cmu.edu/event/21996-mid-semester-mini-1-grades-due-by-4pm
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-22
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-22
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Libraries Workshop: Communicating Data: Data Visualization in R
+**Date:** 2025-10-23
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/24848-libraries-workshop-communicating-data-data
+
+
+### [Event Name]: AI-SDM Student Brainstorming Session
+**Date:** 2025-10-23
+
+**Location:** Hybrid - 1327 Wean or online
+
+**Summary:** Students meet regularly to participate in informal discussion sessions that delve into cutting-edge AI topics.
+
+**More details:** https://events.cmu.edu/event/25554-ai-sdm-student-brainstorming-session
+
+
+### [Event Name]: Libraries Workshop: Automating Python Data Workflows and Visualizations
+**Date:** 2025-10-23
+
+**Location:** Sorrells Library Den, Wean Hall
+
+**More details:** https://events.cmu.edu/event/24849-libraries-workshop-automating-python-data
+
+
+### [Event Name]: Academic Freedom: From Professional Norm To First Amendment Right
+**Date:** 2025-10-23
+
+**Location:** Posner Hall, Grand Room (Posner 340)
+
+**Summary:** The Phi Beta Kappa Society and the Carnegie Mellon Institute for Strategy & Technology (CMIST) invite you to a special Visiting Scholars Program event. Join us for an insightful talk by Professor David M. Rabban of the University of Texas School of Law, as he delves into the complex history of academic freedom—the subject of his new book, Academic Freedom: From Professional Norm To First Amendment Right.
+
+**More details:** https://events.cmu.edu/event/25703-academic-freedom-from-professional-norm-to-first
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-23
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-23
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-23
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-23
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-23
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-23
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Libraries Workshop: Series: Getting Started with C/C++
+**Date:** 2025-10-24
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/24850-libraries-workshop-series-getting-started-with-cc
+
+
+### [Event Name]: Astro Lunch Seminar: Erica Hammerstein (Berkeley)
+**Date:** 2025-10-24
+
+**Location:** Wean Hall (8330)
+
+**More details:** https://events.cmu.edu/event/26156-astro-lunch-seminar-erica-hammerstein-berkeley
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-24
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-24
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-24
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-24
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Mini-2 Add, Audit &amp; Tuition Adjustment Drop Deadline
+**Date:** 2025-10-24
+
+**More details:** https://events.cmu.edu/event/21995-mini-2-add-audit-tuition-adjustment-drop
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-24
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-24
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-25
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-25
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-25
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-25
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-25
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-25
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-26
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-26
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-26
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-26
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-26
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-26
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-27
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-27
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-27
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-27
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-27
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-27
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Study Abroad Coffee Hour
+**Date:** 2025-10-28
+
+**Summary:** All students are welcome to join and ask the Study Abroad team any questions they may have.
+
+**More details:** https://events.cmu.edu/event/25476-study-abroad-coffee-hour
+
+
+### [Event Name]: Libraries Workshop: Arts x EShip - Crafting a Business Plan &amp; Pitch
+**Date:** 2025-10-28
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/24851-libraries-workshop-arts-x-eship-crafting-a
+
+
+### [Event Name]: Swartz Center CONNECTS Seminar Series
+**Date:** 2025-10-28
+
+**Location:** Swartz Center for Entrepreneurship, Tepper Building, or Zoom
+
+**Summary:** The Swartz Center for Entrepreneurship’s CONNECTS seminar series enhances the experiential education of any individual interested in innovation and entrepreneurship.
+
+**More details:** https://events.cmu.edu/event/23704-swartz-center-connects-seminar-series
+
+
+### [Event Name]: Film Screening: Bad Press
+**Date:** 2025-10-28
+
+**Location:** Posner Hall (room TBD)
+
+**Summary:** Join us for a screening of the Sundance award-winning documentary Bad Press, which follows Muscogee journalist Angel Ellis as she challenges her nation’s sudden censorship of the press.
+
+**More details:** https://events.cmu.edu/event/film-bad-press
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-28
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-28
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-28
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-28
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-28
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-28
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Staff Supervisory Awareness Program: Session 402, Performance Management: Addressing Challenging Employee Issues
+**Date:** 2025-10-29
+
+**Summary:** This session will help supervisors communicate expectations and responsibilities, document and investigate employee performance, practice strategies for giving constructive feedback to team members with performance issues, learn when and how to reach out to your HR business partner, and understand progressive discipline and the corrective actions available for employees who are struggling to meet performance expectations.
+
+**More details:** https://events.cmu.edu/event/22345-staff-supervisory-awareness-program-session-402
+
+
+### [Event Name]: Libraries Workshop: Conducting Scoping Reviews to Understand the Research Landscape
+**Date:** 2025-10-29
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/24853-libraries-workshop-conducting-scoping-reviews-to
+
+
+### [Event Name]: AI-SDM Seminar Series: Doron Cohen
+**Date:** 2025-10-29
+
+**Location:** Newell-Simon Hall 4305 or Zoom
+
+**More details:** https://events.cmu.edu/event/25175-ai-sdm-seminar-series-doron-cohen
+
+
+### [Event Name]: Swartz Center CONNECTS Seminar Series
+**Date:** 2025-10-29
+
+**Location:** Swartz Center for Entrepreneurship, Tepper Building, or Zoom
+
+**Summary:** The Swartz Center for Entrepreneurship’s CONNECTS seminar series enhances the experiential education of any individual interested in innovation and entrepreneurship.
+
+**More details:** https://events.cmu.edu/event/23702-swartz-center-connects-seminar-series
+
+
+### [Event Name]: CMIST’s Politics &amp; Pie
+**Date:** 2025-10-29
+
+**Location:** Posner Hall, Grand Room (Posner 340)
+
+**Summary:** Stop by to talk with CMIST faculty, academic advisors and your peers to learn about the wide variety of international relations and political science courses offered by CMIST in spring 2026 - all while enjoying delicious pie from Piebird!
+
+**More details:** https://events.cmu.edu/event/25238-cmists-politics-pie
+
+
+### [Event Name]: Paws to Relax: Weekly Pet Therapy Program
+**Date:** 2025-10-29
+
+**Location:** Well-being Lab (Room 104), Wellness &amp; Meaning-Making Suite, First Floor, Highmark Center for Health, Wellness and Athletics
+
+**Summary:** Volunteers through Animal Friend’s Therapet program will join us on Wednesdays, from 6:30-7:30 p.m., to offer some friendly dog companions for the hour.
+
+**More details:** https://events.cmu.edu/event/23773-paws-to-relax-weekly-pet-therapy-program
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-29
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-29
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-29
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-29
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-29
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-29
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Libraries Workshop: Communicating Data: R Shiny
+**Date:** 2025-10-30
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/24854-libraries-workshop-communicating-data-r-shiny
+
+
+### [Event Name]: Swartz Center CONNECTS Seminar Series
+**Date:** 2025-10-30
+
+**Location:** Swartz Center for Entrepreneurship, Tepper Building, or Zoom
+
+**Summary:** The Swartz Center for Entrepreneurship’s CONNECTS seminar series enhances the experiential education of any individual interested in innovation and entrepreneurship.
+
+**More details:** https://events.cmu.edu/event/23701-swartz-center-connects-seminar-series
+
+
+### [Event Name]: Libraries Workshop: SQL Fundamentals
+**Date:** 2025-10-30
+
+**Location:** Sorrells Library Den, Wean Hall
+
+**More details:** https://events.cmu.edu/event/24855-libraries-workshop-sql-fundamentals
+
+
+### [Event Name]: Libraries Workshop: From Folklore to “Fact”: Researching urban legends, supernatural sightings, and haunted ecologies using primary source methods
+**Date:** 2025-10-30
+
+**Location:** Hunt Library, Room 308
+
+**More details:** https://events.cmu.edu/event/24856-libraries-workshop-from-folklore-to-fact
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-30
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-30
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-30
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-30
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-30
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-30
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Libraries Workshop: Series: Getting Started with C/C++
+**Date:** 2025-10-31
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/24858-libraries-workshop-series-getting-started-with-cc
+
+
+### [Event Name]: Libraries Workshop: Advanced Research Note-Taking with Obsidian
+**Date:** 2025-10-31
+
+**Location:** Sorrells Library Den, Wean Hall
+
+**More details:** https://events.cmu.edu/event/24861-libraries-workshop-advanced-research-note-taking
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-10-31
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-10-31
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-10-31
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: ISO Digital Scavenger Hunt
+**Date:** 2025-10-31
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/26159-iso-digital-scavenger-hunt
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-10-31
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Samhain Begins
+**Date:** 2025-10-31
+
+**Summary:** Pronounced “saah-win,” Samhain is a Wiccan and Neo-pagan harvest celebration with spiritual awareness of and connection with one’s departed ancestors.
+
+**More details:** https://events.cmu.edu/event/22033-samhain-begins
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-10-31
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: (Men’s Soccer) Rochester (N.Y.) vs. Carnegie Mellon
+**Date:** 2025-11-01
+
+**More details:** https://events.cmu.edu/event/23863-mens-soccer-rochester-ny-vs-carnegie-mellon
+
+
+### [Event Name]: (Women’s Soccer) Rochester (N.Y.) vs. Carnegie Mellon
+**Date:** 2025-11-01
+
+**More details:** https://events.cmu.edu/event/23862-womens-soccer-rochester-ny-vs-carnegie-mellon
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-11-01
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: All Saints’ Day
+**Date:** 2025-11-01
+
+**Summary:** All Saints’ Day is honored by many Western Christians, in gratitude for saints who have gone before.
+
+**More details:** https://events.cmu.edu/event/22035-all-saints-day
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-11-01
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Día de Los Muertos Begins
+**Date:** 2025-11-01
+
+**Summary:** Día de Los Muertos is a Mexican holiday associated with All Saints’ Day, celebrated by praying for and remembering departed friends and family members.
+
+**More details:** https://events.cmu.edu/event/22036-dia-de-los-muertos-begins
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-01
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Native American Heritage Month Begins
+**Date:** 2025-11-01
+
+**More details:** https://events.cmu.edu/event/25614-native-american-heritage-month-begins
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-01
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Samhain Ends
+**Date:** 2025-11-01
+
+**Summary:** Pronounced “saah-win,” Samhain is a Wiccan and Neo-pagan harvest celebration with spiritual awareness of and connection with one’s departed ancestors.
+
+**More details:** https://events.cmu.edu/event/22034-samhain-ends
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-01
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Carnegie Mellon Philharmonic
+**Date:** 2025-11-02
+
+**Location:** Carnegie Music Hall, Oakland @ 4400 Forbes Avenue, Pittsburgh, Pennsylvania, 15213, United States
+
+**More details:** https://events.cmu.edu/https://events.time.ly/vdibqnd/43901187
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-11-02
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Anniversary of the Crowning of Haile Salassie
+**Date:** 2025-11-02
+
+**More details:** https://events.cmu.edu/event/22038-anniversary-of-the-crowning-of-haile-salassie
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-11-02
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Día de Los Muertos Ends
+**Date:** 2025-11-02
+
+**Summary:** Día de Los Muertos is a Mexican holiday associated with All Saints’ Day, celebrated by praying for and remembering departed friends and family members.
+
+**More details:** https://events.cmu.edu/event/22037-dia-de-los-muertos-ends
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-02
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-02
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-02
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-11-03
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Character: Lived, Tested, Exposed
+**Date:** 2025-11-03
+
+**Location:** Cohon University Center, Kirr Commons
+
+**Summary:** An exhibition by the third-year communication design students
+
+**More details:** https://events.cmu.edu/event/26243-character-lived-tested-exposed
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-03
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-03
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-03
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Employee Retention
+**Date:** 2025-11-04
+
+**Summary:** High staff turnover presents significant challenges for supervisors. In this session you will gain an in-depth understanding of one employee retention tool – the stay interview – and explore additional strategies to promote employee engagement.
+
+**More details:** https://events.cmu.edu/event/22333-employee-retention
+
+
+### [Event Name]: Monthly Gratitude Gathering
+**Date:** 2025-11-04
+
+**Summary:** Join us for a virtual gratitude gathering on the last Tuesday of every month to pause, reflect and appreciate the goodness in our lives.
+
+**More details:** https://events.cmu.edu/event/23782-monthly-gratitude-gathering
+
+
+### [Event Name]: Libraries Workshop: Mining Microhistories: How to Extract Data from Historical Print Sources [Hybrid]
+**Date:** 2025-11-04
+
+**Location:** Hybrid — Hunt Library, Room 308 and Online
+
+**More details:** https://events.cmu.edu/event/24863-libraries-workshop-mining-microhistories-how-to
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-11-04
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Democracy Day; No Classes (evening classes after 5pm will still meet)
+**Date:** 2025-11-04
+
+**More details:** https://events.cmu.edu/event/21994-democracy-day-no-classes-evening-classes-after-5pm
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-04
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-04
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-04
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Staff Supervisory Awareness Program: Session 403, Employee Retention
+**Date:** 2025-11-05
+
+**Summary:** High staff turnover presents significant challenges for supervisors. In this session you will gain an in-depth understanding of one employee retention tool – the stay interview – and explore additional strategies to promote employee engagement.
+
+**More details:** https://events.cmu.edu/event/22346-staff-supervisory-awareness-program-session-403
+
+
+### [Event Name]: Benefits &amp; Fitness Fair
+**Date:** 2025-11-05
+
+**Location:** Cohon University Center
+
+**Summary:** The Benefits & Fitness Fair is an opportunity to meet with CMU’s benefit providers and representatives from the Office of Human Resources to learn about your 2026 benefits options.
+
+**More details:** https://events.cmu.edu/event/23529-benefits-fitness-fair
+
+
+### [Event Name]: Libraries Workshop: Breathe, Reset, and Connect with Your Heart [Virtual]
+**Date:** 2025-11-05
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/24862-libraries-workshop-breathe-reset-and-connect-with
+
+
+### [Event Name]: Study Abroad Pre-Departure Session
+**Date:** 2025-11-05
+
+**Location:** Cohon University Center, Danforth Conference Room
+
+**Summary:** Attending one pre-departure orientation is required for all study abroad students.
+
+**More details:** https://events.cmu.edu/event/25477-study-abroad-pre-departure-session
+
+
+### [Event Name]: Swartz Center CONNECTS Seminar Series
+**Date:** 2025-11-05
+
+**Location:** Swartz Center for Entrepreneurship, Tepper Building, or Zoom
+
+**Summary:** The Swartz Center for Entrepreneurship’s CONNECTS seminar series enhances the experiential education of any individual interested in innovation and entrepreneurship.
+
+**More details:** https://events.cmu.edu/event/23700-swartz-center-connects-seminar-series
+
+
+### [Event Name]: Spring Courses to Get You Out of the Classroom
+**Date:** 2025-11-05
+
+**Location:** Baker Hall A36 - Adamson Wing
+
+**Summary:** Interested in undergraduate research, gaining hands-on experience, or learning in a more exciting or nontraditional setting?
+
+**More details:** https://events.cmu.edu/event/26155-spring-courses-to-get-you-out-of-the-classroom
+
+
+### [Event Name]: Paws to Relax: Weekly Pet Therapy Program
+**Date:** 2025-11-05
+
+**Location:** Well-being Lab (Room 104), Wellness &amp; Meaning-Making Suite, First Floor, Highmark Center for Health, Wellness and Athletics
+
+**Summary:** Volunteers through Animal Friend’s Therapet program will join us on Wednesdays, from 6:30-7:30 p.m., to offer some friendly dog companions for the hour.
+
+**More details:** https://events.cmu.edu/event/23774-paws-to-relax-weekly-pet-therapy-program
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-11-05
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: Guru Nanak Ji’s Birthday
+**Date:** 2025-11-05
+
+**More details:** https://events.cmu.edu/event/22039-guru-nanak-jis-birthday
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-05
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-05
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-05
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: CMU Mobile Polar Plunge
+**Date:** 2025-11-06
+
+**Location:** Donner Ditch
+
+**Summary:** The Polar Plunge is coming to CMU’s campus! Kick off homecoming weekend and support Special Olympics Pennsylvania by jumping into the mobile plunge unit, Bear Force One!
+
+**More details:** https://events.cmu.edu/event/25560-cmu-mobile-polar-plunge
+
+
+### [Event Name]: Libraries Workshop: Communicating Data: Power BI
+**Date:** 2025-11-06
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/24864-libraries-workshop-communicating-data-power-bi
+
+
+### [Event Name]: Power of Possibilities President’s Lecture and 125th Anniversary Kickoff
+**Date:** 2025-11-06
+
+**Location:** TBD
+
+**Summary:** A CMU125 at Homecoming Weekend event featuring CMU alumnus Luis von Ahn, CEO and co-founder of Duolingo.
+
+**More details:** https://events.cmu.edu/event/26145-power-of-possibilities-presidents-lecture-and
+
+
+### [Event Name]: Study Abroad Pre-Departure Session
+**Date:** 2025-11-06
+
+**Location:** TBD
+
+**Summary:** Attending one pre-departure orientation is required for all study abroad students.
+
+**More details:** https://events.cmu.edu/event/25478-study-abroad-pre-departure-session
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-11-06
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: CMU125 at Homecoming Weekend
+**Date:** 2025-11-06
+
+**Location:** CMU Main Campus
+
+**Summary:** Tartans are coming home to celebrate Homecoming Weekend and CMU’s 125th anniversary with a full slate of family-friendly events!
+
+**More details:** https://events.cmu.edu/event/26166-cmu125-at-homecoming-weekend
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-06
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-06
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-06
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Heartfulness Weekly Meditation
+**Date:** 2025-11-07
+
+**Location:** Well-being Lab (Room 104), Wellness &amp; Meaning-Making Suite, First Floor, Highmark Center for Health, Wellness and Athletics
+
+**More details:** https://events.cmu.edu/event/23787-heartfulness-weekly-meditation
+
+
+### [Event Name]: Libraries Workshop: Series: Getting Started with C/C++
+**Date:** 2025-11-07
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/24865-libraries-workshop-series-getting-started-with-cc
+
+
+### [Event Name]: Astro Lunch Seminar: Gabe Freedman (PSU)
+**Date:** 2025-11-07
+
+**Location:** Wean Hall (8330)
+
+**More details:** https://events.cmu.edu/event/26152-astro-lunch-seminar-gabe-freedman-psu
+
+
+### [Event Name]: Beyond the Intersection of Art and Technology
+**Date:** 2025-11-07
+
+**Location:** IDeATe Studios A &amp; B, Hunt Library
+
+**Summary:** Learn more about IDeATe’s interdisciplinary student work and unique immersive course events during Homecoming 2025.
+
+**More details:** https://events.cmu.edu/event/26119-beyond-the-intersection-of-art-and-technology
+
+
+### [Event Name]: Hands-On: Cake &amp; Crafts, a 125th Birthday Celebration with the University Archives
+**Date:** 2025-11-07
+
+**Location:** Hunt Library, IDeATe Studios A &amp; B
+
+**Summary:** Celebrate 125 years of Carnegie Mellon University with cake, crafts, and a journey through campus life across the decades.
+
+**More details:** https://events.cmu.edu/event/26120-hands-on-cake-crafts-a-125th-birthday-celebration-with
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-11-07
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: CMU125 at Homecoming Weekend
+**Date:** 2025-11-07
+
+**Location:** CMU Main Campus
+
+**Summary:** Tartans are coming home to celebrate Homecoming Weekend and CMU’s 125th anniversary with a full slate of family-friendly events!
+
+**More details:** https://events.cmu.edu/event/26166-cmu125-at-homecoming-weekend
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-07
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-07
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-07
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-07
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Beyond the Intersection of Art and Technology
+**Date:** 2025-11-08
+
+**Location:** Studios A &amp; B, Hunt Library
+
+**Summary:** Learn more about IDeATe’s interdisciplinary student work and unique immersive course events during Homecoming 2025.
+
+**More details:** https://events.cmu.edu/event/26122-beyond-the-intersection-of-art-and-technology
+
+
+### [Event Name]: Hands-On: Cake &amp; Crafts, a 125th Birthday Celebration with the University Archives
+**Date:** 2025-11-08
+
+**Location:** Hunt Library, IDeATe Studios A &amp; B
+
+**Summary:** Celebrate 125 years of Carnegie Mellon University with cake, crafts, and a journey through campus life across the decades.
+
+**More details:** https://events.cmu.edu/event/26126-hands-on-cake-crafts-a-125th-birthday-celebration-with
+
+
+### [Event Name]: (Football) Franklin &amp; Marshall vs. Carnegie Mellon
+**Date:** 2025-11-08
+
+**More details:** https://events.cmu.edu/event/23859-football-franklin-marshall-vs-carnegie-mellon
+
+
+### [Event Name]: (Women’s Volleyball) Penn St.-Altoona vs. Carnegie Mellon
+**Date:** 2025-11-08
+
+**Location:** Juniata College - Huntingdon, Pa.
+
+**More details:** https://events.cmu.edu/event/23858-womens-volleyball-penn-st-altoona-vs-carnegie
+
+
+### [Event Name]: (Men’s Soccer) Case Western Reserve vs. Carnegie Mellon
+**Date:** 2025-11-08
+
+**More details:** https://events.cmu.edu/event/23857-mens-soccer-case-western-reserve-vs-carnegie
+
+
+### [Event Name]: (Women’s Soccer) Case Western Reserve vs. Carnegie Mellon
+**Date:** 2025-11-08
+
+**More details:** https://events.cmu.edu/event/23855-womens-soccer-case-western-reserve-vs-carnegie
+
+
+### [Event Name]: 32nd Annual Food Drive
+**Date:** 2025-11-08
+
+**Summary:** Each year, the CMU community comes together to address hunger and food insecurity in our region through the highest-grossing food drive in the City of Pittsburgh. Help us keep the tradition alive in 2025!
+
+**More details:** https://events.cmu.edu/event/26163-32nd-annual-food-drive
+
+
+### [Event Name]: CMU125 at Homecoming Weekend
+**Date:** 2025-11-08
+
+**Location:** CMU Main Campus
+
+**Summary:** Tartans are coming home to celebrate Homecoming Weekend and CMU’s 125th anniversary with a full slate of family-friendly events!
+
+**More details:** https://events.cmu.edu/event/26166-cmu125-at-homecoming-weekend
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-08
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-08
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-08
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-08
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: (Men’s Basketball) Chatham vs. Carnegie Mellon
+**Date:** 2025-11-09
+
+**More details:** https://events.cmu.edu/event/23854-mens-basketball-chatham-vs-carnegie-mellon
+
+
+### [Event Name]: Carl Sagan Day
+**Date:** 2025-11-09
+
+**More details:** https://events.cmu.edu/event/22040-carl-sagan-day
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-09
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-09
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-09
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-09
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-10
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-10
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-10
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Semester Pass/No Pass &amp; Withdrawal Deadline
+**Date:** 2025-11-10
+
+**More details:** https://events.cmu.edu/event/21993-semester-passno-pass-withdrawal-deadline
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-10
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Libraries Workshop: Stats Essentials for Lab Researchers
+**Date:** 2025-11-11
+
+**Location:** Sorrells Library Den, Wean Hall
+
+**More details:** https://events.cmu.edu/event/24866-libraries-workshop-stats-essentials-for-lab
+
+
+### [Event Name]: Towards a Deeper Solidarity: Understanding the Impact of Antisemitism, Anti-Arab Racism and Islamophobia
+**Date:** 2025-11-11
+
+**Location:** Peter/Wright/McKenna Rooms, Cohon University Center
+
+**Summary:** Join us for a workshop that fosters understanding, healing and builds bridges. We will explore the shared and distinct experiences of Jewish, Muslim and Arab communities in the U.S.
+
+**More details:** https://events.cmu.edu/event/25684-towards-a-deeper-solidarity-understanding-the-impact-o
+
+
+### [Event Name]: (Men’s Basketball) Muskingum vs. Carnegie Mellon
+**Date:** 2025-11-11
+
+**More details:** https://events.cmu.edu/event/23853-mens-basketball-muskingum-vs-carnegie-mellon
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-11
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-11
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-11
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-11
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Swartz Center CONNECTS Seminar Series
+**Date:** 2025-11-12
+
+**Location:** Swartz Center for Entrepreneurship, Tepper Building, or Zoom
+
+**Summary:** The Swartz Center for Entrepreneurship’s CONNECTS seminar series enhances the experiential education of any individual interested in innovation and entrepreneurship.
+
+**More details:** https://events.cmu.edu/event/23699-swartz-center-connects-seminar-series
+
+
+### [Event Name]: Paws to Relax: Weekly Pet Therapy Program
+**Date:** 2025-11-12
+
+**Location:** Well-being Lab (Room 104), Wellness &amp; Meaning-Making Suite, First Floor, Highmark Center for Health, Wellness and Athletics
+
+**Summary:** Volunteers through Animal Friend’s Therapet program will join us on Wednesdays, from 6:30-7:30 p.m., to offer some friendly dog companions for the hour.
+
+**More details:** https://events.cmu.edu/event/23775-paws-to-relax-weekly-pet-therapy-program
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-12
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Mini-2 drop deadline; withdrawal grade assigned after this date
+**Date:** 2025-11-12
+
+**More details:** https://events.cmu.edu/event/21992-mini-2-drop-deadline-withdrawal-grade-assigned
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-12
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-12
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-12
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Staff Supervisory Essentials Session
+**Date:** 2025-11-13
+
+**Location:** University Technology Development Center
+
+**Summary:** Transitioning to a supervisory role is a mindset shift requiring new skills and responsibilities. Understanding your role, communicating effectively, managing performance, and awareness of legal responsibilities are key to your success. This session will introduce you to the essential concepts in each of these areas.
+
+**More details:** https://events.cmu.edu/event/22332-staff-supervisory-essentials-session
+
+
+### [Event Name]: Community Crafternoon
+**Date:** 2025-11-13
+
+**Location:** Well-being Lab (Room 104), Wellness &amp; Meaning-Making Suite, First Floor, Highmark Center for Health, Wellness and Athletics
+
+**More details:** https://events.cmu.edu/event/23785-community-crafternoon
+
+
+### [Event Name]: AI-SDM Seminar Series: Akshay Krishnamurthy
+**Date:** 2025-11-13
+
+**Location:** Newell-Simon Hall 4305 or Zoom
+
+**More details:** https://events.cmu.edu/event/25176-ai-sdm-seminar-series-akshay-krishnamurthy
+
+
+### [Event Name]: Study Abroad Pre-Departure Session
+**Date:** 2025-11-13
+
+**Location:** Cohon University Center, Danforth Conference Room
+
+**Summary:** Attending one pre-departure orientation is required for all study abroad students.
+
+**More details:** https://events.cmu.edu/event/25479-study-abroad-pre-departure-session
+
+
+### [Event Name]: Swartz Center CONNECTS Seminar Series
+**Date:** 2025-11-13
+
+**Location:** Swartz Center for Entrepreneurship, Tepper Building, or Zoom
+
+**Summary:** The Swartz Center for Entrepreneurship’s CONNECTS seminar series enhances the experiential education of any individual interested in innovation and entrepreneurship.
+
+**More details:** https://events.cmu.edu/event/23698-swartz-center-connects-seminar-series
+
+
+### [Event Name]: Keep Growing: Reflecting on Profess &amp; Planning Next Steps (In Person Peer Connect Gathering)
+**Date:** 2025-11-13
+
+**Location:** Room 5403, Wean Hall
+
+**Summary:** Take time to reflect on your progress with your goals.
+
+**More details:** https://events.cmu.edu/event/25310-keep-growing-reflecting-on-profess-planning
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-13
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-13
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-13
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-13
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Heartfulness Weekly Meditation
+**Date:** 2025-11-14
+
+**Location:** Well-being Lab (Room 104), Wellness &amp; Meaning-Making Suite, First Floor, Highmark Center for Health, Wellness and Athletics
+
+**More details:** https://events.cmu.edu/event/23788-heartfulness-weekly-meditation
+
+
+### [Event Name]: Libraries Workshop: Series: Getting Started with C/C++
+**Date:** 2025-11-14
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/24867-libraries-workshop-series-getting-started-with-cc
+
+
+### [Event Name]: (Women’s Basketball) John Carroll vs. Carnegie Mellon
+**Date:** 2025-11-14
+
+**More details:** https://events.cmu.edu/event/23851-womens-basketball-john-carroll-vs-carnegie-mellon
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-14
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-14
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-14
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-14
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-15
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Nativity Fast Begins
+**Date:** 2025-11-15
+
+**Summary:** This day begins the traditional season of fasting for Eastern Orthodox Christians, in preparation for the Nativity of Christ.
+
+**More details:** https://events.cmu.edu/event/22041-nativity-fast-begins
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-15
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-15
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-15
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Carnegie Mellon Wind Ensemble
+**Date:** 2025-11-16
+
+**Location:** Kresge Theatre, College of Fine Arts @ 5000 Forbes Avenue, Pittsburgh, Pennsylvania, 15213, United States
+
+**More details:** https://events.cmu.edu/https://events.time.ly/vdibqnd/43901194
+
+
+### [Event Name]: (Men’s Basketball) Denison vs. Carnegie Mellon
+**Date:** 2025-11-16
+
+**More details:** https://events.cmu.edu/event/23846-mens-basketball-denison-vs-carnegie-mellon
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-16
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-16
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-16
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-16
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-17
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-17
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-17
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Spring 2026 Registration
+**Date:** 2025-11-17
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-17
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Libraries Workshop: Analyzing Scholarly Literature using Bibliometrics
+**Date:** 2025-11-18
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/24868-libraries-workshop-analyzing-scholarly-literature
+
+
+### [Event Name]: Libraries Workshop: Tips for Writing Literature Reviews: Part 1
+**Date:** 2025-11-18
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/24869-libraries-workshop-tips-for-writing-literature
+
+
+### [Event Name]: How to Find &amp; Apply for Summer Internships
+**Date:** 2025-11-18
+
+**Location:** Baker Hall A36 - Adamson Wing
+
+**Summary:** Join us for the Experiential Learning team’s overview on summer internship opportunities!
+
+**More details:** https://events.cmu.edu/event/26153-how-to-find-apply-for-summer-internships
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-18
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-18
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-18
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Spring 2026 Registration
+**Date:** 2025-11-18
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-18
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: University Lecture Series: David Yeager
+**Date:** 2025-11-19
+
+**Location:** McConomy Auditorium, Cohon University Center
+
+**More details:** https://events.cmu.edu/event/26147-university-lecture-series-david-yeager
+
+
+### [Event Name]: Paws to Relax: Weekly Pet Therapy Program
+**Date:** 2025-11-19
+
+**Location:** Well-being Lab (Room 104), Wellness &amp; Meaning-Making Suite, First Floor, Highmark Center for Health, Wellness and Athletics
+
+**Summary:** Volunteers through Animal Friend’s Therapet program will join us on Wednesdays, from 6:30-7:30 p.m., to offer some friendly dog companions for the hour.
+
+**More details:** https://events.cmu.edu/event/23776-paws-to-relax-weekly-pet-therapy-program
+
+
+### [Event Name]: Carnegie Mellon Guitar Ensemble
+**Date:** 2025-11-19
+
+**Location:** Kresge Theatre, College of Fine Arts @ 5000 Forbes Avenue, Pittsburgh, Pennsylvania, 15213, United States
+
+**More details:** https://events.cmu.edu/https://events.time.ly/vdibqnd/43901220
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-19
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-19
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-19
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Spring 2026 Registration
+**Date:** 2025-11-19
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-19
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Study Abroad Coffee Hour
+**Date:** 2025-11-20
+
+**Summary:** All students are welcome to join and ask the Study Abroad team any questions they may have.
+
+**More details:** https://events.cmu.edu/event/25480-study-abroad-coffee-hour
+
+
+### [Event Name]: Staff Council General Body Meeting
+**Date:** 2025-11-20
+
+**Location:** Danforth Conference Room, CUC, or Zoom
+
+**Summary:** Staff Council general body meetings are held on the third Thursday of each month and are open to all CMU staff.
+
+**More details:** https://events.cmu.edu/event/26263-staff-council-general-body-meeting
+
+
+### [Event Name]: AI-SDM Seminar Series: Tom Manzini
+**Date:** 2025-11-20
+
+**Location:** Newell-Simon Hall 4305 or Zoom
+
+**More details:** https://events.cmu.edu/event/25177-ai-sdm-seminar-series-tom-manzini
+
+
+### [Event Name]: Hilliard Talk: Ned Augenblick
+**Date:** 2025-11-20
+
+**Location:** Tepper Building Room 4242
+
+**Summary:** The CMU Department of Social & Decision Sciences presents the Hilliard Family Speaker Series on Behavioral Economics with Ned Augenblick, University of California-Berkeley.
+
+**More details:** https://events.cmu.edu/event/25124-hilliard-talk-ned-augenblick
+
+
+### [Event Name]: CMU Chorus &amp; Singers
+**Date:** 2025-11-20
+
+**Location:** Kresge Theatre, College of Fine Arts @ 5000 Forbes Avenue, Pittsburgh, Pennsylvania, 15213, United States
+
+**More details:** https://events.cmu.edu/https://events.time.ly/vdibqnd/43901225
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-20
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-20
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-20
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Spring 2026 Registration
+**Date:** 2025-11-20
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-20
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Heartfulness Weekly Meditation
+**Date:** 2025-11-21
+
+**Location:** Well-being Lab (Room 104), Wellness &amp; Meaning-Making Suite, First Floor, Highmark Center for Health, Wellness and Athletics
+
+**More details:** https://events.cmu.edu/event/23789-heartfulness-weekly-meditation
+
+
+### [Event Name]: CMIST Graduate Program Open House
+**Date:** 2025-11-21
+
+**Summary:** Join us for a virtual information session to learn more about the graduate programs that CMIST offers.
+
+**More details:** https://events.cmu.edu/event/25251-cmist-graduate-program-open-house
+
+
+### [Event Name]: Astro Lunch Seminar: Andrea Antoni (CCA)
+**Date:** 2025-11-21
+
+**Location:** Wean Hall (8330)
+
+**More details:** https://events.cmu.edu/event/26157-astro-lunch-seminar-andrea-antoni-cca
+
+
+### [Event Name]: Libraries Workshop: Creating Websites and Portfolios with GitPages
+**Date:** 2025-11-21
+
+**Location:** Sorrells Library Den, Wean Hall
+
+**More details:** https://events.cmu.edu/event/24870-libraries-workshop-creating-websites-and
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-21
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-21
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-21
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Spring 2026 Registration
+**Date:** 2025-11-21
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-21
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-22
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-22
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-22
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-22
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-23
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-23
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-23
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-23
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-24
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Mini-2 Pass/No Pass &amp; Withdrawal Deadline
+**Date:** 2025-11-24
+
+**More details:** https://events.cmu.edu/event/21989-mini-2-passno-pass-withdrawal-deadline
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-24
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-24
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Semester &amp; Mini-2 Faculty Course Evaluations open
+**Date:** 2025-11-24
+
+**More details:** https://events.cmu.edu/event/21990-semester-mini-2-faculty-course-evaluations
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-24
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Libraries Workshop: Tips for Writing Literature Reviews: Part 2
+**Date:** 2025-11-25
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/24871-libraries-workshop-tips-for-writing-literature
+
+
+### [Event Name]: (Women’s Basketball) Carlow vs. Carnegie Mellon
+**Date:** 2025-11-25
+
+**More details:** https://events.cmu.edu/event/23836-womens-basketball-carlow-vs-carnegie-mellon
+
+
+### [Event Name]: Day of the Covenant
+**Date:** 2025-11-25
+
+**Summary:** On the Day of the Covenant, Baha’is remember the appointment of Abdu’l-Baha as the center of Baha’u’llah’s covenant.
+
+**More details:** https://events.cmu.edu/event/22042-day-of-the-covenant
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-25
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-25
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-25
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-25
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Paws to Relax: Weekly Pet Therapy Program
+**Date:** 2025-11-26
+
+**Location:** Well-being Lab (Room 104), Wellness &amp; Meaning-Making Suite, First Floor, Highmark Center for Health, Wellness and Athletics
+
+**Summary:** Volunteers through Animal Friend’s Therapet program will join us on Wednesdays, from 6:30-7:30 p.m., to offer some friendly dog companions for the hour.
+
+**More details:** https://events.cmu.edu/event/23777-paws-to-relax-weekly-pet-therapy-program
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-26
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-26
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-26
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Thanksgiving Break; No Classes
+**Date:** 2025-11-26
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-26
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-27
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-27
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-27
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Thanksgiving Break; No Classes
+**Date:** 2025-11-27
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: Thanksgiving Day (Official University Holiday)
+**Date:** 2025-11-27
+
+**Summary:** Carnegie Mellon’s U.S. campuses observe 11 official holidays. The university is closed on these days, and all non-essential personnel are not expected to report to work.
+
+**More details:** https://events.cmu.edu/event/25099-thanksgiving-day-official-university-holiday
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-27
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Heartfulness Weekly Meditation
+**Date:** 2025-11-28
+
+**Location:** Well-being Lab (Room 104), Wellness &amp; Meaning-Making Suite, First Floor, Highmark Center for Health, Wellness and Athletics
+
+**More details:** https://events.cmu.edu/event/23790-heartfulness-weekly-meditation
+
+
+### [Event Name]: Day After Thanksgiving (Official University Holiday)
+**Date:** 2025-11-28
+
+**Summary:** Carnegie Mellon’s U.S. campuses observe 11 official holidays. The university is closed on these days, and all non-essential personnel are not expected to report to work.
+
+**More details:** https://events.cmu.edu/event/25100-day-after-thanksgiving-official-university-holiday
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-28
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-28
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-28
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Thanksgiving Break; No Classes
+**Date:** 2025-11-28
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-28
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-29
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-29
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-29
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-29
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-11-30
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-11-30
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-11-30
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-11-30
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: The Experiential Learning Requirement &amp; You
+**Date:** 2025-12-01
+
+**Location:** Baker Hall A36 - Adamson Wing
+
+**Summary:** Beginning with the class of 2028, Dietrich College students have to complete at least one Experiential Learning activity, engaging in goal setting and reflection.
+
+**More details:** https://events.cmu.edu/event/26154-the-experiential-learning-requirement-you
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-01
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-01
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-01
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-12-01
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Monthly Gratitude Gathering
+**Date:** 2025-12-02
+
+**Summary:** Join us for a virtual gratitude gathering on the last Tuesday of every month to pause, reflect and appreciate the goodness in our lives.
+
+**More details:** https://events.cmu.edu/event/23783-monthly-gratitude-gathering
+
+
+### [Event Name]: (Women’s Basketball) Otterbein vs. Carnegie Mellon
+**Date:** 2025-12-02
+
+**More details:** https://events.cmu.edu/event/23835-womens-basketball-otterbein-vs-carnegie-mellon
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-02
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-02
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-02
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-12-02
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Civil Treatment for Employees
+**Date:** 2025-12-03
+
+**Summary:** The Civil Treatment for Employees virtual training program simulates realistic workplace scenarios offering insights and practical skills relevant to your organization’s success.
+
+**More details:** https://events.cmu.edu/event/22334-civil-treatment-for-employees
+
+
+### [Event Name]: Libraries Workshop: Breathe, Reset, and Connect with Your Heart [Virtual]
+**Date:** 2025-12-03
+
+**Location:** Online
+
+**More details:** https://events.cmu.edu/event/24872-libraries-workshop-breathe-reset-and-connect-with
+
+
+### [Event Name]: Paws to Relax: Weekly Pet Therapy Program
+**Date:** 2025-12-03
+
+**Location:** Well-being Lab (Room 104), Wellness &amp; Meaning-Making Suite, First Floor, Highmark Center for Health, Wellness and Athletics
+
+**Summary:** Volunteers through Animal Friend’s Therapet program will join us on Wednesdays, from 6:30-7:30 p.m., to offer some friendly dog companions for the hour.
+
+**More details:** https://events.cmu.edu/event/23778-paws-to-relax-weekly-pet-therapy-program
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-03
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-03
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-03
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-12-03
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: AI-SDM Seminar Series: Ann Bostrom
+**Date:** 2025-12-04
+
+**Location:** Newell-Simon Hall 4305 or Zoom
+
+**More details:** https://events.cmu.edu/event/25178-ai-sdm-seminar-series-ann-bostrom
+
+
+### [Event Name]: Carnegie Mellon Philharmonic &amp; Chorus
+**Date:** 2025-12-04
+
+**Location:** Great Hall, College of Fine Arts @ 5000 Forbes Avenue, Pittsburgh, Pennsylvania, 15213, United States
+
+**More details:** https://events.cmu.edu/https://events.time.ly/vdibqnd/43901189
+
+
+### [Event Name]: Study Abroad Coffee Hour
+**Date:** 2025-12-04
+
+**Summary:** All students are welcome to join and ask the Study Abroad team any questions they may have.
+
+**More details:** https://events.cmu.edu/event/25482-study-abroad-coffee-hour
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-04
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-04
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-04
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-12-04
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Community Crafternoon
+**Date:** 2025-12-05
+
+**Location:** Well-being Lab (Room 104), Wellness &amp; Meaning-Making Suite, First Floor, Highmark Center for Health, Wellness and Athletics
+
+**More details:** https://events.cmu.edu/event/23786-community-crafternoon
+
+
+### [Event Name]: Carnegie Mellon Philharmonic &amp; Chorus
+**Date:** 2025-12-05
+
+**Location:** Carnegie Music Hall, Oakland @ 4400 Forbes Avenue, Pittsburgh, Pennsylvania, 15213, United States
+
+**More details:** https://events.cmu.edu/https://events.time.ly/vdibqnd/43901188
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-05
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-05
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-05
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Semester &amp; Mini-2 Last Day of Classes
+**Date:** 2025-12-05
+
+**More details:** https://events.cmu.edu/event/21986-semester-mini-2-last-day-of-classes
+
+
+### [Event Name]: Semester &amp; Mini-2 Voucher Deadline
+**Date:** 2025-12-05
+
+**More details:** https://events.cmu.edu/event/21987-semester-mini-2-voucher-deadline
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-12-05
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: (Women’s Basketball) Alvernia vs. Carnegie Mellon
+**Date:** 2025-12-06
+
+**More details:** https://events.cmu.edu/event/23833-womens-basketball-alvernia-vs-carnegie-mellon
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-06
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-06
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-06
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-12-06
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-07
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-07
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-07
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-12-07
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Final Exams
+**Date:** 2025-12-08
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-08
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-08
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-08
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-12-08
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Final Exams
+**Date:** 2025-12-09
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-09
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-09
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-09
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-12-09
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Paws to Relax: Weekly Pet Therapy Program
+**Date:** 2025-12-10
+
+**Location:** Well-being Lab (Room 104), Wellness &amp; Meaning-Making Suite, First Floor, Highmark Center for Health, Wellness and Athletics
+
+**Summary:** Volunteers through Animal Friend’s Therapet program will join us on Wednesdays, from 6:30-7:30 p.m., to offer some friendly dog companions for the hour.
+
+**More details:** https://events.cmu.edu/event/23779-paws-to-relax-weekly-pet-therapy-program
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-10
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-10
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Reading Day
+**Date:** 2025-12-10
+
+**More details:** https://events.cmu.edu/event/21984-reading-day
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-10
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-12-10
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Staff Council General Body Meeting
+**Date:** 2025-12-11
+
+**Location:** Zoom only
+
+**Summary:** Staff Council general body meetings are held monthly and open to all CMU staff.
+
+**More details:** https://events.cmu.edu/event/26264-staff-council-general-body-meeting
+
+
+### [Event Name]: Final Exams
+**Date:** 2025-12-11
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-11
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-11
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-11
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-12-11
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Final Exams
+**Date:** 2025-12-12
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-12
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-12
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-12
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-12-12
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-13
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-13
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Reading Day
+**Date:** 2025-12-13
+
+**More details:** https://events.cmu.edu/event/21982-reading-day
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-13
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-12-13
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Channukah Begins
+**Date:** 2025-12-14
+
+**Summary:** Also known as the Festival of Lights, Channukah is an eight-day Jewish holiday celebrating the rededication of the Second Temple in Jerusalem in the second century A.D.
+
+**More details:** https://events.cmu.edu/event/22043-channukah-begins
+
+
+### [Event Name]: Final Exam
+**Date:** 2025-12-14
+
+**More details:** https://events.cmu.edu/event/21980-final-exam
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-14
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-14
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-14
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Semester &amp; Mini-2 FCEs Close
+**Date:** 2025-12-14
+
+**More details:** https://events.cmu.edu/event/21981-semester-mini-2-fces-close
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-12-14
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-15
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Make Up Final Exams
+**Date:** 2025-12-15
+
+**More details:** https://events.cmu.edu/event/21979-make-up-final-exams
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-15
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-15
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-12-15
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-16
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-16
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-16
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-12-16
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: Final Grade Due at 4pm
+**Date:** 2025-12-17
+
+**More details:** https://events.cmu.edu/event/21978-final-grade-due-at-4pm
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-17
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-17
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-17
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: The Art and Science of Rafael Lucas Rodríguez Caballero
+**Date:** 2025-12-17
+
+**Location:** Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library
+
+**Summary:** This exhibition at the Hunt Institute for Botanical Documentation celebrates the extraordinary life and work of Rafael Lucas Rodríguez Caballero, Costa Rican botanist, artist and educator.
+
+**More details:** https://events.cmu.edu/event/14670-the-art-and-science-of-rafael-lucas-rodriguez
+
+
+### [Event Name]: CMIST Graduate Program Open House
+**Date:** 2025-12-18
+
+**Summary:** Join us for a virtual information session to learn more about the graduate programs that CMIST offers.
+
+**More details:** https://events.cmu.edu/event/25255-cmist-graduate-program-open-house
+
+
+### [Event Name]: (Men’s Basketball) Allegheny vs. Carnegie Mellon
+**Date:** 2025-12-18
+
+**More details:** https://events.cmu.edu/event/23830-mens-basketball-allegheny-vs-carnegie-mellon
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-18
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-18
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-18
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-19
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-19
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-19
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-20
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-20
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-20
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-21
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-21
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-21
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Yalda Night / Chelleh Night
+**Date:** 2025-12-21
+
+**Summary:** Known as Yalda Night or Chelleh Night, this Iranian festival marks the winter solstice, which is the longest night of the year.
+
+**More details:** https://events.cmu.edu/event/22044-yalda-night-chelleh-night
+
+
+### [Event Name]: Yule
+**Date:** 2025-12-21
+
+**More details:** https://events.cmu.edu/event/22045-yule
+
+
+### [Event Name]: Channukah Ends
+**Date:** 2025-12-22
+
+**Summary:** Also known as the Festival of Lights, Channukah is an eight-day Jewish holiday celebrating the rededication of the Second Temple in Jerusalem in the second century A.D.
+
+**More details:** https://events.cmu.edu/event/22046-channukah-ends
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-22
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-22
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-22
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-23
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-23
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-23
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Christmas Eve (Official University Holiday)
+**Date:** 2025-12-24
+
+**Summary:** Carnegie Mellon’s U.S. campuses observe 11 official holidays. The university is closed on these days, and all non-essential personnel are not expected to report to work.
+
+**More details:** https://events.cmu.edu/event/25101-christmas-eve-official-university-holiday
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-24
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Nativity Fast Ends
+**Date:** 2025-12-24
+
+**Summary:** This day marks the end of the traditional season of fasting for Eastern Orthodox Christians, in preparation for the Nativity of Christ.
+
+**More details:** https://events.cmu.edu/event/22047-nativity-fast-ends
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-24
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-24
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: University Closed
+**Date:** 2025-12-24
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: Christmas Day (Official University Holiday)
+**Date:** 2025-12-25
+
+**Summary:** Carnegie Mellon’s U.S. campuses observe 11 official holidays. The university is closed on these days, and all non-essential personnel are not expected to report to work.
+
+**More details:** https://events.cmu.edu/event/25102-christmas-day-official-university-holiday
+
+
+### [Event Name]: Christmas Day / The Feast of the Nativity
+**Date:** 2025-12-25
+
+**More details:** https://events.cmu.edu/event/22048-christmas-day-the-feast-of-the-nativity
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-25
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Newton’s Day
+**Date:** 2025-12-25
+
+**More details:** https://events.cmu.edu/event/22049-newtons-day
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-25
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-25
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: University Closed
+**Date:** 2025-12-25
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-26
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Kwanzaa Begins
+**Date:** 2025-12-26
+
+**Summary:** An African-American and Pan-African holiday celebrating family, community, and culture, Kwanzaa is a secular observance with some religious participation
+
+**More details:** https://events.cmu.edu/event/22050-kwanzaa-begins
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-26
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-26
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: University Closed
+**Date:** 2025-12-26
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: Winter Break
+**Date:** 2025-12-26
+
+**Summary:** Winter Break provides the campus community with additional time off during the winter holidays. Carnegie Mellon University is closed during Winter Break, and non-essential personnel should not report to work. In 2025, Winter Break will occur on December 26, 29 and 30.
+
+**More details:** https://events.cmu.edu/event/25110-winter-break
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-27
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-27
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-27
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-28
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-28
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-28
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-29
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-29
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-29
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: University Closed
+**Date:** 2025-12-29
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: Winter Break
+**Date:** 2025-12-29
+
+**Summary:** Winter Break provides the campus community with additional time off during the winter holidays. Carnegie Mellon University is closed during Winter Break, and non-essential personnel should not report to work. In 2025, Winter Break will occur on December 26, 29 and 30.
+
+**More details:** https://events.cmu.edu/event/25111-winter-break
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-30
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-30
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-30
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: University Closed
+**Date:** 2025-12-30
+
+**More details:** https://events.cmu.edu/
+
+
+### [Event Name]: Winter Break
+**Date:** 2025-12-30
+
+**Summary:** Winter Break provides the campus community with additional time off during the winter holidays. Carnegie Mellon University is closed during Winter Break, and non-essential personnel should not report to work. In 2025, Winter Break will occur on December 26, 29 and 30.
+
+**More details:** https://events.cmu.edu/event/25113-winter-break
+
+
+### [Event Name]: Here to Stay: Celebrating 40 Years at the Architecture Archives
+**Date:** 2025-12-31
+
+**Location:** Hunt Library, Fourth Floor
+
+**Summary:** This University Libraries’ exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh’s buildings and tell part of the story of this dynamic city.
+
+**More details:** https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+
+
+### [Event Name]: New Year’s Eve (Official University Holiday)
+**Date:** 2025-12-31
+
+**Summary:** Carnegie Mellon’s U.S. campuses observe 11 official holidays. The university is closed on these days, and all non-essential personnel are not expected to report to work.
+
+**More details:** https://events.cmu.edu/event/25103-new-years-eve-official-university-holiday
+
+
+### [Event Name]: Rare Books &amp; Ancestral Machines: The Inaugural Exhibition of the Posner Center for Special Collections
+**Date:** 2025-12-31
+
+**Location:** Posner Center
+
+**Summary:** This exhibition inaugurates University Libraries’ newly renovated Posner Center, surveying its collections and tracing more than four centuries of scientific inquiry and learning.
+
+**More details:** https://events.cmu.edu/event/26118-rare-books-ancestral-machines-the-inaugural
+
+
+### [Event Name]: Room to Imagine: 125 Years of Carnegie Mellon University
+**Date:** 2025-12-31
+
+**Location:** Hunt Library Gallery
+
+**Summary:** This immersive exhibit celebrates 125 years of CMU students, faculty and staff who turned their imagination into reality.
+
+**More details:** https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+
+
+### [Event Name]: University Closed
+**Date:** 2025-12-31
+
+**More details:** https://events.cmu.edu/
+

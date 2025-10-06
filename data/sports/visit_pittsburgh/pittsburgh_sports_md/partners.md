@@ -1,0 +1,41 @@
+  * Be A Partner 
+  * Advertising Opportunities 
+  * Partner Events 
+  * Partnership Development Staff 
+  * Partner Portal 
+  * Partner Directory 
+
+
+
+  * Home
+  * Partners
+
+
+
+# Partners
+
+Let VisitPITTSBURGH open a whole new world of opportunities for your business. As a partner, you'll gain exclusive rights to information on upcoming conventions and associations.
+
+You'll get the inside track on providing your products or services to these big-spending visitors. And you'll get invaluable exposure online and in print.
+
+## Who We Are
+
+As the official tourism promotion agency for Allegheny County, VisitPITTSBURGH is dedicated to generating convention, tradeshow and leisure travel business fo the Pittsburgh region.
+
+## What We Do
+
+VisitPITTSBURGH's role is to PROMOTE, MARKET and SELL the region and its amenities to meeting planners, tour operators, leisure visitors and travel media.
+
+## Did You Know That:
+
+**12.6 million overnight** visits to the Pittsburgh regional annually
+
+Tourism brings **$6.57 billion** in visitor spending into Allegheny County
+
+Tourism supports more than **43,000 jobs** in Allegheny County
+
+## Grow Your Business Through Tourism
+
+VisitPITTSBURGH's publications and website are the OFFICIAL marketing resources for visitors to our region. Our products can put your business directly in front of this lucrative customer base through targeted exposure in print and online advertising. Let one of our marketing specialists create a custom program specifically designed for your market and budget.
+
+Please enable JavaScript to show the Partner Listings listings.

@@ -1,0 +1,101 @@
+  * Home
+  * Events & Festivals
+  * This Week in Pittsburgh
+
+
+
+# Events This Week in Pittsburgh
+
+What's happening in Pittsburgh this week, you ask?
+
+For things to do in Pittsburgh this weekend and upcoming events that will pique your interests, fire up your taste buds and inspire new adventures, look no further. Check back each week for an up-to-date list of what to do in the 'Burgh.
+
+## Happening This Week:
+
+## Cinderfest🍺
+
+**October 2 | Cinderlands Beer Co.**  
+Cinderfest is BACK for its 5th year and you know we're bringing the gemütlichkeit in every way possible! It sells out every year, so don't wait to get your tickets!
+
+## Oktoberfest Pittsburgh🍻
+
+**October 2 - 12 | Ft. Duquesne Boulevard & Sixth Street Bridge**  
+The countdown is over—Pittsburgh’s biggest Oktoberfest celebration will kick off Thursday, October 2 at noon with the ceremonial tapping of the keg on Fort Duquesne Boulevard.
+
+## 6th Annual Freeport Halloween Carnival🎡
+
+**October 3 - 5 | 107 2nd Street, Freeport, PA**  
+Stop down and join us Oct 3rd - 5th for the highly anticipated return of The Freeport Halloween Carnival and Vendor Event! Stop down to enjoy great food, Awesome Rides for all ages, Games, Live Music, Magic, Steel City Ghostbusters, Various Vendor Booths, Trick Or Treat and much more!
+
+## Hello Kitty Cafe Truck🎀
+
+**October 4 | Ross Park Mall**  
+The Hello Kitty Cafe Truck is on the road for its 2025 U.S. tour, bringing exclusive treats and collectibles to Hello Kitty fans across the nation. The truck will be at Ross Park Mall on Saturday, Oct. 4 from 10am-7pm!
+
+## SpaceBurgh Festival🌌
+
+**October 5 | Riverview Park**  
+Highlights include exhibitor booths & demos from Moonshot Museum, Pitt Space, TeraBridges Robotics, Mars Robotics Association, Westminster Physics Department, STEMlab, and more; Magic Hour Creative and telescope viewing with AAAP; historic Allegheny Observatory tours; and a costume contest for all ages!  
+
+
+## Rocktoberfest🎸
+
+**October 5 | Southside Works**  
+Rocktoberfest is taking Oktoberfest to a whole new level. Beers of the Burgh & Zero Fossil Energy are teaming up once again to take Oktoberfest tradition to the next level. This FREE family-friendly music fest will celebrate the season by using Zero Fossil’s solar stage to turn sunshine into rock’n’roll
+
+## Ongoing…
+
+## Phantom Fall Fest🎢
+
+**September 12 - November 1 |Kennywood Amusement Park**  
+Kennywood's signature spooky-season event lets you do Halloween your way depending on the time of day. Come early for family-friendly fun, including festive food and a unique autumn atmosphere. Plus, enjoy your favorite coasters and rides during the day! Then, when the sun goes down, the Phantom takes screams to the extreme with six haunted houses and four scare zones.
+
+## Catching Sunbeams from the Porch Swing of Wisteria Castle☀️
+
+**May 23 - October 26, 2025 | The Frick Pittsburgh**  
+Explore abstract sculptures by Pittsburgh-based artist Atticus Adams in "Catching Sunbeams from the Porch Swing of Wisteria Castle." Adams’ pieces — most made from metal mesh and wire — hang from the windows and ceilings of The Frick Pittsburgh's historic greenhouse, adding a whimsical touch to the vibrant, flora-filled oasis. The exhibition includes never before seen works as well as a site-specific sculpture inspired by the Frick’s history, collections, and founder, Helen Clay Frick.
+
+## Carnegie Crawl🛍️
+
+**September 2 - October 10 | Carnegie**  
+The town of Carnegie invites you to join them on Main Street every second Friday from May to October! Businesses stay open later and part of the street gets closed so folks can listen to live music while dining and shopping in Carnegie. Every Crawl is different!
+
+Do you have an upcoming event you'd like featured? Add it to our**online events calendar**! 
+
+## Get the Details
+
+Upcoming Concerts in Pittsburgh 
+
+Learn More 
+
+Pittsburgh Theater | Upcoming Musicals, Plays, Comedy And Performances 
+
+Learn More 
+
+Top Free Things to Do in Pittsburgh 
+
+Learn More 
+
+Only in Pittsburgh Summer Festivals & Events 
+
+Learn More 
+
+Those Summer Nights | Pittsburgh Evening Activities & Nightlife 
+
+Learn More 
+
+Pittsburgh’s Rooftops 
+
+Learn More 
+
+Pittsburgh’s Outdoor Dining Scene 
+
+Learn More 
+
+Outdoor Drinks | A Guide to Pittsburgh Patio Season 
+
+Learn More 
+
+Performances in the Parks | Pittsburgh Outdoor Theatre, Musicals & Dance 
+
+Learn More 

@@ -1,0 +1,344 @@
+# https://www.nhl.com/penguins/news/penguins-to-celebrate-the-20th-season-of-sidney-crosby-evgeni-malkin-and-kris-letang-during-the-home-opener-on-october-9
+
+Skip to Main Content 
+
+  * Tickets
+    * Ticket Central
+    * Season Memberships
+    * 12-Packs
+    * Premium Seating
+    * Group Tickets
+    * Single Game Tickets
+    * Promotional Schedule
+    * Special Offers
+    * 3D Seat Map
+  * Team
+    * Roster
+    * In the System
+    * Penguins Hall of Fame
+    * Front Office Staff
+  * News
+  * Schedule
+
+Navigation Menu
+
+  * Video
+  * Scores
+  * Stats
+  * Community Community 
+    * Community Initiatives
+    * Pittsburgh Penguins Foundation
+    * Mario Lemieux Foundation
+    * UPMC Healthcare Heroes
+    * Iceburgh Appearances
+    * Future Goals Hockey Scholar
+    * Locker Room Leadership
+    * Public Skate at UPMC66
+    * 50/50 Raffle
+    * PPS All-Stars
+    * Youth Hockey
+  * Fans Fans 
+    * Fan Central
+    * Sign Up for Penguins Texts
+    * Sign up for Penguins Emails
+    * Download the Penguins App
+    * Contact Us
+    * Contest and Promotions
+    * Colorful Fans
+    * Book an Event
+    * Mobile Wallpapers
+    * FNB Power Play Package
+    * Players on Social
+  * Game Day Game Day 
+    * Game Day Information
+    * Know Before You Go
+    * Parking and Directions
+    * Birthday and Anniversary Greetings
+    * Fan Guides
+    * PPG Paints Arena Information
+    * Penguins Radio Network
+    * How to Watch Games
+    * Commemorative Tickets
+    * Ice Crew
+    * NHL Fan Code of Conduct
+  * Hall of Fame
+  * Shop Shop 
+    * PensGear
+    * Penguins Authentics
+    * NHL Shop
+    * NHL Auctions
+  * League
+  * Help
+
+
+  * NHL.com
+  * 
+
+
+News Home
+
+  * Game Previews
+  * Colorful Fans
+
+
+
+#  Penguins to Celebrate the 20th Season of Sidney Crosby, Evgeni Malkin and Kris Letang During the Home Opener on October 9 
+
+By Pittsburgh Penguins
+
+September 30, 2025
+
+  *   *   *   *   * Link copied
+
+
+
+The Pittsburgh Penguins will celebrate the 20th season of Sidney Crosby, Evgeni Malkin and Kris Letang at the teamâs home opener on October 9 against the New York Islanders at PPG Paints Arena. All fans in attendance will receive a Penguins magnetic schedule presented by UPMC upon entry and will have a chance to win additional great prizes and enjoy special offers during the game.
+
+Fans are encouraged to be in their seats prior to the 7:00 PM puck drop for a special pre-game introduction of the longest tenured trio of teammates in major North American professional sports history. Doors will open 90 minutes prior to puck drop.
+
+To kick off the 20th season of Crosby, Malkin and Letang, the Penguins are also celebrating the best fans in hockey with multiple giveaways during the game. Fans will have a chance to win the following throughout the game:
+
+  * 20 pairs of lower-bowl seats to upcoming home games during the 2025-26 season â included in those games is a pair of tickets to the 2016 Stanley Cup Championship Reunion set for Saturday, January 31, 2026 versus the New York Rangers.
+  * 20 pairs of tickets to upcoming shows and events at PPG Paints Arena, including Sabrina Carpenter and Paul McCartney.
+  * 20 authenticated mini helmets autographed by Crosby, Malkin and Letang.
+
+
+
+In honor of the trioâs 20th season, fans can enjoy the âBig Three Meal Dealâ which includes one hot dog, nachos and a regular fountain soda or Dasani bottled water for $20 (plus tax). The âBig Three Meal Dealâ will be available at the following five locations throughout the arena for the home opener - Arena Favorites in Section 107 and Club Classics Stands in sections 102 and 113 on the FedEx Level, as well as concession stands behind sections 212 and 223 on the Coca-Cola Zero Sugar Level.
+
+The Penguins Foundation is also launching a trio of exciting fan opportunities beginning the day of the opener â October 9. For the first time ever, the 50/50 Raffle presented by BetRivers Online Casino and Sportsbook will feature the âBig Three Pricing Specialâ, offering BONUS tickets to all fans who purchase their chances between the time doors open and puck drop on October 9 only. Beginning at 12:00 PM on October 9, fans can also enter the brand new Penguins Big Three Sweepstakes, with a chance to win one of 20 prizes honoring 20 legendary seasons. Lastly, the Back-to-Hockey Auction will feature exclusive Big Three-themed items. To learn more visit www.pittsburghpenguinsfoundation.org on October 9. All proceeds support the Penguins Foundationâs mission & goals.
+
+Crosby, Malkin and Letang are three of 35 players in the history of the NHL, NBA, MLB and NFL to play 20 seasons with a single team â and the only three to do so concurrently. âThe Big Threeâ are the highest-scoring trio of teammates with a single team in NHL history, combining for 3,703 regular-season points over the past 19 seasons.
+
+Tickets for the home opener can be found here.
+
+## News Feed
+
+### Healthy Novak Looking to Carve Out Role with Penguins
+
+Oct 03, 2025
+
+### Penguins Preseason Lineup Versus Sabres (10.03.25)
+
+Oct 03, 2025
+
+### Penguins Trim Training Camp Roster
+
+Oct 02, 2025
+
+### Musings: Penguins 5, Sabres 3 (Preseason Game 6)
+
+Oct 02, 2025
+
+### Penguins Preseason Lineup Versus Sabres (10.01.25)
+
+Sep 30, 2025
+
+### Assistant Coach Spotlight: Rich Clune
+
+Sep 30, 2025
+
+### Building Brick by Brick: Kindel Earning Opportunities
+
+Sep 30, 2025
+
+### Penguins, F.N.B. Expand Multi-Year PartnershipÂ 
+
+Sep 29, 2025
+
+### Hall of Fame Goalie, Hall of Fame Prankster
+
+Sep 29, 2025
+
+### Penguins Trim Training Camp Roster
+
+Sep 29, 2025
+
+### Penguins Preseason Lineup Versus Red Wings (09.29.25)
+
+Sep 28, 2025
+
+### Flower Gets His Flowers
+
+Sep 28, 2025
+
+### Penguins Reduce Training Camp Roster to 58 Players
+
+Sep 27, 2025
+
+### Musings: Penguins 3, Red Wings 2 (Preseason Game 3)
+
+Sep 27, 2025
+
+### Penguins Preseason Lineup Versus Blue Jackets (09.27.25)
+
+Sep 27, 2025
+
+### A 'Fleury' of Smiles in Practice
+
+Sep 26, 2025
+
+### Penguins to Continue PPS All-Stars Ticket Campaign for the 2025-26 Season
+
+Sep 26, 2025
+
+### Penguins Preseason Lineup Versus Red Wings (09.26.25)
+
+Sep 25, 2025
+
+### Assistant Coach Spotlight: Todd Nelson
+
+Sep 25, 2025
+
+### Musings: Columbus 4, Pittsburgh 1 (Preseason Game 2)
+
+Sep 25, 2025
+
+### Penguins Preseason Lineup Versus Blue Jackets (09.24.25)Â 
+
+Sep 23, 2025
+
+### Assistant Coach Spotlight: Mike Stothers
+
+Sep 23, 2025
+
+### Scotty Bowman, Ron Francis, Eddie Johnston and Kevin Stevens Named to the Penguins Hall of Fame âClass of 2025â
+
+Sep 23, 2025
+
+### Musings: Montreal 2, Pittsburgh 1 SO (Preseason Game 1)
+
+Sep 23, 2025
+
+### Penguins Preseason Lineup Versus Canadiens (09.22.25)
+
+Sep 21, 2025
+
+### Following Setbacks, Jarry Focused on Growth
+
+Sep 20, 2025
+
+### Assistant Coach Spotlight: Nick Bonino
+
+Sep 20, 2025
+
+### Silovs Built for Big Moments
+
+Sep 19, 2025
+
+### Training Camp: Evgeni Malkin
+
+Sep 19, 2025
+
+### New Coach, New Foundation
+
+Sep 18, 2025
+
+### Inside Scoop: First Day of Training Camp
+
+Sep 18, 2025
+
+### Malkin Looks to Enjoy the Ride
+
+Sep 18, 2025
+
+### Penguins Invite 69 Players to Training Camp
+
+Sep 17, 2025
+
+### Sidney Crosby: "This Is Where I Want To Be. I Love It Here"
+
+Sep 15, 2025
+
+### Avery Hayesâ Path Shaped by Michigan Ties
+
+Sep 13, 2025
+
+### Penguins to Open 2025.26 Training Camp on September 18 at the UPMC Lemieux Sports Complex
+
+Sep 12, 2025
+
+### Penguins Sign Goaltender Marc-Andre Fleury to a Professional Tryout Contract
+
+Sep 12, 2025
+
+### Soccer Legacy, Hockey Future: Ben Kindel's Journey
+
+Sep 12, 2025
+
+### Inside Scoop: 2025 Prospects Challenge
+
+Sep 11, 2025
+
+### Checking In With Crosby at NHL Player Media Tour
+
+Sep 10, 2025
+
+### Penguins Announce 2025 Prospects Challenge Roster
+
+Sep 10, 2025
+
+### Penguins Announce 2025.26 Promotional Schedule
+
+Sep 09, 2025
+
+### Avery Hayesâ Hard Work Rewarded
+
+Sep 03, 2025
+
+### Crosby still center stage as Canada prepares for 2026 Olympics
+
+Aug 27, 2025
+
+### Penguins Name Evan McFeeters Roving Minor League Coach
+
+Aug 27, 2025
+
+### Penguins to Appear on National TV Sixteen Times in 2025.26
+
+Aug 27, 2025
+
+### Pittsburgh Penguins Announce Plans to Relaunch Team Hall of Fame
+
+Aug 26, 2025
+
+### Summer Check-In: Boko Imama
+
+Aug 21, 2025
+
+### Penguins and First National Bank Announce Third Annual âFNB Small Business Development Campâ Program for Local Pittsburgh Businesses
+
+Aug 19, 2025
+
+### Parker Wotherspoon Ready to Bolster Blue Line
+
+Aug 18, 2025
+
+Founding Partners 
+
+  * X
+  * Instagram
+  * Facebook
+  * YouTube
+  * TikTok
+  * LinkedIn
+
+
+
+  * Privacy Policy
+  * Contact Us
+
+
+
+pittsburghpenguins.com is the official website of the Pittsburgh Penguins. The Pittsburgh Penguins and pittsburghpenguins.com are trademarks of Pittsburgh Penguins LP. NHL, the NHL Shield, the word mark and image of the Stanley Cup and the word mark NHL Winter Classic are registered trademarks and NHL Stadium Series name and logo and the NHL Winter Classic logo are trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. (C) NHL 2025. All Rights Reserved. 
+
+  * NHL.com Terms of Service
+  * NHL.com Privacy Policy
+  * Cookie Policy
+  * Cookie Settings
+  * Copyright Policy
+  * Employment
+
+
+
+Close

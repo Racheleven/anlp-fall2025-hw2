@@ -1,0 +1,172 @@
+# 5K Banana Run
+Get ready to go bananas at the annual 5k Banana Run! This fun run is perfect for runners of all ages and fitness levels. Participants are encouraged to wear yellow and don their best banana-themed costumes as they run or walk the 3.1-mile course.  
+
+## Details
+Do you have enough pep in your step to run or walk through historic downtown Latrobe? Make a split for the 5k Banana Run! Whether you're running like there’s a delicious banana split in front of you, or you’re up for a sweet stroll, it’s going to be bananas! Keep your eyes peeled on our social media page for additional updates.
+
+**Saturday, August 22, 2025**  
+Registration at 7am, Kickoff at 9am  
+Latrobe Memorial Stadium  
+Sponsor HERE
+
+### Congratulations 2025 Winners
+
+**Running**  
+**Open Men**  
+- Charlie Heese  
+- Brandon Melillo  
+- Andrew Cenkner  
+
+**Open Women**  
+- Jacquelyn Flowers  
+- Katie Heese  
+- Lynn Armbrust  
+
+**Walking**  
+**Open Men**  
+- Joe Adamoski  
+- David Gregor  
+- Jeff Davis  
+
+**Open Women**  
+- Mindy McMahen  
+- Sarah Pytlak  
+- Jan Cutter  
+
+### Age Brackets (For 5k)
+- 6-10  
+- 10-19  
+- 20-29  
+- 30-39  
+- 40-49  
+- 50-59  
+- 60+  
+
+### Race Route
+- ↑ START – Memorial Dr  
+- → RIGHT – Chestnut Street  
+- ← LEFT – Jefferson Street  
+- RIGHT – Oak Street – STAY RIGHT  
+- ← LEFT – Ligonier Street  
+- → RIGHT – E 1st Avenue  
+- ← LEFT – Penn Avenue  
+- ← LEFT – Tacoma Avenue  
+- WATER STATION  
+- ← LEFT – Ligonier Street  
+- → RIGHT – Oak Street – STAY RIGHT  
+- ← LEFT – Jefferson Street  
+- → RIGHT – Chestnut St. Extension  
+- ← LEFT – Memorial Drive ~ Past Start  
+- → RIGHT – Irving Avenue  
+- ↑ PAST – Tennis & Volleyball Courts  
+- → RIGHT – Stadium Parking Lot Ramp  
+- → RIGHT – At the Top of the Ramp  
+- ← LEFT – Into the Stadium Gates  
+- ↑ STRAIGHT – onto the TRACK to the FINISH  
+
+---
+
+# Blood Drive
+Giving blood is one of the most selfless acts of kindness one can do. It only takes a small amount of time, but the impact it can have is immeasurable. Blood donations save lives every day, and give you the power to make a difference in someone’s life. Whether it’s for a family member, a friend, or a complete stranger, your donation can give someone a second chance at life. Take a quick break from the fun and donate while you’re here! It’s a simple act of kindness that can have a profound impact on someone in need.
+
+**Donate Blood, Save a Life**  
+Each pint of blood we collect can help save up to three lives and will touch the lives of so many more. What a great way to pay it forward and make an impact on people in our community and across the country. We are very excited to have this drive and we hope you are too!
+
+---
+
+# Cornhole Tournament
+Get ready to toss some bags and have some fun! This popular game is a great way to get outside and enjoy the company of friends and family. With multiple rounds and elimination matches, the stakes get higher as the competition heats up. Whether you’re a seasoned cornhole player or a beginner, this tournament is a fun way to spend an afternoon in the sun. So grab a partner and join in on the fun at the cornhole tournament!
+
+## Tournament Information
+Grab your best throwing partner to compete in the annual Cornhole Tournament! Prizes will be awarded to the winners.
+
+### Rules
+
+**GAME PLAY**  
+- Two teams of two people, termed partners, shall play. Partners shall stand at opposite cornhole boxes on the same side, from the perspective of a third person, and face each other, so there is no advantage given to one team.  
+- Each cornhole team shall have 4 bags of one color. All 8 cornhole bags begin at one end.  
+- A coin flip shall determine which cornhole team has honors in round one.  
+- One of the partners on the team who has honors shall begin play by throwing a cornhole bag at the opposite cornhole box. A cornhole player may throw from anywhere behind the front of the cornhole box they are throwing from. Game continues by alternating throws between the two opponent players until all 8 cornhole bags have been thrown.  
+- If a cornhole bag hits the ground then bounces up onto the board, that bag shall be taken off the playing surface.  
+- The next round starts when the other cornhole player on the team, which has honors, throws their first cornhole bag.  
+- The cornhole game continues until one team reaches 21 or more points.  
+
+**SCORING**  
+- 3 points for a cornhole bag that goes through the hole.  
+- 1 point for a cornhole bag that is on the playing surface.  
+- 1 point for a cornhole bag that is hanging into the hole.  
+- 1 point for a cornhole bag that is hanging off the edge but not touching the ground.  
+- 0 points for a cornhole bag that is on the playing surface, but also touching the ground.  
+- 0 points for a cornhole bag that is hanging off the front edge and is resting on a cornhole bag that is on the ground (unless the cornhole bag on the ground can be removed without making the hanging bag fall to the ground, then one point is given).  
+- The cornhole team with the highest round score, adds the difference of the two scores to their game score.  
+- The cornhole team who wins the round is given honors to throw first in the next round.  
+- If both cornhole teams have the same round score then the game score stays the same and honors stays with the team who had it the previous round.  
+
+---
+
+# Car Show
+Get ready to rev your engines! This event is perfect for car enthusiasts of all ages who want to see some beautiful antiques and unique vehicles on display. The car show features a wide variety of makes and models with something for everyone. Owners are often on hand to talk about their cars, and visitors can get up close and personal with the vehicles, taking in every detail. So come on out and enjoy!
+
+## Details
+The Banana Split Celebration Car Show allows guests to vote on various participating cars with awards being given out in the following categories:  
+
+- Antique  
+- Antique Import  
+- Chrysler/Mopar  
+- Corvette  
+- Ford  
+- GM  
+- Import  
+- Mini  
+- Mustang  
+- Special Interest  
+- Street Rod  
+- Motorcycle  
+- Truck  
+
+- Dash plaques are given to the first 100 vehicles.  
+- Trophies and door prizes.  
+- Fee of $10 per vehicle going towards Relay For Life.  
+- Additional $1 fee for online registration.  
+
+**Saturday, August 22, 2025**  
+10am to 2pm  
+WCCC Latrobe Center
+
+# Yellow Tie Gala
+The Latrobe Art Center welcomes in the fun-filled weekend with a banana extravaganza! Enjoy a live music performance with Ricolita Café food, a yellow tie cocktail, and even a banana spit bar. Don’t forget to wear your best yellow outfit!  
+Get ready to party banana style!  
+The Latrobe Art Center invites you to a banana extravaganza welcoming in the weekend in style! Entertainment, hors d’oeuvres, banana splits, and more are offered. Don’t forget to wear your fanciest yellow attire!
+
+---
+
+# Great American Banana Baking Contest
+Turn up the heat for the Great American Banana Baking Contest! Contestants will bake a dessert that has to involve bananas in some form. There are three categories of contestants: Individual, Commercial (Businesses that offer baked goods), and Kids (under 12).
+
+### Congratulations 2025 winners!
+- Veronica Sarnese and her Cinnamon Roll Banana Bread for the individual category  
+- House of Sweetness and its Banana Split Cheesecake for the commercial category  
+- Adalyn Blotzer and her Banana Monster Cookies for the kids category  
+
+### Contest Information
+Turn up the heat for the Great American Banana Baking Contest! Contestants will bake a dessert that has to involve bananas in some form. There are three categories of contestants: Individual, Commercial (Businesses that offer baked goods), and Kids (under 12).
+
+- Entries must be made from scratch, not store-bought.  
+- MUST CONTAIN BANANA as an ingredient.  
+- No mixes allowed.  
+- The item must be fully baked and ready to serve.  
+- ALL ENTRIES MUST HAVE THE RECIPE ATTACHED, or it will not be accepted.  
+- Baked goods should be prepared in a clean and sanitary manner.  
+- Entries should be whole baked goods, such as a full cake or pie, or at least a half dozen of the same item.  
+- Please do not submit any item that requires refrigeration.  
+- Participants should bring their own utensils, such as cake knives or pie servers.  
+- Contestants may need to provide their own dishes and decorations.  
+- Judging will consider appearance, flavor, texture, and other factors. For example, a coffee cake might be judged on its crust, frosting, filling, and crumb.  
+
+### Accepted Baked Goods
+- **Breads:** Yeast Breads, Quick Breads, & Sweet Breads  
+- **Cookies:** Any Cookie  
+- **Cakes:** Any cake  
+- **Miscellaneous Sweets:** Any dessert item that does not fit in a category listed above  
+- **NO Brownies**  
+- **NO Dips or Spreads**  

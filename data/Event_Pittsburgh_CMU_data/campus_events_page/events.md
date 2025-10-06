@@ -1,0 +1,95 @@
+# CMU Community Events
+
+These events are from the [CMU Community Events Website](https://community.cmu.edu/s/events).
+
+### BOS - Seaport Beer Walk
+**Date:** October 09, 2025
+**More details:** https://www.givecampus.com/schools/CarnegieMellonUniversity/events/bos-seaport-beer-walk
+
+### NYC - Whale and Dolphin Watching NYC
+**Date:** October 11, 2025
+**More details:** https://www.givecampus.com/schools/CarnegieMellonUniversity/events/nyc-whale-and-dolphin-watching-nyc
+
+### PIT - Oct. Neighborhood Lunch in North Fayette
+**Date:** October 14, 2025
+**More details:** https://www.givecampus.com/schools/CarnegieMellonUniversity/events/pit-oct-neighborhood-lunch-in-north-fayette
+
+### PIT - Network Happy Hour at Hazel Grove
+**Date:** October 15, 2025
+**More details:** https://www.givecampus.com/schools/CarnegieMellonUniversity/events/pit-network-happy-hour-at-hazel-grove
+
+### PIT - Oct. Cranberry Township Neighborhood Luncheon
+**Date:** October 17, 2025
+**More details:** https://www.givecampus.com/schools/CarnegieMellonUniversity/events/pit-oct-cranberry-township-neighborhood-luncheon
+
+### ATL - Scottish Festival at Stone Mountain
+**Date:** October 18, 2025
+**More details:** https://www.givecampus.com/schools/CarnegieMellonUniversity/events/atl-scottish-festival-at-stone-mountain
+
+### HLAA - NYC: Coffee with Glenn and Jonathan
+**Date:** October 18, 2025
+**More details:** https://www.givecampus.com/schools/CarnegieMellonUniversity/events/hlaa-nyc-coffee-with-glenn-and-jonathan
+
+### The CMU Student Experience: A Conversation with Gina Casalegno
+**Date:** October 21, 2025
+**More details:** https://www.givecampus.com/schools/CarnegieMellonUniversity/events/the-cmu-student-experience-a-conversation-with-gina-casalegno
+
+### Tepper Webinar: Breaking the Mold: Shaping the Future of Women-Owned Businesses
+**Date:** October 23, 2025
+**More details:** https://www.givecampus.com/schools/CarnegieMellonUniversity/events/tepper-webinar-breaking-the-mold-shaping-the-future-of-women-owned-businesses
+
+### DET - Roush Automotive Collection Tour
+**Date:** October 24, 2025
+**More details:** https://www.givecampus.com/schools/CarnegieMellonUniversity/events/det-roush-automotive-collection-tour
+
+### HI - Globally Plaid Meetup at WCIT Architecture
+**Date:** October 24, 2025
+**More details:** https://www.givecampus.com/schools/CarnegieMellonUniversity/events/hi-globally-plaid-meetup-at-wcit-architecture
+
+### SD - Volunteer Event & Brunch Social
+**Date:** October 25, 2025
+**More details:** https://www.givecampus.com/schools/CarnegieMellonUniversity/events/sd-volunteer-event-brunch-social
+
+### CHI - Historic Pullman District + House Project Tour
+**Date:** October 25, 2025
+**More details:** https://www.givecampus.com/schools/CarnegieMellonUniversity/events/chi-historic-pullman-district-house-project-tour
+
+### SEA - Arcade Mix & Mingle
+**Date:** October 25, 2025
+**More details:** https://www.givecampus.com/schools/CarnegieMellonUniversity/events/sea-arcade-mix-mingle
+
+### NYC - Taco Tuesday Happy Hour
+**Date:** October 28, 2025
+**More details:** https://www.givecampus.com/schools/CarnegieMellonUniversity/events/nyc-taco-tuesday-happy-hour
+
+### DEN - Central City Opera Haunted History Experience (Family Friendly)
+**Date:** November 01, 2025
+**More details:** https://www.givecampus.com/schools/CarnegieMellonUniversity/events/den-central-city-opera-haunted-history-experience-family-friendly
+
+### CMU125 at Homecoming Weekend
+**Date:** November 06, 2025
+**More details:** https://cvent.me/bARo1k
+
+### 125th Anniversary Celebration
+**Date:** November 06, 2025
+**More details:** https://www.cmu.edu/125/
+
+### NYC - An Afternoon of Art and Creativity
+**Date:** November 08, 2025
+**More details:** https://www.givecampus.com/schools/CarnegieMellonUniversity/events/nyc-an-afternoon-of-art-and-creativity
+
+### LA - Volunteer Opportunity: 11/11 Project Angel Food Service Day
+**Date:** November 11, 2025
+**More details:** https://www.givecampus.com/schools/CarnegieMellonUniversity/events/la-volunteer-opportunity-11-11-project-angel-food-service-day
+
+### DET - Holocaust Center Tour
+**Date:** November 16, 2025
+**More details:** https://www.givecampus.com/schools/CarnegieMellonUniversity/events/det-holocaust-center-tour
+
+### DC - CMU NFL Game Day: Washington Commanders vs. Denver Broncos and Post Game Field Photo
+**Date:** November 30, 2025
+**More details:** https://www.givecampus.com/schools/CarnegieMellonUniversity/events/dc-cmu-nfl-game-day-washington-commanders-vs-denver-broncos-and-post-game-field-photo
+
+### DEN - Holiday party
+**Date:** December 13, 2025
+**More details:** https://www.givecampus.com/schools/CarnegieMellonUniversity/events/den-holiday-party

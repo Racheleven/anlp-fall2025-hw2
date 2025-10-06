@@ -1,0 +1,357 @@
+# https://www.steelers.com/women/staff-quotes
+
+Skip to main content
+
+Primary nav
+
+  * TEAM 
+  * SCHEDULE 
+  * NEWS 
+  * VIDEO 
+  * PHOTOS 
+  * FANS 
+  * EN ESPAÑOL 
+  *     * HALL OF HONOR MUSEUM 
+    * STEELERS AUDIO NETWORK 
+    * DRAFT 
+    * HISTORY 
+    * ALUMNI 
+    * WOMEN OF STEEL 
+    * YOUTH 
+    * EN ESPAÑOL 
+    * STEELERS IRELAND 
+    * AUF DEUTSCH 
+    * COMMUNITY 
+    * STADIUM 
+
+
+
+  * Shop 
+  * Tickets 
+
+
+
+Search
+
+Open menu button  Action related nav
+
+  * TICKETS 
+  * PRO SHOP 
+  * WATCH 
+  * LIVE NFL GAMES 
+
+
+
+  * Women of Steel Home 
+  * Influencers & Celebs of Steel 
+  * Women of the Front Office 
+
+
+
+# Steelers Women Staff Members
+
+##  Steelers Women Staff Members 
+
+###  WATCH: Reflecting on National Girls & Women in Sports Day 
+
+Several of the Steelers female staff members talked about the importance on National Girls & Women in Sports Day
+
+"I am constantly inspired and honored to be working for an organization that cares so deeply for its people and guests, from the top down. I was raised loving sports, especially football. I have worked/lived around and out of the country, and I can truly say, 'There's no place like home in the 'Burgh and I'm happy to be back." - Monica Agbalog, Stadium Operations
+
+"Pittsburgh and Steelers go hand in hand. I was born and raised here â raised to love this team â so being able to call it my job almost seems unreal. From the iconic black and gold to the unwavering passion of our fans, Pittsburgh truly embodies the heart and soul of football. It's an honor to work for a team that represents the very essence of this city, and I'm so grateful to be a part of Steelers Nation." - Nicole Bauer, Marketing & Events
+
+"The Steelers have the most captivating fan base that I have ever experienced across the country.Â The values that the Steelers organization were founded on are visible every day within the business, the City of Pittsburgh, and across Steelers Nation. I am truly honored to be a part of the Steelers family." - Stephanie Beck, Merchandise and Digital Commerce
+
+"I love working for the Steelers organization because they provide a workplace that promotes family, community, and the spirit of giving back." - Chrissy Bulger, Coaching
+
+"I can truly say it's the staff that I love the best about the Steelers.Â They treat you like family. And of course, we have the best team in the league." - Cookie Carter, Stadium Operations
+
+"I have loved football ever since I was a little girl. I always knew I wanted to work for an NFL team, so working for the Steelers is truly a dream come true. Working for such a historical organization has been nothing short of amazing. When you think of the Steelers you think family oriented and my experience going into my second season has been that and more. Everyone wants what's best for the organization and I am grateful to be a part of it." - MacKaiya Cherry, Communications
+
+"I didn't start watching professional football until I moved to Pittsburgh, but it didn't take long for me to become a Steelers fan. My roommate who is originally from Pittsburgh invited me to a family get together to watch a Steelers game. From there, I was hooked. The Steelers have one of the most passionate fan bases in the world, and I am proud to be a part of Steelers Nation and the Steelers organization." - Rachel Cohen, Corporate Partnerships
+
+"Working in football is working in fun. Nothing brings a community together quite like football. I enjoy coming to work because of the built-in loyalty that you see in Steelers fans." - Payton Comunale, Marketing & Events
+
+"One of my favorite things about football is its ability to connect fans from all over the world with each other, despite the fact that football may be the only thing they share in common. No matter where you go, if you see someone wearing your team's logo, you can instantly sense a bond with that person, and the farther you travel from home, the cooler it feels." - Caitlyn Cossu, Marketing & Events
+
+"My love for the Steelers started with the Immaculate Reception, my poster of Terry Bradshaw, Myron Cope and the Terrible Towel and the greatest opportunity of a lifetime working within the Steelers coaching department and for the Steelers organization. Go Steelers." â Mia Daudet, Coaching
+
+"Sundays have always meant Steelers football in my family, and to now be a part of the team I've cheered for as long as I can remember has been beyond incredible. The Steelers are more than just a football team, they are a unifying force bringing people from all over together and instilling a sense of pride in Pittsburgh. The opportunity to work in the sport I love and for an organization that has played a significant role in shaping the culture of this city has been a dream come true." - Alexis Davis, Digital Media
+
+"Sports have always been a driving force for the community in my life. My firsthand involvement with football began in college and provided a connection with my family history within Ohio University's football department. Though I didn't know my grandpa, his passion for football and involvement through the years resonate deeply throughout my family. It is such a joy to be a woman in football and help pave the way with those around me." - Abigail Dean, Digital Media
+
+"I love working for the Steelers because it gives me the opportunity to be part of the team that I grew up cheering for.Â Growing up, Sundays were always for Steelers Football and family. Working for the Steelers is being part of a bigger family that supports,Â encouragesÂ and chases big goals together. I'm very proud to be a part of that." - Caroline DeFrank, Business Office
+
+"I love that Pittsburgh is a great place for sports. That skyline makes me smile every time I see it. I grew up in a sports-loving family and the Steelers were part of that. My first year with the team, the Steelers went on to win Super Bowl XL, and it's been quite a ride since that first season. I have been so lucky to have worked with some incredible women during my time with the team." - Courtney Duzyk, Steelers Pro Shop
+
+"My favorite part of working for the Steelers is witnessing how Pittsburgh and the Steelers bring together fans from all over. The widespread reach of Steelers Nation is amazing, and I love hearing how the legacy of the Steelers is passed from generation to generation and creates core memories for families and individuals. The passion for this city, these people, and hard work carries through the organization and fanbase in such an inspiring way, and I am so blessed to be here." - Keaton Engle, Marketing & Events
+
+"Working for the Steelers means family. It is a family owned and operated business, and that dynamic trickles down to the employees as well. Through working with the Steelers, I have found coworkers who are now as close to me as family. I have made lifelong connections with people who now hold a very special place in my life." - Lauren Fisher, Steelers Pro Shop
+
+"Being a January baby, my birthday parties always doubled as playoff watching parties. The seed was planted early. Full circle, I went into labor with my son during Super Bowl XXVI." - Debbie Gabler, Steelers Pro Shop
+
+"Growing up in Pittsburgh in the 1970's I remember jumping in the car after a Steelers Super Bowl win and my dad driving us around the neighborhood.Â So exciting.Â Everyone out in the streets cheering & celebrating. What great memories.Â Proud to be from Pittsburgh and working for my hometown team.Â Here we go." - Mary Beth Gilbert, Business Office
+
+"What I love about Pittsburgh football is the gameday atmosphere.Â I love the yellow sea of Terrible Towels waving in the air, the smell of fresh cut french fries when you walk through the stadium gates, and the electricity of that first Steelers touchdown. Football is an adrenaline rush. Football is family. Football is community.Â Football in Pittsburgh is home to me." - Mandy Golec, Stadium Operations
+
+"There's nothing quite like the City of Pittsburgh. From the loyal fan base to the comradery between sports teams, Pittsburgh truly represents home. I couldn't be more excited to be with the black and gold family." - Jourdan Gottlieb, Digital Media
+
+"I've been watching Steelers football with my family for as long as I can remember. Working for the team has reinforced and grown my appreciation for Steelers Nation, in particular the female fans who are No. 1 in the NFL. Trust me, I've run the numbers." â Melanie Harris, Sales and Marketing
+
+"What inspires me in my job is the ability to collaborate with our partners and players to raise awareness on important issues within our community. The game of football is so much bigger than what happens on field. I love that I have the ability to use football to transform our community and support the people who need it most." - Blayre Holmes, Community Relations
+
+"The fans of Steelers Nation inspire me to do my job every day. Getting to interact with them, hear their Steelers traditions, and more just reminds me how special this organization is to so many people around the world." - Amber Iuni, Marketing & Events
+
+"Black and Gold are not just the colors on our jerseys. It makes Pittsburgh (Yinzers) proud and the Steeler Nation unlike any other fan base. We proudly wear our colors, hold up our Terrible Towels, and show our pride worldwide. Working in sports allows me to help create memories for fans, highlight our beautiful City, and share my enthusiasm for sports. I am proud to be born and raised in Pittsburgh, a Woman of Steel, and work for the Pittsburgh Steelers organization!" - Crystal Joyce, Business Office
+
+"My love of football originated back in the 1970's when I was a young girl, it was a tradition to watch Sunday football with my father and there was only one team we would root for, the Steelers.Â I remember the excitement waking up on Sunday morning during football season.Â Needless to say, throughout the years some traditions fade, however new ones were made, and they always included rooting for the greatest team in football, the Steelers." - Susan Kalafut, Steelers Pro Shop
+
+"Some of my favorite memories are centered around football. From being on the sidelines as a cheerleader to being in the crowd with my mom watching my brothers play and my dad coach, each football season leaves me with treasured memories filledÂ with family and friends. The unity, love, passion, and excitement towards football is an unbeatable experience and I am so happy to share these moments with the Pittsburgh community." - Jordyn Kane, Marketing & Events
+
+"I love the energy that comes with football season, in the office and at the stadium. That sea of twirling Terrible Towels, the entrance of the players onto the field, and the tell-tale sign of Renegade really pumps up the crowd. I love being a Pittsburgh girl and nothing beats Steelers football or the Rooney spirit. Here We Go." - Colleen Kimmel, Business Office
+
+"One of the things that inspires me is the impact we have on the Pittsburgh community.Â I've been working in community relations for approximately two decades and seeing a sick child smile from ear to ear never gets old.Â Enhancing the lives of people in need never gets old.Â Everything makes sense when you see the impact you're making first hand." - Stacie Lawrence, Community Relations
+
+"The dedication of our fans and particularly our season ticket holders is the reason I'm proud to represent this organization. Their passion and excitement is energizing and is the driving force behind all we do to create a great customer experience." - Kristen Lewandowski,Â Ticket and Premium Seating Sales
+
+"I love when Steelers Nation comes together during a big moment in the game and starts chanting and waving the Terrible Towels, the playing of Renegade and seeing crowd on their feet and so excited to watch their team play." - Diane Lowe, Administration
+
+"My love for football and the Steelers began in the eighth grade. The Steelers were playing in Super Bowl X against the Cowboys.Â I remember all the excitement surrounding the game both at school and home. I remember going to Century III Mall with my friends to buy a Mean Joe Greene shirt so that I could wear it to watch the big game.Â I have been a fan of the game ever since." - Jody Lubawski, Business Office
+
+"My family being a football family is where my love of football originated.Â My dad started the first midget football league in the area I grew up in.Â During my grade school and junior high years, I was a cheerleader and that carried on my love for the game.Â Being a football family, we have always enjoyed cheering for the Steelers." - Maureen Mannion, Football Operations
+
+"My love for football and the Steelers came in the 1970s.Â I would go to my grandparent's house for Sunday dinner and to watch the Steelers.Â We are still carrying on the tradition of getting together with family and friends to root for our favorite team, the Steelers." - Renae McNabb, Merchandise and Digital Commerce
+
+"While the work they do on the field is important, I love supporting the players with the work they do off the field to effect change in the Pittsburgh community. Their enthusiasm to be out in the community and give back to those who support them truly inspires me in my job." - Myah Olson, Community Relations
+
+"As part of the merchandise buying team, I love seeing our fans wearing something I purchased.Â When you watch away football games and you see the away stadium loaded with Terrible Towels, you get a great feeling. I love to hear the television announcers talk about the Terrible Towels in the crowd.Â It is such a warm feeling, a Pittsburgh feeling to be proud of." - Janice O'Toole, Merchandising and Digital Commerce
+
+"Working for the Steelers means being a part of a bigger picture. We truly are a family and always have each other's best interest in mind. From the day-to-day responsibilities in the office to the fast-paced environment of game day, we're constantly striving to be the most supportive and inspiring teammates and leaders." - Cayce Little Pastoor, Stadium Operations
+
+"From the time I could walk, I was playing a sport. Tennis, golf, basketball, you name it. My dream of playing golf in college came true when I signed my name on the dotted line and moved to Florida. Golf has had such a positive impact on my life, from the people I've met, to the courses I've played. Football is one of my favorite sports and being from Pittsburgh, everyone knows the Pittsburgh Steelers run this town. I am lucky enough to be surrounded by so many talented individuals who have made work feel not so much like work." - Bella Petrone, Sales and Marketing
+
+"Like many kids my hero has always been my dad.Â My dad was a professional football player with the Chicago Bears in the 80's.Â Growing up there wasn't a day where sports weren't involved.Â I always wanted to follow in my dad's footsteps of being an athlete, so I took up volleyball and committed all my free time to training.Â Volleyball put me through college and molded me into the person I am today.Â I credit sports to many of my accomplishments and I am beyond grateful to grow up in a sport-based household." - Lexie Rains,Â Merchandise and Digital Commerce
+
+"Being from Pittsburgh, you naturally must bleed black and gold. Some of my favorite things about Pittsburgh include inclining to Mount Washington to view the picturesque skyline, traveling over the three rivers to vast rolling hilled neighborhoods of the 'Burgh, and of course, spending time in the Strip District. I could not be more excited to work with such a prestigious organization. I hope to see Yinz at the staadium whipping those Terrible Towels." - Sophia Rizzo, Stadium Operations
+
+"The people with the Steelers, from my co-workers to our players and coaches, to our fans around the world make it special. Having the opportunity to work with a diverse group of people in different areas at different capacities in this industry is very inspiring. Everyone carries their own unique stories and backgrounds." - Maria Rodriguez, Digital Media
+
+"What I like about working for the Steelers are the different events that I have worked over the years getting to meet a lot of really nice fans that some almost feel like family. Seeing everyone coming from all over the world and hearing their stories and seeing them come back each year and looking you up just to say hello." - Linda Rogiero, Steelers Pro Shop
+
+"I've always been passionate about community-driven work, and I love that the NFL is one of the biggest platforms for creating change. It's amazing how involved the Steelers players and organization are in the Pittsburgh community, and it inspires me to keep making a difference every day." - Ashley Rothermel, Community Relations
+
+"I love that every day I have the opportunity to help someone, whether it is performing a simple maintenance treatment or returning a player to the field after a long-term rehab. Playing a part in someone else's success is the most gratifying experience and makes this job very rewarding." - Sonia Ruef, Athletic Trainer
+
+"Growing up in Pittsburgh, I realized at a young age that game day is something special and that the Steelers are more than just a football team. They are a unifying force that brings the whole city together in a positive way.Â That is just one of the many reasons I'm proud to be a part of front office and this organization." - Jessi Sabatini, Stadium Operations
+
+"I have lived in seven states and have never wavered from my love for the black and gold. The Steel Curtain, Franco, Ben, Hines, Troy,Â the list goes on and on. I feel blessed and proud to now be an employee of this strong organization. These players are amazing, not only for their work on the field, but especially for their work off the field helping this lovely city and surrounding communities." - Joyce Sansky, Merchandising and Digital Commerce
+
+"My love for football was originated from my father. I never imagined that I would work here for the team, it was never a goal in life. I can say it has been a privilege. Loving the Steelers is a 'Burgh thing." - Kelly Serafin, Business Office
+
+"Anytime I travel wearing my Steelers gear, it organically creates a connection and community amongst Steelers fans. From a simple stranger shout-out, to a wink or starting a conversation about Pittsburgh, it always makes me proud to represent 'my' team and know there are fans everywhere alike with the same love for the Steelers." - Jenny Shaeffer, Business Office
+
+"Having not grown up in Pittsburgh, I'd always heard about the Steelers incredible (and large) fan base but being able to see and experience it every day with my own eyes still continues to amaze me. And to know that Steelers Nation is comprised of so many women who bleed black and gold, it makes me proud to work for such an incredible franchise in such an incredible and passionate city." - Amy Siebenkittel, Corporate Partnerships
+
+"The thrill and excitement of game day never gets old. While I may not be playing on the field, seeing the hard work of so many behind the scenes is truly inspiring. The team mentality of football holds true when working alongside a great group of people with a common goal of creating the best experience for all fans." - Erika Siegel, Stadium Operations
+
+"Growing up in Latrobe, the Pittsburgh Steelers were the first team I learned to cheer for. My career took me to six different states to work for nine other teams. It has been a true honor to come home and work for the team that started it all for me." â Stephanie Sior, Ticket and Premium Seating Sales
+
+"My fondest memory of Steelers football was always Sunday afternoon watching the Steelers games with my grandfather." - Barbara Snyder, Business Office
+
+"What I love about Steelers Nation is the utmost devotion we have every year. When our backs are against the wall, Steelers Nation bleeds black and gold through and through." - Alexa Sorch, Ticket and Premium Seating Sales
+
+"I have been a Steelers fan for as long as I can remember. We won our first Super Bowl in January 1975 when I was four. Everyone came over to watch it, parents, grandparents, aunts, uncles, cousins. I don't really remember the actual game, but I do remember the excitement of it and the feeling in the house that day. One of my favorite things about our team is our fans. They are everywhere. For me Steelers Nation embodies the excitement I felt watching that first Super Bowl." - Jodie Spagnolli, Business Office
+
+"I come from a football family and have always loved the game. I remember as a kid, birthday parties and family vacations were always planned around football season. As I got older, and my love of business and fashion emerged, my goal was to combine these things with football as a career. As a buyer for an NFL team, especially Steelers Nation, I am truly living my dream." - Megan Stepnoski, Merchandising and Digital Commerce
+
+"My love of football originated from dad. When I was eight or nine years old, he introduced me to fantasy football and we'd sit together after school and look at the injury reports, beat writers, etc. to set our lineup, and that continued over the phone in college. Until he passed away in 2020, we talked on the phone on my way home from every game I worked since 2013 - even the night games if just for a few minutes." - Angela Tegnelia, Communications
+
+"I was raised a Steelers fan and always loved to hear stories of the players and learn more about them. To be able to share the players stories now is one of the greatest joys, bringing Steelers Nation a different side of them. And I am blessed to do it for the greatest sports team anywhere." - Teresa Varley, Digital Media
+
+"My favorite part about working for the Steelers is the people within the organization. Being an athletic trainer allows me the unique opportunity to build relationships with people from all different departments. Coach Mike Tomlin and the rest of his coaching and auxiliary staff are some of the finest people I have ever worked with. There truly isn't a day that I wake up and I'm not excited to go to work with the Steelers." - Abigail Weiland, Athletic Trainer
+
+"Growing up I have fond memories of watching football with my family.Â My grandmother would always cook special meals on game day, and everyone would gather in the living room and watch the game. We would even make someone go change if they were wearing the opposing team's colors. Even during this year's draft, I was texting with my uncle who lives out of state.Â I love that football brings families together." - Marie Zeitler, Corporate Partnerships
+
+"As the child of a military family moving from city to city, the teenage version of me knew immediately Pittsburgh was more than just another place to live. People smile back when you walk by and say hello. The Steelers are a direct extension of what this beautiful city means to me. Here integrity and hard work match the core values instilled in me growing up." - Connie Zelinsky, Stadium Operations
+
+"My love for football began as early as I can remember, watching Steelers games every weekend with my dad in his Steelers 'mancave'. Fast forward 25 years later, he framed my business card for display in that same mancave once I began working here. It's a dream to do what I love for an organization I've always rooted for long before I was an employee." - Brittany Zeman, Marketing & Events
+
+"As far back as I can remember, I have loved sports. The excitement that surrounds the game, no matter which sport, can be so exhilarating. The reason I got into working in sports was because I have a passion to help people capture those same types of feelings and help create experiences that last a lifetime, something that they never forgot." â Julie Zeravica, Stadium Operations
+
+### Club Links
+
+Club Links
+
+  * TEAM 
+  * Team Home 
+  * Roster 
+  * Depth Chart 
+  * Coaches 
+  * Standings 
+  * Stats 
+  * Injury Report 
+  * Transactions 
+  * Front Office Staff 
+  * Draft Central 
+
+
+  * NEWS 
+  * News Home 
+  * Press Releases 
+  * Asked and Answered 
+  * Labriola On 
+  * Steelers En Español 
+  * Media Only Site 
+
+
+  * VIDEO 
+  * Video Home 
+  * Steelers Live 
+  * Interviews 
+  * Sights & Sounds 
+  * Press Conferences 
+  * Around the Locker Room 
+  * Scouting Report 
+  * Steelers En Español 
+
+
+  * PHOTOS 
+  * Photos Home 
+  * Practice 
+  * Pregame 
+  * Game Action 
+  * Karl's Top Pics 
+  * Community 
+
+
+  * SCHEDULE 
+  * Schedule Home 
+  * Current Season Schedule 
+  * Event Calendar 
+
+
+  * TICKETS 
+  * Tickets Home 
+  * Account Manager 
+  * Buy Tickets 
+  * NFL Ticket Exchange 
+  * Gameday Experience 
+  * Steelers Fan Travel 
+  * Season Tickets Wait List 
+  * SBL Marketplace 
+  * Seat Transfers 
+  * View From Your Seat 
+  * Clear Bag Policy 
+
+
+  * FAN ZONE 
+  * Fan Zone Home 
+  * Steelers Official Mobile App 
+  * Contests and Promotions 
+  * Event Calendar 
+  * Steelers Podcasts 
+  * Steelers En Español 
+
+
+  * ACRISURE STADIUM 
+  * Stadium Home 
+  * Clear Bag Policy 
+  * Book an Event 
+  * Directions 
+  * Parking 
+  * Seating Chart 
+  * Security Guidelines 
+  * Disability Services 
+  * Stadium Tours 
+
+
+  * HISTORY 
+  * History Home 
+  * Hall of Honor Museum 
+  * Hall of Honor 
+  * Hall of Fame 
+  * Super Bowls 
+
+
+  * COMMUNITY 
+  * Community Home 
+  * Community Programs 
+  * Youth 
+  * High School Football Showcase 
+  * Youth Football Camps 
+
+
+
+### NFL Clubs
+
+NFL Clubs
+
+  * AFC North 
+  *   *   *   * 
+
+  * AFC East 
+  *   *   *   * 
+
+  * AFC South 
+  *   *   *   * 
+
+  * AFC West 
+  *   *   *   * 
+
+  * NFC North 
+  *   *   *   * 
+
+  * NFC East 
+  *   *   *   * 
+
+  * NFC South 
+  *   *   *   * 
+
+  * NFC West 
+  *   *   *   * 
+
+
+### More NFL Sites
+
+More NFL Sites
+
+  * NFL Football Operations 
+  * NFL Shop 
+  * NFL On Location 
+  * Pro Football Hall of Fame 
+  * Licensing 
+
+
+  * USA Football 
+  * NFL Extra Points 
+  * NFL Ticket Exchange 
+  * NFL Experience Times Square 
+
+
+
+Download the Official App  Download Apps
+
+  *   * 
+
+
+(C) 2025 Pittsburgh Steelers. All Rights Reserved 
+
+Legal
+
+  * Privacy Policy 
+  * Terms of Use 
+  * Accessibility 
+  * Contact Us 
+  * Site Map 
+  * Ad Choices 
+  * Your Privacy Choices 
+  * Cookie Settings
+  * Preference Center 
+
+
+
+Big left arrow icon  Big right arrow icon  Close icon Copy Url Three dots icon  Down arrow icon  Email icon  Email icon  Exit Fullscreen icon  External link icon  Facebook logo Football icon Facebook logo  Instagram logo  Snapchat logo  YouTube logo  TikTok logo  Spotify logo  LinkedIn logo  Grid icon  Key icon  Left arrow icon  Link icon  Location icon  Mail icon  Menu icon  Open icon  Phone icon  Play icon  Radio icon  Rewind icon  Right arrow icon  Search icon  Select icon  Selected icon  TV icon  Up arrow icon  User icon  Audio icon Add to calendar iconNFC icon AFC icon NFL icon Carousel IconList ViewWebsite InstagramTwitterFacebookSnapchatShop IconProfile Overlay AvatarAddAirplayArrow LeftArrow RightArrow UpArrow DownAudioBack 5sBack 10sBack 30sCalendarChartCheckDownLeftRightUpChromecast OffChromecast OnCloseClosed CaptionsBench OffBench OnBroad OffBroad OnVertical OffVertical OnCommentDockDoneDownloadDraftFantasyFilterForward 5sForward 10sForward 30sFull Screen OffFull Screen OnGamepassGamesInsightsKeyLeaveLiveCombineDraftFantasyMenu GamesMenu NetworkMenu NewsMenu PlayoffsMenu Pro BowlMenu ShopMenu StandingsMenu StatsMenu Super BowlMenu TeamsMenu TicketsMenuMore HorizontalMore VerticalMy LocationNetworkNewsPauseplayMultiple PlayersSingle PlayerPlaylistPlayoffsPro BowlPurgeRefreshRemoveSearchSettingsShare AndroidShare Copy URLShare EmailShare FacebookShare InstagramShare iOSShare SnapchatShare TwitterSkip NextSkip PreviousStandingsStarStatsSwapTeamsTicketsVideoVisibility OffVisibility OnVolume HiVolume LowVolume MediumVolume MuteWarningWebsite Caret downCaret upAtNewsPlayAudioGalleryPromo Chevron right 
+
+The browser you are using is no longer supported on this site. It is highly recommended that you use the latest versions of a supported browser in order to receive an optimal viewing experience. The following browsers are supported: Chrome, Edge (v80 and later), Firefox and Safari.
+
+Got it!

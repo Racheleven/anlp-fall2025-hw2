@@ -1,0 +1,194 @@
+  * Spring in Pittsburgh 
+  * Summer in Pittsburgh 
+  * Autumn in Pittsburgh 
+  * Winter in Pittsburgh 
+
+
+
+  * Home
+  * Plan Your Trip
+  * Weather
+
+
+
+# Weather
+
+You can enjoy all four seasons in Pittsburgh.
+
+Pittsburgh is exciting in every season, no matter the weather. As a city with all four seasons, the 'Burgh has something special in store for those visiting in winter, spring, summer or fall. We've rounded up the best seasonal sights, events, and eats for every time of year. Plus, tips for how to pack and what to enjoy when you're short on time.
+
+Average Temperatures & Precipitation
+
+15-Day Live Forecast
+
+What to Bring
+
+The Best Time to Visit
+
+## Average Temperatures & Precipitation by Month
+
+Here, the weather sets the perfect scene for a variety of unforgettable activities. The summers are typically warm and partly cloudy, while the winter months yield low temperatures and are very cloudy. The coldest month in Pittsburgh is January with an average high of 39°F and a low of 23°F. Our city has a snowfall average of 44 inches. As for the warmer seasons, the hottest month of the year is July with a high of 85°F and a low of 65°F. The highest average rainfall typically occurs in June with an average of 3.4 inches.
+
+**Month**| **Average High / Low: Fahrenheit & Celsius**| **Average Rainfall**  
+---|---|---  
+January| 39°F (4°C) / 23°F (-5°C)| 10 Days  
+February| 42°F (6°C) / 24°F (-4°C)| 8 Days  
+March| 51°F (11°C) / 31°F (-1°C)| 9 Days  
+April| 64°F (18°C) / 41°F (5°C)| 10 Days  
+May| 73°F (23°C) / 51°F (11°C)| 10 Days  
+June| 81°F (27°C) / 60°F (16°C)| 8 Days  
+July| 85°F (29°C) / 65°F (18°C)| 8 Days  
+August| 84°F (29°C) / 63°F (17°C)| 8 Days  
+September| 78°F (26°C) / 56°F (13°C)| 7 Days  
+October| 65°F (18°C) / 45°F (7°C)| 7 Days  
+November| 53°F (12°C) / 35°F (2°C)| 7 Days  
+December| 43°F (6°C) / 28°F (-2°C)| 8 Days  
+  
+_Source:National Oceanic and Atmospheric Administration (NOAA)_
+
+## Pittsburgh 15-Day Live Forecast
+
+Friday, Oct 03 
+
+High: 80° Low: 52°
+
+Few clouds 
+
+Saturday, Oct 04 
+
+High: 82° Low: 51°
+
+Few clouds 
+
+Sunday, Oct 05 
+
+High: 83° Low: 52°
+
+Few clouds 
+
+Monday, Oct 06 
+
+High: 83° Low: 55°
+
+Few clouds 
+
+Tuesday, Oct 07 
+
+High: 79° Low: 60°
+
+Thunderstorm with rain 
+
+Wednesday, Oct 08 
+
+High: 66° Low: 51°
+
+Moderate rain 
+
+Thursday, Oct 09 
+
+High: 65° Low: 50°
+
+Clear Sky 
+
+Friday, Oct 10 
+
+High: 66° Low: 50°
+
+Scattered clouds 
+
+Saturday, Oct 11 
+
+High: 68° Low: 55°
+
+Broken clouds 
+
+Sunday, Oct 12 
+
+High: 68° Low: 54°
+
+Broken clouds 
+
+Monday, Oct 13 
+
+High: 63° Low: 52°
+
+Broken clouds 
+
+Tuesday, Oct 14 
+
+High: 57° Low: 45°
+
+Clear Sky 
+
+Wednesday, Oct 15 
+
+High: 65° Low: 46°
+
+Light shower rain 
+
+Thursday, Oct 16 
+
+High: 51° Low: 43°
+
+Few clouds 
+
+Friday, Oct 17 
+
+High: 59° Low: 39°
+
+Few clouds 
+
+Saturday, Oct 18 
+
+High: 71° Low: 51°
+
+Few clouds 
+
+## What to Bring
+
+Prepare for your visit to Pittsburgh with the proper essentials. If you forgot something at home, explore local shopping options for clothing, accessories, and more. 
+
+  * **Winter -** Although Pittsburgh is a winter wonderland, it's best enjoyed with the right attire! Pack your warmest coat, knitwear, thick fabrics, hats, scarves, gloves, boots, and thermals. 
+  * **Spring -** Prepare for springtime by packing a light jacket, long pants, short-sleeve shirts, sweatshirts, comfortable walking shoes, a raincoat, and an umbrella. 
+  * **Summer -** Cool down by wearing light fabrics during our pleasant summer temperatures. Cotton and linen materials are recommended. Pack shorts, sunglasses, short-sleeve tops, and a rimmed hat. 
+  * **Fall -** Bring your sweaters, scarves, beanies, long pants, and a light jacket. 
+
+
+
+## The Best Time to Visit Pittsburgh
+
+Pittsburgh features year-round experiences for all visitors! Each season brings its own array of amazing things to do. 
+
+Curious about how cold it gets in Pittsburgh? Fortunately, if you like to skate and sled-ride, you'll have a sensational time in January and February. If your interests lean toward budding flowers and walks along the river, spring is for you. Love water sports and outdoor attractions? Then visit in the summer. Festivals, crisp air and football greet you in the fall and the holiday season in Pittsburgh is unmatched.
+
+So, pack your bags and enjoy all the seasons in Pittsburgh! Be sure to bring your camera and share your photos using #LovePGH
+
+## Did you know?
+
+You don't need the Weather Channel to know the forecast in Downtown Pittsburgh. You can tell just be looking up at the Gulf Tower!
+
+Located at 707 Grant Street, the tower is an art-deco skyscraper, in the style of a mini-Empire State Building. The pyramid at the top illuminates colors at night according to weather conditions and can be seen for miles. If it's black and gold, you'll know that one of the city's pro sports teams just brought home a winner!
+
+The tower's vibrant colors indicate temperature, humidity, precipitation and wind speed in Pittsburgh at that particular time. For a breakdown and color code, check out this guide from CBS News.
+
+> View this post on Instagram
+> 
+> A post shared by Bradley B. Photography (@bradleybphotography)
+
+## In This Section
+
+Spring in Pittsburgh There are plenty of ways to enjoy Pittsburgh in the spring, no matter your interests, taste…
+
+Learn More
+
+Summer in Pittsburgh There are plenty of ways to enjoy Pittsburgh in the summer, no matter your interests, taste…
+
+Learn More
+
+Autumn in Pittsburgh There are plenty of ways to enjoy Pittsburgh in the fall, no matter your interests, taste…
+
+Learn More
+
+Winter in Pittsburgh Looking for cozy winter vibes, old world European markets and fireworks-filled festivals to kick off the…
+
+Learn More
