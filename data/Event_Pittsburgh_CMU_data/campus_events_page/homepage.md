@@ -11,7 +11,71 @@ For more than 100 years, Spring Carnival has been one of the most anticipated we
 ## Homecoming Weekend
 More details : https://www.cmu.edu/engage/events/homecoming
 
-Each fall, the CMU community puts on their best Tartan for a weekend of family-friendly activities like the annual CMU Alumni Awards, campus tours, Buggy previews and the tailgate and football game.
+Each fall, the CMU community puts on their best Tartan for a weekend of family-friendly activities like the annual CMU Alumni Awards, campus tours, Buggy previews and the tailgate and football game. 
+
+Reunion Weekend celebrates friends new and old at exclusive events and opportunities during Spring Carnival, while attendees also enjoy treasured traditions like Buggy, Mobot, Midway and Booth. This year, we were excited to welcome back undergraduate classes ending in 1s and 6s, as well as the Class of 2025. Every year, Half Century Tartans (Classes of 1974 and prior) are invited to attend reunion events.
+### Hotel Accommodations
+
+Several local hotels have blocks of rooms held for reunion alumni. Hotels book quickly, so make your reservation as early as possible! The special room rate will be available until varying cut-off dates or until the group block is sold out, whichever comes first.
+
+#### Courtyard Pittsburgh University Center
+- Distance from campus: 1 mile  
+- Address: 100 Lytton Avenue, Pittsburgh, PA 15213  
+- Phone: 412-682-6251  
+- Rate: $209/night; Parking $29/night  
+- Room Type: Studio Queen/King  
+- Book by: March 9, 2026  
+
+#### Hilton Garden Inn Pittsburgh University Place
+- Distance from campus: 1 mile  
+- Address: 3454 Forbes Avenue, Pittsburgh, PA 15213  
+- Phone: 412-683-2040  
+- Rate: $189/night; Valet parking $35/night  
+- Room Type: Standard Queen/King  
+- Book by: March 9, 2026  
+- [Booking Link](#)
+
+####  Residence Inn Pittsburgh Oakland/University Place
+- Distance from campus: 1 mile  
+- Address: 3341 Forbes Avenue, Pittsburgh, PA 15213  
+- Phone: 412-621-5600  
+- Rate: $169/night; Parking $22/night  
+- Room Type: Studio King  
+- Book by: March 9, 2026  
+
+#### Hotel Indigo Pittsburgh East Liberty
+- Distance from campus: 1.9 miles  
+- Address: 123 North Highland Avenue, Pittsburgh, PA 15206  
+- Phone: 1-800-BRAND or 412-204-1347  
+- Rate: $139/night; Parking $20/night  
+- Room Type: Standard King  
+- Book by: March 10, 2026  
+
+#### SpringHill Suites Pittsburgh Bakery Square
+- Distance from campus: 1.9 miles  
+- Address: 134 Bakery Square Blvd, Pittsburgh, PA 15206  
+- Phone: 412-362-8600  
+- Rate: $169/night; complimentary breakfast; public parking garage attached by skywalk  
+- Book by: March 9, 2026  
+
+#### Hotel Indigo Pittsburgh University - Oakland
+- Distance from campus: 2.0 miles  
+- Address: 329 Technology Drive, Pittsburgh, PA 15219  
+- Phone: 412-621-0880  
+- Rate: $139/night; Parking $22/night (unlimited in and out privileges)  
+- Room Type: Standard Rooms  
+- Book by: March 10, 2026 
+
+---
+
+## The Oaklander
+- Distance from campus: 1 mile  
+- Address: 5130 Bigelow Blvd, Pittsburgh, PA 15213  
+- Phone: 412-578-8500 or 877-829-2429  
+- Rate: $299/night; Parking $22/night for local guests; Parking $42/night for out of town guests  
+- Book by: March 6, 2026  
+- [Booking Link](#)
+
 
 
 ## Reunion Weekend

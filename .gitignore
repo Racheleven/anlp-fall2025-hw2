@@ -1,6 +1,22 @@
 data1/
 
+<<<<<<< HEAD
 .DS_Store
 
 __pycache__/
 *.py[cod]
+=======
+# macOS system files
+.DS_Store
+
+# Cache directories
+cache/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore all Jupyter Notebook files
+*.ipynb
+>>>>>>> ly
