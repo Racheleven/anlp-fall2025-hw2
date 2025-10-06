@@ -1,5 +1,0 @@
-## **3\. Disclosure of Information**
-
-* For iOS users, please see the following link for instructions on how to opt-out of or withdraw consent to geolocation data collection from your settings https://support.apple.com/en-us/HT207092  
-For more information and to learn about your options with regard to the use of geolocation information for interest-based advertising, please see, Interest-Based Advertising.  
-Please also note that if you choose to engage in public activities on the Services, such as through interactive features like a chat room, forum, blog, or other community tool, you should be aware that the information you share there will be publicly available and can be read, collected, or used by other users of these features. You may receive unsolicited messages from other parties. We cannot ensure that parties who have access to such information will respect your privacy. Please exercise caution when using these features.

@@ -1,6 +1,0 @@
-# https://www.nhl.com/penguins/tickets/handbook
-
-1. You must know the recipient's email address or mobile phone number.
-2. After the invitation is sent, the recipient must build an Account Manager account to accept the Tickets.
-3. Once a Ticket is accepted or stored, the original Ticket is voided.
-4. At any time, the new Ticket Holder is able to log back into Account Manager and view a mobile version of the Ticket. This mobile Ticket can be used for entry at all gates at PPG Paints Arena.

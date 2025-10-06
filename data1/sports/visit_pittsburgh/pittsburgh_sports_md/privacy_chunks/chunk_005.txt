@@ -1,3 +1,0 @@
-## What is "Personally Identifiable Information"?
-
-then such unique information is also considered Personally Identifiable Information. Personally Identifiable Information does not include information that is collected anonymously (i.e., without identification of the individual user) or demographic information not connected to an identified individual.

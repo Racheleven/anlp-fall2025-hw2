@@ -1,5 +1,0 @@
-# Privacy
-## How does VisitPittsburgh use PII?
-
-## How does VisitPittsburgh use PII?  
-We use the information you provide through the registration process: to provide you with the information and services you request; to communicate with you on matters relating to the Web Site and your account; to provide necessary information to our member hotels, convention centers, meeting places, and other businesses to permit them to prepare proposals for you in response to your Requests for Proposals and/or provide other requested information; and to provide you with information about related services and/or products from our members.

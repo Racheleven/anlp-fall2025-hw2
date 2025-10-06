@@ -1,8 +1,0 @@
-# https://www.nhl.com/penguins/tickets/mobile-tickets
-
-remove add What if my phone loses connectivity?  
-We encourage fans to place their tickets in their mobile wallet for offline use. If you are still unable to access your tickets, please visit the Guest Service windows at the DICK'S Sporting Goods Box Office located inside the Highmark Gate.Â As long as you have a photo ID and a valid Penguins or Ticketmaster account, our staff will assist with gate entry.  
-remove add What does a mobile ticket look like?  
-A mobile ticket contains a unique rotating barcode. It also includes the information found on a traditional paper ticket such as game date, time, section, row, seat, etc.  
-Note, printouts or screenshots of a rotating barcode cannot be scanned.  
-remove add What if my phone is not compatible?

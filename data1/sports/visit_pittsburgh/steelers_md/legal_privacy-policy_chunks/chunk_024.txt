@@ -1,5 +1,0 @@
-## **4\. Cookies and Similar Technologies**
-
-The following types of cookies and similar technologies are used on our Services:  
-* Strictly necessary cookies and technologies: These are necessary for the Services to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for Services, such as setting your privacy preferences, logging in, or filling in forms. You can set your browser to block or alert you about certain of these cookies, but some parts of the Services will not then work.
-* Functional cookies and technologies: These enable the Services to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you disable functional cookies, then some or all of these services may not function properly.

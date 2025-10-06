@@ -1,8 +1,0 @@
-## **1\. RecopilaciÃ³n de informaciÃ³n**
-
-Si decide no proporcionar esta informaciÃ³n, es posible que no podamos proporcionarle los Servicios o parte de nuestro contenido.  
-**_InformaciÃ³n que recopilamos automÃ¡ticamente_**  
-TambiÃ©n podrÃamos recopilar automÃ¡ticamente informaciÃ³n sobre actividades en redes electrÃ³nicas e Internet, identificadores de dispositivos e informaciÃ³n sobre su uso de los Servicios cuando usted visita o utiliza los Servicios, lo cual incluye lo siguiente:  
-* su direcciÃ³n de protocolo de Internet (Internet Protocol, "IP"), que es el nÃºmero que se asigna automÃ¡ticamente a su computadora siempre que accede a Internet y que a veces puede utilizarse para calcular su ubicaciÃ³n geogrÃ¡fica aproximada;
-* su direcciÃ³n de control de acceso al medio (Media Access Control, "MAC"), que es un identificador Ãºnico asignado a un controlador de interfaz de red;
-* su tipo de dispositivo o proveedor de telefonÃa celular;

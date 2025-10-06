@@ -1,5 +1,0 @@
-## **17\. California Users**
-
-If you are a California resident and your personal information is subject to CCPA, then you have certain rights under California law. For more information about the rights you have and how to exercise these rights, please review the Data Subject Rights section above. In addition to those methods described in the Data Subject Rights section above, California residents may also exercise their rights under applicable law by calling 1-855-265-6894.  
-The metrics below include the aggregate number of requests from consumers to know, access or delete personal information received by the League for the calendar year 2024. These numbers do not include requests that did not state a valid initial request under California law.  
-* Requests to Access: 28 total requests were received; of the requests received in 2024, we complied with 28 in whole or in part and denied 0 as they were unverifiable or on other grounds.

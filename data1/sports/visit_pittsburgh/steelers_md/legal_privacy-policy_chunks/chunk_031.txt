@@ -1,8 +1,0 @@
-## **5\. Interest-Based Advertising**
-
-**Opting Out of IBA**  
-You can opt out of receiving some type of ads and third-party collection of data for IBA from your device across unaffiliated services by managing your preferences at https://youradchoices.com/control.  
-You can also manage third-party cookies that collect data from NFL-affiliated websites and mobile applications for Interest-Based Advertising by setting your preferences on the website, mobile application, or other service via "Privacy Settings" or "Cookie Settings."  
-**Precise Geolocation Data for IBA**  
-As noted previously and in accordance with local laws, we may disclose your geolocation information, including precise geolocation information, to service providers that perform certain functions or services on our behalf and to third parties so that they may provide you with geographically relevant advertising.  
-If you wish to stop the further collection of your geolocation information for IBA, please opt-out using your device settings, as noted below:

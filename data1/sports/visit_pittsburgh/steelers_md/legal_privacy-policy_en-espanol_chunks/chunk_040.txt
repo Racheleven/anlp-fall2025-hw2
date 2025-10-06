@@ -1,6 +1,0 @@
-## **5\. Publicidad Basada en Intereses**
-
-**Excluirse o retirar el consentimiento para el rastreo de los datos de geolocalizaciÃ³n precisos para la IBA**  
-Para excluirse del rastreo de la geolocalizaciÃ³n de su dispositivo o de los datos de geolocalizaciÃ³n precisos, vaya a la configuraciÃ³n de su dispositivo. Desactivar el acceso a la geolocalizaciÃ³n y a los datos precisos de geolocalizaciÃ³n puede inhabilitar o interferir con determinadas funciones o servicios.  
-Los usuarios de Android pueden consultar el enlace que se muestra a continuaciÃ³n para obtener instrucciones sobre cÃ³mo excluirse de la recopilaciÃ³n de datos de geolocalizaciÃ³n en su configuraciÃ³n o retirar el consentimiento para esto: https://support.google.com/accounts/answer/6179507?hl=en.  
-Los usuarios de iOS pueden consultar el siguiente enlace para obtener instrucciones sobre cÃ³mo excluirse de la recopilaciÃ³n de datos de geolocalizaciÃ³n en su configuraciÃ³n o retirar el consentimiento para esto: https://support.apple.com/en-us/HT207092.

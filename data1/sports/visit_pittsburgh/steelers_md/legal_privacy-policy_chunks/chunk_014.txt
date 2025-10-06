@@ -1,6 +1,0 @@
-## **2\. Use of Information**
-
-* Publish stories, comments, photos, and other information posted in our interactive online features;
-* In the case of location information, for example, to determine your market location for purposes of administering broadcast restrictions for live games or other events, to validate your location to geo-gate certain features or information, to locate a place that you may be searching for in your area, for determining teams and offers in which you may have an interest and providing you with information or relevant advertising based on where you are located. For more information about how we use location data in connection with advertising, please see Section 5, Interest-Based Advertising;
-* In the case of Social Security Numbers, for example, for tax purposes when administering prizes to certain contest winners;
-* Protect the health and safety of our guests, personnel, and the public;

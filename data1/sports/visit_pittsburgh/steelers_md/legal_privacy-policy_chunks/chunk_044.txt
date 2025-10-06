@@ -1,3 +1,0 @@
-## **12\. Communications Preferences and Other Choices**
-
-You may also have choices available to you to opt out of the collection of your geolocation information, whether collected through location services, Bluetooth, or microphone access technology. Where collected, this information may be used in accordance with local laws to serve and display advertising relevant to your location. To understand your choices and opt out if desired, please visit your device settings.

@@ -1,5 +1,0 @@
-2.  **MENTION RESTAURANT WEEK.** When being seated and offered menus, ensure to mention Pittsburgh Restaurant Week to the waitstaff to ensure you are getting the correct menus and pricing.
-3.  **GRATUITIES APPRECIATED.** Waitstaff handle a surge of customers during restaurant week and many of the special menus are multiple courses that would have been priced higher if ordered a la carte. If you are able, consider gratuities that take into account the original pricing and extra effort to perfect a multi-course service.  
-* * *  
-### Browse Special Menus  
-Neighborhoods: [Downtown](?filter=Neighborhood&fvalue=Downtown) | [Northside](?filter=Neighborhood&fvalue=Northside) | [Southside](?filter=Neighborhood&fvalue=Southside) | [North Hills](?filter=Neighborhood&fvalue=North Hills) | [South Hills](?filter=Neighborhood&fvalue=South) | [Monroeville/Murrysville](?filter=Neighborhood&fvalue=East)

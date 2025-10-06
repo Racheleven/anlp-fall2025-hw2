@@ -1,5 +1,0 @@
-## **4\. Cookies y tecnologÃas similares**
-
-En nuestros Servicios se utilizan los siguientes tipos de cookies y tecnologÃas similares:  
-* Cookies y tecnologÃas estrictamente necesarias: son necesarias para que funcionen los Servicios y no pueden desactivarse en nuestros sistemas. Por lo general, solo se establecen en respuesta a acciones realizadas por usted que equivalen a una solicitud de Servicios, como establecer sus preferencias de privacidad, iniciar sesiÃ³n o contestar formularios. Puede configurar su navegador para que bloquee o le avise sobre ciertas cookies, pero no funcionarÃ¡n algunas partes de los Servicios.
-* Cookies y tecnologÃas funcionales: permiten a los Servicios ofrecer una funcionalidad y personalizaciÃ³n mejoradas. Pueden estar configuradas por nosotros o por terceros proveedores cuyos servicios hemos agregado a nuestras pÃ¡ginas. Si las desactiva, es posible que no funcionen correctamente todos o algunos de estos servicios.
