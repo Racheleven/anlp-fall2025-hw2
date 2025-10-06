@@ -1,0 +1,18 @@
+# MOBILE TICKETING FAQ
+
+arrow-up-139794  
+Back to Top  
+### MLB BALLPARK APP - MOBILE TICKET BARCODE  
+#### What is a Mobile Ticket Barcode?  
+Each ticket has a mobile ticket barcode that must be scanned for entry into
+PNC Park via your mobile device. Within the Wallet, you can tap on an
+individual ticket to view its barcode. For entry to PNC Park, present your
+mobile device with the mobile barcode open and available to scan.  
+#### How do I access the ticket to scan for entry?  
+Tap on an individual ticket from the Tickets tab’s Wallet to pull up the
+mobile ticket barcode. The Section/Row/Seat and barcode will be displayed
+along with access to the terms and conditions governing your ticket.  
+#### Why is my ticket barcode not showing in the MLB Ballpark app?  
+There are several reasons why your barcode may not be available including that
+the ticket has been forwarded, the ticket had been forwarded to you and has
+since been canceled or recalled, or you are a group or suite buyer and the

@@ -1,0 +1,12 @@
+# MLB Ballpark App
+## At the Game
+
+## At the Game  
+Enable location services to unlock venue information, app features, and
+exclusive check-in offers while at the ballpark. We recommend turning on
+notifications to stay updated about your tickets, important ballpark
+information, and special promotions.  
+Once you arrive, the "Home" and "Pirates" tabs become your go-to resource for
+venue details and features that enhance your gameday experience. Capture and
+preserve your ballpark memories by tapping "My History" within the "Profile"
+tab.

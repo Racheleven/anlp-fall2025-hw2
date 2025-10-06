@@ -1,0 +1,16 @@
+# MOBILE TICKETING FAQ
+
+1-800-BUY-BUCS.  
+Note that you may need to refresh your Tickets tab by pulling down on the
+screen to see updated ticket inventory. If your Pirates tickets were
+originally forwarded to you by another Ballpark app user, the original sender
+may have canceled the forward and you should check with the person who sent
+you the tickets. If you are still having difficulty locating mobile tickets
+you believe should be appearing in your Tickets tab, contact Pirates Fans
+Services at ticketservices@pirates.com or 1-800-BUY-BUCS.  
+#### Which types of tickets will be displayed in the MLB Ballpark app?  
+The MLB Ballpark app displays regular season, Postseason, Spring Training and
+other event tickets within the Tickets tab’s Wallet. Tickets that you have
+forwarded to friends will not show a barcode. There will be a message that the
+ticket has been forwarded with a cancel button in place of the barcode.  
+#### Will large group tickets with 15 or more tickets and suite rental tickets

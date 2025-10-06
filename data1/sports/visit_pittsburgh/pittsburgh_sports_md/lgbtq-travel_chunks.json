@@ -1,0 +1,154 @@
+{
+  "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/lgbtq-travel.md",
+  "file_type": ".md",
+  "splitter_type": "markdown",
+  "total_chunks": 8,
+  "chunks": [
+    "* LGBTQIA+ Resources\n* TAG Approved Hotels\n* Things to Do\n* Nightlife\n* Restaurants  \n* Home\n* Plan Your Trip\n* LGBTQIA+ Travel in Pittsburgh",
+    "# LGBTQIA+ Travel in Pittsburgh\n\n# LGBTQIA+ Travel in Pittsburgh  \nGet out and explore all that Pittsburgh has to offer!  \nFrom a vibrant arts and culture scene, outdoor adventures, rich history, a fantastic food scene and so much more – you’ll find plenty of welcoming and inclusive things to see and do.  \nFrom a vibrant arts and culture scene, outdoor adventures, rich history, a fantastic food scene and so much more – you’ll find plenty of welcoming and inclusive things to see and do.",
+    "# LGBTQIA+ Travel in Pittsburgh\n## Stay a While\n\n## Stay a While  \nPittsburgh is home to a number of TAG Approved® hotels offering fantastic accommodations. Whether you’re looking to stay Downtown or in the neighborhoods, amenities range from lush, boutique-style rooms to rooftop Biergartens. It’s safe to say Pittsburgh has you covered – quite comfily may we add.",
+    "# LGBTQIA+ Travel in Pittsburgh\n## Get Out and Play!\n\n## Get Out and Play!  \nPittsburgh is home to a thriving arts and culture and scene. A visit to The Andy Warhol Museum is a must. Explore decades of artworks and collections of the Pittsburgh-native Andy Warhol, who openly expressed his queer identity and life in art. And, be sure to make time to explore the Mattress Factory, a unique, contemporary art museum that features site-specific installations, like the late Greer Lankton’s It’s all about ME, Not You. Lankton is remembered for eloquently exploring and questioning the norms of gender and sexuality.",
+    "# LGBTQIA+ Travel in Pittsburgh\n## Be Seen!\n\n## Be Seen!  \nReel Q produces events and film screenings throughout the year, including the flagship annual festival, Reel Q: Pittsburgh LGBTQ+ Film Festival. The organization’s mission is to increase availability and accessibility of queer film in Pittsburgh and the surrounding areas.",
+    "# LGBTQIA+ Travel in Pittsburgh\n## Dine Out!\n\n## Dine Out!  \nThere’s no shortage of fantastic restaurants in Pittsburgh, too. From quick bites in local favorite spots to delicious meals with breathtaking skyline views, you’ve got your choice of delectable picks. Make sure you schedule a stop in East Liberty to check out Square Café, a colorful café known for tasty and creative breakfast, brunch and lunch offerings in a super welcoming space.",
+    "# LGBTQIA+ Travel in Pittsburgh\n## In This Section\n\n## In This Section  \nLGBTQIA+ Resources Offering a wide variety of events and things to do. Pittsburgh, PA has great central locations…  \nLearn More  \nTAG Approved Hotels Pittsburgh's many hotels offer luxury and convenience to some of the city's best cultural treasures.  \nLearn More  \nThings to Do A City of Multitudes  \nLearn More  \nNightlife Now for the after party!  \nLearn More  \nRestaurants Pittsburgh, a city known for its culinary creations!  \nLearn More",
+    "# LGBTQIA+ Travel in Pittsburgh\n## Related Blogs\n\n## Related Blogs  \nInsider’s Guide: The Andy Warhol Museum  \nSafely experience Pop Art icon Andy Warhol's artwork at The Andy Warhol Museum.  \nDetails  \nUnexpected Arts  \nDiscover unique art venues in Pittsburgh, including The Andy Warhol Museum and Mattress Factory.  \nDetails  \n6 Must-See Places in Pittsburgh  \nAdd a visit these must-see places to your next Pittsburgh adventure!  \nDetails  \nPittsburgh’s Hidden Gems  \nLooking for a uniquely Pittsburgh experience that is really out of the ordinary?  \nDetails  \n13 Obscure & Unusual Pittsburgh Stops  \nExplore the off-the-beaten path and uncover the obscure side of Pittsburgh.  \nDetails  \nPittsburgh Pride 2025  \nPittsburgh Pride returns May 30 - June 1, 2025  \nDetails"
+  ],
+  "chunks_info": [
+    {
+      "text": "* LGBTQIA+ Resources\n* TAG Approved Hotels\n* Things to Do\n* Nightlife\n* Restaurants  \n* Home\n* Plan Your Trip\n* LGBTQIA+ Travel in Pittsburgh",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/lgbtq-travel.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [],
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "original_metadata": {}
+      }
+    },
+    {
+      "text": "# LGBTQIA+ Travel in Pittsburgh\n\n# LGBTQIA+ Travel in Pittsburgh  \nGet out and explore all that Pittsburgh has to offer!  \nFrom a vibrant arts and culture scene, outdoor adventures, rich history, a fantastic food scene and so much more – you’ll find plenty of welcoming and inclusive things to see and do.  \nFrom a vibrant arts and culture scene, outdoor adventures, rich history, a fantastic food scene and so much more – you’ll find plenty of welcoming and inclusive things to see and do.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/lgbtq-travel.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# LGBTQIA+ Travel in Pittsburgh"
+        ],
+        "chunk_index": 1,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "LGBTQIA+ Travel in Pittsburgh"
+        }
+      }
+    },
+    {
+      "text": "# LGBTQIA+ Travel in Pittsburgh\n## Stay a While\n\n## Stay a While  \nPittsburgh is home to a number of TAG Approved® hotels offering fantastic accommodations. Whether you’re looking to stay Downtown or in the neighborhoods, amenities range from lush, boutique-style rooms to rooftop Biergartens. It’s safe to say Pittsburgh has you covered – quite comfily may we add.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/lgbtq-travel.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# LGBTQIA+ Travel in Pittsburgh",
+          "## Stay a While"
+        ],
+        "chunk_index": 2,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "LGBTQIA+ Travel in Pittsburgh",
+          "Header 2": "Stay a While"
+        }
+      }
+    },
+    {
+      "text": "# LGBTQIA+ Travel in Pittsburgh\n## Get Out and Play!\n\n## Get Out and Play!  \nPittsburgh is home to a thriving arts and culture and scene. A visit to The Andy Warhol Museum is a must. Explore decades of artworks and collections of the Pittsburgh-native Andy Warhol, who openly expressed his queer identity and life in art. And, be sure to make time to explore the Mattress Factory, a unique, contemporary art museum that features site-specific installations, like the late Greer Lankton’s It’s all about ME, Not You. Lankton is remembered for eloquently exploring and questioning the norms of gender and sexuality.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/lgbtq-travel.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# LGBTQIA+ Travel in Pittsburgh",
+          "## Get Out and Play!"
+        ],
+        "chunk_index": 3,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "LGBTQIA+ Travel in Pittsburgh",
+          "Header 2": "Get Out and Play!"
+        }
+      }
+    },
+    {
+      "text": "# LGBTQIA+ Travel in Pittsburgh\n## Be Seen!\n\n## Be Seen!  \nReel Q produces events and film screenings throughout the year, including the flagship annual festival, Reel Q: Pittsburgh LGBTQ+ Film Festival. The organization’s mission is to increase availability and accessibility of queer film in Pittsburgh and the surrounding areas.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/lgbtq-travel.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# LGBTQIA+ Travel in Pittsburgh",
+          "## Be Seen!"
+        ],
+        "chunk_index": 4,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "LGBTQIA+ Travel in Pittsburgh",
+          "Header 2": "Be Seen!"
+        }
+      }
+    },
+    {
+      "text": "# LGBTQIA+ Travel in Pittsburgh\n## Dine Out!\n\n## Dine Out!  \nThere’s no shortage of fantastic restaurants in Pittsburgh, too. From quick bites in local favorite spots to delicious meals with breathtaking skyline views, you’ve got your choice of delectable picks. Make sure you schedule a stop in East Liberty to check out Square Café, a colorful café known for tasty and creative breakfast, brunch and lunch offerings in a super welcoming space.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/lgbtq-travel.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# LGBTQIA+ Travel in Pittsburgh",
+          "## Dine Out!"
+        ],
+        "chunk_index": 5,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "LGBTQIA+ Travel in Pittsburgh",
+          "Header 2": "Dine Out!"
+        }
+      }
+    },
+    {
+      "text": "# LGBTQIA+ Travel in Pittsburgh\n## In This Section\n\n## In This Section  \nLGBTQIA+ Resources Offering a wide variety of events and things to do. Pittsburgh, PA has great central locations…  \nLearn More  \nTAG Approved Hotels Pittsburgh's many hotels offer luxury and convenience to some of the city's best cultural treasures.  \nLearn More  \nThings to Do A City of Multitudes  \nLearn More  \nNightlife Now for the after party!  \nLearn More  \nRestaurants Pittsburgh, a city known for its culinary creations!  \nLearn More",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/lgbtq-travel.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# LGBTQIA+ Travel in Pittsburgh",
+          "## In This Section"
+        ],
+        "chunk_index": 6,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "LGBTQIA+ Travel in Pittsburgh",
+          "Header 2": "In This Section"
+        }
+      }
+    },
+    {
+      "text": "# LGBTQIA+ Travel in Pittsburgh\n## Related Blogs\n\n## Related Blogs  \nInsider’s Guide: The Andy Warhol Museum  \nSafely experience Pop Art icon Andy Warhol's artwork at The Andy Warhol Museum.  \nDetails  \nUnexpected Arts  \nDiscover unique art venues in Pittsburgh, including The Andy Warhol Museum and Mattress Factory.  \nDetails  \n6 Must-See Places in Pittsburgh  \nAdd a visit these must-see places to your next Pittsburgh adventure!  \nDetails  \nPittsburgh’s Hidden Gems  \nLooking for a uniquely Pittsburgh experience that is really out of the ordinary?  \nDetails  \n13 Obscure & Unusual Pittsburgh Stops  \nExplore the off-the-beaten path and uncover the obscure side of Pittsburgh.  \nDetails  \nPittsburgh Pride 2025  \nPittsburgh Pride returns May 30 - June 1, 2025  \nDetails",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/lgbtq-travel.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# LGBTQIA+ Travel in Pittsburgh",
+          "## Related Blogs"
+        ],
+        "chunk_index": 7,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "LGBTQIA+ Travel in Pittsburgh",
+          "Header 2": "Related Blogs"
+        }
+      }
+    }
+  ]
+}

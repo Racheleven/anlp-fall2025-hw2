@@ -1,0 +1,57 @@
+{
+  "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/other-sports-teams.md",
+  "file_type": ".md",
+  "splitter_type": "markdown",
+  "total_chunks": 3,
+  "chunks": [
+    "* Home\n* Things to Do\n* Pittsburgh Sports Teams\n* Other Sports Teams",
+    "# Other Sports Teams\n\n# Other Sports Teams  \nPittsburgh couldn't call itself a city of champions without these winning teams.  \n### Pittsburgh Riverhounds  \nSince 1999, the Riverhounds have been Pittsburgh’s pro soccer team. Nicknamed the Hounds, they play their games at Highmark Stadium next to Station Square. Riverhounds games boast on the best views in American pro soccer, a great family-friendly environment and their loud supporter section, The Steel Army. They play in the USL Championship, where they have made the playoffs four years running.  \n### Pittsburgh Passion  \nThe Pittsburgh Passion Women's Football is the most recognized women's full-contact football franchise in the world. Winner of a National Championship and four Divisional Championships. The team debuted in March 2002 and now shares Highmark Stadium with the Riverhounds.  \n### Pittsburgh Knights  \nA global esports franchise, with teams and players in popular games like Rocket League, Rainbow Six, PUBG Mobile, Mortal Kombat and Madden.",
+    "# Other Sports Teams\n\n### Pittsburgh Knights  \nA global esports franchise, with teams and players in popular games like Rocket League, Rainbow Six, PUBG Mobile, Mortal Kombat and Madden.  \nPittsburgh Knights  \n### Pittsburgh Thunderbirds  \nThe Pittsburgh Thunderbirds is a professional Ultimate Frisbee franchise in the American Ultimate Disc League. The team is part of the Midwestern Division and their mission is to improve visibility of the sport in the Pittsburgh and Western Pennsylvania regions, develop an elite team of athletes, encourage participation in the sport through community involvement, and promote youth participation in recreational and competitive environments.  \n### Steel City Roller Derby  \nSteel City Roller Derby is a women's flat-track roller derby league founded in 2006 in Pittsburgh. The Derby Demons are taking all the action and exhilaration of yesterday's roller derby and combining it with punk rock flavor, resulting in maximum entertainment!"
+  ],
+  "chunks_info": [
+    {
+      "text": "* Home\n* Things to Do\n* Pittsburgh Sports Teams\n* Other Sports Teams",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/other-sports-teams.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [],
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "original_metadata": {}
+      }
+    },
+    {
+      "text": "# Other Sports Teams\n\n# Other Sports Teams  \nPittsburgh couldn't call itself a city of champions without these winning teams.  \n### Pittsburgh Riverhounds  \nSince 1999, the Riverhounds have been Pittsburgh’s pro soccer team. Nicknamed the Hounds, they play their games at Highmark Stadium next to Station Square. Riverhounds games boast on the best views in American pro soccer, a great family-friendly environment and their loud supporter section, The Steel Army. They play in the USL Championship, where they have made the playoffs four years running.  \n### Pittsburgh Passion  \nThe Pittsburgh Passion Women's Football is the most recognized women's full-contact football franchise in the world. Winner of a National Championship and four Divisional Championships. The team debuted in March 2002 and now shares Highmark Stadium with the Riverhounds.  \n### Pittsburgh Knights  \nA global esports franchise, with teams and players in popular games like Rocket League, Rainbow Six, PUBG Mobile, Mortal Kombat and Madden.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/other-sports-teams.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Other Sports Teams"
+        ],
+        "chunk_index": 1,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Other Sports Teams"
+        }
+      }
+    },
+    {
+      "text": "# Other Sports Teams\n\n### Pittsburgh Knights  \nA global esports franchise, with teams and players in popular games like Rocket League, Rainbow Six, PUBG Mobile, Mortal Kombat and Madden.  \nPittsburgh Knights  \n### Pittsburgh Thunderbirds  \nThe Pittsburgh Thunderbirds is a professional Ultimate Frisbee franchise in the American Ultimate Disc League. The team is part of the Midwestern Division and their mission is to improve visibility of the sport in the Pittsburgh and Western Pennsylvania regions, develop an elite team of athletes, encourage participation in the sport through community involvement, and promote youth participation in recreational and competitive environments.  \n### Steel City Roller Derby  \nSteel City Roller Derby is a women's flat-track roller derby league founded in 2006 in Pittsburgh. The Derby Demons are taking all the action and exhilaration of yesterday's roller derby and combining it with punk rock flavor, resulting in maximum entertainment!",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/other-sports-teams.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Other Sports Teams"
+        ],
+        "chunk_index": 2,
+        "sub_chunk_index": 1,
+        "original_metadata": {
+          "Header 1": "Other Sports Teams"
+        }
+      }
+    }
+  ]
+}

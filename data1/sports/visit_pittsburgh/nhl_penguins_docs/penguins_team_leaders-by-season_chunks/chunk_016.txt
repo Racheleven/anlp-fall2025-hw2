@@ -1,0 +1,16 @@
+# https://www.nhl.com/penguins/team/leaders-by-season
+
+89-90 | Kevin Stevens (171) | Paul Coffey (324) | Randy Hillier (11)
+88-89 | Jay Caulfield (285) | Paul Coffey (342) | Mario Lemieux (41)
+87-88 | Rod Buskas (206) | Mario Lemieux (382) | Mario Lemieux (23)
+86-87 | Dan Frawley (218) | Mario Lemieux (267) | Randy Cunneyworth (14)
+85-86 | Dan Frawley (174) | Mario Lemieux (276) | Mike Blaisdell (15)
+84-85 | Gary Rissling (209) | Mario Lemieux (209) | Gary Rissling (-6)
+83-84 | Gary Rissling (297) | Ron Flockhart (214) | Bryan Maxwell (3)
+82-83 | Paul Baxter (238) | Rick Kehoe (203) | Peter Lee (-9)
+81-82 | Paul Baxter (409) | Rick Kehoe (249) | Gregg Sheppard (9)
+80-81 | Paul Baxter (204) | Rick Kehoe (299) | Mark Johnson (4)
+79-80 | Kim Clackson (166) | Rick Kehoe (239) | Ron Stackhouse (16)
+78-79 | Dave Schultz (157) | Jean Pronovost (219) | Ron Stackhouse (21)
+77-78 | Dave Schultz (378) | Jean Pronovost (219) | Pete Mahovlich (4)
+76-77 | Bob Kelly (115) | Rick Kehoe (250) | Bob Kelly (13)

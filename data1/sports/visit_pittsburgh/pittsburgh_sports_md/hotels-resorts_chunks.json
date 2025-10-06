@@ -1,0 +1,97 @@
+{
+  "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/hotels-resorts.md",
+  "file_type": ".md",
+  "splitter_type": "markdown",
+  "total_chunks": 5,
+  "chunks": [
+    "* Home\n* Hotels & Resorts",
+    "# Hotels & Resorts\n\n# Hotels & Resorts  \nNo trip to Pittsburgh is complete without a stay in one of our fantastic properties.  \nA Relaxing Stay Awaits in Pittsburgh  \nAfter enjoying a busy day in our City of Multitudes, it's time to relax and recharge. Luckily, Pittsburgh's hotels and resorts have you covered with options for luxury or budget-friendly, historic or modern, and plenty of spots with a grand view.  \nView All Hotels in Pittsburgh  \nFAQs",
+    "# Hotels & Resorts\n## Hotels in Pittsburgh\n\n## Hotels in Pittsburgh  \nPlease enable JavaScript to show the Partner Listings listings.  \nNeighborhoods  \nPittsburgh is not only defined by its skyline and its sports teams, but also by its 90 vibrant and welcoming neighborhoods.  \nLearn More  \nThings to Do  \nExplore our ultimate guide on things to do in the City of Multitudes.  \nLearn More",
+    "# Hotels & Resorts\n## Frequently Asked Questions\n\n## Frequently Asked Questions  \n###  1\\. When is the best time to visit Pittsburgh?  \nPittsburgh offers year-round fun for all visitors, whether you're embarking on a family-friendly adventure or a romantic getaway. With a variety of annual events and iconic attractions, there's no shortage of unforgettable memories in our city.  \n###  2\\. What are some of the top attractions in Pittsburgh?  \nDuquesne Incline, Acrisure Stadium, and Phipps Conservatory and Botanical Gardens are just some of the must-visit attractions in Pittsburgh. We've got all of your interests covered with a wide assortment of activities. Sports fans, foodies, art aficionados, and wildlife enthusiasts will enjoy diving into various one-of-a-kind experiences.  \n###  3\\. Which Pittsburgh hotels are dog-friendly?  \nThere are plenty of dog-friendly hotels offering accommodating services and amenities. Look through our guide on dog-friendly hotels in Pittsburgh, finding the best stay for your furry companion.",
+    "# Hotels & Resorts\n## Explore More\n\n## Explore More  \n6 Pittsburgh Hotel Restaurants You Need to Try  \nLearn More  \nKeep on Rockin’ at The Oaklander Recording Studio  \nLearn More  \nPittsburgh’s Rooftops  \nLearn More  \nThe Oaklander: The Hotel for Travelers of All Types  \nLearn More  \nParadise in Pittsburgh  \nLearn More  \nPittsburgh in Two Hours  \nLearn More  \nTop 10 RV Parks Near Pittsburgh  \nLearn More  \nDog-Friendly Hotels in Pittsburgh  \nLearn More  \nModern Upscale Hotels in Pittsburgh  \nLearn More  \nEvents & Festivals  \nThere's always something happening in Pittsburgh.  \nLearn More"
+  ],
+  "chunks_info": [
+    {
+      "text": "* Home\n* Hotels & Resorts",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/hotels-resorts.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [],
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "original_metadata": {}
+      }
+    },
+    {
+      "text": "# Hotels & Resorts\n\n# Hotels & Resorts  \nNo trip to Pittsburgh is complete without a stay in one of our fantastic properties.  \nA Relaxing Stay Awaits in Pittsburgh  \nAfter enjoying a busy day in our City of Multitudes, it's time to relax and recharge. Luckily, Pittsburgh's hotels and resorts have you covered with options for luxury or budget-friendly, historic or modern, and plenty of spots with a grand view.  \nView All Hotels in Pittsburgh  \nFAQs",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/hotels-resorts.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Hotels & Resorts"
+        ],
+        "chunk_index": 1,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Hotels & Resorts"
+        }
+      }
+    },
+    {
+      "text": "# Hotels & Resorts\n## Hotels in Pittsburgh\n\n## Hotels in Pittsburgh  \nPlease enable JavaScript to show the Partner Listings listings.  \nNeighborhoods  \nPittsburgh is not only defined by its skyline and its sports teams, but also by its 90 vibrant and welcoming neighborhoods.  \nLearn More  \nThings to Do  \nExplore our ultimate guide on things to do in the City of Multitudes.  \nLearn More",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/hotels-resorts.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Hotels & Resorts",
+          "## Hotels in Pittsburgh"
+        ],
+        "chunk_index": 2,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Hotels & Resorts",
+          "Header 2": "Hotels in Pittsburgh"
+        }
+      }
+    },
+    {
+      "text": "# Hotels & Resorts\n## Frequently Asked Questions\n\n## Frequently Asked Questions  \n###  1\\. When is the best time to visit Pittsburgh?  \nPittsburgh offers year-round fun for all visitors, whether you're embarking on a family-friendly adventure or a romantic getaway. With a variety of annual events and iconic attractions, there's no shortage of unforgettable memories in our city.  \n###  2\\. What are some of the top attractions in Pittsburgh?  \nDuquesne Incline, Acrisure Stadium, and Phipps Conservatory and Botanical Gardens are just some of the must-visit attractions in Pittsburgh. We've got all of your interests covered with a wide assortment of activities. Sports fans, foodies, art aficionados, and wildlife enthusiasts will enjoy diving into various one-of-a-kind experiences.  \n###  3\\. Which Pittsburgh hotels are dog-friendly?  \nThere are plenty of dog-friendly hotels offering accommodating services and amenities. Look through our guide on dog-friendly hotels in Pittsburgh, finding the best stay for your furry companion.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/hotels-resorts.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Hotels & Resorts",
+          "## Frequently Asked Questions"
+        ],
+        "chunk_index": 3,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Hotels & Resorts",
+          "Header 2": "Frequently Asked Questions"
+        }
+      }
+    },
+    {
+      "text": "# Hotels & Resorts\n## Explore More\n\n## Explore More  \n6 Pittsburgh Hotel Restaurants You Need to Try  \nLearn More  \nKeep on Rockin’ at The Oaklander Recording Studio  \nLearn More  \nPittsburgh’s Rooftops  \nLearn More  \nThe Oaklander: The Hotel for Travelers of All Types  \nLearn More  \nParadise in Pittsburgh  \nLearn More  \nPittsburgh in Two Hours  \nLearn More  \nTop 10 RV Parks Near Pittsburgh  \nLearn More  \nDog-Friendly Hotels in Pittsburgh  \nLearn More  \nModern Upscale Hotels in Pittsburgh  \nLearn More  \nEvents & Festivals  \nThere's always something happening in Pittsburgh.  \nLearn More",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/hotels-resorts.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Hotels & Resorts",
+          "## Explore More"
+        ],
+        "chunk_index": 4,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Hotels & Resorts",
+          "Header 2": "Explore More"
+        }
+      }
+    }
+  ]
+}

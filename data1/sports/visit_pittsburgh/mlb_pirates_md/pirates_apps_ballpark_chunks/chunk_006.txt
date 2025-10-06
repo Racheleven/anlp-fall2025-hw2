@@ -1,0 +1,10 @@
+## App Highlights
+
+selecting the game you're attending. From the list of tickets for that game,
+tap the forward button and choose which tickets you'd like to send.  
+If you choose to forward via email, you can enter an email address manually,
+select a contact from your device's address book, or quickly send tickets to
+friends you've recently forwarded to by tapping on their email. Your friend
+will receive a notification letting them know you've sent them mobile tickets.  
+Don't have someone's email address? No problem! Just select the option to
+forward via a link and share the tickets through text.

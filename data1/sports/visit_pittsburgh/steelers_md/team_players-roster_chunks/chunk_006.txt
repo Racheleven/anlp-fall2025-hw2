@@ -1,0 +1,20 @@
+# Steelers Player Roster | Pittsburgh Steelers - Steelers.com
+
+#### Reserve/Injured  
+Reserve/Injured  Player | # | Pos | HT | WT | Age | Exp | College
+---|---|---|---|---|---|---|---
+Malik Harrison | 50 | LB | 6-3 | 247 | 27 | 6 | Ohio State
+Will Howard | 18 | QB | 6-4 | 236 | 24 | R | Ohio State
+Donte Kent | 34 | CB/PR | 5-10 | 189 | 24 | R | Central Michigan
+Isaiahh Loudermilk | 92 | DT | 6-7 | 293 | 27 | 5 | Wisconsin
+Dean Lowry | 94 | DT | 6-6 | 296 | 31 | 10 | Northwestern
+Donald Parham Jr. | 89 | TE | 6-8 | 237 | 28 | 5 | Stetson
+Max Scharping | 64 | G | 6-6 | 327 | 29 | 7 | Northern Illinois
+Skylar Thompson | 17 | QB | 6-2 | 219 | 28 | 4 | Kansas State  
+#### Reserve/Injured; Designated for Return  
+Reserve/Injured; Designated for Return  Player | # | Pos | HT | WT | Age | Exp | College
+---|---|---|---|---|---|---|---
+Cory Trice Jr. | 27 | DB | 6-3 | 206 | 25 | 3 | Purdue  
+#### Practice Squad  
+Practice Squad  Player | # | Pos | HT | WT | Age | Exp | College
+---|---|---|---|---|---|---|---

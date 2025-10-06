@@ -1,0 +1,10 @@
+# Mobile Ticketing | Pittsburgh Steelers - Steelers.com
+## TRANSFER YOUR TICKETS
+
+##  TRANSFER YOUR TICKETS  
+1\. Select the game; tap "Transfer"  
+2\. Select the seats to transfer and tap "transfer to"  
+3\. Select from your existing phone contacts or manually enter a recipient's email or cell phone number (if using desktop, sending by email address is the only option)  
+* If sending by cell number, a text will be generated for you. Please be sure to hit send or the transfer will not go through.
+* If sending by email, once you tap "Transfer tickets" the recipient will receive an email with instructions for accepting them  
+**To cancel a transfer BEFORE the tickets have been accepted,** tap "Cancel Transfer" to return the tickets to your account. Once the tickets have been accepted by the recipient, the option to cancel the transfer will no longer be available.

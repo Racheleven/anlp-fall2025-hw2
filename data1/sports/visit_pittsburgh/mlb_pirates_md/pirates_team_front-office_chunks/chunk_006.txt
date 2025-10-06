@@ -1,0 +1,29 @@
+# FRONT OFFICE DIRECTORY
+
+Pro Scout | Everett Russell
+Pro Scout | Kinza Baad
+Pro Scout | Brendan Gawlowski
+Pro Scout  | Jose Cruz
+Pro Scout  | Jim Howard
+Pro Scout  | Jeremy Powell  
+##### INTERNATIONAL SCOUTING  
+Title | Name
+---|---
+Assistant Director - International Scouting | Matt Benedict
+Manager - International Scouting | Tom Gillespie
+Senior Advisor - Player Personnel | Tony Harris
+International Crosschecker | Carlos Berroa
+International Crosschecker | Jesus Lantigua
+Supervisor, Pacific Rim | Fu-Chun Chiang
+Supervisor, Dominican Republic | Emmanuel Gomez
+Area Scout, Dominican Republic | Leydi Castro
+Assistant, International Scouting | Carlos Rodriguez Peralta
+Assistant Supervisor, Dominican Republic | Daurys Nin
+Area Scout, Dominican Republic | Cristino Valdez
+Dominican Republic Scout | Victor Santana
+Assistant, International Operations | Marc Juaneda  
+##### AMATEUR SCOUTING  
+Title | Name
+---|---
+Director - Amateur Scouting | Justin Horowitz
+Director - Learning | Bernie Holliday

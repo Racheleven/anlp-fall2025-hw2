@@ -1,0 +1,6 @@
+## **3\. Disclosure of Information**
+
+Aggregate Information: We may disclose aggregate information, such as demographics and usage statistics, to advertisers, sponsors, or other organizations.  
+Geolocation Information: We may disclose your geolocation information to service providers that perform certain functions or services on our behalf. We also may disclose your geolocation information to third parties so that they may provide you with geographically relevant advertising;  
+* If you wish to stop the further collection of your geolocation information, please opt out using your device settings. Turning off access to geolocation and precise geolocation data may disable or interfere with certain functionality or services.
+* For Android users, please see the following link for instructions on how to opt-out of or withdraw consent to geolocation data collection from your settings https://support.google.com/accounts/answer/6179507?hl=en.

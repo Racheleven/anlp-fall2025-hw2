@@ -1,0 +1,15 @@
+# CMU Events
+
+### [Event Name]: Libraries Workshop: Communicating Data: R Shiny
+**Date:** 2025-10-30  
+**Location:** Online  
+**More details:** https://events.cmu.edu/event/24854-libraries-workshop-communicating-data-r-shiny  
+### [Event Name]: Swartz Center CONNECTS Seminar Series
+**Date:** 2025-10-30  
+**Location:** Swartz Center for Entrepreneurship, Tepper Building, or Zoom  
+**Summary:** The Swartz Center for Entrepreneurship’s CONNECTS seminar series enhances the experiential education of any individual interested in innovation and entrepreneurship.  
+**More details:** https://events.cmu.edu/event/23701-swartz-center-connects-seminar-series  
+### [Event Name]: Libraries Workshop: SQL Fundamentals
+**Date:** 2025-10-30  
+**Location:** Sorrells Library Den, Wean Hall  
+**More details:** https://events.cmu.edu/event/24855-libraries-workshop-sql-fundamentals

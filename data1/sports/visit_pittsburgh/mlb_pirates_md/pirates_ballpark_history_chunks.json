@@ -1,0 +1,44 @@
+{
+  "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/mlb_pirates_md/pirates_ballpark_history.md",
+  "file_type": ".md",
+  "splitter_type": "markdown",
+  "total_chunks": 2,
+  "chunks": [
+    "# EXPERIENCE HISTORY AT PNC PARK\n\n# EXPERIENCE HISTORY AT PNC PARK  \nOUTSIDE PNC PARK  \n* Outside PNC Park\n* Hall of Fame Wall\n* Riverwalk\n* Main Concourse\n* Pittsburgh Baseball Club  \narrow-expand-129018arrow-contract-129019  \nTake a walk along the streets right outside PNC Park and discover four legends\nforever immortalized with a statue.  \n### FEDERAL STREET  \n### Along Federal Street, you'll find:  \nRoberto Clemente statue in Center Field  \nThe Roberto Clemente statue was dedicated on July 8, 1994, to kick off All-\nStar Week in Pittsburgh. It was originally erected outside Gate A at Three\nRivers Stadium and is now located outside the Center Field Gate to PNC Park, a\nfew steps away from the Roberto Clemente Bridge.  \nWillie Stargell statue in Left Field  \nUnveiled on April 7, 2001, the 12-foot bronze statue stands along Federal\nStreet at the entrance to left field at PNC Park.  \n### MAZEROSKI WAY  \n### On Mazeroski Way, you'll find:  \nBill Mazeroski statue at the end of the cul-de-sac in Right Field",
+    "# EXPERIENCE HISTORY AT PNC PARK\n\nStreet at the entrance to left field at PNC Park.  \n### MAZEROSKI WAY  \n### On Mazeroski Way, you'll find:  \nBill Mazeroski statue at the end of the cul-de-sac in Right Field  \nAs part of the 50th anniversary season of the 1960 World Series Championship,\nthe 12-foot bronze statue was officially unveiled on September 5, 2010, and\nstands at the end of Mazeroski Way, which is located at the right field\nentrance to PNC Park.  \n### At the corner of Mazeroski Way and General Robinson Street, you’ll find:  \nHonus Wagner statue at the Home Plate entrance  \nThe Honus Wagner statue has had three different “homes” since being dedicated\non April 30, 1955. Originally, the Wagner statue was located in Schenley Park,\nclose to the Pirates early home, Forbes Field. It was then moved to Three\nRivers Stadium and erected outside Gate C on July 21, 1972. The statue is now\nlocated at the home plate entrance to PNC Park."
+  ],
+  "chunks_info": [
+    {
+      "text": "# EXPERIENCE HISTORY AT PNC PARK\n\n# EXPERIENCE HISTORY AT PNC PARK  \nOUTSIDE PNC PARK  \n* Outside PNC Park\n* Hall of Fame Wall\n* Riverwalk\n* Main Concourse\n* Pittsburgh Baseball Club  \narrow-expand-129018arrow-contract-129019  \nTake a walk along the streets right outside PNC Park and discover four legends\nforever immortalized with a statue.  \n### FEDERAL STREET  \n### Along Federal Street, you'll find:  \nRoberto Clemente statue in Center Field  \nThe Roberto Clemente statue was dedicated on July 8, 1994, to kick off All-\nStar Week in Pittsburgh. It was originally erected outside Gate A at Three\nRivers Stadium and is now located outside the Center Field Gate to PNC Park, a\nfew steps away from the Roberto Clemente Bridge.  \nWillie Stargell statue in Left Field  \nUnveiled on April 7, 2001, the 12-foot bronze statue stands along Federal\nStreet at the entrance to left field at PNC Park.  \n### MAZEROSKI WAY  \n### On Mazeroski Way, you'll find:  \nBill Mazeroski statue at the end of the cul-de-sac in Right Field",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/mlb_pirates_md/pirates_ballpark_history.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# EXPERIENCE HISTORY AT PNC PARK"
+        ],
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "EXPERIENCE HISTORY AT PNC PARK"
+        }
+      }
+    },
+    {
+      "text": "# EXPERIENCE HISTORY AT PNC PARK\n\nStreet at the entrance to left field at PNC Park.  \n### MAZEROSKI WAY  \n### On Mazeroski Way, you'll find:  \nBill Mazeroski statue at the end of the cul-de-sac in Right Field  \nAs part of the 50th anniversary season of the 1960 World Series Championship,\nthe 12-foot bronze statue was officially unveiled on September 5, 2010, and\nstands at the end of Mazeroski Way, which is located at the right field\nentrance to PNC Park.  \n### At the corner of Mazeroski Way and General Robinson Street, you’ll find:  \nHonus Wagner statue at the Home Plate entrance  \nThe Honus Wagner statue has had three different “homes” since being dedicated\non April 30, 1955. Originally, the Wagner statue was located in Schenley Park,\nclose to the Pirates early home, Forbes Field. It was then moved to Three\nRivers Stadium and erected outside Gate C on July 21, 1972. The statue is now\nlocated at the home plate entrance to PNC Park.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/mlb_pirates_md/pirates_ballpark_history.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# EXPERIENCE HISTORY AT PNC PARK"
+        ],
+        "chunk_index": 1,
+        "sub_chunk_index": 1,
+        "original_metadata": {
+          "Header 1": "EXPERIENCE HISTORY AT PNC PARK"
+        }
+      }
+    }
+  ]
+}

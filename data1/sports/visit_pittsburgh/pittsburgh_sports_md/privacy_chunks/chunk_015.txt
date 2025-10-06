@@ -1,0 +1,5 @@
+# Privacy
+## How does VisitPittsburgh or its providers protect the security of PII?
+
+## How does VisitPittsburgh or its providers protect the security of PII?  
+The VisitPittsburgh website employs a number of current technology security measures to protect the security of PII. Some of these measures currently include: Secure Sockets Layer protocol for all e-commerce transactions; VeriSign certification; user login/ password protection; CyberCash encryption protocols for all transactional processing; access to credit card data only through administratively controlled security levels and user login/ password. All VisitPittsburgh personnel are informed of and required to abide by the requirements of this Privacy Policy, and access is limited to those individuals who require access in order to provide services in connection with the VisitPittsburgh Web Site.

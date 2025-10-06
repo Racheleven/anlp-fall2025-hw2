@@ -1,0 +1,23 @@
+{
+  "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/mlb_pirates_md/pirates_scores.md",
+  "file_type": ".md",
+  "splitter_type": "markdown",
+  "total_chunks": 1,
+  "chunks": [
+    "* Scores  \ncalendar-2-2064  \nsad-baseball-2065  \nThere are no games scheduled for the date selected."
+  ],
+  "chunks_info": [
+    {
+      "text": "* Scores  \ncalendar-2-2064  \nsad-baseball-2065  \nThere are no games scheduled for the date selected.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/mlb_pirates_md/pirates_scores.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [],
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "original_metadata": {}
+      }
+    }
+  ]
+}

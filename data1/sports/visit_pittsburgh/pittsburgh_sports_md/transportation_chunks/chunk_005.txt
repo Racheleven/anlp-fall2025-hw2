@@ -1,0 +1,11 @@
+## Driving Distances + Travel Times to Pittsburgh
+
+**Boston** | 593 miles | 1.5 hours | 10 hours
+**St. Paul** | 849 miles | 2.25 hours | 15 hours
+**Omaha** | 891 miles | 2.5 hours | 16 hours
+**Miami** | 1168 miles | 3 hours | 21 hours
+**Dallas** | 1228 miles | 3 hours | 23 hours
+**Seattle** | 2006 miles | 5 hours | 44 hours
+**Phoenix** | 2118 miles | 4.5 hours | 40 hours
+**Los Angeles** | 2445 miles | 5 hours | 48 hours
+**San Francisco** | 2587 miles | 5.5 hours | 50 hours

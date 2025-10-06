@@ -1,0 +1,9 @@
+## **1\. Information Collection**
+
+* Demographic information, which may include gender, race, ethnicity, and sexual orientation, and other protected classifications under relevant state or federal law;
+* Financial and commercial information, such as credit card or other payment information and records of products or services purchased;
+* Real-time geolocation information, which may include precise geolocation information;
+* Communications and marketing preferences;
+* Favorite team and inferences about you and your personal preferences;
+* Audio, electronic, or visual information, such as photographs that you provide to us;
+* Biometric information, such as when you elect to use biometric authentication at stadiums that offer this functionality for entry or other relevant functionality governed by this Privacy Notice. Where required by law, we collect this information pursuant to your consent and may provide additional notice about relevant data handling practices;

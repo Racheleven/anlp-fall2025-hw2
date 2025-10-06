@@ -1,0 +1,22 @@
+# Pittsburgh November Events
+
+# Pittsburgh November Events  
+These events are from [Pittsburgh Events Calendar](https://pittsburgh.events/).  
+---  
+### [Event Name]: Seton Hill Griffins Football
+**Date & Time:** Nov 1, 2025 12:00 PM
+**Location:** Offutt Field
+**Link:** https://pittsburgh.events/tickets/seton-hill-griffins-football/  
+### [Event Name]: Wheeling Univeristy Cardinals Football
+**Date & Time:** Nov 1, 2025 12:00 PM
+**Location:** Bishop Schmitt Field
+**Link:** https://pittsburgh.events/tickets/wheeling-univeristy-cardinals-football/  
+### [Event Name]: West Liberty Hilltoppers Football
+**Date & Time:** Nov 1, 2025 1:00 PM
+**Location:** West Family Stadium
+**Link:** https://pittsburgh.events/tickets/west-liberty-hilltoppers-football/  
+### [Event Name]: Slippery Rock University Rockets Football
+**Date & Time:** Nov 1, 2025 1:00 PM
+**Location:** Milhalik-Thompson Stadium
+**Link:** https://pittsburgh.events/tickets/slippery-rock-university-rockets-football/  
+### [Event Name]: IUP Crimson Hawks Football

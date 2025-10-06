@@ -1,0 +1,7 @@
+## **1\. RecopilaciÃ³n de informaciÃ³n**
+
+* informaciÃ³n de geolocalizaciÃ³n en tiempo real, que puede incluir informaciÃ³n precisa de geolocalizaciÃ³n;
+* preferencias de comunicaciÃ³n y mercadeo;
+* equipo favorito e inferencias sobre usted y sus preferencias personales;
+* informaciÃ³n en audio, electrÃ³nica o visual, como fotografÃas, que usted nos proporcione;
+* informaciÃ³n biomÃ©trica, como cuando decida utilizar la autenticaciÃ³n biomÃ©trica en estadios que ofrecen esta funcionalidad para el ingreso u otra funcionalidad pertinente se rija por este Aviso de Privacidad. Cuando lo exige la ley, recopilamos esta informaciÃ³n con su consentimiento y podrÃamos proporcionar una notificaciÃ³n adicional sobre las prÃ¡cticas de manejo de datos pertinentes;

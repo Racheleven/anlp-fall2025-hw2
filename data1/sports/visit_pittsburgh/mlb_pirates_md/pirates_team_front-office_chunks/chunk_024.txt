@@ -1,0 +1,25 @@
+# FRONT OFFICE DIRECTORY
+
+Manager - Premium Activation and Events | Julia Hester  
+##### BUSINESS INTELLIGENCE  
+Title | Name
+---|---
+Senior Director - Business Intelligence | Jason Witzberger
+Director - CRM and Consumer Strategy | Andy Giambroni
+Senior Manager - Consumer Insights | RJ Keaveney
+Marketing Analyst - Business Intelligence | Lindsey McKula
+Data Engineer | Nathan Sharp
+Senior Analyst - Data Analytics and Consumer Strategy | Clarissa Gecsey
+Data Coordinator - Business Intelligence | Ben Swanson  
+##### PNC PARK OPERATIONS  
+Title | Name
+---|---
+Executive Vice President and General Manager - PNC Park Facilities | Dennis DaPra
+Vice President - PNC Park Operations | Chris Hunter
+Director - PNC Park Operations | J.J. McGraw
+Director - Security Operations | Jodi Hummert
+Manager - Security Operations | Richard Wright
+Manager - Guest Experience | Jacqueline Paris
+Director - Field Operations | Matt Brown
+Manager - Field Operations | Seth Whitehill
+Manager - Field Operations | Nick Quarberg

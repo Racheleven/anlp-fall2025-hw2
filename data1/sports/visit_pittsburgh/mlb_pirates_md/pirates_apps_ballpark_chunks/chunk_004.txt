@@ -1,0 +1,20 @@
+# MLB Ballpark App
+## App Highlights
+
+## App Highlights  
+Logging In  
+To access the MLB Ballpark app, log in with your existing MLB account using
+either email verification or your password. If you've forgotten your password,
+you can easily reset it through the app.  
+New users can create an MLB account directly within the app to get started.  
+An MLB account is required for access to all MLB Ballpark app features.  
+Purchasing Tickets  
+Purchasing tickets through the MLB Ballpark app is simple, secure, and
+guarantees 100% authentic tickets. Just open the app, tap "Tickets," choose
+your game, and complete your purchase. Use the interactive seating map to find
+your ideal spot, and rest assured that our support team is available if you
+need assistance. Once purchased, your tickets will instantly appear in the
+app, and you can add them to your Apple Wallet for easy offline access and
+quick entry at the gate.  
+Ticket Access  
+If you purchased tickets using the same email address linked to your MLB

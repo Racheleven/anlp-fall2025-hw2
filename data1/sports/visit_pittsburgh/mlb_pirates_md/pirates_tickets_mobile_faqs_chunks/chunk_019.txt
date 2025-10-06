@@ -1,0 +1,16 @@
+# MOBILE TICKETING FAQ
+
+to whom you are forwarding your ticket. If you share the link with multiple
+recipients, whomever clicks that link and completes the "forward accept"
+process first will get that ticket.  
+#### What if I accidentally send the ticket to the wrong email address?  
+You can easily cancel a ticket forward that is in a pending state directly
+from your list of tickets inside the Wallet. You can then resend the ticket to
+the correct email address.  
+#### How will my recipient know I forwarded tickets?  
+Both you and the recipient will receive an email that notifies that the ticket
+forward has been initiated. The recipient will have a unique link in the email
+to accept the ticket. If you selected "Share Link," the recipient will receive
+the notification by whatever method you selected for delivering the link.  
+#### How do I accept a ticket forward?  
+You must click "Accept" from the email invitation you received. If you do not

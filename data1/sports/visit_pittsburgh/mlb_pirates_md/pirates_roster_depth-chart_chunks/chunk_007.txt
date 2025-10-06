@@ -1,0 +1,13 @@
+## Pirates Roster & Staff
+
+|  Alexander Canario 29 B/T: R/R Ht: 6' 1" Wt: 215 DOB: 05/07/2000 | R/R | 6' 1" | 215 | 05/07/2000
+|  Tommy Pham 28 B/T: R/R Ht: 6' 1" Wt: 225 DOB: 03/08/1988 | R/R | 6' 1" | 225 | 03/08/1988
+|  Andrew McCutchen 22 B/T: R/R Ht: 5' 10" Wt: 190 DOB: 10/10/1986 | R/R | 5' 10" | 190 | 10/10/1986
+|  Jack Suwinski 65 B/T: L/L Ht: 6' 1" Wt: 215 DOB: 07/29/1998 | L/L | 6' 1" | 215 | 07/29/1998
+|  Nick Yorke 38 B/T: R/R Ht: 6' 0" Wt: 210 DOB: 04/02/2002 | R/R | 6' 0" | 210 | 04/02/2002
+Designated Hitter | B/T | Ht | Wt | DOB
+---|---|---|---|---
+|  Andrew McCutchen 22 B/T: R/R Ht: 5' 10" Wt: 190 DOB: 10/10/1986 | R/R | 5' 10" | 190 | 10/10/1986
+|  Bryan Reynolds 10 B/T: S/R Ht: 6' 2" Wt: 205 DOB: 01/27/1995 | S/R | 6' 2" | 205 | 01/27/1995  
+While not officially part of the 40-man roster, players on the 60-day injured
+list (IL-60) are included on the 40-Man tab.

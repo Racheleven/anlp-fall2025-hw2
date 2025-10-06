@@ -1,0 +1,10 @@
+# Mobile Ticketing | Pittsburgh Steelers - Steelers.com
+## ACCESS AND SAVE YOUR TICKETS
+
+##  ACCESS AND SAVE YOUR TICKETS  
+1\. Open the Steelers Official Mobile App  
+2\. Tap "tickets" in the bottom navigation then "My Tickets"  
+3\. Tap "Sign In to Steelers" at the bottom  
+4\. Sign in using the email address and password associated with your Steelers Account Manager and Ticketmaster account  
+5\. Select the game  
+6\. Tap "Add to Wallet" or "Save to phone" and confirm which tickets to add. Once complete, your tickets will be accessible within your phone's wallet.

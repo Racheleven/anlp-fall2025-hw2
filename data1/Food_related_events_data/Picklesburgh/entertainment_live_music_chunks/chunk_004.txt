@@ -1,0 +1,11 @@
+# Picklesburgh Music Schedule
+## Sunday, July 13 | Turner's Music Stage
+
+## Sunday, July 13 | Turner's Music Stage  
+| Time     | Band/Artist                                | Genre                          |
+|----------|--------------------------------------------|--------------------------------|
+| 12:00 p.m.| Mark Ferrari                               | Acoustic Rock                  |
+| 1:30 p.m.| The Right Turn Clyde Experience             | Rock                           |
+| 3:00 p.m.| Pioneer Records - Alexis Zak                | Rock, Singer/Songwriter        |
+| 4:30 p.m.| The Appalachian Soul Man Aristotle Jones   | Soul                           |  
+---

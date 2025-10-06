@@ -1,0 +1,36 @@
+{
+  "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Food_related_events_data/Picklesburgh/entertainment_pickle_riding.md",
+  "file_type": ".md",
+  "splitter_type": "markdown",
+  "total_chunks": 2,
+  "chunks": [
+    "Giddy Up, Gherkin!\n==================  \n##### This jarring twist on the classic mechanical bull is a test of dill-termination and skill! Climb aboard the giant gherkin and try to hang on as it bucks, spins, and wiggles with unpredictable pickle power.  \nWhere is it?\n------------  \n#### **Fourth Avenue by** **PPG Plaza**  \nThe mechanical pickle will operate during festival hours near PPG Plaza  \nHow much does it cost?\n----------------------  \n#### **$12 per ride**  \nTickets can be purchased onsite – no reservations needed  \nWho can ride?\n-------------  \n#### **Riders must be 18+**  \nAll ages are welcome to watch the action! Riders must sign a waiver upon ticket purchase.  \n* * *  \n**About Picklesburgh**\n----------------------",
+    "-------------  \n#### **Riders must be 18+**  \nAll ages are welcome to watch the action! Riders must sign a waiver upon ticket purchase.  \n* * *  \n**About Picklesburgh**\n----------------------  \nPicklesburgh is the destination for all things pickled! Voted the #1 Specialty Food Festival in the Country four times by the readers of USA Today, Picklesburgh goes beyond the dill pickle to feature handcrafted food and artisan drinks featuring pickled ingredients from local chefs, restaurants, and more. Plus, don’t miss pickle-themed snacks and merchandise, fun contests, and entertainment set to the backdrop of picturesque Downtown Pittsburgh.  \n[**Plan Your visit**](https://www.picklesburgh.com/visit/)"
+  ],
+  "chunks_info": [
+    {
+      "text": "Giddy Up, Gherkin!\n==================  \n##### This jarring twist on the classic mechanical bull is a test of dill-termination and skill! Climb aboard the giant gherkin and try to hang on as it bucks, spins, and wiggles with unpredictable pickle power.  \nWhere is it?\n------------  \n#### **Fourth Avenue by** **PPG Plaza**  \nThe mechanical pickle will operate during festival hours near PPG Plaza  \nHow much does it cost?\n----------------------  \n#### **$12 per ride**  \nTickets can be purchased onsite – no reservations needed  \nWho can ride?\n-------------  \n#### **Riders must be 18+**  \nAll ages are welcome to watch the action! Riders must sign a waiver upon ticket purchase.  \n* * *  \n**About Picklesburgh**\n----------------------",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Food_related_events_data/Picklesburgh/entertainment_pickle_riding.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [],
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "original_metadata": {}
+      }
+    },
+    {
+      "text": "-------------  \n#### **Riders must be 18+**  \nAll ages are welcome to watch the action! Riders must sign a waiver upon ticket purchase.  \n* * *  \n**About Picklesburgh**\n----------------------  \nPicklesburgh is the destination for all things pickled! Voted the #1 Specialty Food Festival in the Country four times by the readers of USA Today, Picklesburgh goes beyond the dill pickle to feature handcrafted food and artisan drinks featuring pickled ingredients from local chefs, restaurants, and more. Plus, don’t miss pickle-themed snacks and merchandise, fun contests, and entertainment set to the backdrop of picturesque Downtown Pittsburgh.  \n[**Plan Your visit**](https://www.picklesburgh.com/visit/)",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Food_related_events_data/Picklesburgh/entertainment_pickle_riding.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [],
+        "chunk_index": 1,
+        "sub_chunk_index": 1,
+        "original_metadata": {}
+      }
+    }
+  ]
+}

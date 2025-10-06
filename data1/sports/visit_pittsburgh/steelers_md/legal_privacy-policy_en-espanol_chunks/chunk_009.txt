@@ -1,0 +1,8 @@
+## **1\. RecopilaciÃ³n de informaciÃ³n**
+
+* identificadores, como informaciÃ³n de contacto, por ejemplo, nombre, direcciÃ³n de correo electrÃ³nico, direcciÃ³n postal, nÃºmero de telÃ©fono y fecha de nacimiento;
+* otros identificadores Ãºnicos, como un nombre de usuario o una contraseÃ±a y, cuando corresponda, otros identificadores como nÃºmeros de Seguro Social e identificadores emitidos por el gobierno. Por ejemplo, podrÃamos tener que recopilar estos identificadores para otorgarle ciertos tipos de premios en virtud de las leyes pertinentes;
+* informaciÃ³n demogrÃ¡fica, como gÃ©nero, raza, origen Ã©tnico y orientaciÃ³n sexual, entre otros, y otras clasificaciones protegidas en virtud de las leyes federales o estatales pertinentes;
+* informaciÃ³n financiera y comercial, como tarjetas de crÃ©dito u otra informaciÃ³n de pago, y registros de productos o servicios adquiridos;
+* informaciÃ³n de geolocalizaciÃ³n en tiempo real, que puede incluir informaciÃ³n precisa de geolocalizaciÃ³n;
+* preferencias de comunicaciÃ³n y mercadeo;

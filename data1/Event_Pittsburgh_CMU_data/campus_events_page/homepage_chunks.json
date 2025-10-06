@@ -1,0 +1,175 @@
+{
+  "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Event_Pittsburgh_CMU_data/campus_events_page/homepage.md",
+  "file_type": ".md",
+  "splitter_type": "markdown",
+  "total_chunks": 9,
+  "chunks": [
+    "# Engage with CMU\n\n# Engage with CMU  \nFrom treasured in-person Carnegie Mellon traditions to virtual learning experiences with researchers at the cutting edge of their fields, alumni can access a wide variety of CMU events to stay in touch with each other and the university, expand their knowledge and Tartan network, and make more cherished memories together.",
+    "# Signature Events\n## Spring Carnival\n\n# Signature Events  \n## Spring Carnival\nMore details : https://www.cmu.edu/engage/events/spring-carnival  \nFor more than 100 years, Spring Carnival has been one of the most anticipated weekends of the year. Tartans from around the world return to campus to carry on events like Booth, Buggy, MOBOT, Scotch’n’Soda performances and much more.",
+    "# Signature Events\n## Homecoming Weekend\n\n## Homecoming Weekend\nMore details : https://www.cmu.edu/engage/events/homecoming  \nEach fall, the CMU community puts on their best Tartan for a weekend of family-friendly activities like the annual CMU Alumni Awards, campus tours, Buggy previews and the tailgate and football game.",
+    "# Signature Events\n## Reunion Weekend\n\n## Reunion Weekend\nMore details : https://www.cmu.edu/engage/events/reunion-weekend\nDuring Spring Carnival, Tartans celebrating their Reunion year join exclusive events, opportunities to connect — and reconnect — with peers and create new memories at CMU.",
+    "# Signature Events\n## Alumni Awards\n\n## Alumni Awards\nMore details : https://www.cmu.edu/engage/events/alumni-awards  \nEach year, Carnegie Mellon honors a group of exceptional alumni who have made an impact on their industries, their communities, their alma mater and lives around the world at this special event during Homecoming Weekend.",
+    "# Signature Events\n## Tartans on the Rise\n\n## Tartans on the Rise\nMore details : https://www.cmu.edu/engage/events/tartans-on-the-rise  \nEvery year, we celebrate the recent alumni who are making an impact in their organizations and in their communities, across the nation and around the world through leadership, innovation and career achievements.",
+    "# Signature Events\n## Online Events\n\n## Online Events\nMore details : https://www.cmu.edu/engage/events/online-events  \nJust as the reach of Carnegie Mellon extends around the globe, you can engage with the university and fellow Tartan alumni through a variety of online events from anywhere in the world.",
+    "# Presidential Tours\n\n# Presidential Tours\nPresident Farnam Jahanian visits different cities throughout the year to meet Tartans across the country and share Carnegie Mellon’s inspiring vision for the future. Faculty members share cutting-edge research and alumni have a chance to network with each other and university leadership.",
+    "# CMU125\n\n# CMU125\nMake plans to attend Homecoming Weekend, Nov. 6-8, to celebrate 125 years of Carnegie Mellon University. In addition to traditional festivities like Spirit Day and the football game, CMU125 at Homecoming Weekend[https://www.cmu.edu/125/celebration-weekend/index.html]features special events and opportunities for Tartans of all ages to celebrate this remarkable moment in CMU history."
+  ],
+  "chunks_info": [
+    {
+      "text": "# Engage with CMU\n\n# Engage with CMU  \nFrom treasured in-person Carnegie Mellon traditions to virtual learning experiences with researchers at the cutting edge of their fields, alumni can access a wide variety of CMU events to stay in touch with each other and the university, expand their knowledge and Tartan network, and make more cherished memories together.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Event_Pittsburgh_CMU_data/campus_events_page/homepage.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Engage with CMU"
+        ],
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Engage with CMU"
+        }
+      }
+    },
+    {
+      "text": "# Signature Events\n## Spring Carnival\n\n# Signature Events  \n## Spring Carnival\nMore details : https://www.cmu.edu/engage/events/spring-carnival  \nFor more than 100 years, Spring Carnival has been one of the most anticipated weekends of the year. Tartans from around the world return to campus to carry on events like Booth, Buggy, MOBOT, Scotch’n’Soda performances and much more.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Event_Pittsburgh_CMU_data/campus_events_page/homepage.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Signature Events",
+          "## Spring Carnival"
+        ],
+        "chunk_index": 1,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Signature Events",
+          "Header 2": "Spring Carnival"
+        }
+      }
+    },
+    {
+      "text": "# Signature Events\n## Homecoming Weekend\n\n## Homecoming Weekend\nMore details : https://www.cmu.edu/engage/events/homecoming  \nEach fall, the CMU community puts on their best Tartan for a weekend of family-friendly activities like the annual CMU Alumni Awards, campus tours, Buggy previews and the tailgate and football game.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Event_Pittsburgh_CMU_data/campus_events_page/homepage.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Signature Events",
+          "## Homecoming Weekend"
+        ],
+        "chunk_index": 2,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Signature Events",
+          "Header 2": "Homecoming Weekend"
+        }
+      }
+    },
+    {
+      "text": "# Signature Events\n## Reunion Weekend\n\n## Reunion Weekend\nMore details : https://www.cmu.edu/engage/events/reunion-weekend\nDuring Spring Carnival, Tartans celebrating their Reunion year join exclusive events, opportunities to connect — and reconnect — with peers and create new memories at CMU.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Event_Pittsburgh_CMU_data/campus_events_page/homepage.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Signature Events",
+          "## Reunion Weekend"
+        ],
+        "chunk_index": 3,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Signature Events",
+          "Header 2": "Reunion Weekend"
+        }
+      }
+    },
+    {
+      "text": "# Signature Events\n## Alumni Awards\n\n## Alumni Awards\nMore details : https://www.cmu.edu/engage/events/alumni-awards  \nEach year, Carnegie Mellon honors a group of exceptional alumni who have made an impact on their industries, their communities, their alma mater and lives around the world at this special event during Homecoming Weekend.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Event_Pittsburgh_CMU_data/campus_events_page/homepage.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Signature Events",
+          "## Alumni Awards"
+        ],
+        "chunk_index": 4,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Signature Events",
+          "Header 2": "Alumni Awards"
+        }
+      }
+    },
+    {
+      "text": "# Signature Events\n## Tartans on the Rise\n\n## Tartans on the Rise\nMore details : https://www.cmu.edu/engage/events/tartans-on-the-rise  \nEvery year, we celebrate the recent alumni who are making an impact in their organizations and in their communities, across the nation and around the world through leadership, innovation and career achievements.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Event_Pittsburgh_CMU_data/campus_events_page/homepage.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Signature Events",
+          "## Tartans on the Rise"
+        ],
+        "chunk_index": 5,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Signature Events",
+          "Header 2": "Tartans on the Rise"
+        }
+      }
+    },
+    {
+      "text": "# Signature Events\n## Online Events\n\n## Online Events\nMore details : https://www.cmu.edu/engage/events/online-events  \nJust as the reach of Carnegie Mellon extends around the globe, you can engage with the university and fellow Tartan alumni through a variety of online events from anywhere in the world.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Event_Pittsburgh_CMU_data/campus_events_page/homepage.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Signature Events",
+          "## Online Events"
+        ],
+        "chunk_index": 6,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Signature Events",
+          "Header 2": "Online Events"
+        }
+      }
+    },
+    {
+      "text": "# Presidential Tours\n\n# Presidential Tours\nPresident Farnam Jahanian visits different cities throughout the year to meet Tartans across the country and share Carnegie Mellon’s inspiring vision for the future. Faculty members share cutting-edge research and alumni have a chance to network with each other and university leadership.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Event_Pittsburgh_CMU_data/campus_events_page/homepage.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Presidential Tours"
+        ],
+        "chunk_index": 7,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Presidential Tours"
+        }
+      }
+    },
+    {
+      "text": "# CMU125\n\n# CMU125\nMake plans to attend Homecoming Weekend, Nov. 6-8, to celebrate 125 years of Carnegie Mellon University. In addition to traditional festivities like Spirit Day and the football game, CMU125 at Homecoming Weekend[https://www.cmu.edu/125/celebration-weekend/index.html]features special events and opportunities for Tartans of all ages to celebrate this remarkable moment in CMU history.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Event_Pittsburgh_CMU_data/campus_events_page/homepage.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# CMU125"
+        ],
+        "chunk_index": 8,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "CMU125"
+        }
+      }
+    }
+  ]
+}

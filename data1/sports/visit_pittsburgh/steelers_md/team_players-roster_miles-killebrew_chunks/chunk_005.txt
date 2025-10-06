@@ -1,0 +1,10 @@
+# Miles Killebrew
+## Recent Games
+
+##  Recent Games  
+WK | OPP | RESULT |  TKL  |  AST  |  COMBINED  |  SOLO  |  SCK  |  SFTY  |  PDEF  |  INT  |  YDS  |  AVG  |  LNG  |  TDS  |  FF  |  OPP FR
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+1 | @Jets | W 34 - 32 | 1 | 0 | 1 | 1 | 0 | 0 | 0 |  |  |  |  |  | 0 |
+2 | Seahawks | L 17 - 31 | 2 | 0 | 2 | 2 | 0 | 0 | 0 |  |  |  |  |  | 0 |
+3 | @Patriots | W 21 - 14 | 0 | 1 | 1 | 0 | 0 | 0 | 0 |  |  |  |  |  | 0 |
+4 | Vikings | W 24 - 21 |  |  |  |  |  |  |  |  |  |  |  |  |  |

@@ -1,0 +1,13 @@
+## Pirates Roster & Staff
+
+|  Liover Peguero 31 B/T: R/R Ht: 6' 1" Wt: 200 DOB: 12/31/2000 | R/R | 6' 1" | 200 | 12/31/2000
+|  Jared Triolo 19 B/T: R/R Ht: 6' 3" Wt: 210 DOB: 02/08/1998 | R/R | 6' 3" | 210 | 02/08/1998
+|  Nick Yorke 38 B/T: R/R Ht: 6' 0" Wt: 210 DOB: 04/02/2002 | R/R | 6' 0" | 210 | 04/02/2002
+Outfielders | B/T | Ht | Wt | DOB
+---|---|---|---|---
+|  Ji Hwan Bae 3 B/T: L/R Ht: 5' 11" Wt: 185 DOB: 07/26/1999 | L/R | 5' 11" | 185 | 07/26/1999
+|  Alexander Canario 29 B/T: R/R Ht: 6' 1" Wt: 215 DOB: 05/07/2000 | R/R | 6' 1" | 215 | 05/07/2000
+|  Billy Cook 25 B/T: R/R Ht: 6' 0" Wt: 200 DOB: 01/07/1999 | R/R | 6' 0" | 200 | 01/07/1999
+|  Oneil Cruz 15 B/T: L/R Ht: 6' 7" Wt: 240 DOB: 10/04/1998 | L/R | 6' 7" | 240 | 10/04/1998
+|  Ryan Kreidler 6 B/T: R/R Ht: 6' 3" Wt: 208 DOB: 11/12/1997 | R/R | 6' 3" | 208 | 11/12/1997
+|  Andrew McCutchen 22 B/T: R/R Ht: 5' 10" Wt: 190 DOB: 10/10/1986 | R/R | 5' 10" | 190 | 10/10/1986

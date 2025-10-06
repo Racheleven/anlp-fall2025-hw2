@@ -1,0 +1,7 @@
+## **1\. RecopilaciÃ³n de informaciÃ³n**
+
+* informaciÃ³n sobre el uso de aplicaciones, incluida la frecuencia con la que utiliza nuestra aplicaciÃ³n, los eventos que se producen dentro de la aplicaciÃ³n, el uso y los datos de rendimiento y desde dÃ³nde se descargÃ³ la aplicaciÃ³n;
+* otra informaciÃ³n estÃ¡ndar de registro del servidor;
+* informaciÃ³n estÃ¡ndar de trÃ¡fico de la red cuando estÃ¡ conectado a la red wifi de un estadio de la NFL;  
+ademÃ¡s, podemos recopilar automÃ¡ticamente informaciÃ³n de audio, electrÃ³nica o visual, como informaciÃ³n recopilada en cÃ¡maras de TV de circuito cerrado y cuando lo grabemos o fotografiemos en un lugar pÃºblico durante un evento de la NFL, como se describe con mayor detalle aquÃ.  
+**_InformaciÃ³n que recopilamos de otras fuentes_**

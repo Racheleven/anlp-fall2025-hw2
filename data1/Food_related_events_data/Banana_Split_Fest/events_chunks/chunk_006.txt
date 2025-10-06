@@ -1,0 +1,11 @@
+# Cornhole Tournament
+## Tournament Information
+
+## Tournament Information
+Grab your best throwing partner to compete in the annual Cornhole Tournament! Prizes will be awarded to the winners.  
+### Rules  
+**GAME PLAY**
+- Two teams of two people, termed partners, shall play. Partners shall stand at opposite cornhole boxes on the same side, from the perspective of a third person, and face each other, so there is no advantage given to one team.
+- Each cornhole team shall have 4 bags of one color. All 8 cornhole bags begin at one end.
+- A coin flip shall determine which cornhole team has honors in round one.
+- One of the partners on the team who has honors shall begin play by throwing a cornhole bag at the opposite cornhole box. A cornhole player may throw from anywhere behind the front of the cornhole box they are throwing from. Game continues by alternating throws between the two opponent players until all 8 cornhole bags have been thrown.

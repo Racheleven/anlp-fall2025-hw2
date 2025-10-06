@@ -1,0 +1,13 @@
+# CMU Events
+
+**Date:** 2025-10-23  
+**Location:** Hybrid - 1327 Wean or online  
+**Summary:** Students meet regularly to participate in informal discussion sessions that delve into cutting-edge AI topics.  
+**More details:** https://events.cmu.edu/event/25554-ai-sdm-student-brainstorming-session  
+### [Event Name]: Libraries Workshop: Automating Python Data Workflows and Visualizations
+**Date:** 2025-10-23  
+**Location:** Sorrells Library Den, Wean Hall  
+**More details:** https://events.cmu.edu/event/24849-libraries-workshop-automating-python-data  
+### [Event Name]: Academic Freedom: From Professional Norm To First Amendment Right
+**Date:** 2025-10-23  
+**Location:** Posner Hall, Grand Room (Posner 340)

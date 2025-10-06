@@ -1,0 +1,23 @@
+{
+  "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Food_related_events_data/Banana_Split_Fest/schedule.md",
+  "file_type": ".md",
+  "splitter_type": "markdown",
+  "total_chunks": 1,
+  "chunks": [
+    "Weekend Schedule of Events & Activities  \nBring the whole family out to enjoy tons of great activities and entertainment over the weekend!  \nFriday, August 21, 2026  \nSaturday, August 22, 2026 (10am to 8pm)  \nSunday, August 23, 2026 (10am to 4pm)"
+  ],
+  "chunks_info": [
+    {
+      "text": "Weekend Schedule of Events & Activities  \nBring the whole family out to enjoy tons of great activities and entertainment over the weekend!  \nFriday, August 21, 2026  \nSaturday, August 22, 2026 (10am to 8pm)  \nSunday, August 23, 2026 (10am to 4pm)",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Food_related_events_data/Banana_Split_Fest/schedule.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [],
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "original_metadata": {}
+      }
+    }
+  ]
+}

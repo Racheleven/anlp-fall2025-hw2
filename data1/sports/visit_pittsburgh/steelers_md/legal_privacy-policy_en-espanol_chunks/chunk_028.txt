@@ -1,0 +1,5 @@
+## **3\. DivulgaciÃ³n de informaciÃ³n**
+
+* Si desea detener la recopilaciÃ³n adicional de su informaciÃ³n de geolocalizaciÃ³n, opte por excluirse en la configuraciÃ³n de su dispositivo. Desactivar el acceso a la geolocalizaciÃ³n y a los datos precisos de geolocalizaciÃ³n puede inhabilitar o interferir con determinadas funciones o servicios.
+* Los usuarios de Android pueden consultar el enlace que se muestra a continuaciÃ³n para obtener instrucciones sobre cÃ³mo excluirse de la recopilaciÃ³n de datos de geolocalizaciÃ³n en su configuraciÃ³n o retirar el consentimiento para esto: https://support.google.com/accounts/answer/6179507?hl=en.
+* Los usuarios de iOS pueden consultar el siguiente enlace para obtener instrucciones sobre cÃ³mo excluirse de la recopilaciÃ³n de datos de geolocalizaciÃ³n en su configuraciÃ³n o retirar el consentimiento para esto: https://support.apple.com/en-us/HT207092

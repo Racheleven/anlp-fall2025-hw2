@@ -1,0 +1,16 @@
+# https://www.nhl.com/penguins/team/leaders-by-season
+
+01-02 | Krzysztof Oliwa (150) | Alexei Kovalev (266) | Robert Lang (9)
+00-01 | Krzysztof Oliwa (165) | Jaromir Jagr (317) | Robert Lang (20)
+99-00 | Matthew Barnaby (197) | Jaromir Jagr (290) | Jaromir Jagr (25)
+98-99 | Brad Werenka (93) | Jaromir Jagr (343) | German Titov (18)
+97-98 | Chris Tamer (181) | Jaromir Jagr (262) | Jaromir Jagr (17)
+96-97 | Dave Roche (155) | Mario Lemieux (327) | Mario Lemieux (27)
+95-96 | Francois Leroux (161) | Jaromir Jagr (403) | Petr Nedved (37)
+94-95 | Francois Leroux (114) | Jaromir Jagr (192) | Ron Francis (30)
+93-94 | Kevin Stevens (155) | Jaromir Jagr (298) | Martin Straka (24)
+92-93 | Rick Tocchet (252) | Kevin Stevens (326) | Mario Lemieux (55)
+91-92 | Kevin Stevens (252) | Kevin Stevens (325) | Larry Murphy (33)
+90-91 | Ulf Samuelsson (211) | Kevin Stevens (253) | Gord Roberts (17)
+89-90 | Kevin Stevens (171) | Paul Coffey (324) | Randy Hillier (11)
+88-89 | Jay Caulfield (285) | Paul Coffey (342) | Mario Lemieux (41)

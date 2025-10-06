@@ -1,0 +1,14 @@
+# CMU Events
+
+**More details:** https://events.cmu.edu/event/23705-swartz-center-connects-seminar-series  
+### [Event Name]: Libraries Workshop: Handling and Navigating Pandas Dataframes in Python
+**Date:** 2025-10-09  
+**Location:** Sorrells Library Den, Wean Hall  
+**More details:** https://events.cmu.edu/event/24845-libraries-workshop-handling-and-navigating-pandas  
+### [Event Name]: Libraries Workshop: Introduction to Research Data Management
+**Date:** 2025-10-09  
+**Location:** Sorrells Library Den, Wean Hall  
+**More details:** https://events.cmu.edu/event/24846-libraries-workshop-introduction-to-research-data  
+### [Event Name]: Lawfully Speaking - From Science to Strategy: Navigating a Career at the Nexus of Law, Technology, and Policy with Lala Qadir
+**Date:** 2025-10-09  
+**Location:** Posner Hall, Grand Room (340)

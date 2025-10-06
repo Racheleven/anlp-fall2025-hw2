@@ -1,0 +1,3 @@
+## What PII does VisitPittsburgh collect and how?
+
+Additionally, VisitPITTSBURGH collects demographic data from Google's interest-based advertising through Google Analytics. As a user you can opt-out of the Google Analytics by downloading and installing the opt-out add-on for your browser.

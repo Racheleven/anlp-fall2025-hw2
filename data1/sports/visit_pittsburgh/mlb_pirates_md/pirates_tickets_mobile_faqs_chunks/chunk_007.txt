@@ -1,0 +1,15 @@
+# MOBILE TICKETING FAQ
+
+tapping My MLB Account Emails, and entering the email address associated with
+your ticket purchase in the Add Another Email field. An email will be sent to
+the email address. You will be required to verify that you want to associate
+it with the MLB account that you’re logged in to MLB Ballpark with. After
+verifying the association you will be able to access and manage all tickets
+associated with your secondary email address.  
+#### My email address is verified, I see a ticket account number in the Ticket
+Accounts page. Why aren't my tickets showing up in the MLB Ballpark app?  
+After you've confirmed that the tickets were purchased with an email address
+that is verified on the My MLB Account Emails page (accessible by tapping the
+Profile icon in the top left hand corner of the Home Tab and then tapping My
+MLB Account Emails) and that your Pirates ticket account is displaying on the
+Ticket Accounts page, you may need to refresh your Tickets tab’s Wallet by

@@ -1,0 +1,8 @@
+## **5\. Interest-Based Advertising**
+
+If you wish to stop the further collection of your geolocation information for IBA, please opt-out using your device settings, as noted below:  
+**Opt-out or Withdraw Consent for Precise Geolocation Data for IBA**  
+To opt out of the tracking of your device geolocation and/or precise geolocation data, please visit your device settings. Turning off access to geolocation and precise geolocation data may disable or interfere with certain functionality or services.  
+For Android users, please see the following link for instructions on how to opt-out of or withdraw consent to geolocation data collection from your settings https://support.google.com/accounts/answer/6179507?hl=en.  
+For iOS users, please see the following link for instructions on how to opt-out of or withdraw consent to geolocation data collection from your settings https://support.apple.com/en-us/HT207092  
+The NFL adheres to the Digital Advertising Alliance (DAA) Self-Regulatory Principles for Interest-Based Advertising.

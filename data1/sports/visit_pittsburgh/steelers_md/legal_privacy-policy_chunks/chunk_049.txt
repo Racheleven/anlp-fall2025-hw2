@@ -1,0 +1,4 @@
+## **13\. Data Subject Rights**
+
+Global Privacy Control and "Do Not Track" Signals: Our websites also support the Global Privacy Control ("GPC"), which is a browser-based opt-out preference signal that can communicate your state law opt-out requests to the websites you visit. For more information on how the GPC works, visit their website here. Because the GPC is browser-based, note that your choices will be tied to online data that is associated with your browser, and you should enable the signal separately for each browser and/or device from which you would like to be opted out. Our websites do not support "do-not-track" signals, as there is no industry standard concerning what, if anything, websites should do when they receive such signals.  
+Note that we do not knowingly sell or share for cross-context behavioral advertising the personal information of consumers under 16 years of age.

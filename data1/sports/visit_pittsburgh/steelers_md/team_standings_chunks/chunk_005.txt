@@ -1,0 +1,24 @@
+# Standings
+## STANDINGS
+
+##  STANDINGS  
+Table - Summary  NFC WEST  |  W  |  L  |  T  |  PCT
+---|---|---|---|---
+San Francisco 49ers  49ers  |  4  |  1  |  0  |  0.800
+Seattle Seahawks  Seahawks  |  3  |  1  |  0  |  0.750
+Los Angeles Rams  Rams  |  3  |  2  |  0  |  0.600
+Arizona Cardinals  Cardinals  |  2  |  2  |  0  |  0.500  
+Table - Summary  NFC SOUTH  |  W  |  L  |  T  |  PCT
+---|---|---|---|---
+Tampa Bay Buccaneers  Buccaneers  |  3  |  1  |  0  |  0.750
+Atlanta Falcons  Falcons  |  2  |  2  |  0  |  0.500
+Carolina Panthers  Panthers  |  1  |  3  |  0  |  0.250
+New Orleans Saints  Saints  |  0  |  4  |  0  |  0.000  
+Table - Summary  NFC EAST  |  W  |  L  |  T  |  PCT
+---|---|---|---|---
+Philadelphia Eagles  Eagles  |  4  |  0  |  0  |  1.000
+Washington Commanders  Commanders  |  2  |  2  |  0  |  0.500
+Dallas Cowboys  Cowboys  |  1  |  2  |  1  |  0.375
+New York Giants  Giants  |  1  |  3  |  0  |  0.250  
+Table - Summary  NFC NORTH  |  W  |  L  |  T  |  PCT
+---|---|---|---|---

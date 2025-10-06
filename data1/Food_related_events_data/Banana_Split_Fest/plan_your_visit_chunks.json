@@ -1,0 +1,122 @@
+{
+  "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Food_related_events_data/Banana_Split_Fest/plan_your_visit.md",
+  "file_type": ".md",
+  "splitter_type": "markdown",
+  "total_chunks": 6,
+  "chunks": [
+    "# Plan Your Visit\n\n# Plan Your Visit  \nMake the most of your trip.  \n---",
+    "# Plan Your Visit\n## Where to Park\n\n## Where to Park\nEnjoy free parking at non-reserved spots throughout the city of Latrobe during the event. However, if you would like to visit Latrobe following the event, payment instructions can be found below.  \n**Parking**\nChoose from the many on-street spots, surface lots, or the parking garage in downtown Latrobe.  \n**How To Pay**\nAll of our parking spots are equipped with coin-fed meters. Additionally, you can pay electronically through the Pango App.  \n---",
+    "# Plan Your Visit\n## Where to Stay\n\n## Where to Stay  \n**Latrobe**\n- [Springhill Suites Pittsburgh of Latrobe](https://www.marriott.com/en-us/hotels/pitlt-springhill-suites-pittsburgh-latrobe/overview/)\n- [Stay Inn Latrobe](https://www.stayinnlatrobe.com/)\n- [512 Coffee & Ice Cream Historical Airbnb](https://512coffeeandicecream.cafe/reservations/)  \n**Blairsville**\n- [Hampton Inn Blairsville](https://www.guestreservations.com/hampton-inn-suites-blairsville/booking?gad_source=1&gclid=CjwKCAjw_LOwBhBFEiwAmSEQARex0IZElWrXssLzcneYtAwSrXd4vWQzWAFN58sxyhTghYR3RauJvBoC-isQAvD_BwE)  \n**Donegal**\n- [Holiday Inn Express](https://www.ihg.com/holidayinnexpress/hotels/us/en/donegal/donpa/hoteldetail)\n- [Log Cabin Lodge and Suites](https://logcabinlodgepa.com/)  \n**Greensburg**\n- [Hampton Inn Greensburg](https://www.hilton.com/en/hotels/gbgpahx-hampton-greensburg/)\n- [Holiday Inn Express Greensburg](https://www.ihg.com/holidayinnexpress/hotels/us/en/greensburg/lbegp/hoteldetail)  \n---",
+    "# Plan Your Visit\n## What to Do\n\n## What to Do\n- [Live! Casino](https://pittsburgh.livecasinohotel.com/)\n- [Living Treasures Animal Park](https://ltanimalpark.com/home/)\n- [Statler’s Fun Center](http://www.statlers.com/)\n- [Falling Water – Frank Lloyd Wright House](https://fallingwater.org/)\n- [Westmoreland Museum of American Art](https://thewestmoreland.org/)\n- [Hike to Beam Rock](https://www.alltrails.com/trail/us/pennsylvania/beam-rock-trail)\n- [Idlewild & SoakZone Amusement Park](https://www.idlewild.com/)  \n---",
+    "# Plan Your Visit\n## Where to Eat\n\n## Where to Eat\nSample the delicious cuisine in the area. From family diners to upscale eating, Latrobe has plenty of yummy options.  \n- [512 Coffee and Ice Cream](https://www.512coffeeandicecream.com/)\n- [Carmine’s Pizza and Pasta](https://www.carminespizzapastamenu.com/)\n- [Chef Dato’s Table](https://www.chefdato.com/)\n- [DeNunzio’s at the Airport](http://www.denunziosrestaurant.com/latrobe.html)\n- [Dino’s in Latrobe](https://www.dinoslatrobe.com/)\n- [Gino Giannilli’s of Latrobe](https://www.google.com/search?gs_ssp=eJzj4tZP1zcsKUgzL84tM2C0UjWosLAwNklOMTVMNkg1tDAwNbQyqDBOSzY1MkhMTDROS0oySDb24kvPzMtXL1bISSwpyk9KBQCjbhR5&q=gino%27s+latrobe&rlz=1C1VDKB_enUS1084US1084&oq=gino&gs_lcrp=EgZjaHJvbWUqFQgBEC4YQxivARjHARiABBiKBRiOBTIPCAAQABhDGOMCGIAEGIoFMhUIARAuGEMYrwEYxwEYgAQYigUYjgUyBggCEEUYOTIHCAMQABiABDIKCAQQLhixAxiABDITCAUQLhjHARixAxjRAxiABBiKBTINCAYQLhivARjHARiABDIHCAcQABiPAjIHCAgQABiPAjIHCAkQABiPAtIBCDI4MjdqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8)",
+    "## Where to Eat\n\n- [Gosia’s Pierogies](https://www.gosiaspierogies.com/)\n- [Lucky B’s](https://luckybslatrobe.com/)\n- [Mailey’s Provisions](https://www.maileysprovisions.com/?fbclid=IwY2xjawItlnxleHRuA2FlbQIxMAABHR15tvstPKap3st3u8iFV0qVF4sZJG5elhknRB35dJ3-LqIzao1pGMJPng_aem_BPZMPyVuX2YagHdQ-hnZIw)\n- [Ricolita’s Cafe](https://www.latrobeartcenter.org/ricolita-menu/)\n- [Sharky’s Café / The Pier](http://sharkyspier.com/)\n- [Touchdown Club 2](http://www.touchdownclub2.com/)\n- [Valley Dairy](https://www.facebook.com/valleydairy3/)"
+  ],
+  "chunks_info": [
+    {
+      "text": "# Plan Your Visit\n\n# Plan Your Visit  \nMake the most of your trip.  \n---",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Food_related_events_data/Banana_Split_Fest/plan_your_visit.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Plan Your Visit"
+        ],
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Plan Your Visit"
+        }
+      }
+    },
+    {
+      "text": "# Plan Your Visit\n## Where to Park\n\n## Where to Park\nEnjoy free parking at non-reserved spots throughout the city of Latrobe during the event. However, if you would like to visit Latrobe following the event, payment instructions can be found below.  \n**Parking**\nChoose from the many on-street spots, surface lots, or the parking garage in downtown Latrobe.  \n**How To Pay**\nAll of our parking spots are equipped with coin-fed meters. Additionally, you can pay electronically through the Pango App.  \n---",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Food_related_events_data/Banana_Split_Fest/plan_your_visit.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Plan Your Visit",
+          "## Where to Park"
+        ],
+        "chunk_index": 1,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Plan Your Visit",
+          "Header 2": "Where to Park"
+        }
+      }
+    },
+    {
+      "text": "# Plan Your Visit\n## Where to Stay\n\n## Where to Stay  \n**Latrobe**\n- [Springhill Suites Pittsburgh of Latrobe](https://www.marriott.com/en-us/hotels/pitlt-springhill-suites-pittsburgh-latrobe/overview/)\n- [Stay Inn Latrobe](https://www.stayinnlatrobe.com/)\n- [512 Coffee & Ice Cream Historical Airbnb](https://512coffeeandicecream.cafe/reservations/)  \n**Blairsville**\n- [Hampton Inn Blairsville](https://www.guestreservations.com/hampton-inn-suites-blairsville/booking?gad_source=1&gclid=CjwKCAjw_LOwBhBFEiwAmSEQARex0IZElWrXssLzcneYtAwSrXd4vWQzWAFN58sxyhTghYR3RauJvBoC-isQAvD_BwE)  \n**Donegal**\n- [Holiday Inn Express](https://www.ihg.com/holidayinnexpress/hotels/us/en/donegal/donpa/hoteldetail)\n- [Log Cabin Lodge and Suites](https://logcabinlodgepa.com/)  \n**Greensburg**\n- [Hampton Inn Greensburg](https://www.hilton.com/en/hotels/gbgpahx-hampton-greensburg/)\n- [Holiday Inn Express Greensburg](https://www.ihg.com/holidayinnexpress/hotels/us/en/greensburg/lbegp/hoteldetail)  \n---",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Food_related_events_data/Banana_Split_Fest/plan_your_visit.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Plan Your Visit",
+          "## Where to Stay"
+        ],
+        "chunk_index": 2,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Plan Your Visit",
+          "Header 2": "Where to Stay"
+        }
+      }
+    },
+    {
+      "text": "# Plan Your Visit\n## What to Do\n\n## What to Do\n- [Live! Casino](https://pittsburgh.livecasinohotel.com/)\n- [Living Treasures Animal Park](https://ltanimalpark.com/home/)\n- [Statler’s Fun Center](http://www.statlers.com/)\n- [Falling Water – Frank Lloyd Wright House](https://fallingwater.org/)\n- [Westmoreland Museum of American Art](https://thewestmoreland.org/)\n- [Hike to Beam Rock](https://www.alltrails.com/trail/us/pennsylvania/beam-rock-trail)\n- [Idlewild & SoakZone Amusement Park](https://www.idlewild.com/)  \n---",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Food_related_events_data/Banana_Split_Fest/plan_your_visit.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Plan Your Visit",
+          "## What to Do"
+        ],
+        "chunk_index": 3,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Plan Your Visit",
+          "Header 2": "What to Do"
+        }
+      }
+    },
+    {
+      "text": "# Plan Your Visit\n## Where to Eat\n\n## Where to Eat\nSample the delicious cuisine in the area. From family diners to upscale eating, Latrobe has plenty of yummy options.  \n- [512 Coffee and Ice Cream](https://www.512coffeeandicecream.com/)\n- [Carmine’s Pizza and Pasta](https://www.carminespizzapastamenu.com/)\n- [Chef Dato’s Table](https://www.chefdato.com/)\n- [DeNunzio’s at the Airport](http://www.denunziosrestaurant.com/latrobe.html)\n- [Dino’s in Latrobe](https://www.dinoslatrobe.com/)\n- [Gino Giannilli’s of Latrobe](https://www.google.com/search?gs_ssp=eJzj4tZP1zcsKUgzL84tM2C0UjWosLAwNklOMTVMNkg1tDAwNbQyqDBOSzY1MkhMTDROS0oySDb24kvPzMtXL1bISSwpyk9KBQCjbhR5&q=gino%27s+latrobe&rlz=1C1VDKB_enUS1084US1084&oq=gino&gs_lcrp=EgZjaHJvbWUqFQgBEC4YQxivARjHARiABBiKBRiOBTIPCAAQABhDGOMCGIAEGIoFMhUIARAuGEMYrwEYxwEYgAQYigUYjgUyBggCEEUYOTIHCAMQABiABDIKCAQQLhixAxiABDITCAUQLhjHARixAxjRAxiABBiKBTINCAYQLhivARjHARiABDIHCAcQABiPAjIHCAgQABiPAjIHCAkQABiPAtIBCDI4MjdqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8)",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Food_related_events_data/Banana_Split_Fest/plan_your_visit.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Plan Your Visit",
+          "## Where to Eat"
+        ],
+        "chunk_index": 4,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Plan Your Visit",
+          "Header 2": "Where to Eat"
+        }
+      }
+    },
+    {
+      "text": "## Where to Eat\n\n- [Gosia’s Pierogies](https://www.gosiaspierogies.com/)\n- [Lucky B’s](https://luckybslatrobe.com/)\n- [Mailey’s Provisions](https://www.maileysprovisions.com/?fbclid=IwY2xjawItlnxleHRuA2FlbQIxMAABHR15tvstPKap3st3u8iFV0qVF4sZJG5elhknRB35dJ3-LqIzao1pGMJPng_aem_BPZMPyVuX2YagHdQ-hnZIw)\n- [Ricolita’s Cafe](https://www.latrobeartcenter.org/ricolita-menu/)\n- [Sharky’s Café / The Pier](http://sharkyspier.com/)\n- [Touchdown Club 2](http://www.touchdownclub2.com/)\n- [Valley Dairy](https://www.facebook.com/valleydairy3/)",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Food_related_events_data/Banana_Split_Fest/plan_your_visit.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Plan Your Visit",
+          "## Where to Eat"
+        ],
+        "chunk_index": 5,
+        "sub_chunk_index": 1,
+        "original_metadata": {
+          "Header 1": "Plan Your Visit",
+          "Header 2": "Where to Eat"
+        }
+      }
+    }
+  ]
+}

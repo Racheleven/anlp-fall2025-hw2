@@ -1,0 +1,141 @@
+{
+  "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Food_related_events_data/Banana_Split_Fest/activities.md",
+  "file_type": ".md",
+  "splitter_type": "markdown",
+  "total_chunks": 7,
+  "chunks": [
+    "# Activities\n\n# Activities  \nTons of things to do.",
+    "# Activities\n## Banana Split Princess\n\n## Banana Split Princess\nHave the chance to meet the Banana Split Princess and her court throughout the weekend! They will be at various activities, and you can meet them at the Banana Split Princess booth!",
+    "# Activities\n## Crafts, Games, & Activities\n\n## Crafts, Games, & Activities\nThe Great American Banana Split Celebration has a lively atmosphere filled with crafts, games, and activities for all ages. Kids can enjoy face painting, crafts, and interactive games while parents can shop for handmade crafts, visit the farmers market, or relax with a game of cornhole. For the more adventurous, there’s even a rock climbing wall!",
+    "# Activities\n## Vendors\n\n## Vendors\nVisiting the event’s vendors is a unique and rewarding experience that provides a chance to support the local community and find one-of-a-kind products. They offer a personal touch with friendly staff who are passionate about their products and happy to provide personalized recommendations. With a wide range of options, from handmade crafts to locally-sourced food and drinks, there’s something for everyone! Discover your new favorites this weekend and come explore all that Latrobe has to offer.",
+    "# Activities\n## Eat & Drink\n\n## Eat & Drink\nDiscover and enjoy all sorts of yummy treats, from classic celebration food like funnel cakes and corn dogs to fresh eats from local food trucks. Enjoy cold drinks like lemonade or craft beer while listening to live music, creating unforgettable memories and experiencing some good old-fashioned fun!",
+    "# Activities\n## Entertainment\n\n## Entertainment\nFeaturing live performances from both local and well-known bands, you won’t want to miss this year’s entertainment lineup!",
+    "# Activities\n## Over 21 Area\n\n## Over 21 Area\nThose over the age of 21 can indulge in a variety of craft brews and local wines, each with its own distinct flavors and character. From hoppy IPAs to rich red wines, there’s something for every palate. The section offers a more laid-back atmosphere where adults can socialize, unwind, and enjoy the fruits of local breweries and wineries. It’s a great way to discover new favorites and support the local community while having a fun, relaxing time with friends."
+  ],
+  "chunks_info": [
+    {
+      "text": "# Activities\n\n# Activities  \nTons of things to do.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Food_related_events_data/Banana_Split_Fest/activities.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Activities"
+        ],
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Activities"
+        }
+      }
+    },
+    {
+      "text": "# Activities\n## Banana Split Princess\n\n## Banana Split Princess\nHave the chance to meet the Banana Split Princess and her court throughout the weekend! They will be at various activities, and you can meet them at the Banana Split Princess booth!",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Food_related_events_data/Banana_Split_Fest/activities.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Activities",
+          "## Banana Split Princess"
+        ],
+        "chunk_index": 1,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Activities",
+          "Header 2": "Banana Split Princess"
+        }
+      }
+    },
+    {
+      "text": "# Activities\n## Crafts, Games, & Activities\n\n## Crafts, Games, & Activities\nThe Great American Banana Split Celebration has a lively atmosphere filled with crafts, games, and activities for all ages. Kids can enjoy face painting, crafts, and interactive games while parents can shop for handmade crafts, visit the farmers market, or relax with a game of cornhole. For the more adventurous, there’s even a rock climbing wall!",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Food_related_events_data/Banana_Split_Fest/activities.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Activities",
+          "## Crafts, Games, & Activities"
+        ],
+        "chunk_index": 2,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Activities",
+          "Header 2": "Crafts, Games, & Activities"
+        }
+      }
+    },
+    {
+      "text": "# Activities\n## Vendors\n\n## Vendors\nVisiting the event’s vendors is a unique and rewarding experience that provides a chance to support the local community and find one-of-a-kind products. They offer a personal touch with friendly staff who are passionate about their products and happy to provide personalized recommendations. With a wide range of options, from handmade crafts to locally-sourced food and drinks, there’s something for everyone! Discover your new favorites this weekend and come explore all that Latrobe has to offer.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Food_related_events_data/Banana_Split_Fest/activities.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Activities",
+          "## Vendors"
+        ],
+        "chunk_index": 3,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Activities",
+          "Header 2": "Vendors"
+        }
+      }
+    },
+    {
+      "text": "# Activities\n## Eat & Drink\n\n## Eat & Drink\nDiscover and enjoy all sorts of yummy treats, from classic celebration food like funnel cakes and corn dogs to fresh eats from local food trucks. Enjoy cold drinks like lemonade or craft beer while listening to live music, creating unforgettable memories and experiencing some good old-fashioned fun!",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Food_related_events_data/Banana_Split_Fest/activities.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Activities",
+          "## Eat & Drink"
+        ],
+        "chunk_index": 4,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Activities",
+          "Header 2": "Eat & Drink"
+        }
+      }
+    },
+    {
+      "text": "# Activities\n## Entertainment\n\n## Entertainment\nFeaturing live performances from both local and well-known bands, you won’t want to miss this year’s entertainment lineup!",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Food_related_events_data/Banana_Split_Fest/activities.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Activities",
+          "## Entertainment"
+        ],
+        "chunk_index": 5,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Activities",
+          "Header 2": "Entertainment"
+        }
+      }
+    },
+    {
+      "text": "# Activities\n## Over 21 Area\n\n## Over 21 Area\nThose over the age of 21 can indulge in a variety of craft brews and local wines, each with its own distinct flavors and character. From hoppy IPAs to rich red wines, there’s something for every palate. The section offers a more laid-back atmosphere where adults can socialize, unwind, and enjoy the fruits of local breweries and wineries. It’s a great way to discover new favorites and support the local community while having a fun, relaxing time with friends.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/Food_related_events_data/Banana_Split_Fest/activities.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Activities",
+          "## Over 21 Area"
+        ],
+        "chunk_index": 6,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Activities",
+          "Header 2": "Over 21 Area"
+        }
+      }
+    }
+  ]
+}

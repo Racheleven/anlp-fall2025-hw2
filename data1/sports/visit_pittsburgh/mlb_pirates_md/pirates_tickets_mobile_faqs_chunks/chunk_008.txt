@@ -1,0 +1,20 @@
+# MOBILE TICKETING FAQ
+
+MLB Account Emails) and that your Pirates ticket account is displaying on the
+Ticket Accounts page, you may need to refresh your Tickets tab’s Wallet by
+pulling down on the screen to see updated ticket inventory.  
+arrow-up-139793  
+Back to Top  
+### MLB BALLPARK APP - TICKET WALLET  
+#### What is the Ticket Wallet?  
+The Ticket Tab’s Wallet provides you with quick access and management of all
+of your MLB tickets. After downloading the MLB Ballpark app, click the Tickets
+icon on the bottom tab to see all of the tickets you own.  
+#### Can I see all my tickets for all teams within the Wallet, or just one
+team at a time?  
+You will be able to access your tickets to any MLB team's game or event as
+long as you used the same MLB account or email address to purchase the
+tickets.  
+#### Where can I see more event details about the game?  
+In the team page accessed via the bottom tab bar, you can find detailed
+information about the day's event.

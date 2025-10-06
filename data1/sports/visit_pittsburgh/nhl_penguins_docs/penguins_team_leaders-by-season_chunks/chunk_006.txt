@@ -1,0 +1,16 @@
+# https://www.nhl.com/penguins/team/leaders-by-season
+
+84-85 | Mario Lemieux (43) | Mario Lemieux (57) | Mario Lemieux (100)
+83-84 | Mike Bullard (51) | Mike Bullard (41) | Mike Bullard (92)
+82-83 | Rick Kehoe (29) | Greg Malone (44) | Doug Shedden (67)
+81-82 | Mike Bullard, Paul Gardner (36) | Randy Carlyle (65) | Rick Kehoe (85)
+80-81 | Rick Kehoe (55) | Randy Carlyle (67) | Rick Kehoe (88)
+79-80 | Rick Kehoe (30) | Greg Malone (32) | Rick Kehoe (60)
+78-79 | Greg Malone (35) | Orest Kindrachuk (42) | Greg Malone (65)
+77-78 | Jean Pronovost (40) | Greg Malone (43) | Jean Pronovost (65)
+76-77 | Jean Pronovost (33) | Syl Apps (43) | Jean Pronovost (65)
+75-76 | Pierre Larouche (53) | Syl Apps (67) | Pierre Larouche (111)
+74-75 | Jean Pronovost (43) | Ron Schock (63) | Ron Schock (86)
+73-74 | Lowell McDonald (43) | Syl Apps (61) | Syl Apps (85)
+72-73 | Al McDonough (35) | Syl Apps (56) | Syl Apps (85)
+71-72 | Greg Polis, Jean Pronovost (30) | Syl Apps (44) | Syl Apps (59)

@@ -1,0 +1,18 @@
+# MOBILE TICKETING FAQ
+
+the email address associated with your MLB account, but you will be required
+to click the link in the email where the ticket was forwarded to.  
+#### Can I reject a ticket forward?  
+Yes, just click, "I do not want to accept this ticket" on the Ticket Accept
+webpage. This webpage is accessible only from the ticket forward email sent to
+the recipient. The sender of the ticket forward will be informed that the
+invitation was rejected and will continue to have access to the ticket in
+their MLB Ballpark app  
+#### If I receive a forwarded ticket, can I re-forward that ticket to another
+recipient?  
+Yes, a ticket can be forwarded again. Each time a ticket is forwarded, the two
+participants, the sender and the recipient, will receive a notification of
+this transaction  
+#### Can I cancel a Pirates ticket forward?  
+Yes, the sender can cancel a ticket forward any time before the barcode has
+been scanned. This can be accomplished from the Wallet tab by selecting an

@@ -1,0 +1,99 @@
+{
+  "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/pittsburgh-steelers-event-meeting-venues.md",
+  "file_type": ".md",
+  "splitter_type": "markdown",
+  "total_chunks": 5,
+  "chunks": [
+    "* Home",
+    "# Pittsburgh Steelers\n## \n\n# Pittsburgh Steelers  \n##  \nWebsite Email  \n*   *   *   *  \n**Pittsburgh Steelers** : The six-time Super Bowl Champion Pittsburgh Steelers play their home contests at Acrisure Stadium in front of Steelers Nation and have been sold out since 1972. Contact the Ticket Office for information about individual game tickets, group tickets, suites and more.\nPhone: 412-323-1200\nEmail: ticketoffice@steelers.com\nWebsite: https://www.steelers.com/tickets/  \n**Pittsburgh Steelers Hall of Honor Museum:** Located in Acrisure Stadium, the museum is dedicated to promoting, preserving and celebrating Steelers football, providing fans the opportunity to learn more about the franchise, view rare artifacts preserved by the team and relive the biggest moments and people in Steelers history.\nPhone: 412-697-7150 (Option 5)\nWebsite: https://www.steelers.com/museum/  \n**Pittsburgh Steelers Pro Sho****p:** Located at Acrisure Stadium near Gate B--get your Black & Gold gear direct from the team!",
+    "## \n\nWebsite: https://www.steelers.com/museum/  \n**Pittsburgh Steelers Pro Sho****p:** Located at Acrisure Stadium near Gate B--get your Black & Gold gear direct from the team!\nPhone: 412-697-7728\nWebsite: https://shop.steelers.com/  \n**Acrisure Stadium Tours** : Stadium Tours provide a behind-the-scenes look at the stadium, a monument to Western Pennsylvania football tradition and to its loyal fans.\nPhone: 412-697-7150 (Option 5)\nWebsite:: https://acrisurestadium.com/stadium/tours/  \nSave  \nPittsburgh Steelers100 Art Rooney Ave., Acrisure Stadium\nPittsburgh, Pennsylvania 15212  \nDetailsOpen in Google Maps  \nMap  \nFull View  \nPittsburgh Steelers  \n100 Art Rooney Ave., Acrisure Stadium Pittsburgh, Pennsylvania 15212  \n(412) 323-1200  \n### Alt Phone  \n(412) 697-7700  \n### Fax  \n(412) 697-7701",
+    "# Pittsburgh Steelers\n## Related Stories & Events\n\n## Related Stories & Events  \nSave  \nSteelers vs Browns100 Art Rooney Ave\nPittsburgh, Pennsylvania 15212  \nDetailsOpen in Google Maps  \nMap  \nOctober 12  \nSteelers vs Browns  \nSteelers vs Browns  \nAcrisure Stadium 100 Art Rooney Ave Pittsburgh, Pennsylvania 15212  \nDetails  \nSave  \nSteelers vs Packers100 Art Rooney Ave\nPittsburgh, Pennsylvania 15212  \nDetailsOpen in Google Maps  \nMap  \nOctober 26  \nSteelers vs Packers  \nSteelers vs Packers  \nAcrisure Stadium 100 Art Rooney Ave Pittsburgh, Pennsylvania 15212  \nDetails  \nSave  \nSteelers Alumni Weekend Dinner100 Art Rooney Ave\nPittsburgh, Pennsylvania 15212  \nDetailsOpen in Google Maps  \nMap  \nNovember 1  \nSteelers Alumni Weekend Dinner  \nSteelers Alumni Weekend Dinner  \nAcrisure Stadium 100 Art Rooney Ave Pittsburgh, Pennsylvania 15212  \nDetails  \nWebsite  \nSave  \nSteelers vs Colts100 Art Rooney Ave\nPittsburgh, Pennsylvania 15212  \nDetailsOpen in Google Maps  \nMap  \nNovember 2  \nSteelers vs Colts  \nSteelers vs Colts",
+    "## Related Stories & Events\n\nDetails  \nWebsite  \nSave  \nSteelers vs Colts100 Art Rooney Ave\nPittsburgh, Pennsylvania 15212  \nDetailsOpen in Google Maps  \nMap  \nNovember 2  \nSteelers vs Colts  \nSteelers vs Colts  \nAcrisure Stadium 100 Art Rooney Ave Pittsburgh, Pennsylvania 15212  \nDetails  \nLabor Day Weekend 2025 in Pittsburgh — The Ultimate Guide  \nYour three-day weekend is right around the corner. Here is the ultimate guide for how to make the most of…  \nDetails  \nPittsburgh Steelers Hall of Famers  \nA look at the City of Champions' recent honors with Hall of Fame enshrinements and retired numbers.  \nDetails  \nSteelers Nation, Here We Go!  \nLet's celebrate the Pittsburgh Steelers – here and around the world.  \nDetails  \nUltimate Steelers Gameweek Guide  \nSteelers Nation! In Pittsburgh for the big game? We've got the scoop on how to enjoy the ultimate sports city!  \nDetails"
+  ],
+  "chunks_info": [
+    {
+      "text": "* Home",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/pittsburgh-steelers-event-meeting-venues.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [],
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "original_metadata": {}
+      }
+    },
+    {
+      "text": "# Pittsburgh Steelers\n## \n\n# Pittsburgh Steelers  \n##  \nWebsite Email  \n*   *   *   *  \n**Pittsburgh Steelers** : The six-time Super Bowl Champion Pittsburgh Steelers play their home contests at Acrisure Stadium in front of Steelers Nation and have been sold out since 1972. Contact the Ticket Office for information about individual game tickets, group tickets, suites and more.\nPhone: 412-323-1200\nEmail: ticketoffice@steelers.com\nWebsite: https://www.steelers.com/tickets/  \n**Pittsburgh Steelers Hall of Honor Museum:** Located in Acrisure Stadium, the museum is dedicated to promoting, preserving and celebrating Steelers football, providing fans the opportunity to learn more about the franchise, view rare artifacts preserved by the team and relive the biggest moments and people in Steelers history.\nPhone: 412-697-7150 (Option 5)\nWebsite: https://www.steelers.com/museum/  \n**Pittsburgh Steelers Pro Sho****p:** Located at Acrisure Stadium near Gate B--get your Black & Gold gear direct from the team!",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/pittsburgh-steelers-event-meeting-venues.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Pittsburgh Steelers",
+          "## "
+        ],
+        "chunk_index": 1,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Pittsburgh Steelers",
+          "Header 2": ""
+        }
+      }
+    },
+    {
+      "text": "## \n\nWebsite: https://www.steelers.com/museum/  \n**Pittsburgh Steelers Pro Sho****p:** Located at Acrisure Stadium near Gate B--get your Black & Gold gear direct from the team!\nPhone: 412-697-7728\nWebsite: https://shop.steelers.com/  \n**Acrisure Stadium Tours** : Stadium Tours provide a behind-the-scenes look at the stadium, a monument to Western Pennsylvania football tradition and to its loyal fans.\nPhone: 412-697-7150 (Option 5)\nWebsite:: https://acrisurestadium.com/stadium/tours/  \nSave  \nPittsburgh Steelers100 Art Rooney Ave., Acrisure Stadium\nPittsburgh, Pennsylvania 15212  \nDetailsOpen in Google Maps  \nMap  \nFull View  \nPittsburgh Steelers  \n100 Art Rooney Ave., Acrisure Stadium Pittsburgh, Pennsylvania 15212  \n(412) 323-1200  \n### Alt Phone  \n(412) 697-7700  \n### Fax  \n(412) 697-7701",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/pittsburgh-steelers-event-meeting-venues.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Pittsburgh Steelers",
+          "## "
+        ],
+        "chunk_index": 2,
+        "sub_chunk_index": 1,
+        "original_metadata": {
+          "Header 1": "Pittsburgh Steelers",
+          "Header 2": ""
+        }
+      }
+    },
+    {
+      "text": "# Pittsburgh Steelers\n## Related Stories & Events\n\n## Related Stories & Events  \nSave  \nSteelers vs Browns100 Art Rooney Ave\nPittsburgh, Pennsylvania 15212  \nDetailsOpen in Google Maps  \nMap  \nOctober 12  \nSteelers vs Browns  \nSteelers vs Browns  \nAcrisure Stadium 100 Art Rooney Ave Pittsburgh, Pennsylvania 15212  \nDetails  \nSave  \nSteelers vs Packers100 Art Rooney Ave\nPittsburgh, Pennsylvania 15212  \nDetailsOpen in Google Maps  \nMap  \nOctober 26  \nSteelers vs Packers  \nSteelers vs Packers  \nAcrisure Stadium 100 Art Rooney Ave Pittsburgh, Pennsylvania 15212  \nDetails  \nSave  \nSteelers Alumni Weekend Dinner100 Art Rooney Ave\nPittsburgh, Pennsylvania 15212  \nDetailsOpen in Google Maps  \nMap  \nNovember 1  \nSteelers Alumni Weekend Dinner  \nSteelers Alumni Weekend Dinner  \nAcrisure Stadium 100 Art Rooney Ave Pittsburgh, Pennsylvania 15212  \nDetails  \nWebsite  \nSave  \nSteelers vs Colts100 Art Rooney Ave\nPittsburgh, Pennsylvania 15212  \nDetailsOpen in Google Maps  \nMap  \nNovember 2  \nSteelers vs Colts  \nSteelers vs Colts",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/pittsburgh-steelers-event-meeting-venues.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Pittsburgh Steelers",
+          "## Related Stories & Events"
+        ],
+        "chunk_index": 3,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Pittsburgh Steelers",
+          "Header 2": "Related Stories & Events"
+        }
+      }
+    },
+    {
+      "text": "## Related Stories & Events\n\nDetails  \nWebsite  \nSave  \nSteelers vs Colts100 Art Rooney Ave\nPittsburgh, Pennsylvania 15212  \nDetailsOpen in Google Maps  \nMap  \nNovember 2  \nSteelers vs Colts  \nSteelers vs Colts  \nAcrisure Stadium 100 Art Rooney Ave Pittsburgh, Pennsylvania 15212  \nDetails  \nLabor Day Weekend 2025 in Pittsburgh — The Ultimate Guide  \nYour three-day weekend is right around the corner. Here is the ultimate guide for how to make the most of…  \nDetails  \nPittsburgh Steelers Hall of Famers  \nA look at the City of Champions' recent honors with Hall of Fame enshrinements and retired numbers.  \nDetails  \nSteelers Nation, Here We Go!  \nLet's celebrate the Pittsburgh Steelers – here and around the world.  \nDetails  \nUltimate Steelers Gameweek Guide  \nSteelers Nation! In Pittsburgh for the big game? We've got the scoop on how to enjoy the ultimate sports city!  \nDetails",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/pittsburgh-steelers-event-meeting-venues.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Pittsburgh Steelers",
+          "## Related Stories & Events"
+        ],
+        "chunk_index": 4,
+        "sub_chunk_index": 1,
+        "original_metadata": {
+          "Header 1": "Pittsburgh Steelers",
+          "Header 2": "Related Stories & Events"
+        }
+      }
+    }
+  ]
+}

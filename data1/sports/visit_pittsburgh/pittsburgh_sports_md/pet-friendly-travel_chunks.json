@@ -1,0 +1,154 @@
+{
+  "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/pet-friendly-travel.md",
+  "file_type": ".md",
+  "splitter_type": "markdown",
+  "total_chunks": 8,
+  "chunks": [
+    "* Home\n* Plan Your Trip\n* Pet-friendly Travel",
+    "# Pet-friendly Travel\n\n# Pet-friendly Travel  \nCanines (and felines) rejoice in Pittsburgh!  \nWhether you adopted a new furry friend or strengthened your bond with your best bud, this last year has given many of us extra time to enjoy our pets. And, there’s no need to let a much-needed getaway break that bond. With a variety of pet-friendly accommodations, incredible activities and delicious dining options, Pittsburgh is the perfect city for you and your four-legged friend.  \nPack your bags and your pup for an awesome adventure in Pittsburgh.",
+    "# Pet-friendly Travel\n## Where to Stay\n\n## Where to Stay  \nDid you know that Pittsburgh has a wide selection of pet-friendly hotels? That’s right! With more than 40 hotels in the region ready to welcome you and your best furry friends, there are plenty of options to choose from. Whether you’re looking for a luxury stay Downtown or a relaxing spot in one of Pittsburgh’s 90 unique neighborhoods, we’ve got you comfortably covered!",
+    "# Pet-friendly Travel\n## Where to Eat and Drink\n\n## Where to Eat and Drink  \nBring your shaggy sidekick along to experience the sites and bites of the city. Located in the South Side, Double Wide Grill features a large outdoor seating section that is a hub for dogs and dog lovers. The restaurant offers vegan and vegetarian options and even a doggie menu. In the heart of Lawrenceville, Walter’s Southern Kitchen serves up mouth-watering BBQ in a picnic-themed outdoor area. Redfin Blues is another delicious, pet-friendly restaurant with riverfront views and easy access to riverfront bike trails.",
+    "## Where to Eat and Drink\n\nBe sure to add a visit to one of the many Pittsburgh craft breweries offering outdoor, pet-friendly patios and seating areas. Located on the North Side, Allegheny City Brewing is a neighborhood brewery with an outdoor seating area and food trucks daily. Stop by Grist House Craft Brewery in Millvale for a welcoming, family run brewery with flavorful and unique beers. A little further outside the city is Inner Groove Brewing, featuring rotating taps, vinyl spinning tunes and a great back patio for the dogs.  \n* * *  \n**_Follow_** our Pittsburgh pup ambassador Ace on Instagram @AcePGHAdvenutres for more pup-friendly fun and tips for your next visit to Pittsburgh!  \n* * *  \nEmbark On An Incredible Outdoor Adventure!  \nFeaturing more than 180 miles of trails, Pittsburgh is the perfect destination for outdoor walks and adventures with your four-legged friend. From riverfront trails to parks and off-leash areas, your pup is…  \nMore Info  \nEmBARK on an incredible outdoor adventure!",
+    "## Where to Eat and Drink\n\nMore Info  \nEmBARK on an incredible outdoor adventure!  \nFeaturing more than 180 miles of trails, Pittsburgh is the perfect destination for outdoor walks and adventures with your four-legged friend. From riverfront trails to parks and off-leash areas, your pup is…  \nMore Info",
+    "# Pet-friendly Travel\n## Find Your Furry Friend\n\n## Find Your Furry Friend  \nPittsburgh also is a great place to find your new best furry friend. The Humane Animal Rescue Pittsburgh is one of Pennsylvania’s largest nonprofit organizations dedicated to the welfare of animals, pet owners and the community. Plan a visit to adopt or spread the love with a donation.  \nLooking for a Garfield for your Odie? The Black Cat Market, Pittsburgh’s first cat cafe, is another community organization with lovable and adoptable cats – and a purr-fect spot for some pet-therapy!",
+    "# Pet-friendly Travel\n## Related Blog Posts\n\n## Related Blog Posts  \nDog-Friendly Hotels in Pittsburgh  \nSome Pittsburgh hotels treat your four legged friend like royalty.  \nDetails  \nDog Friendly Restaurants and Bars in Pittsburgh  \nThere are so many places for you to enjoy some good food and delicious drinks with your best friend by…  \nDetails  \nA Dog’s Day in Pittsburgh  \nEnjoy these PAW-some Travel Tips from Ace, the Pittsburgh Adventure Dog for when you plan your next visit!  \nDetails  \nRediscover Pittsburgh on a Roadtrip With Your Dog  \nWe invite you and your favorite furry pup friends to experience Pittsburgh!  \nDetails"
+  ],
+  "chunks_info": [
+    {
+      "text": "* Home\n* Plan Your Trip\n* Pet-friendly Travel",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/pet-friendly-travel.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [],
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "original_metadata": {}
+      }
+    },
+    {
+      "text": "# Pet-friendly Travel\n\n# Pet-friendly Travel  \nCanines (and felines) rejoice in Pittsburgh!  \nWhether you adopted a new furry friend or strengthened your bond with your best bud, this last year has given many of us extra time to enjoy our pets. And, there’s no need to let a much-needed getaway break that bond. With a variety of pet-friendly accommodations, incredible activities and delicious dining options, Pittsburgh is the perfect city for you and your four-legged friend.  \nPack your bags and your pup for an awesome adventure in Pittsburgh.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/pet-friendly-travel.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Pet-friendly Travel"
+        ],
+        "chunk_index": 1,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Pet-friendly Travel"
+        }
+      }
+    },
+    {
+      "text": "# Pet-friendly Travel\n## Where to Stay\n\n## Where to Stay  \nDid you know that Pittsburgh has a wide selection of pet-friendly hotels? That’s right! With more than 40 hotels in the region ready to welcome you and your best furry friends, there are plenty of options to choose from. Whether you’re looking for a luxury stay Downtown or a relaxing spot in one of Pittsburgh’s 90 unique neighborhoods, we’ve got you comfortably covered!",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/pet-friendly-travel.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Pet-friendly Travel",
+          "## Where to Stay"
+        ],
+        "chunk_index": 2,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Pet-friendly Travel",
+          "Header 2": "Where to Stay"
+        }
+      }
+    },
+    {
+      "text": "# Pet-friendly Travel\n## Where to Eat and Drink\n\n## Where to Eat and Drink  \nBring your shaggy sidekick along to experience the sites and bites of the city. Located in the South Side, Double Wide Grill features a large outdoor seating section that is a hub for dogs and dog lovers. The restaurant offers vegan and vegetarian options and even a doggie menu. In the heart of Lawrenceville, Walter’s Southern Kitchen serves up mouth-watering BBQ in a picnic-themed outdoor area. Redfin Blues is another delicious, pet-friendly restaurant with riverfront views and easy access to riverfront bike trails.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/pet-friendly-travel.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Pet-friendly Travel",
+          "## Where to Eat and Drink"
+        ],
+        "chunk_index": 3,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Pet-friendly Travel",
+          "Header 2": "Where to Eat and Drink"
+        }
+      }
+    },
+    {
+      "text": "## Where to Eat and Drink\n\nBe sure to add a visit to one of the many Pittsburgh craft breweries offering outdoor, pet-friendly patios and seating areas. Located on the North Side, Allegheny City Brewing is a neighborhood brewery with an outdoor seating area and food trucks daily. Stop by Grist House Craft Brewery in Millvale for a welcoming, family run brewery with flavorful and unique beers. A little further outside the city is Inner Groove Brewing, featuring rotating taps, vinyl spinning tunes and a great back patio for the dogs.  \n* * *  \n**_Follow_** our Pittsburgh pup ambassador Ace on Instagram @AcePGHAdvenutres for more pup-friendly fun and tips for your next visit to Pittsburgh!  \n* * *  \nEmbark On An Incredible Outdoor Adventure!  \nFeaturing more than 180 miles of trails, Pittsburgh is the perfect destination for outdoor walks and adventures with your four-legged friend. From riverfront trails to parks and off-leash areas, your pup is…  \nMore Info  \nEmBARK on an incredible outdoor adventure!",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/pet-friendly-travel.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Pet-friendly Travel",
+          "## Where to Eat and Drink"
+        ],
+        "chunk_index": 4,
+        "sub_chunk_index": 1,
+        "original_metadata": {
+          "Header 1": "Pet-friendly Travel",
+          "Header 2": "Where to Eat and Drink"
+        }
+      }
+    },
+    {
+      "text": "## Where to Eat and Drink\n\nMore Info  \nEmBARK on an incredible outdoor adventure!  \nFeaturing more than 180 miles of trails, Pittsburgh is the perfect destination for outdoor walks and adventures with your four-legged friend. From riverfront trails to parks and off-leash areas, your pup is…  \nMore Info",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/pet-friendly-travel.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Pet-friendly Travel",
+          "## Where to Eat and Drink"
+        ],
+        "chunk_index": 5,
+        "sub_chunk_index": 2,
+        "original_metadata": {
+          "Header 1": "Pet-friendly Travel",
+          "Header 2": "Where to Eat and Drink"
+        }
+      }
+    },
+    {
+      "text": "# Pet-friendly Travel\n## Find Your Furry Friend\n\n## Find Your Furry Friend  \nPittsburgh also is a great place to find your new best furry friend. The Humane Animal Rescue Pittsburgh is one of Pennsylvania’s largest nonprofit organizations dedicated to the welfare of animals, pet owners and the community. Plan a visit to adopt or spread the love with a donation.  \nLooking for a Garfield for your Odie? The Black Cat Market, Pittsburgh’s first cat cafe, is another community organization with lovable and adoptable cats – and a purr-fect spot for some pet-therapy!",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/pet-friendly-travel.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Pet-friendly Travel",
+          "## Find Your Furry Friend"
+        ],
+        "chunk_index": 6,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Pet-friendly Travel",
+          "Header 2": "Find Your Furry Friend"
+        }
+      }
+    },
+    {
+      "text": "# Pet-friendly Travel\n## Related Blog Posts\n\n## Related Blog Posts  \nDog-Friendly Hotels in Pittsburgh  \nSome Pittsburgh hotels treat your four legged friend like royalty.  \nDetails  \nDog Friendly Restaurants and Bars in Pittsburgh  \nThere are so many places for you to enjoy some good food and delicious drinks with your best friend by…  \nDetails  \nA Dog’s Day in Pittsburgh  \nEnjoy these PAW-some Travel Tips from Ace, the Pittsburgh Adventure Dog for when you plan your next visit!  \nDetails  \nRediscover Pittsburgh on a Roadtrip With Your Dog  \nWe invite you and your favorite furry pup friends to experience Pittsburgh!  \nDetails",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/pittsburgh_sports_md/pet-friendly-travel.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# Pet-friendly Travel",
+          "## Related Blog Posts"
+        ],
+        "chunk_index": 7,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "Pet-friendly Travel",
+          "Header 2": "Related Blog Posts"
+        }
+      }
+    }
+  ]
+}

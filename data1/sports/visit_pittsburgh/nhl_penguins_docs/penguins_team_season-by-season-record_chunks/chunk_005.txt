@@ -1,0 +1,19 @@
+# https://www.nhl.com/penguins/team/season-by-season-record
+
+1993-94 | 84 | 44 | 27 | 13 | \-- | 101 | 1st, Northeast
+1992-93 | 84 | 56 | 21 | 7 | \-- | 119 |  1st, Patrick
+1991-92 | 80 | 39 | 32 | 9 | \-- | 87 |  3rd, Patrick **Stanley Cup Champtions**
+1990-91 | 80 | 41 | 33 | 6 | \-- | 88 | 1st, Patrick **Stanley Cup Champtions**
+1989-90 | 80 | 32 | 40 | 8 | \-- | 72 | 5th, Patrick
+1988-89 | 80 | 40 | 33 | 7 | \-- | 87 | 2nd, Patrick
+1987-88 | 80 | 36 | 35 | 9 | \-- | 81 | 6th, Patrick
+1986-87 | 80 | 30 | 38 | 12 | \-- | 72 | 5th, Patrick
+1985-86 | 80 | 34 | 38 | 8 | \-- | 76 | 5th, Patrick
+1984-85 | 80 | 24 | 51 | 5 | \-- | 53 | 6th, Patrick
+1983-84 | 80 | 16 | 58 | 6 | \-- | 38 | 6th, Patrick
+1982-83 | 80 | 18 | 53 | 9 | \-- | 45 | 6th, Patrick
+1981-82 | 80 | 31 | 36 | 13 | \-- | 75 | 4th, Patrick
+1980-81 | 80 | 30 | 37 | 13 | \-- | 73 | 3rd, Norris
+1979-80 | 80 | 30 | 37 | 13 | \-- | 73 | 3rd, Norris
+1978-79 | 80 | 36 | 31 | 13 | \-- | 85 | 2nd, Norris
+1977-78 | 80 | 25 | 37 | 18 | \-- | 68 | 4th, Norris

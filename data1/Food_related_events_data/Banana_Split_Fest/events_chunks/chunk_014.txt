@@ -1,0 +1,9 @@
+# Great American Banana Baking Contest
+
+### Accepted Baked Goods
+- **Breads:** Yeast Breads, Quick Breads, & Sweet Breads
+- **Cookies:** Any Cookie
+- **Cakes:** Any cake
+- **Miscellaneous Sweets:** Any dessert item that does not fit in a category listed above
+- **NO Brownies**
+- **NO Dips or Spreads**

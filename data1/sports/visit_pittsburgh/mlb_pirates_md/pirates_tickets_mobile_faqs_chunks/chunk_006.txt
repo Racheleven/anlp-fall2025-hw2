@@ -1,0 +1,16 @@
+# MOBILE TICKETING FAQ
+
+tickets in the Tickets tab’s Wallet, or your account number is not located on
+the My Ticket Accounts page in the MLB Ballpark app, please contact Pirates
+Fans Services at ticketservices@pirates.com or 1-800-BUY-BUCS.  
+#### I linked my Pirates ticket account and MLB account in the past. Do I need
+to verify my email address to access tickets?  
+No. If you previously linked your Pirates ticket account and MLB account, or
+verified the email address associated with your MLB account, the MLB Ballpark
+app will recognize that and you will not be asked to verify again.  
+#### How do I find tickets that I purchased with another one of my email
+addresses?  
+You can find tickets that you purchased with another of your email addresses
+by tapping the Profile icon in the top left hand corner of the Home Tab,
+tapping My MLB Account Emails, and entering the email address associated with
+your ticket purchase in the Add Another Email field. An email will be sent to

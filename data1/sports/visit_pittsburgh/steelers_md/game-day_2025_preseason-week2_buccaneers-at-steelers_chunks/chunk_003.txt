@@ -1,0 +1,32 @@
+# https://www.steelers.com/game-day/2025/preseason-week2/buccaneers-at-steelers/
+
+G. Greene  |  3  |  25  |  13  |  0
+T. Johnson  |  4  |  24  |  11  |  0
+J. McMillan  |  1  |  18  |  18  |  0
+B. Irving  |  1  |  15  |  15  |  1
+T. Taula  |  1  |  15  |  15  |  0
+J. Williams  |  1  |  13  |  13  |  0
+R. Miller  |  2  |  11  |  12  |  0
+S. Tucker  |  2  |  11  |  7  |  0
+J. Smith  |  1  |  9  |  9  |  0
+R. Jarrett  |  1  |  8  |  8  |  0
+E. Egbuka  |  1  |  5  |  5  |  1
+J. Harris  |  1  |  5  |  5  |  0
+O. Wright  |  1  |  4  |  4  |  0  
+* ###  Passing  
+Player | CP/ATT | YDS | TD | INT
+---|---|---|---|---
+S. Thompson  |  10/15  |  113  |  0  |  1
+M. Rudolph  |  3/5  |  46  |  1  |  1
+L. Woodside  |  4/9  |  45  |  0  |  1  
+###  Rushing  
+Player | ATT | YDS | LNG | TD
+---|---|---|---|---
+K. Johnson  |  11  |  50  |  14  |  0
+L. Nichols  |  3  |  42  |  37  |  0
+E. Hull  |  3  |  17  |  12  |  0
+S. Thompson  |  3  |  8  |  7  |  0
+M. Rudolph  |  1  |  7  |  7  |  0
+T. Sermon  |  3  |  4  |  2  |  1
+K. Gainwell  |  2  |  2  |  1  |  0  
+###  Receiving

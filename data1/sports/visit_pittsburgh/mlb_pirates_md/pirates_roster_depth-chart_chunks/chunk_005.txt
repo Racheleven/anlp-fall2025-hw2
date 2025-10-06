@@ -1,0 +1,15 @@
+## Pirates Roster & Staff
+
+|  Cam Devanney 34 B/T: R/R Ht: 6' 1" Wt: 195 DOB: 04/13/1997 | R/R | 6' 1" | 195 | 04/13/1997
+Shortstop | B/T | Ht | Wt | DOB
+---|---|---|---|---
+|  Nick Gonzales 39 B/T: R/R Ht: 5' 9" Wt: 200 DOB: 05/27/1999 | R/R | 5' 9" | 200 | 05/27/1999
+|  Jared Triolo 19 B/T: R/R Ht: 6' 3" Wt: 210 DOB: 02/08/1998 | R/R | 6' 3" | 210 | 02/08/1998
+|  Cam Devanney 34 B/T: R/R Ht: 6' 1" Wt: 195 DOB: 04/13/1997 | R/R | 6' 1" | 195 | 04/13/1997
+Left Field | B/T | Ht | Wt | DOB
+---|---|---|---|---
+|  Tommy Pham 28 B/T: R/R Ht: 6' 1" Wt: 225 DOB: 03/08/1988 | R/R | 6' 1" | 225 | 03/08/1988
+|  Alexander Canario 29 B/T: R/R Ht: 6' 1" Wt: 215 DOB: 05/07/2000 | R/R | 6' 1" | 215 | 05/07/2000
+|  Bryan Reynolds 10 B/T: S/R Ht: 6' 2" Wt: 205 DOB: 01/27/1995 | S/R | 6' 2" | 205 | 01/27/1995
+|  Andrew McCutchen 22 B/T: R/R Ht: 5' 10" Wt: 190 DOB: 10/10/1986 | R/R | 5' 10" | 190 | 10/10/1986
+|  Jack Suwinski 65 B/T: L/L Ht: 6' 1" Wt: 215 DOB: 07/29/1998 | L/L | 6' 1" | 215 | 07/29/1998

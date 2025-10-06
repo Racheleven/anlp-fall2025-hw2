@@ -1,0 +1,28 @@
+# https://www.nhl.com/penguins/team/staff
+
+Alfred J. Smith III | Senior Vice President, Technology
+Raj Thaker | Manager, Business Operations
+Darlene Watson | Receptionist
+Jaden Lindo | Executive Fellow  
+Communications  
+Evan Schall | Senior Director, Communications
+---|---
+Emma Kilmer | Manager, Communications
+Paul Steigerwald | Specialist, Communications
+Joe Zak | Communications Graduate Assistant  
+Technology  
+Tommy Regan | Director of Operations
+---|---
+Jared Giese | Manager, Systems & Support
+Daniel Grubbs | Senior Network Engineer
+Pete Conroy | Systems Engineer
+Michael Schmitt | Information Security Analyst
+Joe Sekura | Systems Analyst I
+Robert Mullen | Systems Analyst I  
+Business Intelligence  
+Eddie Kendralla | Vice President, Business Intelligence and Analytics
+---|---
+Jeff Ludwig | Senior Manager, Business Intelligence and Data Analytics
+Sarah Koontz | Senior Manager, Business Intelligence and CRM
+Jason Li | Senior Analyst, Business Intelligence
+Harold Baker | Analyst, CRM and Fan Insights

@@ -1,0 +1,25 @@
+# Pittsburgh December Events
+
+### [Event Name]: J. Robbins
+**Date & Time:** Dec 7, 2025 8:00 PM
+**Location:** Mr Small's Fun House
+**Link:** https://pittsburgh.events/tickets/j-robbins/  
+### [Event Name]: Chevy Chase
+**Date & Time:** Dec 9, 2025 7:00 PM
+**Location:** Capitol Theatre - Wheeling
+**Link:** https://pittsburgh.events/tickets/chevy-chase/  
+### [Event Name]: Pittsburgh Penguins
+**Date & Time:** Dec 9, 2025 7:00 PM
+**Location:** PPG Paints Arena
+**Link:** https://pittsburgh.events/tickets/pittsburgh-penguins/  
+### [Event Name]: Stella Cole
+**Date & Time:** Dec 9, 2025 7:30 PM
+**Location:** City Winery - Pittsburgh
+**Link:** https://pittsburgh.events/tickets/stella-cole/  
+### [Event Name]: Straight No Chaser
+**Date & Time:** Dec 9, 2025 7:30 PM
+**Location:** Benedum Center
+**Link:** https://pittsburgh.events/tickets/straight-no-chaser/  
+### [Event Name]: A Johnnyswim Christmas
+**Date & Time:** Dec 9, 2025 8:00 PM
+**Location:** Roxian Theatre

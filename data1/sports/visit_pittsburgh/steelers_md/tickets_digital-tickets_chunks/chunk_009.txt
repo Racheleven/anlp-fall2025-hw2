@@ -1,0 +1,9 @@
+# Mobile Ticketing | Pittsburgh Steelers - Steelers.com
+## SELL YOUR TICKETS
+
+##  SELL YOUR TICKETS  
+1\. Select the game you would like to sell and tap "Sell"  
+2\. Select the seats you wish to sell then tap "Set Price"  
+3\. Set the sale price per ticket then scroll down to "Payout Method"  
+4\. Select your payout method  
+5\. Confirm the information and click "List Tickets"

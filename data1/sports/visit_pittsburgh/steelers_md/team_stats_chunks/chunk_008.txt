@@ -1,0 +1,24 @@
+# Team Statistics
+## Defense
+
+##  Defense  
+###  Tackles  
+Player | TOTAL | SOLO | ASSIST | SCK | SFTY | F
+---|---|---|---|---|---|---
+Patrick Queen |  35  |  22  |  13  |  1  |  0  |  0
+Payton Wilson |  35  |  23  |  12  |  1  |  0  |  0
+Chuck Clark |  25  |  18  |  7  |  0  |  0  |  1
+Juan Thornhill |  25  |  14  |  11  |  0  |  0  |  0
+T.J. Watt |  19  |  10  |  9  |  3  |  0  |  1
+Darius Slay |  15  |  14  |  1  |  0  |  0  |  0
+Cameron Heyward |  14  |  8  |  6  |  1  |  0  |  1
+Jalen Ramsey |  14  |  8  |  6  |  0  |  0  |  0
+Jack Sawyer |  14  |  7  |  7  |  1  |  0  |  0
+DeShon Elliott |  12  |  9  |  3  |  1  |  0  |  1
+Brandin Echols |  11  |  9  |  2  |  0  |  0  |  0
+Cole Holcomb |  11  |  9  |  2  |  0  |  0  |  1
+Nick Herbig |  10  |  6  |  4  |  2.5  |  0  |  1
+Alex Highsmith |  9  |  6  |  3  |  1  |  0  |  0
+Keeanu Benton |  8  |  3  |  5  |  1.5  |  0  |  0
+Yahya Black |  7  |  2  |  5  |  0  |  0  |  0
+Ben Skowronek |  7  |  3  |  4  |  0  |  0  |  0

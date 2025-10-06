@@ -1,0 +1,16 @@
+# https://www.nhl.com/penguins/team/leaders-by-season
+
+76-77 | Pierre Larouche (6) | Pierre Larouche (8) | Syl Apps (2)
+75-76 | Syl Apps, Bob Kelly (4) | Pierre Larouche (18) | Lew Morrison, Jean Pronovost (2)
+74-75 | Jean Pronovost (9) | Jean Pronovost (11) | Vic Hadfield (4)
+73-74 | Al McDonough (4) | Lowell McDonald (9) | Syl Apps (4)
+72-73 | Jean Pronovost (5) | Greg Polis, Eddie Shack (8) | Ron Schock (3)
+71-72 | Bryan Hextall (5) | Greg Polis (8) | Ron Schock (2)
+70-71 | Andy Bathgate, Keith McCreary (3) | Andy Bathgate, Dean Prentice (7) | Ron Schock (2)
+69-70 | Ken Schinkel (5) | Dean Prentice (12) | Val Fonteyne, Ron Schock (1)
+68-69 | Keith McCreary (4) | Keith McCreary, Ken Schinkel (8) | Jean Pronovost, Bob Woytowich (2)
+67-68 | Andy Bathgate (4) | Ab McDonald (6) | Ab McDonald, Earl Ingarfield (1)
+Year | GW Goals | PP Goals | SH Goals  
+24-25 | Kris Letang (52) | Sidney Crosby (227) | Danton Heinen, Bokondji Imama (2)
+---|---|---|---
+23-24 | Evgeni Malkin (70) | Sidney Crosby (278) | Marcus Pettersson (28)

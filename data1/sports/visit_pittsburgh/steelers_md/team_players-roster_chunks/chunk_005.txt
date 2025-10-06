@@ -1,0 +1,19 @@
+# Steelers Player Roster | Pittsburgh Steelers - Steelers.com
+
+Mason Rudolph | 2 | QB | 6-5 | 235 | 30 | 8 | Oklahoma State
+Jack Sawyer | 33 | LB | 6-4 | 260 | 23 | R | Ohio State
+Isaac Seumalo | 73 | G | 6-4 | 303 | 31 | 10 | Oregon State
+Ben Skowronek | 15 | WR | 6-3 | 224 | 28 | 5 | Notre Dame
+Darius Slay | 23 | CB | 6-0 | 192 | 34 | 13 | Mississippi State
+Jonnu Smith | 81 | TE | 6-3 | 248 | 30 | 9 | Florida International
+Juan Thornhill | 22 | S | 6-0 | 205 | 29 | 7 | Virginia
+Corliss Waitman | 3 | P | 6-2 | 210 | 30 | 3 | South Alabama
+Jaylen Warren | 30 | RB | 5-8 | 215 | 26 | 4 | Oklahoma State
+Darnell Washington | 80 | TE | 6-7 | 264 | 24 | 3 | Georgia
+T.J. Watt | 90 | LB | 6-4 | 252 | 30 | 9 | Wisconsin
+Payton Wilson | 41 | LB | 6-4 | 242 | 25 | 2 | N.C. State
+Roman Wilson | 10 | WR | 5-10 | 186 | 24 | 2 | Michigan  
+#### Reserve/Injured  
+Reserve/Injured  Player | # | Pos | HT | WT | Age | Exp | College
+---|---|---|---|---|---|---|---
+Malik Harrison | 50 | LB | 6-3 | 247 | 27 | 6 | Ohio State

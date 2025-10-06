@@ -1,0 +1,28 @@
+# https://www.nhl.com/penguins/team/staff
+
+Darryl Belfry | Player Development Advisor
+Mike Chiasson | Goaltending Consultant
+Anders Lempia | Video Coordinator  
+Hockey Research and Development  
+Wells Oliver | Director, Hockey Systems
+---|---
+Mark Weinstein | Director, Data Science | Kevin Ferris | Lead Data Scientist
+Bennett Summy | Software Engineer
+Luke Zolyak | Software Engineer
+Cam Charron | Analyst
+Chace McCallum | Analyst
+Caleb PeÃ±a | Data Scientist  
+Performance  
+Rich Rotenberg | Director of Performance
+---|---
+Sachin Raina | Head Sports Scientist
+Patrick Magee | Lead Performance Coach
+Adam Douglas | Strength and Conditioning Coach
+Jason Martin | Strength and Conditioning Coach, Player Development
+Kourtney Gordon | Performance Dietician  
+Medical  
+Dr. Dharmesh Vyas, M.D. | Head Team Physician and Medical Director
+---|---
+Dr. Melissa McLane, D.O. | Assistant Team Physician
+Kevin Elliott | Head Athletic Trainer
+Jason Meehan | Director of Reconditioning and Performance Therapy

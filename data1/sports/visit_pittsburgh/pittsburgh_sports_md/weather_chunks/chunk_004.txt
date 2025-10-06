@@ -1,0 +1,11 @@
+## Average Temperatures & Precipitation by Month
+
+May| 73°F (23°C) / 51°F (11°C)| 10 Days
+June| 81°F (27°C) / 60°F (16°C)| 8 Days
+July| 85°F (29°C) / 65°F (18°C)| 8 Days
+August| 84°F (29°C) / 63°F (17°C)| 8 Days
+September| 78°F (26°C) / 56°F (13°C)| 7 Days
+October| 65°F (18°C) / 45°F (7°C)| 7 Days
+November| 53°F (12°C) / 35°F (2°C)| 7 Days
+December| 43°F (6°C) / 28°F (-2°C)| 8 Days  
+_Source:National Oceanic and Atmospheric Administration (NOAA)_

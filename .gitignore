@@ -1,1 +1,13 @@
-data1/
+# macOS system files
+.DS_Store
+
+# Cache directories
+cache/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore all Jupyter Notebook files
+*.ipynb

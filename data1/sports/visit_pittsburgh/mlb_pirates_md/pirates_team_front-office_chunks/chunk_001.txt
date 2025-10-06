@@ -1,0 +1,29 @@
+# FRONT OFFICE DIRECTORY
+
+# FRONT OFFICE DIRECTORY  
+### Executive  
+Title | Name
+---|---
+Chairman of the Board | Bob Nutting
+President | Travis Williams
+Executive Assistant, Team President | Phoebe Kristek  
+### Baseball Operations  
+##### CLUB EXECUTIVES  
+Title | Name
+---|---
+General Manager | Ben Cherington
+Senior Vice President - Assistant General Manager | Sarah Gelles
+Senior Vice President - Assistant General Manager | Kevan Graves
+Senior Vice President - Assistant General Manager | Steve Sanders
+Senior Vice President - Assistant General Manager | Bryan Stroh
+Vice President - Scouting | Joe DelliCarri
+Vice President - Strategy and Research | Dan Fox
+Vice President - Pro Evaluation and Strategy | Michael Voltmer
+Vice President - Player Personnel | Steve Williams
+Vice President - Research and Development | Kevin Tenenbaum
+Vice President - International Scouting | Max Kwan
+Vice President - Performance | John Baker  
+##### BASEBALL OPERATIONS  
+Title | Name
+---|---
+Director - Baseball Operations | Trey Rose

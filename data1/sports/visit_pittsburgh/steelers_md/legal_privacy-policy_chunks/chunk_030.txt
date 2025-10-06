@@ -1,0 +1,3 @@
+## **5\. Interest-Based Advertising**
+
+on the Services you use, the Services may also track your device's precise geolocation by responding to beacons or inaudible signals sent to your device's microphone. This is typically done based on uniquely identifying your browser and internet device.

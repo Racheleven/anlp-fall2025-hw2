@@ -1,0 +1,15 @@
+# https://www.nhl.com/penguins/team/leaders-by-season
+
+10-11 | Jordan Staal (4) | Sidney Crosby (10) | Pascal Dupuis (4)
+09-10 | Evgeni Malkin (7) | Sidney Crosby, Evgeni Malkin (13) | Sidney Crosby, Evgeni Malkin, Jordan Staal (2)
+08-09 | Petr Sykora (10) | Evgeni Malkin (14) | Evgeni Malkin, Maxime Talbot (2)
+07-08 | Ryan Malone (6) | Evgeni Malkin (17) | Ryan Malone (2)
+06-07 | Evgeni Malkin (6) | Evgeni Malkin (16) | Jordan Staal (7)
+05-06 | Sidney Crosby (5) | Sidney Crosby (16) | Ryan Malone (5)
+04-05 | Lockout Season | Lockout Season | Lockout Season
+03-04 | Aleksey Morozov (5) | Dick Tarnstrom (12) | Ryan Malone (3)
+02-03 | Mario Lemiuex, Martin Straka (4) | Mario Lemieux (14) | Ville Nieminen (2)
+01-02 | Jan Hrdina (6) | Alexei Kovalev (8) | 5 players tied at (1)
+00-01 | Jaromir Jagr (10) | Mario Lemiuex (16) | Alexei Kovalev (2)
+99-00 | Jaromir Jagr, Robert Lang (5) | Robert Lang (13) | Alexei Kovalev (2)
+98-99 | Jaromir Jagr (7) | Jaromir Jagr (10) | Martin Straka (4)

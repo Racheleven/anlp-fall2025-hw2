@@ -1,0 +1,15 @@
+## Pirates Roster & Staff
+
+|  Andrew McCutchen 22 B/T: R/R Ht: 5' 10" Wt: 190 DOB: 10/10/1986 | R/R | 5' 10" | 190 | 10/10/1986
+|  Jack Suwinski 65 B/T: L/L Ht: 6' 1" Wt: 215 DOB: 07/29/1998 | L/L | 6' 1" | 215 | 07/29/1998
+|  Nick Yorke 38 B/T: R/R Ht: 6' 0" Wt: 210 DOB: 04/02/2002 | R/R | 6' 0" | 210 | 04/02/2002
+Center Field | B/T | Ht | Wt | DOB
+---|---|---|---|---
+|  Oneil Cruz 15 B/T: L/R Ht: 6' 7" Wt: 240 DOB: 10/04/1998 | L/R | 6' 7" | 240 | 10/04/1998
+|  Jack Suwinski 65 B/T: L/L Ht: 6' 1" Wt: 215 DOB: 07/29/1998 | L/L | 6' 1" | 215 | 07/29/1998
+|  Alexander Canario 29 B/T: R/R Ht: 6' 1" Wt: 215 DOB: 05/07/2000 | R/R | 6' 1" | 215 | 05/07/2000
+Right Field | B/T | Ht | Wt | DOB
+---|---|---|---|---
+|  Bryan Reynolds 10 B/T: S/R Ht: 6' 2" Wt: 205 DOB: 01/27/1995 | S/R | 6' 2" | 205 | 01/27/1995
+|  Alexander Canario 29 B/T: R/R Ht: 6' 1" Wt: 215 DOB: 05/07/2000 | R/R | 6' 1" | 215 | 05/07/2000
+|  Tommy Pham 28 B/T: R/R Ht: 6' 1" Wt: 225 DOB: 03/08/1988 | R/R | 6' 1" | 225 | 03/08/1988

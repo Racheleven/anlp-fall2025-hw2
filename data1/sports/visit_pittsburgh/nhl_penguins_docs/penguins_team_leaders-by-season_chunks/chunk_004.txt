@@ -1,0 +1,16 @@
+# https://www.nhl.com/penguins/team/leaders-by-season
+
+08-09 | Evgeni Malkin (35) | Evgeni Malkin (78) | Evgeni Malkin (113)
+07-08 | Evgeni Malkin (47) | Evgeni Malkin (59) | Evgeni Malkin (106)
+06-07 | Sidney Crosby (36) | Sidney Crosby (84) | Sidney Crosby (120)
+05-06 | Sidney Crosby (39) | Sidney Crosby (63) | Sidney Crosby (102)
+04-05 | Lockout Season | Lockout Season | Lockout Season
+03-04 | Ryan Malone (22) | Dick Tarnstrom (36) | Dick Tarnstrom (52)
+02-03 | Mario Lemieux (28) | Mario Lemieux (63) | Mario Lemieux (91)
+01-02 | Alexei Kovalev (32) | Alexei Kovalev (44) | Alexei Kovalev (76)
+00-01 | Jaromir Jagr (52) | Jaromir Jagr (69) | Jaromir Jagr (121)
+99-00 | Jaromir Jagr (42) | Jaromir Jagr (54) | Jaromir Jagr (96)
+98-99 | Jaromir Jagr (44) | Jaromir Jagr (83) | Jaromir Jagr (127)
+97-98 | Jaromir Jagr (35) | Jaromir Jagr (67) | Jaromir Jagr (102)
+96-97 | Mario Lemieux (50) | Mario Lemieux (72) | Mario Lemieux (122)
+95-96 | Mario Lemieux (69) | Mario Lemieux, Ron Francis (92) | Mario Lemieux (161)

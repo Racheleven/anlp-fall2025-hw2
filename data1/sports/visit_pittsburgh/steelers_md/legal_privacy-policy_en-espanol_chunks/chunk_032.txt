@@ -1,0 +1,3 @@
+## **4\. Cookies y tecnologÃas similares**
+
+* Cookies y tecnologÃas de rendimiento: permiten contar las visitas y las fuentes de trÃ¡fico para poder medir y mejorar el rendimiento de nuestros Servicios. Nos ayudan a saber quÃ© pÃ¡ginas son las mÃ¡s y las menos populares, y a ver cÃ³mo se mueven los visitantes a travÃ©s de los servicios. Si las desactiva, no sabremos cuÃ¡ndo ha visitado nuestros Servicios y no podremos supervisar su rendimiento.

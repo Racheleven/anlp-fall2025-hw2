@@ -1,0 +1,12 @@
+## Tournament Information
+
+- If a cornhole bag hits the ground then bounces up onto the board, that bag shall be taken off the playing surface.
+- The next round starts when the other cornhole player on the team, which has honors, throws their first cornhole bag.
+- The cornhole game continues until one team reaches 21 or more points.  
+**SCORING**
+- 3 points for a cornhole bag that goes through the hole.
+- 1 point for a cornhole bag that is on the playing surface.
+- 1 point for a cornhole bag that is hanging into the hole.
+- 1 point for a cornhole bag that is hanging off the edge but not touching the ground.
+- 0 points for a cornhole bag that is on the playing surface, but also touching the ground.
+- 0 points for a cornhole bag that is hanging off the front edge and is resting on a cornhole bag that is on the ground (unless the cornhole bag on the ground can be removed without making the hanging bag fall to the ground, then one point is given).

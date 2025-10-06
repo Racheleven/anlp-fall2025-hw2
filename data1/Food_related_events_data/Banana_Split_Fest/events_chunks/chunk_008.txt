@@ -1,0 +1,6 @@
+## Tournament Information
+
+- The cornhole team with the highest round score, adds the difference of the two scores to their game score.
+- The cornhole team who wins the round is given honors to throw first in the next round.
+- If both cornhole teams have the same round score then the game score stays the same and honors stays with the team who had it the previous round.  
+---

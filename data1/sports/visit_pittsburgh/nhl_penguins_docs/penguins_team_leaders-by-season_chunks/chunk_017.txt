@@ -1,0 +1,17 @@
+# https://www.nhl.com/penguins/team/leaders-by-season
+
+77-78 | Dave Schultz (378) | Jean Pronovost (219) | Pete Mahovlich (4)
+76-77 | Bob Kelly (115) | Rick Kehoe (250) | Bob Kelly (13)
+75-76 | Steve Durbano (161) | Pierre Larouche (319) | Dave Burrows (27)
+74-75 | Colin Campbell (172) | Jean Pronovost (275) | Barry Wilkins (29)
+73-74 | Steve Durbano (138) | Lowell McDonald (260) | Syl Apps (21)
+72-73 | Bryan Watson (179) | Al McDonough (284) | Lowell McDonald (37)
+71-72 | Bryan Watson (212) | Jean Pronovost (214) | Syl Apps (18)
+70-71 | Bryan Watson (133) | Jean Pronovost (225) | Wally Boyer (10)
+69-70 | Bryan Watson (189) | Ken Schinkel (225) | Bryan Watson (-1)
+68-69 | Dunc McCallum (81) | Ken Schinkel (225) | Gene Ubriaco (E)
+67-68 | Leo Boivin (74) | Andy Bathgate (293) | Paul Andrea (-2)
+Year | PIM | Shots | Plus/Minus  
+24-25 | Tristan Jarry(3.12) | Tristan Jarry (16) | Tristan Jarry (2)
+---|---|---|---
+23-24 | Tristan Jarry (2.91) | Tristan Jarry (19) | Tristan Jarry (6)

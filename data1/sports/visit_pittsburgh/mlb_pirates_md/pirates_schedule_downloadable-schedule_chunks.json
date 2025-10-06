@@ -1,0 +1,27 @@
+{
+  "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/mlb_pirates_md/pirates_schedule_downloadable-schedule.md",
+  "file_type": ".md",
+  "splitter_type": "markdown",
+  "total_chunks": 1,
+  "chunks": [
+    "# PIRATES DOWNLOADABLE SCHEDULE\n\n# PIRATES DOWNLOADABLE SCHEDULE  \n#### Don't miss a game. Download your Pirates calendar today!  \n### CSV File  \n**Pirates CSV Schedules**  \n* Download Full Season Schedule\n* Download Home Game Schedule\n* Download Away Game Schedule  \n**Downloading the CSV file**  \n1. Please Right-click (Windows) or Ctrl-click (Mac) to save the file to your Desktop.\n2. **When naming the file, be sure to append \".csv\" to the end of the file name.** For example, if you would like to name the schedule \"Baseball\", please save the file as \"Baseball.csv\".\n3. Save the file to a location that you will remember.  \n**Please note:** The CSV file will not automatically update game information\nas it changes/becomes available. To ensure the most up-to-date information,\nplease subscribe using the download at the top of the page."
+  ],
+  "chunks_info": [
+    {
+      "text": "# PIRATES DOWNLOADABLE SCHEDULE\n\n# PIRATES DOWNLOADABLE SCHEDULE  \n#### Don't miss a game. Download your Pirates calendar today!  \n### CSV File  \n**Pirates CSV Schedules**  \n* Download Full Season Schedule\n* Download Home Game Schedule\n* Download Away Game Schedule  \n**Downloading the CSV file**  \n1. Please Right-click (Windows) or Ctrl-click (Mac) to save the file to your Desktop.\n2. **When naming the file, be sure to append \".csv\" to the end of the file name.** For example, if you would like to name the schedule \"Baseball\", please save the file as \"Baseball.csv\".\n3. Save the file to a location that you will remember.  \n**Please note:** The CSV file will not automatically update game information\nas it changes/becomes available. To ensure the most up-to-date information,\nplease subscribe using the download at the top of the page.",
+      "metadata": {
+        "file_path": "/Users/racheleven/Desktop/graduate_courses/11-711/anlp-fall2025-hw2/data/sports/visit_pittsburgh/mlb_pirates_md/pirates_schedule_downloadable-schedule.md",
+        "file_type": ".md",
+        "splitter_type": "markdown",
+        "header_context": [
+          "# PIRATES DOWNLOADABLE SCHEDULE"
+        ],
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "original_metadata": {
+          "Header 1": "PIRATES DOWNLOADABLE SCHEDULE"
+        }
+      }
+    }
+  ]
+}

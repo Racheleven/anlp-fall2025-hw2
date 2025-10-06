@@ -1,0 +1,12 @@
+## Pittsburgh Penguins Cookie Policy
+
+**3.HOW CAN YOU CONTROL COOKIES?**  
+Strictly necessary cookies are necessary to provide the Websites to you.  
+You may manually delete the cookies on your device or configure the settings of your browser to activate, disable or delete cookies. Detailed instructions are provided by your browser. If you disable or delete cookies, however, you may have to manually adjust some preferences every time you visit the Websites and some services and functionalities may not work.  
+**4.WHICH SPECIFIC COOKIES DO THE PENGUIN PARTIES USE?**  
+We use the following cookies on the Websites:  
+(a)Strictly Necessary Functionality Cookies  
+**Company** |  **Purpose of cookies**
+---|---
+Click Dimensions (cuvid) |  ClickDimensions: Determines unique visitors to the Websites and for security.
+Click Dimensions (cusid) |  ClickDimensions: This cookie is used to establish and continue a user session with the site.

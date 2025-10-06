@@ -1,0 +1,32 @@
+* # Player  
+* # Team  
+Hitting  
+Pitching  
+Statcast  
+Reset Filters  
+2025  
+caret-down  
+Regular Season  
+caret-down  
+MLB  
+caret-down  
+Year to Date  
+caret-down  
+Select a Split  
+caret-down  
+Standard  
+Expanded  
+Statcast  
+TEAMTEAM| LEAGUELEAGUE| GG| ABAB| RR| HH| 2B2B| 3B3B| caret-upcaret-
+downHRcaret-upcaret-downHR| RBIRBI| BBBB| SOSO| SBSB| CSCS| AVGAVG| OBPOBP|
+SLGSLG| OPSOPS
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+1New York YankeesYankees1| AL| 162| 5471| 849| 1371| 255| 20| 274| 820|
+639| 1463| 134| 38| .251| .332| .455| .787
+2Los Angeles DodgersDodgers2| NL| 162| 5481| 825| 1384| 257| 21| 244| 791|
+580| 1353| 88| 25| .253| .327| .441| .768
+3Seattle MarinersMariners3| AL| 162| 5502| 766| 1345| 234| 9| 238| 734|
+544| 1446| 161| 37| .244| .320| .420| .740
+4Los Angeles AngelsAngels4| AL| 162| 5374| 673| 1209| 212| 17| 226| 649|
+484| 1627| 88| 27| .225| .298| .397| .695
+5New York MetsMets5| NL| 162| 5457| 766| 1359| 262| 19| 224| 746| 563|

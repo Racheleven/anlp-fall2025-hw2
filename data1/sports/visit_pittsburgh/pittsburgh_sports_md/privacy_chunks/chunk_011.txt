@@ -1,0 +1,4 @@
+## How does VisitPittsburgh use PII?
+
+Information that is automatically collected regarding your activities while visiting our Web Site is used to enhance your interactive experience during your visit. Use of this information helps us to better understand and immediately respond to your particular interests while you navigate our site. This information as well as demographic information derived from your registration and others may be aggregated and shared with associates and third parties, but only in aggregated form that does not contain any PII.  
+In addition, VisitPittsburgh uses information maintained about you, and other information obtained from your current and past activities to resolve disputes, troubleshoot problems and, if necessary, to enforce our rights. At times, VisitPittsburgh may review the information of multiple users to identify problems or to resolve disputes.
