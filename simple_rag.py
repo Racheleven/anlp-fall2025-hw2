@@ -1,5 +1,6 @@
 import json
 import os
+import argparse
 from pathlib import Path
 from typing import List, Dict, Tuple
 import numpy as np
@@ -9,6 +10,8 @@ from rank_bm25 import BM25Okapi
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import re
 from collections import Counter
+
+
 def normalize_answer(s: str) -> str:
     """Lower text and remove punctuation, articles and extra whitespace."""
     def remove_articles(text):
@@ -115,18 +118,62 @@ class SimpleRAG:
         print("Index built successfully!")
         return self
     
-    def search(self, query: str, top_k: int = 5, alpha: float = 0.5) -> List[Dict]:
+    def search(self, query: str, top_k: int = 5, strategy: str = "hybrid", alpha: float = 0.5) -> List[Dict]:
         """
-        Hybrid search with RRF fusion.
+        Search with configurable strategy.
         
         Args:
             query: Search query
             top_k: Number of results
-            alpha: Weight for dense (not used in RRF, kept for compatibility)
+            strategy: "dense", "sparse", or "hybrid"
+            alpha: Weight for dense in hybrid mode (not used in RRF)
             
         Returns:
             List of dicts with 'text', 'score', and 'metadata'
         """
+        if strategy == "dense":
+            return self._search_dense(query, top_k)
+        elif strategy == "sparse":
+            return self._search_sparse(query, top_k)
+        elif strategy == "hybrid":
+            return self._search_hybrid(query, top_k)
+        else:
+            raise ValueError(f"Unknown strategy: {strategy}. Use 'dense', 'sparse', or 'hybrid'")
+    
+    def _search_dense(self, query: str, top_k: int) -> List[Dict]:
+        """Dense (semantic) search only."""
+        query_emb = self.model.encode([query])
+        faiss.normalize_L2(query_emb)
+        scores, indices = self.faiss_index.search(query_emb, top_k)
+        
+        results = []
+        for idx, score in zip(indices[0], scores[0]):
+            results.append({
+                'text': self.chunks[idx],
+                'score': float(score),
+                'metadata': self.metadata[idx]
+            })
+        
+        return results
+    
+    def _search_sparse(self, query: str, top_k: int) -> List[Dict]:
+        """Sparse (BM25) search only."""
+        tokenized_query = query.lower().split()
+        scores = self.bm25.get_scores(tokenized_query)
+        top_indices = np.argsort(scores)[-top_k:][::-1]
+        
+        results = []
+        for idx in top_indices:
+            results.append({
+                'text': self.chunks[idx],
+                'score': float(scores[idx]),
+                'metadata': self.metadata[idx]
+            })
+        
+        return results
+    
+    def _search_hybrid(self, query: str, top_k: int) -> List[Dict]:
+        """Hybrid search with RRF fusion."""
         # Dense search
         query_emb = self.model.encode([query])
         faiss.normalize_L2(query_emb)
@@ -160,9 +207,9 @@ class SimpleRAG:
         
         return results
     
-    def retrieve(self, query: str, top_k: int = 5) -> str:
+    def retrieve(self, query: str, top_k: int = 5, strategy: str = "hybrid") -> str:
         """Retrieve and format context for RAG."""
-        results = self.search(query, top_k)
+        results = self.search(query, top_k, strategy=strategy)
         
         context = "\n\n".join([
             f"[Source: {r['metadata']['json_file']}]\n{r['text']}"
@@ -172,42 +219,93 @@ class SimpleRAG:
         return context
 
 
-# Main executionimport json
-import re
-import numpy as np
-from openai import OpenAI
+def parse_args():
+    """Parse command line arguments."""
+    parser = argparse.ArgumentParser(description='RAG System with Configurable Retrieval Strategy')
+    parser.add_argument(
+        '--strategy',
+        type=str,
+        default='hybrid',
+        choices=['dense', 'sparse', 'hybrid'],
+        help='Retrieval strategy: dense (semantic), sparse (BM25), or hybrid (RRF fusion)'
+    )
+    parser.add_argument(
+        '--json_dir',
+        type=str,
+        default='./crawl_chunks',
+        help='Directory containing JSON chunk files'
+    )
+    parser.add_argument(
+        '--jsonl_path',
+        type=str,
+        default='qa_pairs.jsonl',
+        help='Path to JSONL file with QA pairs'
+    )
+    parser.add_argument(
+        '--top_k',
+        type=int,
+        default=5,
+        help='Number of chunks to retrieve'
+    )
+    parser.add_argument(
+        '--model_name',
+        type=str,
+        default='all-MiniLM-L6-v2',
+        help='Sentence transformer model name'
+    )
+    parser.add_argument(
+        '--vllm_url',
+        type=str,
+        default='http://localhost:8000/v1',
+        help='vLLM server URL'
+    )
+    parser.add_argument(
+        '--llm_model',
+        type=str,
+        default='Qwen/Qwen2.5-32B-Instruct',
+        help='LLM model name for generation'
+    )
+    
+    return parser.parse_args()
+
 
 if __name__ == "__main__":
-    # Configuration
-    JSON_DIR = "./crawl_chunks"
+    from openai import OpenAI
+    
+    # Parse arguments
+    args = parse_args()
+    
+    print("\n" + "="*70)
+    print(f"RAG SYSTEM - Strategy: {args.strategy.upper()}")
+    print("="*70)
     
     # Initialize and build RAG
-    rag = SimpleRAG()
-    rag.load_documents(JSON_DIR)
+    rag = SimpleRAG(model_name=args.model_name)
+    rag.load_documents(args.json_dir)
     rag.build_index()
     
     # Initialize OpenAI client for vLLM
-    # 默认 vLLM 的 OpenAI 兼容服务运行在 http://localhost:8000/v1
     client = OpenAI(
-        api_key="EMPTY",  # vLLM 不需要真实的 API key
-        base_url="http://localhost:8000/v1"  # 修改为你的 vLLM 服务地址
+        api_key="EMPTY",
+        base_url=args.vllm_url
     )
     
-    model_name = "Qwen/Qwen2.5-32B-Instruct"  # 使用你 vLLM serve 时指定的模型名称
-    print(f"Using {model_name} for generation")
-    # 从 JSONL 读取问题
-    JSONL_PATH = "qa_pairs.jsonl"
+    print(f"Using {args.llm_model} for generation")
+    print(f"Retrieval strategy: {args.strategy}")
+    print(f"Top-K: {args.top_k}")
+    
+    # Load questions
     queries = []
     answers = []
-    with open(JSONL_PATH, "r", encoding="utf-8") as f:
+    with open(args.jsonl_path, "r", encoding="utf-8") as f:
         for line in f:
             data = json.loads(line.strip())
             queries.append(data["question"])
             answers.append(data["answers"][0])
     
-    print("\n" + "="*70)
-    print("RAG SYSTEM - SEARCH RESULTS")
-    print("="*70)
+    # print("\n" + "="*70)
+    # print("PROCESSING QUESTIONS")
+    # print("="*70)
     
     total = len(queries)
     exact_matches = 0
@@ -215,10 +313,13 @@ if __name__ == "__main__":
     recall_scores = []
 
     for idx, query in enumerate(queries):
-        print(f"==========={idx}================")
-        context = rag.retrieve(query, top_k=5)
+        # print(f"\n{'='*10} Question {idx+1}/{total} {'='*10}")
+        # print(f"Query: {query}")
+        
+        # Retrieve context with specified strategy
+        context = rag.retrieve(query, top_k=args.top_k, strategy=args.strategy)
 
-        # 准备 prompt
+        # Prepare prompt
         prompt = f"""You are a knowledgeable assistant.  
 Please answer the question below, you can refer to the provided context for answer.  
 Return only the final answer, wrapped in \\box{{}}.
@@ -232,33 +333,31 @@ Question:
 Answer:
 """
 
-        # 使用 OpenAI API 调用 vLLM
+        # Call vLLM API
         try:
             completion = client.chat.completions.create(
-                model=model_name,
+                model=args.llm_model,
                 messages=[
                     {"role": "user", "content": prompt}
                 ],
                 temperature=0.7,
-                max_tokens=2048,  # 根据需要调整
+                max_tokens=2048,
                 top_p=0.8,
             )
             
-            # 获取生成的内容
             content = completion.choices[0].message.content.strip()
             
         except Exception as e:
             print(f"Error calling vLLM API: {e}")
             content = ""
 
-        # 提取最终答案
+        # Extract final answer
         final_answer = content.strip()
-        # 尝试提取 \\box{} 中的内容
         box_match = re.search(r'\\box\{(.*?)\}', final_answer)
         if box_match:
             final_answer = box_match.group(1).strip()
 
-        # 计算指标
+        # Calculate metrics
         ground_truth = answers[idx]
         if ground_truth:
             em = exact_match_score(final_answer, ground_truth)
@@ -266,19 +365,21 @@ Answer:
             f1 = f1_score(final_answer, ground_truth)
             f1_scores.append(f1)
 
-            # 计算 answer recall
-            retrieved_texts = [r['text'] for r in rag.search(query, top_k=3)]
+            # Calculate answer recall
+            retrieved_texts = [r['text'] for r in rag.search(query, top_k=args.top_k, strategy=args.strategy)]
             recall = answer_recall(retrieved_texts, ground_truth)
             recall_scores.append(recall)
             
-            print(f"\nGround Truth: {ground_truth}")
-            print(f"Predicted Answer: {final_answer}")
+            # print(f"Ground Truth: {ground_truth}")
+            # print(f"Predicted: {final_answer}")
+            # print(f"EM: {em}, F1: {f1:.4f}, Recall: {recall}")
 
-    # 打印整体指标
+    # Print overall metrics
     if total > 0:
         print("\n" + "="*70)
         print("EVALUATION RESULTS")
         print("="*70)
+        print(f"Strategy: {args.strategy.upper()}")
         print(f"Total Questions: {total}")
         print(f"Exact Match Accuracy: {exact_matches / total:.4f}")
         if f1_scores:
