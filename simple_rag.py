@@ -271,59 +271,44 @@ def parse_args():
 
 if __name__ == "__main__":
     from openai import OpenAI
-    
-    # Parse arguments
+
     args = parse_args()
-    
+    strategies = ["dense", "sparse", "hybrid"]
+
     print("\n" + "="*70)
-    print(f"RAG SYSTEM - Strategy: {args.strategy.upper()}")
+    print("🚀 Starting Batch RAG Evaluation")
     print("="*70)
-    
-    # Initialize and build RAG
+    print(f"Dataset: {args.json_dir}")
+    print(f"QA file: {args.jsonl_path}\n")
+
     rag = SimpleRAG(model_name=args.model_name)
     rag.load_documents(args.json_dir)
     rag.build_index()
-    
-    # Initialize OpenAI client for vLLM
-    client = OpenAI(
-        api_key="ollama",
-        base_url=args.vllm_url
-    )
-    
-    print(f"Using {args.llm_model} for generation")
-    print(f"Retrieval strategy: {args.strategy}")
-    print(f"Top-K: {args.top_k}")
-    
-    # Load questions
-    queries = []
-    answers = []
+
+    client = OpenAI(api_key="ollama", base_url=args.vllm_url)
+
+    queries, answers = [], []
     with open(args.jsonl_path, "r", encoding="utf-8") as f:
         for line in f:
             data = json.loads(line.strip())
             queries.append(data["question"])
             answers.append(data["answers"][0])
-    
-    # print("\n" + "="*70)
-    # print("PROCESSING QUESTIONS")
-    # print("="*70)
-    
-    total = len(queries)
-    exact_matches = 0
-    f1_scores = []
-    recall_scores = []
 
-    recall_results = {5: [], 10: [], 20: []}
-    
-    for idx, query in enumerate(queries):
-        # print(f"\n{'='*10} Question {idx+1}/{total} {'='*10}")
-        # print(f"Query: {query}")
-        
-        # Retrieve context with specified strategy
-        context = rag.retrieve(query, top_k=args.top_k, strategy=args.strategy)
+    for strategy in strategies:
+        print("\n" + "="*70)
+        print(f"RAG SYSTEM - Strategy: {strategy.upper()}")
+        print("="*70)
 
-        # Prepare prompt
-        prompt = f"""You are a knowledgeable assistant.  
-Please answer the question below, you can refer to the provided context for answer.  
+        total = len(queries)
+        exact_matches = 0
+        f1_scores = []
+        recall_results = {5: [], 10: [], 20: []}
+
+        for idx, query in enumerate(queries):
+            context = rag.retrieve(query, top_k=args.top_k, strategy=strategy)
+
+            prompt = f"""You are a knowledgeable assistant.  
+Please answer the question below, referring to the provided context.
 Return only the final answer, wrapped in \\box{{}}.
 
 Context:
@@ -335,65 +320,44 @@ Question:
 Answer:
 """
 
-        # Call vLLM API
-        try:
-            completion = client.chat.completions.create(
-                model=args.llm_model,
-                messages=[
-                    {"role": "user", "content": prompt}
-                ],
-                temperature=0.7,
-                max_tokens=2048,
-                top_p=0.8,
-            )
-            
-            content = completion.choices[0].message.content.strip()
-            
-        except Exception as e:
-            print(f"Error calling vLLM/ollama API: {e}")
-            content = ""
-        # try:
-        #     print("⚠️ Skipping LLM call (no vLLM running).")
-        #     content = ""  
-        # except Exception as e:
-        #     content = ""
+            try:
+                completion = client.chat.completions.create(
+                    model=args.llm_model,
+                    messages=[{"role": "user", "content": prompt}],
+                    temperature=0.7,
+                    max_tokens=2048,
+                    top_p=0.8,
+                )
+                content = completion.choices[0].message.content.strip()
+            except Exception as e:
+                print(f"Error calling LLM API: {e}")
+                content = ""
 
-        # Extract final answer
-        final_answer = content.strip()
-        box_match = re.search(r'\\box\{(.*?)\}', final_answer)
-        if box_match:
-            final_answer = box_match.group(1).strip()
+            # Extract final answer
+            final_answer = content.strip()
+            box_match = re.search(r'\\box\{(.*?)\}', final_answer)
+            if box_match:
+                final_answer = box_match.group(1).strip()
 
-        # Calculate metrics
-        ground_truth = answers[idx]
-        if ground_truth:
-            em = exact_match_score(final_answer, ground_truth)
-            exact_matches += em
-            f1 = f1_score(final_answer, ground_truth)
-            f1_scores.append(f1)
+            # Compute metrics
+            ground_truth = answers[idx]
+            if ground_truth:
+                em = exact_match_score(final_answer, ground_truth)
+                exact_matches += em
+                f1 = f1_score(final_answer, ground_truth)
+                f1_scores.append(f1)
 
-            # Calculate answer recall
-            for k in recall_results.keys():
-                retrieved_texts = [r['text'] for r in rag.search(query, top_k=k, strategy=args.strategy)]
-                recall = answer_recall(retrieved_texts, ground_truth)
-                recall_results[k].append(recall)
-            # retrieved_texts = [r['text'] for r in rag.search(query, top_k=args.top_k, strategy=args.strategy)]
-            # recall = answer_recall(retrieved_texts, ground_truth)
-            # recall_scores.append(recall)
-            
-            # print(f"Ground Truth: {ground_truth}")
-            # print(f"Predicted: {final_answer}")
-            # print(f"EM: {em}, F1: {f1:.4f}, Recall: {recall}")
+                for k in recall_results.keys():
+                    retrieved_texts = [r['text'] for r in rag.search(query, top_k=k, strategy=strategy)]
+                    recall = answer_recall(retrieved_texts, ground_truth)
+                    recall_results[k].append(recall)
 
-    # Print overall metrics
-    if total > 0:
         print("\n" + "="*70)
-        print("EVALUATION RESULTS")
+        print("📊 EVALUATION RESULTS")
         print("="*70)
-        print(f"Strategy: {args.strategy.upper()}")
+        print(f"Strategy: {strategy.upper()}")
         print(f"Total Questions: {total}")
         print(f"Exact Match Accuracy: {exact_matches / total:.4f}")
-        if f1_scores:
-            print(f"Average F1 Score: {np.mean(f1_scores):.4f}")
+        print(f"Average F1 Score: {np.mean(f1_scores):.4f}")
         for k, scores in recall_results.items():
             print(f"Average Recall@{k}: {np.mean(scores):.4f}")
