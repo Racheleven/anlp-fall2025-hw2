@@ -1,0 +1,151 @@
+Using qwen2.5:7b for generation
+
+Retrieval strategy: hybrid
+Top-K: 5
+Chunk strategy: hybrid
+Total Questions: 151
+Exact Match Accuracy: 0.3245
+Average F1 Score: 0.5076
+Average Recall@5: 0.3709
+Average Recall@10: 0.4040
+Average Recall@20: 0.4305
+
+Retrieval strategy: sparse
+Top-K: 5
+Chunk strategy: hybrid
+Total Questions: 151
+Exact Match Accuracy: 0.3046
+Average F1 Score: 0.4685
+Average Recall@5: 0.3444
+Average Recall@10: 0.3775
+Average Recall@20: 0.3841
+
+Retrieval strategy: dense
+Top-K: 5
+Chunk strategy: hybrid
+Total Questions: 151
+Exact Match Accuracy: 0.2848
+Average F1 Score: 0.4521
+Average Recall@5: 0.3311
+Average Recall@10: 0.3709
+Average Recall@20: 0.3974
+
+Retrieval strategy: hybrid
+Top-K: 5
+Chunk Strategy: markdown
+Total Questions: 151
+Exact Match Accuracy: 0.3311
+Average F1 Score: 0.5202
+Average Recall@5: 0.3709
+Average Recall@10: 0.4040
+Average Recall@20: 0.4305
+
+Retrieval strategy: sparse
+Top-K: 5
+Chunk Strategy: markdown
+Total Questions: 151
+Exact Match Accuracy: 0.3179
+Average F1 Score: 0.4683
+Average Recall@5: 0.3444
+Average Recall@10: 0.3775
+Average Recall@20: 0.3841
+
+Retrieval strategy: dense
+Top-K: 5
+Chunk Strategy: markdown
+Total Questions: 151
+Exact Match Accuracy: 0.2848
+Average F1 Score: 0.4510
+Average Recall@5: 0.3311
+Average Recall@10: 0.3709
+Average Recall@20: 0.3974
+
+Retrieval strategy: hybrid
+Top-K: 5
+Chunk Strategy: naive
+Total Questions: 151
+Exact Match Accuracy: 0.3377
+Average F1 Score: 0.5238
+Average Recall@5: 0.3974
+Average Recall@10: 0.4172
+Average Recall@20: 0.4437
+
+Retrieval strategy: sparse
+Top-K: 5
+Chunk Strategy: naive
+Total Questions: 151
+Exact Match Accuracy: 0.3113
+Average F1 Score: 0.4746
+Average Recall@5: 0.3444
+Average Recall@10: 0.4040
+Average Recall@20: 0.4305
+
+Retrieval strategy: dense
+Top-K: 5
+Chunk Strategy: naive
+Total Questions: 151
+Exact Match Accuracy: 0.3046
+Average F1 Score: 0.4873
+Average Recall@5: 0.3444
+Average Recall@10: 0.3709
+Average Recall@20: 0.4172
+
+Retrieval strategy: hybrid
+Top-K: 5
+Chunk Strategy: paragraph
+Total Questions: 151
+Exact Match Accuracy: 0.1854
+Average F1 Score: 0.3350
+Average Recall@5: 0.2715
+Average Recall@10: 0.2914
+Average Recall@20: 0.3311
+
+Retrieval strategy: sparse
+Top-K: 5
+Chunk Strategy: paragraph
+Total Questions: 151
+Exact Match Accuracy: 0.1722
+Average F1 Score: 0.2592
+Average Recall@5: 0.2119
+Average Recall@10: 0.2384
+Average Recall@20: 0.2583
+
+Retrieval strategy: dense
+Top-K: 5
+Chunk Strategy: paragraph
+Total Questions: 151
+Exact Match Accuracy: 0.1258
+Average F1 Score: 0.2709
+Average Recall@5: 0.1987
+Average Recall@10: 0.2715
+Average Recall@20: 0.3311
+
+Retrieval strategy: hybrid
+Top-K: 5
+Chunk Strategy: sentence
+Total Questions: 151
+Exact Match Accuracy: 0.2980
+Average F1 Score: 0.4039
+Average Recall@5: 0.3245
+Average Recall@10: 0.3444
+Average Recall@20: 0.3642
+
+Retrieval strategy: sparse
+Top-K: 5
+Chunk Strategy: sentence
+Total Questions: 151
+Exact Match Accuracy: 0.2119
+Average F1 Score: 0.3221
+Average Recall@5: 0.2384
+Average Recall@10: 0.2781
+Average Recall@20: 0.3179
+
+Retrieval strategy: dense
+Top-K: 5
+Chunk Strategy: sentence
+Total Questions: 151
+Exact Match Accuracy: 0.2252
+Average F1 Score: 0.3481
+Average Recall@5: 0.2649
+Average Recall@10: 0.3113
+Average Recall@20: 0.3179
