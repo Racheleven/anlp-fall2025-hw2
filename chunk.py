@@ -9,23 +9,20 @@ from typing import List, Dict, Any
 
 
 class NaiveDocumentChunker:
-    def __init__(self, chunk_size: int = 1000, chunk_overlap: int = 200, strategy: str = "naive"):
+    def __init__(self, chunk_size: int = 1000, chunk_overlap: int = 200,
+                 strategy: str = "naive", txt_strategy: str = "paragraph"):
         """
-        A manually implemented document chunker with multiple strategies.
-
         Args:
             chunk_size: Maximum number of characters in each chunk.
             chunk_overlap: Number of overlapping characters between consecutive chunks.
-            strategy: Chunking strategy to use. Options:
-                    - "naive": fixed-length splitting
-                    - "markdown": split by markdown headers
-                    - "paragraph": split by paragraphs (double newlines)
-                    - "sentence": split by sentence punctuation
-                    - "hybrid": combine markdown and fixed-length
+            strategy: Chunking strategy for Markdown and general processing ("naive", "markdown", "paragraph", "sentence", "hybrid")
+            txt_strategy: Strategy for .txt files in hybrid mode ("naive" or "paragraph")
         """
         self.chunk_size = chunk_size
         self.chunk_overlap = chunk_overlap
         self.strategy = strategy.lower()
+        self.txt_strategy = txt_strategy.lower()
+
 
     def _split_text_naive(self, text: str) -> List[str]:
         """
@@ -180,62 +177,92 @@ class NaiveDocumentChunker:
                 },
             })
         return chunks
-
     def process_file(self, file_path: str) -> Dict[str, Any]:
-        """Process a single file according to selected strategy."""
-        try:
-            with open(file_path, "r", encoding="utf-8") as f:
-                content = f.read()
-        except UnicodeDecodeError:
-            with open(file_path, "r", encoding="latin-1") as f:
-                content = f.read()
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    content = f.read()
+            except UnicodeDecodeError:
+                with open(file_path, "r", encoding="latin-1") as f:
+                    content = f.read()
 
-        ext = Path(file_path).suffix.lower()
+            ext = Path(file_path).suffix.lower()
 
-        if self.strategy == "markdown" and ext == ".md":
-            chunks_info = self.process_markdown_file(file_path, content)
-            splitter_type = "markdown"
-        elif self.strategy == "paragraph":
-            paragraph_chunks = self._split_by_paragraph(content)
-            chunks_info = [
-                {
-                    "text": chunk_text,
-                    "metadata": {
-                        "file_path": file_path,
-                        "file_type": ext,
-                        "splitter_type": "paragraph",
-                        "chunk_index": i,
-                        "overlap_size": self.chunk_overlap
-                    },
-                }
-                for i, chunk_text in enumerate(paragraph_chunks)
-            ]
-            splitter_type = "paragraph"
+            # Markdown hybrid
+            if self.strategy in ["markdown", "hybrid"] and ext == ".md":
+                chunks_info = self.process_markdown_file(file_path, content)
+                splitter_type = "hybrid" if self.strategy == "hybrid" else "markdown"
 
-        elif self.strategy == "sentence":
-            sentences = self._split_by_sentence(content)
-            chunks_info = [
-                {"text": s, "metadata": {"file_path": file_path, "file_type": ext, "splitter_type": "sentence"}}
-                for s in sentences
-            ]
-            splitter_type = "sentence"
-        elif self.strategy == "hybrid" and ext == ".md":
-            # hybrid = markdown first, then naive on long sections
-            chunks_info = self.process_markdown_file(file_path, content)
-            splitter_type = "hybrid"
-        else:
-            chunks_info = self.process_text_file(file_path, content)
-            splitter_type = "naive"
+            # TXT in hybrid mode or paragraph mode
+            elif ext == ".txt" and (self.strategy == "paragraph" or self.strategy == "hybrid"):
+                if self.strategy == "paragraph" or self.txt_strategy == "paragraph":
+                    # paragraph-based
+                    paragraph_chunks = self._split_by_paragraph(content)
+                    chunks_info = [
+                        {
+                            "text": chunk_text,
+                            "metadata": {
+                                "file_path": file_path,
+                                "file_type": ext,
+                                "splitter_type": "paragraph",
+                                "chunk_index": i,
+                                "overlap_size": self.chunk_overlap
+                            },
+                        }
+                        for i, chunk_text in enumerate(paragraph_chunks)
+                    ]
+                else:
+                    # naive fixed-length
+                    naive_chunks = self._split_text_naive(content)
+                    chunks_info = [
+                        {
+                            "text": chunk_text,
+                            "metadata": {
+                                "file_path": file_path,
+                                "file_type": ext,
+                                "splitter_type": "naive",
+                                "chunk_index": i,
+                                "sub_chunk_index": 0,
+                            },
+                        }
+                        for i, chunk_text in enumerate(naive_chunks)
+                    ]
+                splitter_type = f"txt_{self.txt_strategy}"
 
-        return {
-            "file_path": file_path,
-            "file_type": ext,
-            "splitter_type": splitter_type,
-            "total_chunks": len(chunks_info),
-            "chunks": [c["text"] for c in chunks_info],
-            "chunks_info": chunks_info,
-        }
+            # sentence mode
+            elif self.strategy == "sentence":
+                sentences = self._split_by_sentence(content)
+                chunks_info = [
+                    {"text": s, "metadata": {"file_path": file_path, "file_type": ext, "splitter_type": "sentence"}}
+                    for s in sentences
+                ]
+                splitter_type = "sentence"
 
+            # fallback naive
+            else:
+                naive_chunks = self._split_text_naive(content)
+                chunks_info = [
+                    {
+                        "text": chunk_text,
+                        "metadata": {
+                            "file_path": file_path,
+                            "file_type": ext,
+                            "splitter_type": "naive",
+                            "chunk_index": i,
+                            "sub_chunk_index": 0,
+                        },
+                    }
+                    for i, chunk_text in enumerate(naive_chunks)
+                ]
+                splitter_type = "naive"
+
+            return {
+                "file_path": file_path,
+                "file_type": ext,
+                "splitter_type": splitter_type,
+                "total_chunks": len(chunks_info),
+                "chunks": [c["text"] for c in chunks_info],
+                "chunks_info": chunks_info,
+            }
     
     def save_to_json(self, result: Dict[str, Any], output_dir: str):
         """
