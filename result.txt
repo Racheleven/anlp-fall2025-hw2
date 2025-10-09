@@ -4,68 +4,68 @@ Retrieval strategy: hybrid
 Top-K: 5
 Chunk strategy: hybrid
 Total Questions: 151
-Exact Match Accuracy: 0.3245
-Average F1 Score: 0.5076
-Average Recall@5: 0.3709
-Average Recall@10: 0.4040
-Average Recall@20: 0.4305
+Exact Match Accuracy: 0.3377
+Average F1 Score: 0.5225
+Average Recall@5: 0.3907
+Average Recall@10: 0.4238
+Average Recall@20: 0.4437
 
 Retrieval strategy: sparse
 Top-K: 5
 Chunk strategy: hybrid
 Total Questions: 151
-Exact Match Accuracy: 0.3046
-Average F1 Score: 0.4685
-Average Recall@5: 0.3444
-Average Recall@10: 0.3775
-Average Recall@20: 0.3841
+Exact Match Accuracy: 0.3377
+Average F1 Score: 0.4917
+Average Recall@5: 0.3642
+Average Recall@10: 0.4172
+Average Recall@20: 0.4238
 
 Retrieval strategy: dense
 Top-K: 5
 Chunk strategy: hybrid
 Total Questions: 151
-Exact Match Accuracy: 0.2848
-Average F1 Score: 0.4521
+Exact Match Accuracy: 0.2781
+Average F1 Score: 0.4649
 Average Recall@5: 0.3311
-Average Recall@10: 0.3709
-Average Recall@20: 0.3974
+Average Recall@10: 0.3642
+Average Recall@20: 0.3907
 
 Retrieval strategy: hybrid
 Top-K: 5
 Chunk Strategy: markdown
 Total Questions: 151
-Exact Match Accuracy: 0.3311
-Average F1 Score: 0.5202
-Average Recall@5: 0.3709
-Average Recall@10: 0.4040
-Average Recall@20: 0.4305
+Exact Match Accuracy: 0.3377
+Average F1 Score: 0.5315
+Average Recall@5: 0.3907
+Average Recall@10: 0.4238
+Average Recall@20: 0.4437
 
 Retrieval strategy: sparse
 Top-K: 5
 Chunk Strategy: markdown
 Total Questions: 151
-Exact Match Accuracy: 0.3179
-Average F1 Score: 0.4683
-Average Recall@5: 0.3444
-Average Recall@10: 0.3775
-Average Recall@20: 0.3841
+Exact Match Accuracy: 0.3245
+Average F1 Score: 0.4935
+Average Recall@5: 0.3642
+Average Recall@10: 0.4172
+Average Recall@20: 0.4238
 
 Retrieval strategy: dense
 Top-K: 5
 Chunk Strategy: markdown
 Total Questions: 151
-Exact Match Accuracy: 0.2848
-Average F1 Score: 0.4510
+Exact Match Accuracy: 0.2914
+Average F1 Score: 0.4627
 Average Recall@5: 0.3311
-Average Recall@10: 0.3709
-Average Recall@20: 0.3974
+Average Recall@10: 0.3642
+Average Recall@20: 0.3907
 
 Retrieval strategy: hybrid
 Top-K: 5
 Chunk Strategy: naive
 Total Questions: 151
-Exact Match Accuracy: 0.3377
-Average F1 Score: 0.5238
+Exact Match Accuracy: 0.3444
+Average F1 Score: 0.5223
 Average Recall@5: 0.3974
 Average Recall@10: 0.4172
 Average Recall@20: 0.4437
@@ -74,8 +74,8 @@ Retrieval strategy: sparse
 Top-K: 5
 Chunk Strategy: naive
 Total Questions: 151
-Exact Match Accuracy: 0.3113
-Average F1 Score: 0.4746
+Exact Match Accuracy: 0.2980
+Average F1 Score: 0.4588
 Average Recall@5: 0.3444
 Average Recall@10: 0.4040
 Average Recall@20: 0.4305
@@ -84,8 +84,8 @@ Retrieval strategy: dense
 Top-K: 5
 Chunk Strategy: naive
 Total Questions: 151
-Exact Match Accuracy: 0.3046
-Average F1 Score: 0.4873
+Exact Match Accuracy: 0.2980
+Average F1 Score: 0.4748
 Average Recall@5: 0.3444
 Average Recall@10: 0.3709
 Average Recall@20: 0.4172
