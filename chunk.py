@@ -43,9 +43,10 @@ class NaiveDocumentChunker:
 
     def _split_markdown_by_headers(self, content: str) -> List[Dict[str, Any]]:
         """
-        Split Markdown content based on headers (#, ##, etc.).
+        Split Markdown content based on only level-1 (#) and level-2 (##) headers.
+        Lower-level headers (### and below) are kept within the same section.
         """
-        pattern = re.compile(r'^(#+)\s+(.*)', re.MULTILINE)
+        pattern = re.compile(r'^(#{1,2})\s+(.*)', re.MULTILINE)
         matches = list(pattern.finditer(content))
 
         if not matches:
@@ -58,8 +59,14 @@ class NaiveDocumentChunker:
             start_pos = match.end()
             end_pos = matches[i + 1].start() if i + 1 < len(matches) else len(content)
             section_text = content[start_pos:end_pos].strip()
-            sections.append({'headers': [(header_level, header_text)], 'text': section_text})
+
+            sections.append({
+                'headers': [(header_level, header_text)],
+                'text': section_text
+            })
+
         return sections
+
 
     def _split_by_paragraph(self, text: str) -> List[str]:
         """Split text into paragraphs by blank lines."""
@@ -256,7 +263,7 @@ if __name__ == "__main__":
     input_dir = r"D:\code_VScode_Python\11711\anlp-fall2025-hw2\anlp-fall2025-hw2\data\all_output"
     output_dir = r"D:\code_VScode_Python\11711\anlp-fall2025-hw2\data\crawl_chunks"
 
-    chunker = NaiveDocumentChunker(chunk_size=1000, chunk_overlap=200,strategy="sentence")
+    chunker = NaiveDocumentChunker(chunk_size=1000, chunk_overlap=200,strategy="paragraph")
     print(f"Starting naive chunking for: {input_dir}")
     chunker.process_directory(input_dir, output_dir)
     print("✅ Chunking completed.")
