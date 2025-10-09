@@ -307,24 +307,42 @@ if __name__ == "__main__":
         for idx, query in enumerate(queries):
             context = rag.retrieve(query, top_k=args.top_k, strategy=strategy)
 
-            prompt = f"""You are a knowledgeable assistant.  
-Please answer the question below, referring to the provided context.
-Return only the final answer, wrapped in \\box{{}}.
+            prompt = f"""You are a factual QA assistant with deep knowledge of Carnegie Mellon University (CMU) and Pittsburgh.  
+            Using the retrieved context and the user’s query, provide an accurate, fact-based answer.
 
-Context:
-{context}
+            <input>
+            Retrieved context:
+            {context}
 
-Question:
-{query}
+            User query:
+            {query}
+            </input>
 
-Answer:
-"""
+            <instruction>
+            - If the answer is explicitly mentioned in the context, stay strictly faithful to it.  
+            - If the context does not contain the answer, respond based on your own reliable knowledge.  
+            - Keep your response concise and factual, without unnecessary explanations.  
+            - Return **only** the final answer, wrapped in \\box{{}}.
+            </instruction>
+
+            <output example>
+            \\box{{1900}}
+            </output example>
+
+            <output format>
+            \\box{{}}.
+            </output format>
+
+            Now generate your answer:
+            """ 
+
+
 
             try:
                 completion = client.chat.completions.create(
                     model=args.llm_model,
                     messages=[{"role": "user", "content": prompt}],
-                    temperature=0.7,
+                    temperature=0.1,
                     max_tokens=2048,
                     top_p=0.8,
                 )
