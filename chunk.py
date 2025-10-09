@@ -69,9 +69,33 @@ class NaiveDocumentChunker:
 
 
     def _split_by_paragraph(self, text: str) -> List[str]:
-        """Split text into paragraphs by blank lines."""
+        """
+        Split text into paragraphs by blank lines, with optional overlap.
+        If chunk_overlap > 0, the end of the previous paragraph will be appended
+        to the next chunk to maintain continuity.
+        """
         paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
-        return paragraphs
+        if not paragraphs:
+            return []
+
+        
+        if self.chunk_overlap <= 0:
+            return paragraphs
+
+        chunks = []
+        prev_tail = ""
+        for i, paragraph in enumerate(paragraphs):
+            if prev_tail:
+                combined = prev_tail + "\n\n" + paragraph
+            else:
+                combined = paragraph
+
+            chunks.append(combined.strip())
+
+            prev_tail = paragraph[-self.chunk_overlap:] if len(paragraph) > self.chunk_overlap else paragraph
+
+        return chunks
+
 
     def _split_by_sentence(self, text: str) -> List[str]:
         """Split text into sentences by punctuation marks."""
@@ -172,12 +196,22 @@ class NaiveDocumentChunker:
             chunks_info = self.process_markdown_file(file_path, content)
             splitter_type = "markdown"
         elif self.strategy == "paragraph":
-            paragraphs = self._split_by_paragraph(content)
+            paragraph_chunks = self._split_by_paragraph(content)
             chunks_info = [
-                {"text": p, "metadata": {"file_path": file_path, "file_type": ext, "splitter_type": "paragraph"}}
-                for p in paragraphs
+                {
+                    "text": chunk_text,
+                    "metadata": {
+                        "file_path": file_path,
+                        "file_type": ext,
+                        "splitter_type": "paragraph",
+                        "chunk_index": i,
+                        "overlap_size": self.chunk_overlap
+                    },
+                }
+                for i, chunk_text in enumerate(paragraph_chunks)
             ]
             splitter_type = "paragraph"
+
         elif self.strategy == "sentence":
             sentences = self._split_by_sentence(content)
             chunks_info = [
