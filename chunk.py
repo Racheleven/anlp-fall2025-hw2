@@ -10,7 +10,7 @@ from typing import List, Dict, Any
 
 class NaiveDocumentChunker:
     def __init__(self, chunk_size: int = 1000, chunk_overlap: int = 200,
-                 strategy: str = "naive", txt_strategy: str = "paragraph"):
+                strategy: str = "naive", txt_strategy: str = "paragraph"):
         """
         Args:
             chunk_size: Maximum number of characters in each chunk.
@@ -286,7 +286,7 @@ class NaiveDocumentChunker:
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(slim_result, f, ensure_ascii=False, indent=2)
 
-        print(f"✅ [{self.strategy}] Saved JSON file: {output_path}")
+        print(f"[{self.strategy}] Saved JSON file: {output_path}")
 
 
     def process_directory(self, input_dir: str, output_dir: str):
@@ -327,4 +327,4 @@ if __name__ == "__main__":
     chunker = NaiveDocumentChunker(chunk_size=1000, chunk_overlap=200,strategy="paragraph")
     print(f"Starting naive chunking for: {input_dir}")
     chunker.process_directory(input_dir, output_dir)
-    print("✅ Chunking completed.")
+    print("Chunking completed.")
