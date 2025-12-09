@@ -1,0 +1,28 @@
+{
+  "fixed_model_undercover": false,
+  "default_model": {
+    "api_key": "sk-5xFBXEPO4--OrbIPV3yU8A",
+    "base_url": "https://ai-gateway.andrew.cmu.edu",
+    "model": "gpt-5-mini",
+    "temperature": 0.7,
+    "max_tokens": null,
+    "timeout": 60.0
+  },
+  "undercover_model": {
+    "api_key": "sk-amcjzxomyzuispivnvvtgszrnxijmxpkmewbvlviffgborlg",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "model": "Qwen/Qwen2.5-14B-Instruct",
+    "temperature": 0.7,
+    "max_tokens": null,
+    "timeout": 60.0
+  },
+  "civilian_model": {
+    "api_key": "sk-amcjzxomyzuispivnvvtgszrnxijmxpkmewbvlviffgborlg",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "temperature": 0.7,
+    "max_tokens": null,
+    "timeout": 60.0
+  }
+}
+

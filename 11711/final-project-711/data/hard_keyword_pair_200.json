@@ -1,0 +1,802 @@
+[
+    [
+        "Car",
+        "Automobile"
+    ],
+    [
+        "Doctor",
+        "Physician"
+    ],
+    [
+        "Lawyer",
+        "Attorney"
+    ],
+    [
+        "Sunscreen",
+        "Sunblock"
+    ],
+    [
+        "Beef Jerky",
+        "Pork Jerky"
+    ],
+    [
+        "Raisin",
+        "Dried Grape"
+    ],
+    [
+        "Steak",
+        "Beef Steak"
+    ],
+    [
+        "Singer",
+        "Vocalist"
+    ],
+    [
+        "Magma",
+        "Lava"
+    ],
+    [
+        "Highway",
+        "Freeway"
+    ],
+    [
+        "Body Cream",
+        "Body Lotion"
+    ],
+    [
+        "Island",
+        "Islet"
+    ],
+    [
+        "Belief",
+        "Faith"
+    ],
+    [
+        "Worker",
+        "Employee"
+    ],
+    [
+        "Headphones",
+        "Earphones"
+    ],
+    [
+        "Calm",
+        "Peace"
+    ],
+    [
+        "Door",
+        "Gate"
+    ],
+    [
+        "Antibody",
+        "Antigen"
+    ],
+    [
+        "Chocolate",
+        "Cocoa"
+    ],
+    [
+        "Paper Cup",
+        "Plastic Cup"
+    ],
+    [
+        "Camera",
+        "Video Camera"
+    ],
+    [
+        "Courage",
+        "Bravery"
+    ],
+    [
+        "Lion",
+        "Panthera Leo"
+    ],
+    [
+        "Scarf",
+        "Shawl"
+    ],
+    [
+        "Galaxy Cluster",
+        "Supercluster"
+    ],
+    [
+        "Sea",
+        "Ocean"
+    ],
+    [
+        "Cup",
+        "Teacup"
+    ],
+    [
+        "City",
+        "Metropolis"
+    ],
+    [
+        "Bracelet",
+        "Bangle"
+    ],
+    [
+        "Pilot",
+        "Aviator"
+    ],
+    [
+        "Writer",
+        "Author"
+    ],
+    [
+        "Potato",
+        "Sweet Potato"
+    ],
+    [
+        "Taxi",
+        "Cab"
+    ],
+    [
+        "Fridge",
+        "Freezer"
+    ],
+    [
+        "Anger",
+        "Rage"
+    ],
+    [
+        "Sashimi",
+        "Sushi"
+    ],
+    [
+        "Jacket",
+        "Coat"
+    ],
+    [
+        "Socks",
+        "Shoes"
+    ],
+    [
+        "Thermos Cup",
+        "Insulation Bottle"
+    ],
+    [
+        "Coat",
+        "Jacket"
+    ],
+    [
+        "Pen",
+        "Pencil"
+    ],
+    [
+        "Fish Fillet",
+        "Chicken Fillet"
+    ],
+    [
+        "Lamb Stew",
+        "Beef Stew"
+    ],
+    [
+        "Watch",
+        "Clock"
+    ],
+    [
+        "Umbrella",
+        "Parasol"
+    ],
+    [
+        "Myth",
+        "Legend"
+    ],
+    [
+        "Pasta",
+        "Spaghetti"
+    ],
+    [
+        "Shrimp Roll",
+        "Crab Roll"
+    ],
+    [
+        "Geology",
+        "Geomorphology"
+    ],
+    [
+        "Tea",
+        "Herbal Tea"
+    ],
+    [
+        "Road",
+        "Highway"
+    ],
+    [
+        "Soup",
+        "Broth"
+    ],
+    [
+        "Scientist",
+        "Researcher"
+    ],
+    [
+        "Laptop",
+        "Tablet"
+    ],
+    [
+        "Boat",
+        "Ship"
+    ],
+    [
+        "Emotion",
+        "Feeling"
+    ],
+    [
+        "Salt",
+        "Sea Salt"
+    ],
+    [
+        "Ethics",
+        "Morality"
+    ],
+    [
+        "Cheeseburger",
+        "Hamburger"
+    ],
+    [
+        "Glass Cup",
+        "Ceramic Cup"
+    ],
+    [
+        "Clock",
+        "Alarm Clock"
+    ],
+    [
+        "Cup",
+        "Mug"
+    ],
+    [
+        "Pear",
+        "Asian Pear"
+    ],
+    [
+        "Coffee",
+        "Espresso"
+    ],
+    [
+        "Inflation",
+        "Deflation"
+    ],
+    [
+        "Hill",
+        "Mountain"
+    ],
+    [
+        "Pillow",
+        "Cushion"
+    ],
+    [
+        "Pants",
+        "Shorts"
+    ],
+    [
+        "Sesame Sauce",
+        "Peanut Sauce"
+    ],
+    [
+        "Velocity",
+        "Acceleration"
+    ],
+    [
+        "Cookies",
+        "Cake"
+    ],
+    [
+        "Calendar",
+        "Planner"
+    ],
+    [
+        "White Wine",
+        "Red Wine"
+    ],
+    [
+        "Fork",
+        "Knife"
+    ],
+    [
+        "Perception",
+        "Sensation"
+    ],
+    [
+        "Train",
+        "Railcar"
+    ],
+    [
+        "Toothpaste",
+        "Tooth Powder"
+    ],
+    [
+        "Hair Gel",
+        "Hair Wax"
+    ],
+    [
+        "Pineapple Juice",
+        "Orange Juice"
+    ],
+    [
+        "Boots",
+        "Snow Boots"
+    ],
+    [
+        "Soda",
+        "Fruit Soda"
+    ],
+    [
+        "Mop",
+        "Broom"
+    ],
+    [
+        "Sofa",
+        "Couch"
+    ],
+    [
+        "Scissors",
+        "Shears"
+    ],
+    [
+        "Sunglasses",
+        "Glasses"
+    ],
+    [
+        "Soda",
+        "Cola"
+    ],
+    [
+        "Ladder",
+        "Stairs"
+    ],
+    [
+        "Trousers",
+        "Pants"
+    ],
+    [
+        "Chaos",
+        "Disorder"
+    ],
+    [
+        "Cheese",
+        "Cream Cheese"
+    ],
+    [
+        "Blanket",
+        "Quilt"
+    ],
+    [
+        "Tofu",
+        "Bean Curd"
+    ],
+    [
+        "Car",
+        "Truck"
+    ],
+    [
+        "Rice Milk",
+        "Soy Milk"
+    ],
+    [
+        "Broom",
+        "Mop"
+    ],
+    [
+        "Suitcase",
+        "Backpack"
+    ],
+    [
+        "Sugar",
+        "Sweetener"
+    ],
+    [
+        "Singer",
+        "Performer"
+    ],
+    [
+        "Iced Coffee",
+        "Cold Brew"
+    ],
+    [
+        "Sofa",
+        "Chair"
+    ],
+    [
+        "Carpet",
+        "Rug"
+    ],
+    [
+        "Bridge",
+        "Overpass"
+    ],
+    [
+        "Skill",
+        "Ability"
+    ],
+    [
+        "Latte",
+        "Cappuccino"
+    ],
+    [
+        "Hat",
+        "Cap"
+    ],
+    [
+        "Shrimp",
+        "Prawn"
+    ],
+    [
+        "Helmet",
+        "Hard Hat"
+    ],
+    [
+        "Turtle",
+        "Tortoise"
+    ],
+    [
+        "Boat",
+        "Ship"
+    ],
+    [
+        "Cold Brew",
+        "Iced Coffee"
+    ],
+    [
+        "Village",
+        "Town"
+    ],
+    [
+        "Bread Knife",
+        "Knife"
+    ],
+    [
+        "Grape",
+        "Raisin"
+    ],
+    [
+        "Train",
+        "Tram"
+    ],
+    [
+        "Berry",
+        "Blueberry"
+    ],
+    [
+        "Orange Juice",
+        "Pineapple Juice"
+    ],
+    [
+        "Lemon",
+        "Lime"
+    ],
+    [
+        "Egg Tart",
+        "Custard Tart"
+    ],
+    [
+        "Truck",
+        "Van"
+    ],
+    [
+        "Novel",
+        "Fiction"
+    ],
+    [
+        "Pen",
+        "Marker"
+    ],
+    [
+        "Chair",
+        "Stool"
+    ],
+    [
+        "Cookie",
+        "Biscuit"
+    ],
+    [
+        "Love",
+        "Affection"
+    ],
+    [
+        "Backpack",
+        "Suitcase"
+    ],
+    [
+        "Shirt",
+        "Sweater"
+    ],
+    [
+        "Wallet",
+        "Purse"
+    ],
+    [
+        "Fruit Tea",
+        "Herbal Tea"
+    ],
+    [
+        "Corn Soup",
+        "Pumpkin Soup"
+    ],
+    [
+        "Printer",
+        "Scanner"
+    ],
+    [
+        "Engineer",
+        "Technician"
+    ],
+    [
+        "Fried Chicken",
+        "Roasted Chicken"
+    ],
+    [
+        "Knife",
+        "Fork"
+    ],
+    [
+        "Park",
+        "Playground"
+    ],
+    [
+        "Shrimp",
+        "Prawn"
+    ],
+    [
+        "Planet",
+        "Dwarf Planet"
+    ],
+    [
+        "Lipstick",
+        "Lip Balm"
+    ],
+    [
+        "Road",
+        "Route"
+    ],
+    [
+        "Leader",
+        "Manager"
+    ],
+    [
+        "Tomato Sauce",
+        "Hot Sauce"
+    ],
+    [
+        "Violin",
+        "Guitar"
+    ],
+    [
+        "Window",
+        "Door"
+    ],
+    [
+        "Artist",
+        "Painter"
+    ],
+    [
+        "Subway",
+        "Metro"
+    ],
+    [
+        "Wallet",
+        "Purse"
+    ],
+    [
+        "Pan",
+        "Pot"
+    ],
+    [
+        "Swimsuit",
+        "Diving Suit"
+    ],
+    [
+        "Confidence",
+        "Assurance"
+    ],
+    [
+        "Carpet",
+        "Mat"
+    ],
+    [
+        "Town",
+        "City"
+    ],
+    [
+        "Fear",
+        "Anxiety"
+    ],
+    [
+        "Banana",
+        "Apple"
+    ],
+    [
+        "Hand Soap",
+        "Foam Soap"
+    ],
+    [
+        "Herbal Tea",
+        "Tea"
+    ],
+    [
+        "Guitar",
+        "Violin"
+    ],
+    [
+        "Soy Milk",
+        "Rice Milk"
+    ],
+    [
+        "Car",
+        "Motorcycle"
+    ],
+    [
+        "Hate",
+        "Dislike"
+    ],
+    [
+        "Chair",
+        "Bench"
+    ],
+    [
+        "Tiger",
+        "Lion"
+    ],
+    [
+        "Lemon",
+        "Lime"
+    ],
+    [
+        "Train",
+        "Subway"
+    ],
+    [
+        "Electric Kettle",
+        "Thermal Kettle"
+    ],
+    [
+        "Irony",
+        "Sarcasm"
+    ],
+    [
+        "Shampoo",
+        "Soap"
+    ],
+    [
+        "River",
+        "Stream"
+    ],
+    [
+        "Snail",
+        "Slug"
+    ],
+    [
+        "Bicycle",
+        "Electric Bike"
+    ],
+    [
+        "Taxi",
+        "Bus"
+    ],
+    [
+        "Citrus",
+        "Lemon"
+    ],
+    [
+        "Dancer",
+        "Choreographer"
+    ],
+    [
+        "Lake",
+        "Lagoon"
+    ],
+    [
+        "Cookie",
+        "Chocolate"
+    ],
+    [
+        "Shirt",
+        "Jacket"
+    ],
+    [
+        "Chess",
+        "Checkers"
+    ],
+    [
+        "Tuxedo",
+        "Dinner Jacket"
+    ],
+    [
+        "Floss Pick",
+        "Toothpick"
+    ],
+    [
+        "Candle",
+        "Lamp"
+    ],
+    [
+        "Judge",
+        "Magistrate"
+    ],
+    [
+        "Road",
+        "Bridge"
+    ],
+    [
+        "Pasta",
+        "Lasagna"
+    ],
+    [
+        "Desk",
+        "Shelf"
+    ],
+    [
+        "Logic",
+        "Reason"
+    ],
+    [
+        "River",
+        "Stream"
+    ],
+    [
+        "Oil",
+        "Olive Oil"
+    ],
+    [
+        "Hospital",
+        "Clinic"
+    ],
+    [
+        "Spoon",
+        "Fork"
+    ],
+    [
+        "Bamboo Shoot",
+        "Bean Sprout"
+    ],
+    [
+        "Boat",
+        "Yacht"
+    ],
+    [
+        "Car",
+        "Motorcycle"
+    ],
+    [
+        "Ice Cream",
+        "Frozen Yogurt"
+    ],
+    [
+        "Salad",
+        "Coleslaw"
+    ],
+    [
+        "Spice",
+        "Herb"
+    ],
+    [
+        "Nebula",
+        "Star Cloud"
+    ],
+    [
+        "Sock",
+        "Stocking"
+    ],
+    [
+        "Rocket",
+        "Spacecraft"
+    ],
+    [
+        "Knife",
+        "Cleaver"
+    ],
+    [
+        "Train",
+        "Bus"
+    ],
+    [
+        "Hat",
+        "Helmet"
+    ],
+    [
+        "Car",
+        "SUV"
+    ]
+]

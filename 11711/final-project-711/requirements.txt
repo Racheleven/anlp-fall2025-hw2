@@ -1,0 +1,15 @@
+# Core LangChain and LangGraph dependencies
+langchain==1.0.5
+langchain-core==1.0.4
+langchain-openai==1.0.2
+langgraph==1.0.2
+
+# JSON repair utility
+json-repair==0.53.0
+
+# Environment variable management
+python-dotenv==1.2.1
+
+# Numerical computing (for evaluation metrics)
+numpy==2.2.5
+

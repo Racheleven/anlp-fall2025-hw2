@@ -1,0 +1,730 @@
+[
+    [
+        "bread",
+        "cake"
+    ],
+    [
+        "pineapple",
+        "mango"
+    ],
+    [
+        "cherry",
+        "blueberry"
+    ],
+    [
+        "noodle",
+        "pasta"
+    ],
+    [
+        "Zongzi",
+        "mooncake"
+    ],
+    [
+        "Macaron",
+        "cookie"
+    ],
+    [
+        "Pepper Powder",
+        "Mustard"
+    ],
+    [
+        "pear",
+        "peach"
+    ],
+    [
+        "rice",
+        "noodles"
+    ],
+    [
+        "steamed bun",
+        "dumpling"
+    ],
+    [
+        "dumpling",
+        "wonton"
+    ],
+    [
+        "cake",
+        "biscuit"
+    ],
+    [
+        "apple",
+        "pear"
+    ],
+    [
+        "tomato",
+        "potato"
+    ],
+    [
+        "carrot",
+        "pumpkin"
+    ],
+    [
+        "onion",
+        "garlic"
+    ],
+    [
+        "chicken",
+        "duck"
+    ],
+    [
+        "beef",
+        "mutton"
+    ],
+    [
+        "pork",
+        "ham"
+    ],
+    [
+        "fish",
+        "shrimp"
+    ],
+    [
+        "crab",
+        "shellfish"
+    ],
+    [
+        "milk",
+        "yogurt"
+    ],
+    [
+        "coffee",
+        "tea"
+    ],
+    [
+        "juice",
+        "soda"
+    ],
+    [
+        "chocolate",
+        "candy"
+    ],
+    [
+        "ketchup",
+        "chili sauce"
+    ],
+    [
+        "soy sauce",
+        "vinegar"
+    ],
+    [
+        "honey",
+        "syrup"
+    ],
+    [
+        "olive oil",
+        "canola oil"
+    ],
+    [
+        "yogurt",
+        "cheese"
+    ],
+    [
+        "wine",
+        "beer"
+    ],
+    [
+        "baijiu",
+        "whiskey"
+    ],
+    [
+        "green tea",
+        "black tea"
+    ],
+    [
+        "coffee",
+        "latte"
+    ],
+    [
+        "juice",
+        "jam"
+    ],
+    [
+        "chocolate",
+        "cocoa"
+    ],
+    [
+        "ice cream",
+        "sherbet"
+    ],
+    [
+        "pudding",
+        "jelly"
+    ],
+    [
+        "roast meat",
+        "roast chicken"
+    ],
+    [
+        "Peking duck",
+        "roast goose"
+    ],
+    [
+        "sushi",
+        "sashimi"
+    ],
+    [
+        "hamburger",
+        "hot dog"
+    ],
+    [
+        "pizza",
+        "pasta"
+    ],
+    [
+        "oats",
+        "cornflakes"
+    ],
+    [
+        "nuts",
+        "sunflower seeds"
+    ],
+    [
+        "soy milk",
+        "bean milk"
+    ],
+    [
+        "yogurt",
+        "sour milk"
+    ],
+    [
+        "juice",
+        "fruit tea"
+    ],
+    [
+        "honey water",
+        "sugar water"
+    ],
+    [
+        "lemon water",
+        "orange juice"
+    ],
+    [
+        "coffee",
+        "mocha"
+    ],
+    [
+        "milk tea",
+        "green milk tea"
+    ],
+    [
+        "hot chocolate",
+        "chocolate milk"
+    ],
+    [
+        "boiled water",
+        "mineral water"
+    ],
+    [
+        "green tea",
+        "oolong tea"
+    ],
+    [
+        "black tea",
+        "pu-erh tea"
+    ],
+    [
+        "flower tea",
+        "fruit tea"
+    ],
+    [
+        "rice wine",
+        "yellow wine"
+    ],
+    [
+        "beer",
+        "light beer"
+    ],
+    [
+        "baijiu",
+        "vodka"
+    ],
+    [
+        "juice",
+        "vegetable juice"
+    ],
+    [
+        "salad dressing",
+        "mayonnaise"
+    ],
+    [
+        "ketchup",
+        "mustard"
+    ],
+    [
+        "corn",
+        "popcorn"
+    ],
+    [
+        "sweet potato",
+        "purple sweet potato"
+    ],
+    [
+        "pumpkin",
+        "wax gourd"
+    ],
+    [
+        "broccoli",
+        "cauliflower"
+    ],
+    [
+        "spinach",
+        "lettuce"
+    ],
+    [
+        "celery",
+        "coriander"
+    ],
+    [
+        "mushroom",
+        "shiitake mushroom"
+    ],
+    [
+        "wood ear fungus",
+        "tremella"
+    ],
+    [
+        "tofu",
+        "soy milk"
+    ],
+    [
+        "chicken egg",
+        "duck egg"
+    ],
+    [
+        "quail egg",
+        "pigeon egg"
+    ],
+    [
+        "cow's milk",
+        "goat's milk"
+    ],
+    [
+        "honey",
+        "maple syrup"
+    ],
+    [
+        "olive oil",
+        "peanut oil"
+    ],
+    [
+        "canola oil",
+        "corn oil"
+    ],
+    [
+        "soy sauce",
+        "light soy sauce"
+    ],
+    [
+        "vinegar",
+        "aged vinegar"
+    ],
+    [
+        "doubanjiang",
+        "yellow bean paste"
+    ],
+    [
+        "ketchup",
+        "sauce"
+    ],
+    [
+        "bread",
+        "toast"
+    ],
+    [
+        "steamed bun",
+        "twisted roll"
+    ],
+    [
+        "biscuit",
+        "cookie"
+    ],
+    [
+        "cake",
+        "mousse"
+    ],
+    [
+        "fruit",
+        "vegetable"
+    ],
+    [
+        "strawberry",
+        "blueberry"
+    ],
+    [
+        "peach",
+        "plum"
+    ],
+    [
+        "watermelon",
+        "cantaloupe"
+    ],
+    [
+        "grape",
+        "raisin"
+    ],
+    [
+        "banana",
+        "mango"
+    ],
+    [
+        "orange",
+        "grapefruit"
+    ],
+    [
+        "lemon",
+        "lime"
+    ],
+    [
+        "pineapple",
+        "pina"
+    ],
+    [
+        "apricot",
+        "almond"
+    ],
+    [
+        "walnut",
+        "cashew"
+    ],
+    [
+        "peanut",
+        "sunflower seed"
+    ],
+    [
+        "almond",
+        "hazelnut"
+    ],
+    [
+        "pistachio",
+        "pine nut"
+    ],
+    [
+        "parrot",
+        "crow"
+    ],
+    [
+        "wolf",
+        "tiger"
+    ],
+    [
+        "elephant",
+        "giraffe"
+    ],
+    [
+        "tiger",
+        "lion"
+    ],
+    [
+        "snake",
+        "lizard"
+    ],
+    [
+        "fox",
+        "coyote"
+    ],
+    [
+        "bee",
+        "butterfly"
+    ],
+    [
+        "goose",
+        "duck"
+    ],
+    [
+        "wolf",
+        "fox"
+    ],
+    [
+        "shark",
+        "whale"
+    ],
+    [
+        "horse",
+        "donkey"
+    ],
+    [
+        "pigeon",
+        "sparrow"
+    ],
+    [
+        "crocodile",
+        "lizard"
+    ],
+    [
+        "rabbit",
+        "hare"
+    ],
+    [
+        "monkey",
+        "ape"
+    ],
+    [
+        "deer",
+        "elk"
+    ],
+    [
+        "cat",
+        "leopard"
+    ],
+    [
+        "snake",
+        "python"
+    ],
+    [
+        "chicken",
+        "duck"
+    ],
+    [
+        "cow",
+        "buffalo"
+    ],
+    [
+        "sheep",
+        "goat"
+    ],
+    [
+        "pig",
+        "boar"
+    ],
+    [
+        "dog",
+        "wolf"
+    ],
+    [
+        "bird",
+        "pigeon"
+    ],
+    [
+        "fish",
+        "shark"
+    ],
+    [
+        "spider",
+        "scorpion"
+    ],
+    [
+        "frog",
+        "toad"
+    ],
+    [
+        "squirrel",
+        "mouse"
+    ],
+    [
+        "peacock",
+        "pheasant"
+    ],
+    [
+        "sea turtle",
+        "lizard"
+    ],
+    [
+        "bat",
+        "owl"
+    ],
+    [
+        "ant",
+        "bee"
+    ],
+    [
+        "goldfish",
+        "koi"
+    ],
+    [
+        "parrot",
+        "mynah"
+    ],
+    [
+        "cheetah",
+        "snow leopard"
+    ],
+    [
+        "otter",
+        "seal"
+    ],
+    [
+        "flamingo",
+        "crane"
+    ],
+    [
+        "starfish",
+        "anemone"
+    ],
+    [
+        "ox",
+        "yak"
+    ],
+    [
+        "hedgehog",
+        "porcupine"
+    ],
+    [
+        "seagull",
+        "tern"
+    ],
+    [
+        "crane",
+        "heron"
+    ],
+    [
+        "silkworm",
+        "cicada"
+    ],
+    [
+        "water buffalo",
+        "rhinoceros"
+    ],
+    [
+        "egret",
+        "heron"
+    ],
+    [
+        "otter",
+        "sea otter"
+    ],
+    [
+        "termite",
+        "ant"
+    ],
+    [
+        "panda",
+        "koala"
+    ],
+    [
+        "kangaroo",
+        "emu"
+    ],
+    [
+        "hippopotamus",
+        "rhinoceros"
+    ],
+    [
+        "giraffe",
+        "zebra"
+    ],
+    [
+        "dolphin",
+        "sea lion"
+    ],
+    [
+        "sloth",
+        "koala"
+    ],
+    [
+        "owl",
+        "nightjar"
+    ],
+    [
+        "golden snub-nosed monkey",
+        "macaque"
+    ],
+    [
+        "turtle",
+        "tortoise"
+    ],
+    [
+        "lizard",
+        "chameleon"
+    ],
+    [
+        "butterfly",
+        "moth"
+    ],
+    [
+        "bee",
+        "wasp"
+    ],
+    [
+        "firefly",
+        "moth"
+    ],
+    [
+        "snail",
+        "slug"
+    ],
+    [
+        "spider",
+        "mite"
+    ],
+    [
+        "starfish",
+        "sea urchin"
+    ],
+    [
+        "coral",
+        "sponge"
+    ],
+    [
+        "octopus",
+        "cuttlefish"
+    ],
+    [
+        "shark",
+        "ray"
+    ],
+    [
+        "dolphin",
+        "whale"
+    ],
+    [
+        "jellyfish",
+        "sea anemone"
+    ],
+    [
+        "shrimp",
+        "crab"
+    ],
+    [
+        "shellfish",
+        "mussel"
+    ],
+    [
+        "seahorse",
+        "sea dragon"
+    ],
+    [
+        "goldfish",
+        "carp"
+    ],
+    [
+        "bream",
+        "grass carp"
+    ],
+    [
+        "silver carp",
+        "bighead carp"
+    ],
+    [
+        "ribbonfish",
+        "yellow croaker"
+    ],
+    [
+        "flounder",
+        "halibut"
+    ],
+    [
+        "grouper",
+        "perch"
+    ],
+    [
+        "salmon",
+        "trout"
+    ],
+    [
+        "tuna",
+        "skipjack"
+    ],
+    [
+        "eel",
+        "catfish"
+    ],
+    [
+        "loach",
+        "yellow eel"
+    ],
+    [
+        "clam",
+        "snail"
+    ]
+]

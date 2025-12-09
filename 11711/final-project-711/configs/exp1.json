@@ -1,0 +1,12 @@
+{
+    "exp_name": "exp_qwen32b_0110",
+    "model": "Qwen/Qwen2.5-32B-Instruct",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "api_key": "sk-amcjzxomyzuispivnvvtgszrnxijmxpkmewbvlviffgborlg",
+    "data_path": "test_data.json",
+    "temperature": 0.7,
+    "n_games": 3,
+    "n_players": 5,
+    "seed": 42
+  }
+  

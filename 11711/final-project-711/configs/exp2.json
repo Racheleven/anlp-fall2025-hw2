@@ -1,0 +1,11 @@
+{
+    "exp_name": "exp_gpt5mini_1027",
+    "model": "gpt-5-mini",
+    "base_url":  "https://ai-gateway.andrew.cmu.edu",
+    "api_key": "sk-5xFBXEPO4--OrbIPV3yU8A",
+    "data_path": "test_data.json",
+    "temperature": 0.7,
+    "n_games": 50,
+    "n_players": 5,
+    "seed": 42
+  }
